@@ -1,0 +1,157 @@
+- title: 'Biometric Authentication Revisited: Understanding the Impact of Wolves in
+    Sheep&apos;s Clothing.'
+  authors:
+  - Lucas Ballard
+  - Fabian Monrose
+  - Daniel P. Lopresti
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/biometric-authentication-revisited-understanding-impact
+  discovered_artifact: null
+- title: 'vTPM: Virtualizing the Trusted Platform Module.'
+  authors:
+  - Stefan Berger
+  - Ramón Cáceres
+  - Kenneth A. Goldman
+  - Ronald Perez
+  - Reiner Sailer
+  - Leendert van Doorn
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/vtpm-virtualizing-trusted-platform-module
+  discovered_artifact: null
+- title: 'SANE: A Protection Architecture for Enterprise Networks.'
+  authors:
+  - Martín Casado
+  - Tal Garfinkel
+  - Aditya Akella
+  - Michael J. Freedman
+  - Dan Boneh
+  - Nick McKeown
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/sane-protection-architecture-enterprise-networks
+  discovered_artifact: null
+- title: A Usability Study and Critique of Two Password Managers.
+  authors:
+  - Sonia Chiasson
+  - Paul C. van Oorschot
+  - Robert Biddle
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/usability-study-and-critique-two-password-managers
+  discovered_artifact: null
+- title: 'N-Variant Systems: A Secretless Framework for Security through Diversity.'
+  authors:
+  - Benjamin Cox
+  - David Evans 0001
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/n-variant-systems-secretless-framework-security-through
+  discovered_artifact: null
+- title: Dynamic Application-Layer Protocol Analysis for Network Intrusion Detection.
+  authors:
+  - Holger Dreger
+  - Anja Feldmann
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/dynamic-application-layer-protocol-analysis-network
+  discovered_artifact: null
+- title: Polymorphic Blending Attacks.
+  authors:
+  - Prahlad Fogla
+  - Monirul Islam Sharif
+  - Roberto Perdisci
+  - Oleg M. Kolesnikov
+  - Wenke Lee
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/polymorphic-blending-attacks
+  discovered_artifact: null
+- title: Passive Data Link Layer 802.11 Wireless Device Driver Fingerprinting.
+  authors:
+  - Jason Franklin
+  - Damon McCoy
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/passive-data-link-layer-80211-wireless-device-driver
+  discovered_artifact: null
+- title: Lessons from the Sony CD DRM Episode.
+  authors:
+  - J. Alex Halderman
+  - Edward W. Felten
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/lessons-sony-cd-drm-episode
+  discovered_artifact: null
+- title: Behavior-based Spyware Detection.
+  authors:
+  - Engin Kirda
+  - Christopher Kruegel
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/behavior-based-spyware-detection
+  discovered_artifact: null
+- title: How to Build a Low-Cost, Extended-Range RFID Skimmer.
+  authors:
+  - Ilan Kirschenbaum
+  - Avishai Wool
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/how-build-low-cost-extended-range-rfid-skimmer
+  discovered_artifact: null
+- title: 'PHAS: A Prefix Hijack Alert System.'
+  authors:
+  - Mohit Lad
+  - Daniel Massey
+  - Dan Pei
+  - Yiguo Wu
+  - Beichuan Zhang 0001
+  - Lixia Zhang 0001
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/phas-prefix-hijack-alert-system
+  discovered_artifact: null
+- title: On the Release of CRLs in Public Key Infrastructure.
+  authors:
+  - Chengyu Ma
+  - Nan Hu
+  - Yingjiu Li
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/release-crls-public-key-infrastructure
+  discovered_artifact: null
+- title: Evaluating SFI for a CISC Architecture.
+  authors:
+  - Stephen McCamant
+  - Greg Morrisett
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/evaluating-sfi-cisc-architecture
+  discovered_artifact: null
+- title: 'Milk or Wine: Does Software Security Improve with Age?'
+  authors:
+  - Andy Ozment
+  - Stuart E. Schechter
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/milk-or-wine-does-software-security-improve-age
+  discovered_artifact: null
+- title: An Architecture for Specification-Based Detection of Semantic Integrity Violations
+    in Kernel Dynamic Data.
+  authors:
+  - Nick L. Petroni Jr.
+  - Timothy Fraser
+  - AAron Walters
+  - William A. Arbaugh
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/architecture-specification-based-detection-semantic
+  discovered_artifact: null
+- title: Designing Voting Machines for Verification.
+  authors:
+  - Naveen Sastry
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/designing-voting-machines-verification
+  discovered_artifact: null
+- title: Keyboards and Covert Channels.
+  authors:
+  - Gaurav Shah
+  - Andrés Molina
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/keyboards-and-covert-channels
+  discovered_artifact: null
+- title: Rule-Based Static Analysis of Network Protocol Implementations.
+  authors:
+  - Octavian Udrea
+  - Cristian Lumezanu
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/rule-based-static-analysis-network-protocol
+  discovered_artifact: null
+- title: 'SigFree: A Signature-free Buffer Overflow Attack Blocker.'
+  authors:
+  - Xinran Wang
+  - Chi-Chun Pan
+  - Peng Liu 0005
+  - Sencun Zhu
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/sigfree-signature-free-buffer-overflow-attack-blocker
+  discovered_artifact: null
+- title: Static Detection of Security Vulnerabilities in Scripting Languages.
+  authors:
+  - Yichen Xie 0001
+  - Alex Aiken
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/static-detection-security-vulnerabilities-scripting
+  discovered_artifact: null
+- title: 'Taint-Enhanced Policy Enforcement: A Practical Approach to Defeat a Wide
+    Range of Attacks.'
+  authors:
+  - Wei Xu
+  - Sandeep Bhatkar
+  - R. Sekar 0001
+  page_link: https://www.usenix.org/conference/15th-usenix-security-symposium/taint-enhanced-policy-enforcement-practical-approach
+  discovered_artifact: null

@@ -1,0 +1,201 @@
+- title: Plaintext Recovery Attacks against SSH.
+  authors:
+  - Martin R. Albrecht
+  - Kenneth G. Paterson
+  - Gaven J. Watson
+  page_link: https://doi.org/10.1109/SP.2009.5
+  discovered_artifact: http://www.openssh.org/security.html
+- title: 'Tempest in a Teapot: Compromising Reflections Revisited.'
+  authors:
+  - Michael Backes 0001
+  - Tongbo Chen
+  - Markus Dürmuth
+  - Hendrik P. A. Lensch
+  - Martin Welk
+  page_link: https://doi.org/10.1109/SP.2009.20
+  discovered_artifact: null
+- title: Automatic Discovery and Quantification of Information Leaks.
+  authors:
+  - Michael Backes 0001
+  - Boris Köpf
+  - Andrey Rybalchenko
+  page_link: https://doi.org/10.1109/SP.2009.18
+  discovered_artifact: null
+- title: Secure Content Sniffing for Web Browsers, or How to Stop Papers from Reviewing
+    Themselves.
+  authors:
+  - Adam Barth
+  - Juan Caballero
+  - Dawn Song
+  page_link: https://doi.org/10.1109/SP.2009.3
+  discovered_artifact: null
+- title: Formally Certifying the Security of Digital Signature Schemes.
+  authors:
+  - Santiago Zanella-Béguelin
+  - Gilles Barthe
+  - Benjamin Grégoire
+  - Federico Olmedo
+  page_link: https://doi.org/10.1109/SP.2009.17
+  discovered_artifact: null
+- title: Quantifying Information Leaks in Outbound Web Traffic.
+  authors:
+  - Kevin Borders
+  - Atul Prakash 0001
+  page_link: https://doi.org/10.1109/SP.2009.9
+  discovered_artifact: null
+- title: Exploiting Unix File-System Races via Algorithmic Complexity Attacks.
+  authors:
+  - Xiang Cai
+  - Yuwei Gui
+  - Rob Johnson 0001
+  page_link: https://doi.org/10.1109/SP.2009.10
+  discovered_artifact: null
+- title: 'Pretty-Bad-Proxy: An Overlooked Adversary in Browsers&apos; HTTPS Deployments.'
+  authors:
+  - Shuo Chen
+  - Ziqing Mao
+  - Yi-Min Wang
+  - Ming Zhang
+  page_link: https://doi.org/10.1109/SP.2009.12
+  discovered_artifact: null
+- title: Fingerprinting Blank Paper Using Commodity Scanners.
+  authors:
+  - William Clarkson
+  - Tim Weyrich
+  - Adam Finkelstein
+  - Nadia Heninger
+  - J. Alex Halderman
+  - Edward W. Felten
+  page_link: https://doi.org/10.1109/SP.2009.7
+  discovered_artifact: null
+- title: 'Prospex: Protocol Specification Extraction.'
+  authors:
+  - Paolo Milani Comparetti
+  - Gilbert Wondracek
+  - Christopher Krügel
+  - Engin Kirda
+  page_link: https://doi.org/10.1109/SP.2009.14
+  discovered_artifact: null
+- title: Practical Mitigations for Timing-Based Side-Channel Attacks on Modern x86
+    Processors.
+  authors:
+  - Bart Coppens 0001
+  - Ingrid Verbauwhede
+  - Koen De Bosschere
+  - Bjorn De Sutter
+  page_link: https://doi.org/10.1109/SP.2009.19
+  discovered_artifact: null
+- title: 'Sphinx: A Compact and Provably Secure Mix Format.'
+  authors:
+  - George Danezis
+  - Ian Goldberg
+  page_link: https://doi.org/10.1109/SP.2009.15
+  discovered_artifact: null
+- title: A Logic of Secure Systems and its Application to Trusted Computing.
+  authors:
+  - Anupam Datta
+  - Jason Franklin
+  - Deepak Garg 0001
+  - Dilsun Kirli Kaynar
+  page_link: https://doi.org/10.1109/SP.2009.16
+  discovered_artifact: null
+- title: Wirelessly Pickpocketing a Mifare Classic Card.
+  authors:
+  - Flavio D. Garcia
+  - Peter van Rossum
+  - Roel Verdult
+  - Ronny Wichers Schreur
+  page_link: https://doi.org/10.1109/SP.2009.6
+  discovered_artifact: null
+- title: The Mastermind Attack on Genomic Data.
+  authors:
+  - Michael T. Goodrich
+  page_link: https://doi.org/10.1109/SP.2009.4
+  discovered_artifact: null
+- title: Noninterference for a Practical DIFC-Based Operating System.
+  authors:
+  - Maxwell N. Krohn
+  - Eran Tromer
+  page_link: https://doi.org/10.1109/SP.2009.23
+  discovered_artifact: null
+- title: An Epistemic Approach to Coercion-Resistance for Electronic Voting Protocols.
+  authors:
+  - Ralf Küsters
+  - Tomasz Truderung
+  page_link: https://doi.org/10.1109/SP.2009.13
+  discovered_artifact: null
+- title: 'Blueprint: Robust Prevention of Cross-site Scripting Attacks for Existing
+    Browsers.'
+  authors:
+  - Mike Ter Louw
+  - V. N. Venkatakrishnan
+  page_link: https://doi.org/10.1109/SP.2009.33
+  discovered_artifact: null
+- title: De-anonymizing Social Networks.
+  authors:
+  - Arvind Narayanan
+  - Vitaly Shmatikov
+  page_link: https://doi.org/10.1109/SP.2009.22
+  discovered_artifact: null
+- title: 'CLAMP: Practical Prevention of Large-Scale Data Leaks.'
+  authors:
+  - Bryan Parno
+  - Jonathan M. McCune
+  - Dan Wendlandt
+  - David G. Andersen
+  - Adrian Perrig
+  page_link: https://doi.org/10.1109/SP.2009.21
+  discovered_artifact: null
+- title: It&apos;s No Secret. Measuring the Security and Reliability of Authentication
+    via &quot;Secret&quot; Questions.
+  authors:
+  - Stuart E. Schechter
+  - A. J. Bernheim Brush
+  - Serge Egelman
+  page_link: https://doi.org/10.1109/SP.2009.11
+  discovered_artifact: null
+- title: Automatic Reverse Engineering of Malware Emulators.
+  authors:
+  - Monirul Islam Sharif
+  - Andrea Lanzi
+  - Jonathon T. Giffin
+  - Wenke Lee
+  page_link: https://doi.org/10.1109/SP.2009.27
+  discovered_artifact: null
+- title: Privacy Weaknesses in Biometric Sketches.
+  authors:
+  - Koen Simoens
+  - Pim Tuyls
+  - Bart Preneel
+  page_link: https://doi.org/10.1109/SP.2009.24
+  discovered_artifact: null
+- title: Password Cracking Using Probabilistic Context-Free Grammars.
+  authors:
+  - Matt Weir
+  - Sudhir Aggarwal
+  - Breno de Medeiros
+  - Bill Glodek
+  page_link: https://doi.org/10.1109/SP.2009.8
+  discovered_artifact: null
+- title: 'Native Client: A Sandbox for Portable, Untrusted x86 Native Code.'
+  authors:
+  - Bennet Yee
+  - David Sehr
+  - Gregory Dardyk
+  - J. Bradley Chen
+  - Robert Muth
+  - Tavis Ormandy
+  - Shiki Okasaka
+  - Neha Narula
+  - Nicholas Fullagar
+  page_link: https://doi.org/10.1109/SP.2009.25
+  discovered_artifact: null
+- title: 'DSybil: Optimal Sybil-Resistance for Recommendation Systems.'
+  authors:
+  - Haifeng Yu
+  - Chenwei Shi
+  - Michael Kaminsky
+  - Phillip B. Gibbons
+  - Feng Xiao
+  page_link: https://doi.org/10.1109/SP.2009.26
+  discovered_artifact: null

@@ -1,0 +1,139 @@
+- title: Deploying a New Hash Algorithm.
+  authors:
+  - Steven M. Bellovin
+  - Eric Rescorla
+  page_link: https://www.ndss-symposium.org/ndss2006/deploying-new-hash-algorithm/
+  discovered_artifact: null
+- title: Induced Churn as Shelter from Routing-Table Poisoning.
+  authors:
+  - Tyson Condie
+  - Varun Kacholia
+  - Sriram Sank
+  - Joseph M. Hellerstein
+  - Petros Maniatis
+  page_link: https://www.ndss-symposium.org/ndss2006/induced-churn-shelter-routing-table-poisoning/
+  discovered_artifact: null
+- title: Protocol-Independent Adaptive Replay of Application Dialog.
+  authors:
+  - Weidong Cui
+  - Vern Paxson
+  - Nicholas Weaver
+  - Randy H. Katz
+  page_link: https://www.ndss-symposium.org/ndss2006/protocol-independent-adaptive-replay-application-dialog/
+  discovered_artifact: null
+- title: Modeling Botnet Propagation Using Time Zones.
+  authors:
+  - David Dagon
+  - Cliff Changchun Zou
+  - Wenke Lee
+  page_link: https://www.ndss-symposium.org/ndss2006/modeling-botnet-propagation-using-time-zones/
+  discovered_artifact: null
+- title: Trust Negotiation with Hidden Credentials, Hidden Policies, and Policy Cycles.
+  authors:
+  - Keith B. Frikken
+  - Jiangtao Li 0001
+  - Mikhail J. Atallah
+  page_link: https://www.ndss-symposium.org/ndss2006/trust-negotiation-hidden-credentials-hidden-policies-and-policy-cycles/
+  discovered_artifact: null
+- title: 'Key Regression: Enabling Efficient Key Distribution for Secure Distributed
+    Storage.'
+  authors:
+  - Kevin Fu
+  - Seny Kamara
+  - Yoshi Kohno
+  page_link: https://www.ndss-symposium.org/ndss2006/key-regression-enabling-efficient-key-distribution-secure-distributed-storage/
+  discovered_artifact: null
+- title: 'Device Identification via Analog Signal Fingerprinting: A Matched Filter
+    Approach.'
+  authors:
+  - Ryan M. Gerdes
+  - Thomas E. Daniels 0001
+  - Mani Mina
+  - Steve Russell
+  page_link: https://www.ndss-symposium.org/ndss2006/device-identification-analog-signal-fingerprinting-matched-filter-approach/
+  discovered_artifact: null
+- title: 'Enterprise Security: A Community of Interest Based Approach.'
+  authors:
+  - Patrick D. McDaniel
+  - Subhabrata Sen
+  - Oliver Spatscheck
+  - Jacobus E. van der Merwe
+  - William Aiello
+  - Charles R. Kalmanek
+  page_link: https://www.ndss-symposium.org/ndss2006/enterprise-security-community-interest-based-approach/
+  discovered_artifact: null
+- title: A Crawler-based Study of Spyware in the Web.
+  authors:
+  - Alexander Moshchuk
+  - Tanya Bragin
+  - Steven D. Gribble
+  - Henry M. Levy
+  page_link: https://www.ndss-symposium.org/ndss2006/crawler-based-study-spyware-web/
+  discovered_artifact: null
+- title: Isolating Intrusions by Automatic Experiments.
+  authors:
+  - Stephan Neuhaus
+  - Andreas Zeller
+  page_link: https://www.ndss-symposium.org/ndss2006/isolating-intrusions-automatic-experiments/
+  discovered_artifact: http://www.st.cs.uni-sb.de/malfor/
+- title: Vulnerability-Specific Execution Filtering for Exploit Prevention on Commodity
+    Software.
+  authors:
+  - James Newsome
+  - David Brumley
+  - Dawn Xiaodong Song
+  page_link: https://www.ndss-symposium.org/ndss2006/vulnerability-specific-execution-filtering-exploit-prevention-commodity-software/
+  discovered_artifact: null
+- title: Using Generalization and Characterization Techniques in the Anomaly-based
+    Detection of Web Attacks.
+  authors:
+  - William K. Robertson
+  - Giovanni Vigna
+  - Christopher Krügel
+  - Richard A. Kemmerer
+  page_link: https://www.ndss-symposium.org/ndss2006/using-generalization-and-characterization-techniques-anomaly-based-detection-web-attacks/
+  discovered_artifact: null
+- title: Inoculating SSH Against Address Harvesting.
+  authors:
+  - Stuart E. Schechter
+  - Jaeyeon Jung
+  - Will Stockwell
+  - Cynthia D. McLain
+  page_link: https://www.ndss-symposium.org/ndss2006/inoculating-ssh-against-address-harvesting/
+  discovered_artifact: http://nms.csail.mit.edu/projects/ssh/
+- title: Toward Automated Information-Flow Integrity Verification for Security-Critical
+    Applications.
+  authors:
+  - Umesh Shankar
+  - Trent Jaeger
+  - Reiner Sailer
+  page_link: https://www.ndss-symposium.org/ndss2006/toward-automated-information-flow-integrity-verification-security-critical-applications/
+  discovered_artifact: null
+- title: Software Self-Healing Using Collaborative Application Communities.
+  authors:
+  - Michael E. Locasto
+  - Stelios Sidiroglou
+  - Angelos D. Keromytis
+  page_link: https://www.ndss-symposium.org/ndss2006/software-self-healing-using-collaborative-application/
+  discovered_artifact: null
+- title: Toward a Practical Data Privacy Scheme for a Distributed Implementation of
+    the Smith-Waterman Genome Sequence Comparison Algorithm.
+  authors:
+  - Doug Szajda
+  - Michael Pohl
+  - Jason Owen
+  - Barry G. Lawson
+  page_link: https://www.ndss-symposium.org/ndss2006/toward-practical-data-privacy-scheme-distributed-implementation-smith-waterman-genome-sequence/
+  discovered_artifact: null
+- title: 'Automated Web Patrol with Strider HoneyMonkeys: Finding Web Sites That Exploit
+    Browser Vulnerabilities.'
+  authors:
+  - Yi-Min Wang
+  - Doug Beck
+  - Xuxian Jiang
+  - Roussi Roussev
+  - Chad Verbowski
+  - Shuo Chen
+  - Samuel T. King
+  page_link: https://www.ndss-symposium.org/ndss2006/automated-web-patrol-strider-honeymonkeys-finding-web-sites-exploit-browser-vulnerabilities/
+  discovered_artifact: null

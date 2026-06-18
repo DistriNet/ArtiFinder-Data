@@ -1,0 +1,158 @@
+- title: Analysis-Resistant Malware.
+  authors:
+  - John Bethencourt
+  - Dawn Song
+  - Brent Waters
+  page_link: https://www.ndss-symposium.org/ndss2008/analysis-resistant-malware/
+  discovered_artifact: null
+- title: Would Diversity Really Increase the Robustness of the Routing Infrastructure
+    against Software Defects?
+  authors:
+  - Juan Caballero
+  - Theocharis Kampouris
+  - Dawn Song
+  - Jia Wang
+  page_link: https://www.ndss-symposium.org/ndss2008/would-diversity-really-increase-robustness-routing-infrastructure-against-software-defects/
+  discovered_artifact: null
+- title: Robust Receipt-Free Election System with Ballot Secrecy and Verifiability.
+  authors:
+  - Sherman S. M. Chow
+  - Joseph K. Liu
+  - Duncan S. Wong
+  page_link: https://www.ndss-symposium.org/ndss2008/robust-receipt-free-election-system-ballot-secrecy-and-verifiability/
+  discovered_artifact: null
+- title: 'Taming the Devil: Techniques for Evaluating Anonymized Network Data.'
+  authors:
+  - Scott E. Coull
+  - Charles V. Wright
+  - Angelos D. Keromytis
+  - Fabian Monrose
+  - Michael K. Reiter
+  page_link: https://www.ndss-symposium.org/ndss2008/taming-the-devil-techniques-for-evaluating-anonymized-network-data/
+  discovered_artifact: null
+- title: 'Corrupted DNS Resolution Paths: The Rise of a Malicious Resolution Authority.'
+  authors:
+  - David Dagon
+  - Niels Provos
+  - Christopher P. Lee 0001
+  - Wenke Lee
+  page_link: https://www.ndss-symposium.org/ndss2008/corrupted-dns-resolution-paths-the-rise-of-a-malicious-resolution-authority/
+  discovered_artifact: null
+- title: Automated Whitebox Fuzz Testing.
+  authors:
+  - Patrice Godefroid
+  - Michael Y. Levin
+  - David A. Molnar
+  page_link: https://www.ndss-symposium.org/ndss2008/automated-whitebox-fuzz-testing/
+  discovered_artifact: null
+- title: 'BotSniffer: Detecting Botnet Command and Control Channels in Network Traffic.'
+  authors:
+  - Guofei Gu
+  - Junjie Zhang 0004
+  - Wenke Lee
+  page_link: https://www.ndss-symposium.org/ndss2008/botsniffer-detecting-botnet-command-and-control-channels-in-network-traffic/
+  discovered_artifact: null
+- title: Measuring and Detecting Fast-Flux Service Networks.
+  authors:
+  - Thorsten Holz
+  - Christian Gorecki
+  - Konrad Rieck
+  - Felix C. Freiling
+  page_link: https://www.ndss-symposium.org/ndss2008/measuring-and-detecting-fast-flux-service-networks/
+  discovered_artifact: null
+- title: 'Halo: High-Assurance Locate for Distributed Hash Tables.'
+  authors:
+  - Apu Kapadia
+  - Nikos Triandopoulos
+  page_link: https://www.ndss-symposium.org/ndss2008/halo-high-assurance-locate-distributed-hash-tables/
+  discovered_artifact: null
+- title: Automatic Protocol Format Reverse Engineering through Context-Aware Monitored
+    Execution.
+  authors:
+  - Zhiqiang Lin 0001
+  - Xuxian Jiang
+  - Dongyan Xu
+  - Xiangyu Zhang 0001
+  page_link: https://www.ndss-symposium.org/ndss2008/automatic-protocol-format-reverse-engineering-through-context-aware-monitored-execution/
+  discovered_artifact: null
+- title: Exploiting Opportunistic Scheduling in Cellular Data Networks.
+  authors:
+  - Radmilo Racic
+  - Denys Ma
+  - Hao Chen 0003
+  - Xin Liu 0002
+  page_link: https://www.ndss-symposium.org/ndss2008/exploiting-opportunistic-scheduling-in-cellular-data-networks/
+  discovered_artifact: null
+- title: Analyzing Privacy in Enterprise Packet Trace Anonymization.
+  authors:
+  - Bruno F. Ribeiro
+  - Weifeng Chen 0001
+  - Gerome Miklau
+  - Donald F. Towsley
+  page_link: https://www.ndss-symposium.org/ndss2008/analyzing-privacy-in-enterprise-packet-trace-anonymization/
+  discovered_artifact: null
+- title: Impeding Malware Analysis Using Conditional Code Obfuscation.
+  authors:
+  - Monirul Islam Sharif
+  - Andrea Lanzi
+  - Jonathon T. Giffin
+  - Wenke Lee
+  page_link: https://www.ndss-symposium.org/ndss2008/impeding-malware-analysis-using-conditional-code-obfuscation/
+  discovered_artifact: null
+- title: A New Privacy-Enhanced Matchmaking Protocol.
+  authors:
+  - Ji Sun Shin
+  - Virgil D. Gligor
+  page_link: https://www.ndss-symposium.org/ndss2008/new-privacy-enhanced-matchmaking-protocol/
+  discovered_artifact: null
+- title: 'A Tune-up for Tor: Improving Security and Performance in the Tor Network.'
+  authors:
+  - Robin Snader
+  - Nikita Borisov
+  page_link: https://www.ndss-symposium.org/ndss2008/a-tune-up-for-tor-improving-security-and-performance-in-the-tor-network/
+  discovered_artifact: null
+- title: Realizing Massive-Scale Conditional Access Systems Through Attribute-Based
+    Cryptosystems.
+  authors:
+  - Patrick Traynor
+  - Kevin R. B. Butler
+  - William Enck
+  - Patrick D. McDaniel
+  page_link: https://www.ndss-symposium.org/ndss2008/realizing-massive-scale-conditional-access-systems-through-attribute-based-cryptosystems/
+  discovered_artifact: null
+- title: Limits of Learning-based Signature Generation with Adversaries.
+  authors:
+  - Shobha Venkataraman
+  - Avrim Blum
+  - Dawn Song
+  page_link: https://www.ndss-symposium.org/ndss2008/limits-of-learning-based-signature-generation-with-adversaries/
+  discovered_artifact: null
+- title: 'PRECIP: Towards Practical and Retrofittable Confidential Information Protection.'
+  authors:
+  - XiaoFeng Wang 0001
+  - Zhuowei Li 0001
+  - Ninghui Li
+  - Jong Youl Choi
+  page_link: https://www.ndss-symposium.org/ndss2008/precip-towards-practical-and-retrofittable-confidential-information-protection/
+  discovered_artifact: null
+- title: Usable PIR.
+  authors:
+  - Peter Williams
+  - Radu Sion
+  page_link: https://www.ndss-symposium.org/ndss2008/usable-pir/
+  discovered_artifact: null
+- title: Automatic Network Protocol Analysis.
+  authors:
+  - Gilbert Wondracek
+  - Paolo Milani Comparetti
+  - Christopher Krügel
+  - Engin Kirda
+  page_link: https://www.ndss-symposium.org/ndss2008/automatic-network-protocol-analysis/
+  discovered_artifact: null
+- title: 'HookFinder: Identifying and Understanding Malware Hooking Behaviors.'
+  authors:
+  - Heng Yin 0001
+  - Zhenkai Liang
+  - Dawn Song
+  page_link: https://www.ndss-symposium.org/ndss2008/hookfinder-identifying-and-understanding-malware-hooking-behaviors/
+  discovered_artifact: null

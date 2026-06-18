@@ -1,0 +1,188 @@
+- title: Efficient, DoS-resistant, secure key exchange for internet protocols.
+  authors:
+  - William Aiello
+  - Steven M. Bellovin
+  - Matt Blaze
+  - John Ioannidis
+  - Omer Reingold
+  - Ran Canetti
+  - Angelos D. Keromytis
+  page_link: https://doi.org/10.1145/586110.586118
+  discovered_artifact: null
+- title: Scalable, graph-based network vulnerability analysis.
+  authors:
+  - Paul Ammann
+  - Duminda Wijesekera
+  - Saket Kaushik
+  page_link: https://doi.org/10.1145/586110.586140
+  discovered_artifact: null
+- title: The verification of an industrial payment protocol.
+  authors:
+  - Giampaolo Bella
+  - Lawrence C. Paulson
+  - Fabio Massacci
+  page_link: https://doi.org/10.1145/586110.586113
+  discovered_artifact: null
+- title: 'Authenticated encryption in SSH: provably fixing the SSH binary packet protocol.'
+  authors:
+  - Mihir Bellare
+  - Tadayoshi Kohno
+  - Chanathip Namprempre
+  page_link: https://doi.org/10.1145/586110.586112
+  discovered_artifact: null
+- title: A temporal key management scheme for secure broadcasting of XML documents.
+  authors:
+  - Elisa Bertino
+  - Barbara Carminati
+  - Elena Ferrari 0001
+  page_link: https://doi.org/10.1145/586110.586116
+  discovered_artifact: null
+- title: Almost entirely correct mixing with applications to voting.
+  authors:
+  - Dan Boneh
+  - Philippe Golle
+  page_link: https://doi.org/10.1145/586110.586121
+  discovered_artifact: null
+- title: Asynchronous verifiable secret sharing and proactive cryptosystems.
+  authors:
+  - Christian Cachin
+  - Klaus Kursawe
+  - Anna Lysyanskaya
+  - Reto Strobl
+  page_link: https://doi.org/10.1145/586110.586124
+  discovered_artifact: null
+- title: Design and implementation of the idemix anonymous credential system.
+  authors:
+  - Jan Camenisch
+  - Els Van Herreweghen
+  page_link: https://doi.org/10.1145/586110.586114
+  discovered_artifact: null
+- title: 'DRM: doesn&apos;t really mean digital copyright management.'
+  authors:
+  - L. Jean Camp
+  page_link: https://doi.org/10.1145/586110.586122
+  discovered_artifact: null
+- title: 'MOPS: an infrastructure for examining security properties of software.'
+  authors:
+  - Hao Chen 0003
+  - David A. Wagner 0001
+  page_link: https://doi.org/10.1145/586110.586142
+  discovered_artifact: http://www.cs.berkeley.edu/~daw/mops/
+- title: A reputation-based approach for choosing reliable resources in peer-to-peer
+    networks.
+  authors:
+  - Ernesto Damiani
+  - Sabrina De Capitani di Vimercati
+  - Stefano Paraboschi
+  - Pierangela Samarati
+  - Fabio Violante
+  page_link: https://doi.org/10.1145/586110.586138
+  discovered_artifact: null
+- title: Query-flood DoS attacks in gnutella.
+  authors:
+  - Neil Daswani
+  - Hector Garcia-Molina
+  page_link: https://doi.org/10.1145/586110.586136
+  discovered_artifact: null
+- title: Defending against redirect attacks in mobile IP.
+  authors:
+  - Robert H. Deng
+  - Jianying Zhou 0001
+  - Feng Bao 0001
+  page_link: https://doi.org/10.1145/586110.586120
+  discovered_artifact: https://core.ac.uk/display/13248815?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+- title: Runtime verification of authorization hook placement for the linux security
+    modules framework.
+  authors:
+  - Antony Edwards
+  - Trent Jaeger
+  - Xiaolan Zhang 0001
+  page_link: https://doi.org/10.1145/586110.586141
+  discovered_artifact: null
+- title: A key-management scheme for distributed sensor networks.
+  authors:
+  - Laurent Eschenauer
+  - Virgil D. Gligor
+  page_link: https://doi.org/10.1145/586110.586117
+  discovered_artifact: null
+- title: 'Tarzan: a peer-to-peer anonymizing network layer.'
+  authors:
+  - Michael J. Freedman
+  - Robert Morris 0005
+  page_link: https://doi.org/10.1145/586110.586137
+  discovered_artifact: null
+- title: Silicon physical random functions.
+  authors:
+  - Blaise Gassend
+  - Dwaine E. Clarke
+  - Marten van Dijk
+  - Srinivas Devadas
+  page_link: https://doi.org/10.1145/586110.586132
+  discovered_artifact: null
+- title: Efficient packet marking for large-scale IP traceback.
+  authors:
+  - Michael T. Goodrich
+  page_link: https://doi.org/10.1145/586110.586128
+  discovered_artifact: null
+- title: Generic implementations of elliptic curve cryptography using partial reduction.
+  authors:
+  - Nils Gura
+  - Hans Eberle
+  - Sheueling Chang Shantz
+  page_link: https://doi.org/10.1145/586110.586126
+  discovered_artifact: null
+- title: Sensor-based intrusion detection for intra-domain distance-vector routing.
+  authors:
+  - Vishal Mittal
+  - Giovanni Vigna
+  page_link: https://doi.org/10.1145/586110.586129
+  discovered_artifact: null
+- title: Constructing attack scenarios through correlation of intrusion alerts.
+  authors:
+  - Peng Ning
+  - Yun Cui
+  - Douglas S. Reeves
+  page_link: https://doi.org/10.1145/586110.586144
+  discovered_artifact: null
+- title: Securing passwords against dictionary attacks.
+  authors:
+  - Benny Pinkas
+  - Tomas Sander
+  page_link: https://doi.org/10.1145/586110.586133
+  discovered_artifact: null
+- title: Authenticated-encryption with associated-data.
+  authors:
+  - Phillip Rogaway
+  page_link: https://doi.org/10.1145/586110.586125
+  discovered_artifact: null
+- title: 'Specification-based anomaly detection: a new approach for detecting network
+    intrusions.'
+  authors:
+  - R. Sekar 0001
+  - Ajay Gupta 0002
+  - J. Frullo
+  - T. Shanbhag
+  - A. Tiwari
+  - H. Yang
+  - S. Zhou
+  page_link: https://doi.org/10.1145/586110.586146
+  discovered_artifact: null
+- title: Mimicry attacks on host-based intrusion detection systems.
+  authors:
+  - David A. Wagner 0001
+  - Paolo Soto
+  page_link: https://doi.org/10.1145/586110.586145
+  discovered_artifact: null
+- title: Policy algebras for access control the predicate case.
+  authors:
+  - Duminda Wijesekera
+  - Sushil Jajodia
+  page_link: https://doi.org/10.1145/586110.586134
+  discovered_artifact: null
+- title: Code red worm propagation modeling and analysis.
+  authors:
+  - Cliff Changchun Zou
+  - Weibo Gong
+  - Donald F. Towsley
+  page_link: https://doi.org/10.1145/586110.586130
+  discovered_artifact: null

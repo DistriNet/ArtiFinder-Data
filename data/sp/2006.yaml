@@ -1,0 +1,179 @@
+- title: 'Privacy and Contextual Integrity: Framework and Applications.'
+  authors:
+  - Adam Barth
+  - Anupam Datta
+  - John C. Mitchell
+  - Helen Nissenbaum
+  page_link: https://doi.org/10.1109/SP.2006.32
+  discovered_artifact: null
+- title: Deriving an Information Flow Checker and Certifying Compiler for Java.
+  authors:
+  - Gilles Barthe
+  - Tamara Rezk
+  - David A. Naumann
+  page_link: https://doi.org/10.1109/SP.2006.13
+  discovered_artifact: null
+- title: Dataflow Anomaly Detection.
+  authors:
+  - Sandeep Bhatkar
+  - Abhishek Chaturvedi
+  - R. Sekar 0001
+  page_link: https://doi.org/10.1109/SP.2006.12
+  discovered_artifact: null
+- title: The Final Nail in WEP?s Coffin.
+  authors:
+  - Andrea Bittau
+  - Mark Handley
+  - Joshua Lackey
+  page_link: https://doi.org/10.1109/SP.2006.40
+  discovered_artifact: null
+- title: A Computationally Sound Mechanized Prover for Security Protocols.
+  authors:
+  - Bruno Blanchet
+  page_link: https://doi.org/10.1109/SP.2006.1
+  discovered_artifact: null
+- title: Towards Automatic Generation of Vulnerability-Based Signatures.
+  authors:
+  - David Brumley
+  - James Newsome
+  - Dawn Xiaodong Song
+  - Hao Wang 0112
+  - Somesh Jha
+  page_link: https://doi.org/10.1109/SP.2006.41
+  discovered_artifact: null
+- title: 'Integrity (I) Codes: Message Integrity Protection and Authentication Over
+    Insecure Channels.'
+  authors:
+  - Mario Cagalj
+  - Jean-Pierre Hubaux
+  - Srdjan Capkun
+  - Ram Kumar Rengaswamy
+  - Ilias Tsigkogiannis
+  - Mani B. Srivastava
+  page_link: https://doi.org/10.1109/SP.2006.23
+  discovered_artifact: null
+- title: A Framework for the Evaluation of Intrusion Detection Systems.
+  authors:
+  - Alvaro A. Cárdenas
+  - John S. Baras
+  - Karl Seamon
+  page_link: https://doi.org/10.1109/SP.2006.2
+  discovered_artifact: http://www.cshcn.umd.edu/research/IDSanalyzer
+- title: A Logic for Constraint-based Security Protocol Analysis.
+  authors:
+  - Ricardo Corin
+  - Sandro Etalle
+  - Ari Saptawijaya
+  page_link: https://doi.org/10.1109/SP.2006.3
+  discovered_artifact: null
+- title: A Safety-Oriented Platform for Web Applications.
+  authors:
+  - Richard S. Cox
+  - Steven D. Gribble
+  - Henry M. Levy
+  - Jacob Gorm Hansen
+  page_link: https://doi.org/10.1109/SP.2006.4
+  discovered_artifact: null
+- title: Retrofitting Legacy Code for Authorization Policy Enforcement.
+  authors:
+  - Vinod Ganapathy
+  - Trent Jaeger
+  - Somesh Jha
+  page_link: https://doi.org/10.1109/SP.2006.34
+  discovered_artifact: null
+- title: Deterring Voluntary Trace Disclosure in Re-encryption Mix Networks.
+  authors:
+  - Philippe Golle
+  - XiaoFeng Wang 0001
+  - Markus Jakobsson
+  - Alex Tsow
+  page_link: https://doi.org/10.1109/SP.2006.14
+  discovered_artifact: null
+- title: Analysis of the Linux Random Number Generator.
+  authors:
+  - Zvi Gutterman
+  - Benny Pinkas
+  - Tzachy Reinman
+  page_link: https://doi.org/10.1109/SP.2006.5
+  discovered_artifact: null
+- title: Simulatable Security and Polynomially Bounded Concurrent Composability.
+  authors:
+  - Dennis Hofheinz
+  - Dominique Unruh
+  page_link: https://doi.org/10.1109/SP.2006.36
+  discovered_artifact: null
+- title: Fundamental Limits on the Anonymity Provided by the MIX Technique.
+  authors:
+  - Dogan Kesdogan
+  - Dakshi Agrawal
+  - Dang Vinh Pham
+  - Dieter Rautenbach
+  page_link: https://doi.org/10.1109/SP.2006.17
+  discovered_artifact: null
+- title: 'SubVirt: Implementing malware with virtual machines.'
+  authors:
+  - Samuel T. King
+  - Peter M. Chen
+  - Yi-Min Wang
+  - Chad Verbowski
+  - Helen J. Wang
+  - Jacob R. Lorch
+  page_link: https://doi.org/10.1109/SP.2006.38
+  discovered_artifact: null
+- title: 'Hamsa: Fast Signature Generation for Zero-day PolymorphicWorms with Provable
+    Attack Resilience.'
+  authors:
+  - Zhichun Li
+  - Manan Sanghi
+  - Yan Chen 0004
+  - Ming-Yang Kao
+  - Brian Chavez
+  page_link: https://doi.org/10.1109/SP.2006.18
+  discovered_artifact: null
+- title: Locating Hidden Servers.
+  authors:
+  - Lasse Øverlier
+  - Paul F. Syverson
+  page_link: https://doi.org/10.1109/SP.2006.24
+  discovered_artifact: http://freehaven.net/anonbib/
+- title: On the Secrecy of Timing-Based Active Watermarking Trace-Back Techniques.
+  authors:
+  - Pai Peng
+  - Peng Ning
+  - Douglas S. Reeves
+  page_link: https://doi.org/10.1109/SP.2006.28
+  discovered_artifact: null
+- title: MisleadingWorm Signature Generators Using Deliberate Noise Injection.
+  authors:
+  - Roberto Perdisci
+  - David Dagon
+  - Wenke Lee
+  - Prahlad Fogla
+  - Monirul Islam Sharif
+  page_link: https://doi.org/10.1109/SP.2006.26
+  discovered_artifact: null
+- title: 'Cobra: Fine-grained Malware Analysis using Stealth Localized-executions.'
+  authors:
+  - Amit Vasudevan
+  - Ramesh Yerraballi
+  page_link: https://doi.org/10.1109/SP.2006.9
+  discovered_artifact: null
+- title: Automatically Generating Malicious Disks using Symbolic Execution.
+  authors:
+  - Junfeng Yang
+  - Can Sar
+  - Paul Twohey
+  - Cristian Cadar
+  - Dawson R. Engler
+  page_link: https://doi.org/10.1109/SP.2006.7
+  discovered_artifact: null
+- title: 'FIREMAN: A Toolkit for FIREwall Modeling and ANalysis.'
+  authors:
+  - Lihua Yuan
+  - Jianning Mai
+  - Zhendong Su 0001
+  - Hao Chen 0003
+  - Chen-Nee Chuah
+  - Prasant Mohapatra
+  page_link: https://doi.org/10.1109/SP.2006.16
+  discovered_artifact: null

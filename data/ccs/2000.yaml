@@ -1,0 +1,184 @@
+- title: Cross-domain one-shot authorization using smart cards.
+  authors:
+  - Richard Au
+  - Mark Looi
+  - Paul Ashley
+  page_link: https://doi.org/10.1145/352600.352635
+  discovered_artifact: null
+- title: Operating system enhancements to prevent the misuse of system calls.
+  authors:
+  - Massimo Bernaschi
+  - Emanuele Gabrielli
+  - Luigi V. Mancini
+  page_link: https://doi.org/10.1145/352600.352624
+  discovered_artifact: null
+- title: Threshold-based identity recovery for privacy enhanced applications.
+  authors:
+  - Joachim Biskup
+  - Ulrich Flegel
+  page_link: https://doi.org/10.1145/352600.352611
+  discovered_artifact: null
+- title: Regulating service access and information release on the Web.
+  authors:
+  - Piero A. Bonatti
+  - Pierangela Samarati
+  page_link: https://doi.org/10.1145/352600.352620
+  discovered_artifact: null
+- title: A modular approach to composing access control policies.
+  authors:
+  - Piero A. Bonatti
+  - Sabrina De Capitani di Vimercati
+  - Pierangela Samarati
+  page_link: https://doi.org/10.1145/352600.352623
+  discovered_artifact: null
+- title: Accountable certificate management using undeniable attestations.
+  authors:
+  - Ahto Buldas
+  - Peeter Laud
+  - Helger Lipmaa
+  page_link: https://doi.org/10.1145/352600.352604
+  discovered_artifact: null
+- title: Moire cryptography.
+  authors:
+  - Yvo Desmedt
+  - Tri Van Le
+  page_link: https://doi.org/10.1145/352600.352618
+  discovered_artifact: null
+- title: Using router stamping to identify the source of IP packets.
+  authors:
+  - Thomas W. Doeppner Jr.
+  - Philip N. Klein
+  - Andrew Koyfman
+  page_link: https://doi.org/10.1145/352600.352627
+  discovered_artifact: null
+- title: Distribution chain security.
+  authors:
+  - Glenn Durfee
+  - Matthew K. Franklin
+  page_link: https://doi.org/10.1145/352600.352610
+  discovered_artifact: null
+- title: Timing attacks on Web privacy.
+  authors:
+  - Edward W. Felten
+  - Michael A. Schneider
+  page_link: https://doi.org/10.1145/352600.352606
+  discovered_artifact: null
+- title: An authorization model for temporal data.
+  authors:
+  - Avigdor Gal
+  - Vijayalakshmi Atluri
+  page_link: https://doi.org/10.1145/352600.352621
+  discovered_artifact: null
+- title: 'Funkspiel schemes: an alternative to conventional tamper resistance.'
+  authors:
+  - Johan Håstad
+  - Jakob Jonsson
+  - Ari Juels
+  - Moti Yung
+  page_link: https://doi.org/10.1145/352600.352619
+  discovered_artifact: null
+- title: A secure execution framework for Java.
+  authors:
+  - Manfred Hauswirth
+  - Clemens Kerer
+  - Roman Kurmanowytsch
+  page_link: https://doi.org/10.1145/352600.352608
+  discovered_artifact: null
+- title: Evaluating certificate status information mechanisms.
+  authors:
+  - John Iliadis
+  - Diomidis Spinellis
+  - Dimitris Gritzalis
+  - Bart Preneel
+  - Sokratis K. Katsikas
+  page_link: https://doi.org/10.1145/352600.352603
+  discovered_artifact: null
+- title: Implementing a distributed firewall.
+  authors:
+  - Sotiris Ioannidis
+  - Angelos D. Keromytis
+  - Steven M. Bellovin
+  - Jonathan M. Smith
+  page_link: https://doi.org/10.1145/352600.353052
+  discovered_artifact: null
+- title: Simple and fault-tolerant key agreement for dynamic collaborative groups.
+  authors:
+  - Yongdae Kim
+  - Adrian Perrig
+  - Gene Tsudik
+  page_link: https://doi.org/10.1145/352600.352638
+  discovered_artifact: null
+- title: Simple forward-secure signatures from any signature scheme.
+  authors:
+  - Hugo Krawczyk
+  page_link: https://doi.org/10.1145/352600.352617
+  discovered_artifact: null
+- title: XML document security based on provisional authorization.
+  authors:
+  - Michiharu Kudo
+  - Satoshi Hada
+  page_link: https://doi.org/10.1145/352600.352613
+  discovered_artifact: null
+- title: Multi-round passive attacks on server-aided RSA protocols.
+  authors:
+  - Johannes Merkle
+  page_link: https://doi.org/10.1145/352600.352616
+  discovered_artifact: null
+- title: 'User privacy issues regarding certificates and the TLS protocol: the design
+    and implementation of the SPSL protocol.'
+  authors:
+  - Pino Persiano
+  - Ivan Visconti
+  page_link: https://doi.org/10.1145/352600.352609
+  discovered_artifact: null
+- title: Composition and integrity preservation of secure reactive systems.
+  authors:
+  - Birgit Pfitzmann
+  - Michael Waidner
+  page_link: https://doi.org/10.1145/352600.352639
+  discovered_artifact: null
+- title: New constructions for multicast re-keying schemes using perfect hash families.
+  authors:
+  - Reihaneh Safavi-Naini
+  - Huaxiong Wang
+  page_link: https://doi.org/10.1145/352600.352637
+  discovered_artifact: null
+- title: A protocol for anonymous communication over the Internet.
+  authors:
+  - Clay Shields
+  - Brian Neil Levine
+  page_link: https://doi.org/10.1145/352600.352607
+  discovered_artifact: null
+- title: An access control model for simplifying constraint expression.
+  authors:
+  - Jonathon Tidswell
+  - Trent Jaeger
+  page_link: https://doi.org/10.1145/352600.352622
+  discovered_artifact: null
+- title: Security enhanced mobile agents.
+  authors:
+  - Vijay Varadharajan
+  page_link: https://doi.org/10.1145/352600.352632
+  discovered_artifact: null
+- title: Reducing the round complexity of a sealed-bid auction protocol with an off-line
+    TTP.
+  authors:
+  - Yuji Watanabe
+  - Hideki Imai
+  page_link: https://doi.org/10.1145/352600.352612
+  discovered_artifact: null
+- title: Efficient fault-tolerant certificate revocation.
+  authors:
+  - Rebecca N. Wright
+  - Patrick Lincoln
+  - Jonathan K. Millen
+  page_link: https://doi.org/10.1145/352600.352605
+  discovered_artifact: null
+- title: 'PRUNES: an efficient and complete strategy for automated trust negotiation
+    over the Internet.'
+  authors:
+  - Ting Yu 0001
+  - Xiaosong Ma
+  - Marianne Winslett
+  page_link: https://doi.org/10.1145/352600.352633
+  discovered_artifact: null

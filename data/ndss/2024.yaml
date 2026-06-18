@@ -1,0 +1,1378 @@
+- title: Architecting Trigger-Action Platforms for Security, Performance and Functionality
+  authors:
+  - Deepak Sirone Jegan
+  - Michael Swift
+  - Earlence Fernandes
+  page_link: https://www.ndss-symposium.org/ndss-paper/architecting-trigger-action-platforms-for-security-performance-and-functionality/
+  discovered_artifact: https://zenodo.org/record/8287340
+- title: 'BreakSPF: How Shared Infrastructures Magnify SPF Vulnerabilities Across
+    the Internet'
+  authors:
+  - Chuhan Wang
+  - Yasuhiro Kuranaga
+  - Yihang Wang
+  - Mingming Zhang
+  - Linkai Zheng
+  - Xiang Li
+  - Jianjun Chen
+  - Haixin Duan
+  - Yanzhong Lin
+  - Qingfeng Pan
+  page_link: https://www.ndss-symposium.org/ndss-paper/breakspf-how-shared-infrastructures-magnify-spf-vulnerabilities-across-the-internet/
+  discovered_artifact: https://wangchuhan.cn/
+- title: 'Attributions for ML-based ICS Anomaly Detection: From Theory to Practice'
+  authors:
+  - Clement Fung
+  - Eric Zeng
+  - Lujo Bauer
+  page_link: https://www.ndss-symposium.org/ndss-paper/attributions-for-ml-based-ics-anomaly-detection-from-theory-to-practice/
+  discovered_artifact: https://github.com/pwwl/ics-anomaly-attribution
+- title: Bernoulli Honeywords
+  authors:
+  - Ke Coby Wang
+  - Michael K. Reiter
+  page_link: https://www.ndss-symposium.org/ndss-paper/bernoulli-honeywords/
+  discovered_artifact: https://github.com/k3coby/bhwmonitoring-go
+- title: 'Compensating Removed Frequency Components: Thwarting Voice Spectrum Reduction
+    Attacks'
+  authors:
+  - Shu Wang
+  - Kun Sun
+  - Qi Li
+  page_link: https://www.ndss-symposium.org/ndss-paper/compensating-removed-frequency-components-thwarting-voice-spectrum-reduction-attacks/
+  discovered_artifact: null
+- title: Compromising Industrial Processes using Web-Based Programmable Logic Controller
+    Malware
+  authors:
+  - Ryan Pickren
+  - Tohid Shekari
+  - Saman Zonouz
+  - Raheem Beyah
+  page_link: https://www.ndss-symposium.org/ndss-paper/compromising-industrial-processes-using-web-based-programmable-logic-controller-malware/
+  discovered_artifact: https://zenodo.org/record/8279954
+- title: Content Censorship in the InterPlanetary File System
+  authors:
+  - Srivatsan Sridhar
+  - Onur Ascigil
+  - Navin Keizer
+  - François Genon
+  - Sébastien Pierre
+  - Yiannis Psaras
+  - Etienne Riviere
+  - Michał Król
+  page_link: https://www.ndss-symposium.org/ndss-paper/content-censorship-in-the-interplanetary-file-system/
+  discovered_artifact: https://doi.org/10.5281/zenodo.8300034
+- title: 'Crafter: Facial Feature Crafting against Inversion-based Identity Theft
+    on Deep Models'
+  authors:
+  - Shiming Wang
+  - Zhe Ji
+  - Liyao Xiang
+  - Hao Zhang
+  - Xinbing Wang
+  - Chenghu Zhou
+  - Bo Li
+  page_link: https://www.ndss-symposium.org/ndss-paper/crafter-facial-feature-crafting-against-inversion-based-identity-theft-on-deep-models/
+  discovered_artifact: https://github.com/ShimingWang98/Facial_Feature_Crafting_against_Inversion_based_Identity_Theft/tree/main
+- title: 'CrowdGuard: Federated Backdoor Detection in Federated Learning'
+  authors:
+  - Phillip Rieger
+  - Torsten Krauß
+  - Markus Miettinen
+  - Alexandra Dmitrienko
+  - Ahmad-Reza Sadeghi
+  page_link: https://www.ndss-symposium.org/ndss-paper/crowdguard-federated-backdoor-detection-in-federated-learning/
+  discovered_artifact: https://github.com/TRUST-TUDa/crowdguard
+- title: Eavesdropping on Black-box Mobile Devices via Audio Amplifier's EMR
+  authors:
+  - Huiling Chen
+  - Wenqiang Jin
+  - Yupeng Hu
+  - Zhenyu Ning
+  - Kenli Li
+  - Zheng Qin
+  - Mingxing Duan
+  - Yong Xie
+  - Daibo Liu
+  - Ming Li
+  page_link: https://www.ndss-symposium.org/ndss-paper/eavesdropping-on-black-box-mobile-devices-via-audio-amplifiers-emr/
+  discovered_artifact: null
+- title: 'Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks'
+  authors:
+  - Yuxiang Yang
+  - Xuewei Feng
+  - Qi Li
+  - Kun Sun
+  - Ziqiang Wang
+  - Ke Xu
+  page_link: https://www.ndss-symposium.org/ndss-paper/exploiting-sequence-number-leakage-tcp-hijacking-in-nat-enabled-wi-fi-networks/
+  discovered_artifact: null
+- title: Enhance Stealthiness and Transferability of Adversarial Attacks with Class
+    Activation Mapping Ensemble Attack
+  authors:
+  - Hui Xia
+  - Rui Zhang
+  - Zi Kang
+  - Shuliang Jiang
+  - Shuo Xu
+  page_link: https://www.ndss-symposium.org/ndss-paper/enhance-stealthiness-and-transferability-of-adversarial-attacks-with-class-activation-mapping-ensemble-attack/
+  discovered_artifact: null
+- title: Facilitating Non-Intrusive In-Vivo Firmware Testing with Stateless Instrumentation
+  authors:
+  - Jiameng Shi
+  - Wenqiang Li
+  - Wenwen Wang
+  - Le Guan
+  page_link: https://www.ndss-symposium.org/ndss-paper/facilitating-non-intrusive-in-vivo-firmware-testing-with-stateless-instrumentation/
+  discovered_artifact: https://github.com/MCUSec/IPEA
+- title: 'File Hijacking Vulnerability: The Elephant in the Room'
+  authors:
+  - Chendong Yu
+  - Yang Xiao
+  - Jie Lu
+  - Yuekang Li
+  - Yeting Li
+  - Lian Li
+  - Yifan Dong
+  - Jian Wang
+  - Jingyi Shi
+  - Defang Bo
+  - Wei Huo
+  page_link: https://www.ndss-symposium.org/ndss-paper/file-hijacking-vulnerability-the-elephant-in-the-room/
+  discovered_artifact: https://sites.google.com/view/iamjerry
+- title: Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus
+  authors:
+  - Jianting Zhang
+  - Wuhui Chen
+  - Sifu Luo
+  - Tiantian Gong
+  - Zicong Hong
+  - Aniket Kate
+  page_link: https://www.ndss-symposium.org/ndss-paper/front-running-attack-in-sharded-blockchains-and-fair-cross-shard-consensus/
+  discovered_artifact: null
+- title: 'GhostType: The Limits of Using Contactless Electromagnetic Interference
+    to Inject Phantom Keys into Analog Circuits of Keyboards'
+  authors:
+  - Qinhong Jiang
+  - Yanze Ren
+  - Yan Long
+  - Chen Yan
+  - Yumai Sun
+  - Xiaoyu Ji
+  - Kevin Fu
+  - Wenyuan Xu
+  page_link: https://www.ndss-symposium.org/ndss-paper/ghosttype-the-limits-of-using-contactless-electromagnetic-interference-to-inject-phantom-keys-into-analog-circuits-of-keyboards/
+  discovered_artifact: https://sites.google.com/view/ghosttype-demo
+- title: 'GNNIC: Finding Long-Lost Sibling Functions with Abstract Similarity'
+  authors:
+  - Qiushi Wu
+  - Zhongshu Gu
+  - Hani Jamjoom
+  - Kangjie Lu
+  page_link: https://www.ndss-symposium.org/ndss-paper/gnnic-finding-long-lost-sibling-functions-with-abstract-similarity/
+  discovered_artifact: null
+- title: 'HEIR: A Unified Representation for Cross-Scheme Compilation of Fully Homomorphic
+    Computation'
+  authors:
+  - Song Bian
+  - Zian Zhao
+  - Zhou Zhang
+  - Ran Mao
+  - Kohei Suenaga
+  - Yier Jin
+  - Zhenyu Guan
+  - Jianwei Liu
+  page_link: https://www.ndss-symposium.org/ndss-paper/heir-a-unified-representation-for-cross-scheme-compilation-of-fully-homomorphic-computation/
+  discovered_artifact: null
+- title: 'IDA: Hybrid Attestation with Support for Interrupts and TOCTOU'
+  authors:
+  - Fatemeh Arkannezhad
+  - Justin Feng
+  - Nader Sehatbakhsh
+  page_link: https://www.ndss-symposium.org/ndss-paper/ida-hybrid-attestation-with-support-for-interrupts-and-toctou/
+  discovered_artifact: https://github.com/ssysarch/IDA
+- title: 'Inaudible Adversarial Perturbation: Manipulating the Recognition of User
+    Speech in Real Time'
+  authors:
+  - Xinfeng Li
+  - Chen Yan
+  - Xuancun Lu
+  - Zihan Zeng
+  - Xiaoyu Ji
+  - Wenyuan Xu
+  page_link: https://www.ndss-symposium.org/ndss-paper/inaudible-adversarial-perturbation-manipulating-the-recognition-of-user-speech-in-real-time/
+  discovered_artifact: https://sites.google.com/view/Vrifle
+- title: 'LDR: Secure and Efficient Linux Driver Runtime for Embedded TEE Systems'
+  authors:
+  - Huaiyu Yan
+  - Zhen Ling
+  - Haobo Li
+  - Lan Luo
+  - Xinhui Shao
+  - Kai Dong
+  - Ping Jiang
+  - Ming Yang
+  - Junzhou Luo
+  - Xinwen Fu
+  page_link: https://www.ndss-symposium.org/ndss-paper/ldr-secure-and-efficient-linux-driver-runtime-for-embedded-tee-systems/
+  discovered_artifact: https://github.com/SparkYHY/Linux-Driver-Runtime
+- title: 'LARMix: Latency-Aware Routing in Mix Networks'
+  authors:
+  - Mahdi Rahimi
+  - Piyush Kumar Sharma
+  - Claudia Diaz
+  page_link: https://www.ndss-symposium.org/ndss-paper/larmix-latency-aware-routing-in-mix-networks/
+  discovered_artifact: https://doi.org/10.5281/zenodo.8311051
+- title: 'LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions,
+    and New Attack Strategies'
+  authors:
+  - Takami Sato
+  - Yuki Hayakawa
+  - Ryo Suzuki
+  - Yohsuke Shiiki
+  - Kentaro Yoshioka
+  - Qi Alfred Chen
+  page_link: https://www.ndss-symposium.org/ndss-paper/lidar-spoofing-meets-the-new-gen-capability-improvements-broken-assumptions-and-new-attack-strategies/
+  discovered_artifact: https://sites.google.com/view/cav-sec/new-gen-lidar-sec
+- title: 'LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors'
+  authors:
+  - Chengkun Wei
+  - Wenlong Meng
+  - Zhikun Zhang
+  - Min Chen
+  - Minghu Zhao
+  - Wenjing Fang
+  - Lei Wang
+  - Zihui Zhang
+  - Wenzhi Chen
+  page_link: https://www.ndss-symposium.org/ndss-paper/lmsanitator-defending-prompt-tuning-against-task-agnostic-backdoors/
+  discovered_artifact: https://github.com/meng-wenlong/LMSanitator
+- title: Low-Quality Training Data Only? A Robust Framework for Detecting Encrypted
+    Malicious Network Traffic
+  authors:
+  - Yuqi Qing
+  - Qilei Yin
+  - Xinhao Deng
+  - Yihao Chen
+  - Zhuotao Liu
+  - Kun Sun
+  - Ke Xu
+  - Jia Zhang
+  - Qi Li
+  page_link: https://www.ndss-symposium.org/ndss-paper/low-quality-training-data-only-a-robust-framework-for-detecting-encrypted-malicious-network-traffic/
+  discovered_artifact: https://github.com/XXnormal/RAPIER
+- title: 'MOCK: Optimizing Kernel Fuzzing Mutation with Context-aware Dependency'
+  authors:
+  - Jiacheng Xu
+  - Xuhong Zhang
+  - Shouling Ji
+  - Yuan Tian
+  - Binbin Zhao
+  - Qinying Wang
+  - Peng Cheng
+  - Jiming Chen
+  page_link: https://www.ndss-symposium.org/ndss-paper/mock-optimizing-kernel-fuzzing-mutation-with-context-aware-dependency/
+  discovered_artifact: https://github.com/m0ck1ng/mock
+- title: 'MPCDiff: Testing and Repairing MPC-Hardened Deep Learning Models'
+  authors:
+  - Qi Pang
+  - Yuanyuan Yuan
+  - Shuai Wang
+  page_link: https://www.ndss-symposium.org/ndss-paper/mpcdiff-testing-and-repairing-mpc-hardened-deep-learning-models/
+  discovered_artifact: https://github.com/Qi-Pang/MPCDiff
+- title: Modeling and Detecting Internet Censorship Events
+  authors:
+  - Elisa Tsai
+  - Ram Sundara Raman
+  - Atul Prakash
+  - Roya Ensafi
+  page_link: https://www.ndss-symposium.org/ndss-paper/modeling-and-detecting-internet-censorship-events/
+  discovered_artifact: null
+- title: On Precisely Detecting Censorship Circumvention in Real-World Networks
+  authors:
+  - Ryan Wails
+  - George Arnold Sullivan
+  - Micah Sherr
+  - Rob Jansen
+  page_link: https://www.ndss-symposium.org/ndss-paper/on-precisely-detecting-censorship-circumvention-in-real-world-networks/
+  discovered_artifact: null
+- title: 'NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation'
+  authors:
+  - Shaofei Li MOE
+  - Feng Dong
+  - Xusheng Xiao
+  - Haoyu Wang
+  - Fei Shao
+  - Jiedong Chen
+  - Yao Guo MOE
+  - Xiangqun Chen MOE
+  - Ding Li MOE
+  page_link: https://www.ndss-symposium.org/ndss-paper/nodlink-an-online-system-for-fine-grained-apt-attack-detection-and-investigation/
+  discovered_artifact: https://github.com/Nodlink/Simulated-Data
+- title: 'ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning'
+  authors:
+  - Linkang Du
+  - Min Chen
+  - Mingyang Sun
+  - Shouling Ji
+  - Peng Cheng
+  - Jiming Chen
+  - Zhikun Zhang
+  page_link: https://www.ndss-symposium.org/ndss-paper/orl-auditor-dataset-auditing-in-offline-deep-reinforcement-learning/
+  discovered_artifact: https://github.com/link-zju/ORL-Auditor
+- title: 'Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks
+    by Enforcing Less Confident Prediction'
+  authors:
+  - Zitao Chen
+  - Karthik Pattabiraman
+  page_link: https://www.ndss-symposium.org/ndss-paper/overconfidence-is-a-dangerous-thing-mitigating-membership-inference-attacks-by-enforcing-less-confident-prediction/
+  discovered_artifact: https://github.com/DependableSystemsLab/MIA_defense_HAMP
+- title: 'Pisces: Private and Compliable Cryptocurrency Exchange'
+  authors:
+  - Ya-Nan Li
+  - Tian Qiu
+  - Qiang Tang
+  page_link: https://www.ndss-symposium.org/ndss-paper/pisces-private-and-compliable-cryptocurrency-exchange/
+  discovered_artifact: https://github.com/yananli117/Pisces
+- title: 'ShapFuzz: Efficient Fuzzing via Shapley-Guided Byte Selection'
+  authors:
+  - Kunpeng Zhang
+  - Xiaogang Zhu
+  - Xi Xiao
+  - Minhui Xue
+  - Chao Zhang
+  - Sheng Wen
+  page_link: https://www.ndss-symposium.org/ndss-paper/shapfuzz-efficient-fuzzing-via-shapley-guided-byte-selection/
+  discovered_artifact: https://github.com/ShapFuzz/ShapFuzz
+- title: 'SigmaDiff: Semantics-Aware Deep Graph Matching for Pseudocode Diffing'
+  authors:
+  - Lian Gao
+  - Yu Qu
+  - Sheng Yu
+  - Yue Duan
+  - Heng Yin
+  page_link: https://www.ndss-symposium.org/ndss-paper/sigmadiff-semantics-aware-deep-graph-matching-for-pseudocode-diffing/
+  discovered_artifact: https://github.com/yijiufly/SigmaDiff
+- title: 'Symphony: Path Validation at Scale'
+  authors:
+  - Anxiao He
+  - Jiandong Fu
+  - Kai Bu
+  - Ruiqi Zhou
+  - Chenlu Miao
+  - Kui Ren
+  page_link: https://www.ndss-symposium.org/ndss-paper/symphony-path-validation-at-scale/
+  discovered_artifact: null
+- title: 'The Dark Side of E-Commerce: Dropshipping Abuse as a Business Model'
+  authors:
+  - Arjun Arunasalam
+  - Andrew Chu
+  - Muslum Ozgur Ozmen
+  - Habiba Farrukh
+  - Z. Berkay Celik
+  page_link: https://www.ndss-symposium.org/ndss-paper/the-dark-side-of-e-commerce-dropshipping-abuse-as-a-business-model/
+  discovered_artifact: null
+- title: 'Transpose Attack: Stealing Datasets with Bidirectional Training'
+  authors:
+  - Guy Amit
+  - Moshe Levy
+  - Yisroel Mirsky
+  page_link: https://www.ndss-symposium.org/ndss-paper/transpose-attack-stealing-datasets-with-bidirectional-training/
+  discovered_artifact: https://github.com/guyAmit/Transpose-Attack-paper-NDSS24-/tree/main
+- title: 'TrustSketch: Trustworthy Sketch-based Telemetry on Cloud Hosts'
+  authors:
+  - Zhuo Cheng
+  - Maria Apostolaki
+  - Zaoxing Liu
+  - Vyas Sekar
+  page_link: https://www.ndss-symposium.org/ndss-paper/trustsketch-trustworthy-sketch-based-telemetry-on-cloud-hosts/
+  discovered_artifact: null
+- title: Understanding and Analyzing Appraisal Systems in the Underground Marketplaces
+  authors:
+  - Zhengyi Li
+  - Xiaojing Liao
+  page_link: https://www.ndss-symposium.org/ndss-paper/understanding-and-analyzing-appraisal-systems-in-the-underground-marketplaces/
+  discovered_artifact: null
+- title: 'Unus pro omnibus: Multi-Client Searchable Encryption via Access Control'
+  authors:
+  - Jiafan Wang
+  - Sherman S. M. Chow
+  page_link: https://www.ndss-symposium.org/ndss-paper/unus-pro-omnibus-multi-client-searchable-encryption-via-access-control/
+  discovered_artifact: https://jhuisi.github.io/charm
+- title: '50 Shades of Support: A Device-Centric Analysis of Android Security Updates'
+  authors:
+  - Abbas Acar
+  - Güliz Seray Tuncay
+  - Esteban Luques
+  - Harun Oz
+  - Ahmet Aris
+  - Selcuk Uluagac
+  page_link: https://www.ndss-symposium.org/ndss-paper/50-shades-of-support-a-device-centric-analysis-of-android-security-updates/
+  discovered_artifact: https://github.com/cslfiu/Android-Security-Updates
+- title: '5G-Spector: An O-RAN Compliant Layer-3 Cellular Attack Detection Service'
+  authors:
+  - Haohuang Wen
+  - Phillip Porras
+  - Vinod Yegneswaran
+  - Ashish Gehani
+  - Zhiqiang Lin
+  page_link: https://www.ndss-symposium.org/ndss-paper/5g-spector-an-o-ran-compliant-layer-3-cellular-attack-detection-service/
+  discovered_artifact: https://github.com/5GSEC/5G-Spector
+- title: A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine
+    Unlearning Services
+  authors:
+  - Hongsheng Hu
+  - Shuo Wang
+  - Jiamin Chang
+  - Haonan Zhong
+  - Ruoxi Sun
+  - Shuang Hao
+  - Haojin Zhu
+  - Minhui Xue
+  page_link: https://www.ndss-symposium.org/ndss-paper/a-duty-to-forget-a-right-to-be-assured-exposing-vulnerabilities-in-machine-unlearning-services/
+  discovered_artifact: https://github.com/TASI-LAB/Over-unlearning
+- title: A Security and Usability Analysis of Local Attacks Against FIDO2
+  authors:
+  - Tarun Kumar Yadav
+  - Kent Seamons
+  page_link: https://www.ndss-symposium.org/ndss-paper/a-security-and-usability-analysis-of-local-attacks-against-fido2/
+  discovered_artifact: null
+- title: A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for
+    Enhanced Performance
+  authors:
+  - Yibin Xu
+  - Jingyi Zheng
+  - Boris Düdder
+  - Tijs Slaats
+  - Yongluan Zhou
+  page_link: https://www.ndss-symposium.org/ndss-paper/a-two-layer-blockchain-sharding-protocol-leveraging-safety-and-liveness-for-enhanced-performance/
+  discovered_artifact: null
+- title: A Unified Symbolic Analysis of WireGuard
+  authors:
+  - Pascal Lafourcade
+  - Dhekra Mahmoud
+  - Sylvain Ruhault
+  page_link: https://www.ndss-symposium.org/ndss-paper/a-unified-symbolic-analysis-of-wireguard/
+  discovered_artifact: https://doi.org/10.5281/zenodo.10126619
+- title: 'AAKA: An Anti-Tracking Cellular Authentication Scheme Leveraging Anonymous
+    Credentials'
+  authors:
+  - Hexuan Yu
+  - Changlai Du
+  - Yang Xiao
+  - Angelos Keromytis
+  - Chonggang Wang
+  - Robert Gazda
+  - Y. Thomas Hou
+  - Wenjing Lou
+  page_link: https://www.ndss-symposium.org/ndss-paper/aaka-an-anti-tracking-cellular-authentication-scheme-leveraging-anonymous-credentials/
+  discovered_artifact: null
+- title: Abusing the Ethereum Smart Contract Verification Services for Fun and Profit
+  authors:
+  - Pengxiang Ma
+  - Ningyu He
+  - Yuhua Huang
+  - Haoyu Wang
+  - Xiapu Luo
+  page_link: https://www.ndss-symposium.org/ndss-paper/abusing-the-ethereum-smart-contract-verification-services-for-fun-and-profit/
+  discovered_artifact: https://github.com/source-code-scam-paper/source-scam-all-in-one
+- title: Acoustic Keystroke Leakage on Smart Televisions
+  authors:
+  - Tejas Kannan
+  - Synthia Qia Wang
+  - Max Sunog
+  - Abraham Bueno de Mesquita
+  - Nick Feamster
+  - Henry Hoffmann
+  page_link: https://www.ndss-symposium.org/ndss-paper/acoustic-keystroke-leakage-on-smart-televisions/
+  discovered_artifact: https://github.com/tejaskannan/smart-tv-keyboard-leakage
+- title: 'ActiveDaemon: Unconscious DNN Dormancy and Waking Up via User-specific Invisible
+    Token'
+  authors:
+  - Ge Ren
+  - Gaolei Li
+  - Shenghong Li
+  - Libo Chen
+  - Kui Ren
+  page_link: https://www.ndss-symposium.org/ndss-paper/activedaemon-unconscious-dnn-dormancy-and-waking-up-via-user-specific-invisible-token/
+  discovered_artifact: https://github.com/LANCEREN/ActiveDaemon
+- title: 'AnonPSI: An Anonymity Assessment Framework for PSI'
+  authors:
+  - Bo Jiang
+  - Jian Du
+  - Qiang Yan
+  page_link: https://www.ndss-symposium.org/ndss-paper/anonpsi-an-anonymity-assessment-framework-for-psi/
+  discovered_artifact: null
+- title: Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization
+  authors:
+  - Quan Zhang
+  - Yiwen Xu
+  - Zijing Yin
+  - Chijin Zhou
+  - Yu Jiang
+  page_link: https://www.ndss-symposium.org/ndss-paper/automatic-policy-synthesis-and-enforcement-for-protecting-untrusted-deserialization/
+  discovered_artifact: null
+- title: Automatic Adversarial Adaption for Stealthy Poisoning Attacks in Federated
+    Learning
+  authors:
+  - Torsten Krauß
+  - Jan König
+  - Alexandra Dmitrienko
+  - Christian Kanzow
+  page_link: https://www.ndss-symposium.org/ndss-paper/automatic-adversarial-adaption-for-stealthy-poisoning-attacks-in-federated-learning/
+  discovered_artifact: https://www.private-ai.org
+- title: 'Beyond the Surface: Uncovering the Unprotected Components of Android Against
+    Overlay Attack'
+  authors:
+  - Hao Zhou
+  - Shuohan Wu
+  - Chenxiong Qian
+  - Xiapu Luo
+  - Haipeng Cai
+  - Chao Zhang
+  page_link: https://www.ndss-symposium.org/ndss-paper/beyond-the-surface-uncovering-the-unprotected-components-of-android-against-overlay-attack/
+  discovered_artifact: null
+- title: 'BGP-iSec: Improved Security of Internet Routing Against Post-ROV Attacks'
+  authors:
+  - Cameron Morris
+  - Amir Herzberg
+  - Bing Wang
+  - Samuel Secondo
+  page_link: https://www.ndss-symposium.org/ndss-paper/bgp-isec-improved-security-of-internet-routing-against-post-rov-attacks/
+  discovered_artifact: https://github.com/c-morris/bgpy_pathsec
+- title: 'BliMe: Verifiably Secure Outsourced Computation with Hardware-Enforced Taint
+    Tracking'
+  authors:
+  - Hossam ElAtali
+  - Lachlan J. Gunn
+  - Hans Liljestrand
+  - N. Asokan
+  page_link: https://www.ndss-symposium.org/ndss-paper/blime-verifiably-secure-outsourced-computation-with-hardware-enforced-taint-tracking/
+  discovered_artifact: https://github.com/ssg-research/BliMe
+- title: 'CAGE: Complementing Arm CCA with GPU Extensions'
+  authors:
+  - Chenxu Wang SUSTech
+  - Fengwei Zhang SUSTech
+  - Yunjie Deng SUSTech
+  - Kevin Leach
+  - Jiannong Cao
+  - Zhenyu Ning
+  - Shoumeng Yan
+  - Zhengyu He
+  page_link: https://www.ndss-symposium.org/ndss-paper/cage-complementing-arm-cca-with-gpu-extensions/
+  discovered_artifact: https://github.com/Compass-All/NDSS24-CAGE
+- title: 'CamPro: Camera-based Anti-Facial Recognition'
+  authors:
+  - Wenjun Zhu
+  - Yuan Sun
+  - Jiani Liu
+  - Yushi Cheng
+  - Xiaoyu Ji
+  - Wenyuan Xu
+  page_link: https://www.ndss-symposium.org/ndss-paper/campro-camera-based-anti-facial-recognition/
+  discovered_artifact: https://github.com/forget2save/CamPro
+- title: 'Certificate Transparency Revisited: The Public Inspections on Third-party
+    Monitors'
+  authors:
+  - Aozhuo Sun
+  - Jingqiang Lin
+  - Wei Wang
+  - Zeyan Liu
+  - Bingyu Li
+  - Shushang Wen
+  - Qiongxiao Wang
+  - Fengjun Li
+  page_link: https://www.ndss-symposium.org/ndss-paper/certificate-transparency-revisited-the-public-inspections-on-third-party-monitors/
+  discovered_artifact: https://doi.org/10.5281/zenodo.10148256
+- title: 'CP-IoT: A Cross-Platform Monitoring System for Smart Home'
+  authors:
+  - Hai Lin
+  - Chenglong Li
+  - Jiahai Yang
+  - Zhiliang Wang
+  - Linna Fan
+  - Chenxin Duan
+  page_link: https://www.ndss-symposium.org/ndss-paper/cp-iot-a-cross-platform-monitoring-system-for-smart-home/
+  discovered_artifact: https://github.com/colinLH/CP-IoT
+- title: Decentralized Information-Flow Control for ROS2
+  authors:
+  - Nishit V. Pandya
+  - Himanshu Kumar
+  - Gokulnath M. Pillai
+  - Vinod Ganapathy
+  page_link: https://www.ndss-symposium.org/ndss-paper/decentralized-information-flow-control-for-ros2/
+  discovered_artifact: null
+- title: 'DeepGo: Predictive Directed Greybox Fuzzing'
+  authors:
+  - Peihong Lin
+  - Pengfei Wang
+  - Xu Zhou
+  - Wei Xie
+  - Gen Zhang
+  - Kai Lu
+  page_link: https://www.ndss-symposium.org/ndss-paper/deepgo-predictive-directed-greybox-fuzzing/
+  discovered_artifact: null
+- title: 'DeGPT: Optimizing Decompiler Output with LLM'
+  authors:
+  - Peiwei Hu
+  - Ruigang Liang
+  - Kai Chen
+  page_link: https://www.ndss-symposium.org/ndss-paper/degpt-optimizing-decompiler-output-with-llm/
+  discovered_artifact: https://github.com/PeiweiHu/DeGPT
+- title: Detecting Voice Cloning Attacks via Timbre Watermarking
+  authors:
+  - Chang Liu
+  - Jie Zhang
+  - Tianwei Zhang
+  - Xi Yang
+  - Weiming Zhang
+  - NengHai Yu
+  page_link: https://www.ndss-symposium.org/ndss-paper/detecting-voice-cloning-attacks-via-timbre-watermarking/
+  discovered_artifact: https://timbrewatermarking.github.io/samples
+- title: 'DEMASQ: Unmasking the ChatGPT Wordsmith'
+  authors:
+  - Kavita Kumari
+  - Alessandro Pegoraro
+  - Hossein Fereidooni
+  - Ahmad-Reza Sadeghi
+  page_link: https://www.ndss-symposium.org/ndss-paper/demasq-unmasking-the-chatgpt-wordsmith/
+  discovered_artifact: null
+- title: Don't Interrupt Me - A Large-Scale Study of On-Device Permission Prompt Quieting
+    in Chrome
+  authors:
+  - Marian Harbach
+  - Igor Bilogrevic
+  - Enrico Bacis
+  - Serena Chen
+  - Ravjit Uppal
+  - Andy Paicu
+  - Elias Klim
+  - Meggyn Watkins
+  - Balazs Engedy
+  page_link: https://www.ndss-symposium.org/ndss-paper/dont-interrupt-me-a-large-scale-study-of-on-device-permission-prompt-quieting-in-chrome/
+  discovered_artifact: null
+- title: 'DorPatch: Distributed and Occlusion-Robust Adversarial Patch to Evade Certifiable
+    Defenses'
+  authors:
+  - Chaoxiang He
+  - Xiaojing Ma
+  - Bin B. Zhu
+  - Yimiao Zeng
+  - Hanqing Hu
+  - Xiaofan Bai
+  - Hai Jin
+  - Dongmei Zhang
+  page_link: https://www.ndss-symposium.org/ndss-paper/dorpatch-distributed-and-occlusion-robust-adversarial-patch-to-evade-certifiable-defenses/
+  discovered_artifact: https://github.com/CGCL-codes/DorPatch
+- title: 'DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers
+    Learned on Graphs'
+  authors:
+  - Hanna Kim
+  - Jian Cui
+  - Eugene Jang
+  - Chanhee Lee
+  - Yongjae Lee
+  - Jin-Woo Chung
+  - Seungwon Shin
+  page_link: https://www.ndss-symposium.org/ndss-paper/drainclog-detecting-rogue-accounts-with-illegally-obtained-nfts-using-classifiers-learned-on-graphs/
+  discovered_artifact: null
+- title: 'dRR: A Decentralized, Scalable, and Auditable Architecture for RPKI Repository'
+  authors:
+  - Yingying Su
+  - Dan Li
+  - Li Chen
+  - Qi Li
+  - Sitong Ling
+  page_link: https://www.ndss-symposium.org/ndss-paper/drr-a-decentralized-scalable-and-auditable-architecture-for-rpki-repository/
+  discovered_artifact: null
+- title: 'DynPRE: Protocol Reverse Engineering via Dynamic Inference'
+  authors:
+  - Zhengxiong Luo
+  - Kai Liang
+  - Yanyang Zhao
+  - Feifan Wu
+  - Junze Yu
+  - Heyuan Shi
+  - Yu Jiang
+  page_link: https://www.ndss-symposium.org/ndss-paper/dynpre-protocol-reverse-engineering-via-dynamic-inference/
+  discovered_artifact: https://github.com/DynPRE/DynPRE
+- title: Eavesdropping on Controller Acoustic Emanation for Keystroke Inference Attack
+    in Virtual Reality
+  authors:
+  - Shiqing Luo
+  - Anh Nguyen
+  - Hafsa Farooq
+  - Kun Sun
+  - Zhisheng Yan
+  page_link: https://www.ndss-symposium.org/ndss-paper/eavesdropping-on-controller-acoustic-emanation-for-keystroke-inference-attack-in-virtual-reality/
+  discovered_artifact: null
+- title: Efficient and Timely Revocation of V2X Credentials
+  authors:
+  - Gianluca Scopelliti
+  - Christoph Baumann
+  - Fritz Alder
+  - Eddy Truyen
+  - Jan Tobias Mühlberg
+  page_link: https://www.ndss-symposium.org/ndss-paper/efficient-and-timely-revocation-of-v2x-credentials/
+  discovered_artifact: https://github.com/EricssonResearch/v2x-self-revocation
+- title: Efficient Use-After-Free Prevention with Opportunistic Page-Level Sweeping
+  authors:
+  - Chanyoung Park
+  - Hyungon Moon
+  page_link: https://www.ndss-symposium.org/ndss-paper/efficient-use-after-free-prevention-with-opportunistic-page-level-sweeping/
+  discovered_artifact: null
+- title: 'EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded
+    Cameras'
+  authors:
+  - Yan Long
+  - Qinhong Jiang
+  - Chen Yan
+  - Tobias Alam
+  - Xiaoyu Ji
+  - Wenyuan Xu
+  - Kevin Fu
+  page_link: https://www.ndss-symposium.org/ndss-paper/em-eye-characterizing-electromagnetic-side-channel-eavesdropping-on-embedded-cameras/
+  discovered_artifact: https://emeyeattack.github.io/Website/
+- title: 'EnclaveFuzz: Finding Vulnerabilities in SGX Applications'
+  authors:
+  - Liheng Chen
+  - Zheming Li
+  - Zheyu Ma
+  - Yuan Li
+  - Baojian Chen
+  - Chao Zhang
+  page_link: https://www.ndss-symposium.org/ndss-paper/enclavefuzz-finding-vulnerabilities-in-sgx-applications/
+  discovered_artifact: https://github.com/LeoneChen/EnclaveFuzz
+- title: Experimental Analyses of the Physical Surveillance Risks in Client-Side Content
+    Scanning
+  authors:
+  - Ashish Hooda
+  - Andrey Labunets
+  - Tadayoshi Kohno
+  - Earlence Fernandes
+  page_link: https://www.ndss-symposium.org/ndss-paper/experimental-analyses-of-the-physical-surveillance-risks-in-client-side-content-scanning/
+  discovered_artifact: null
+- title: 'Faster and Better: Detecting Vulnerabilities in Linux-based IoT Firmware
+    with Optimized Reaching Definition Analysis'
+  authors:
+  - Zicong Gao
+  - Chao Zhang
+  - Hangtian Liu
+  - Wenhou Sun
+  - Zhizhuo Tang
+  - Liehui Jiang
+  - Jianjun Chen
+  - Yong Xie
+  page_link: https://www.ndss-symposium.org/ndss-paper/faster-and-better-detecting-vulnerabilities-in-linux-based-iot-firmware-with-optimized-reaching-definition-analysis/
+  discovered_artifact: https://github.com/f01lprophet/HermeScan
+- title: 'Faults in Our Bus: Novel Bus Fault Attack to Break ARM TrustZone'
+  authors:
+  - Nimish Mishra
+  - Anirban Chakraborty
+  - Debdeep Mukhopadhyay
+  page_link: https://www.ndss-symposium.org/ndss-paper/faults-in-our-bus-novel-bus-fault-attack-to-break-arm-trustzone/
+  discovered_artifact: https://github.com/KULeuven
+- title: Flow Correlation Attacks on Tor Onion Service Sessions with Sliding Subset
+    Sum
+  authors:
+  - Daniela Lopes
+  - Jin-Dong Dong
+  - Pedro Medeiros
+  - Daniel Castro
+  - Diogo Barradas
+  - Bernardo Portela
+  - João Vinagre
+  - Bernardo Ferreira
+  - Nicolas Christin
+  - Nuno Santos
+  page_link: https://www.ndss-symposium.org/ndss-paper/flow-correlation-attacks-on-tor-onion-service-sessions-with-sliding-subset-sum/
+  discovered_artifact: https://github.com/danielaLopes/sumo
+- title: 'FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting'
+  authors:
+  - Meenatchi Sundaram Muthu Selva Annamalai
+  - Igor Bilogrevic
+  - Emiliano De Cristofaro
+  page_link: https://www.ndss-symposium.org/ndss-paper/fp-fed-privacy-preserving-federated-detection-of-browser-fingerprinting/
+  discovered_artifact: null
+- title: 'FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks
+    in Federated Learning'
+  authors:
+  - Hossein Fereidooni
+  - Alessandro Pegoraro
+  - Phillip Rieger
+  - Alexandra Dmitrienko
+  - Ahmad-Reza Sadeghi
+  page_link: https://www.ndss-symposium.org/ndss-paper/freqfed-a-frequency-analysis-based-approach-for-mitigating-poisoning-attacks-in-federated-learning/
+  discovered_artifact: null
+- title: 'From Hardware Fingerprint to Access Token: Enhancing the Authentication
+    on IoT Devices'
+  authors:
+  - Yue Xiao
+  - Yi He
+  - Xiaoli Zhang
+  - Qian Wang
+  - Renjie Xie
+  - Kun Sun
+  - Ke Xu
+  - Qi Li
+  page_link: https://www.ndss-symposium.org/ndss-paper/from-hardware-fingerprint-to-access-token-enhancing-the-authentication-on-iot-devices/
+  discovered_artifact: https://github.com/IoTAccessControl/MCU-Token/tree/master
+- title: 'From Interaction to Independence: zkSNARKs for Transparent and Non-Interactive
+    Remote Attestation'
+  authors:
+  - Shahriar Ebrahimi
+  - Parisa Hassanizadeh
+  page_link: https://www.ndss-symposium.org/ndss-paper/from-interaction-to-independence-zksnarks-for-transparent-and-non-interactive-remote-attestation/
+  discovered_artifact: https://github.com/zero-savvy/zk-remote-attestation
+- title: 'GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural
+    Networks'
+  authors:
+  - Bang Wu
+  - He Zhang
+  - Xiangwen Yang
+  - Shuo Wang
+  - Minhui Xue
+  - Shirui Pan
+  - Xingliang Yuan
+  page_link: https://www.ndss-symposium.org/ndss-paper/graphguard-detecting-and-counteracting-training-data-misuse-in-graph-neural-networks/
+  discovered_artifact: https://github.com/GraphGuard/GraphGuard-Proactive
+- title: 'Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering'
+  authors:
+  - Rui Zhu
+  - Di Tang
+  - Siyuan Tang
+  - Zihao Wang
+  - Guanhong Tao
+  - Shiqing Ma
+  - XiaoFeng Wang
+  - Haixu Tang
+  page_link: https://www.ndss-symposium.org/ndss-paper/gradient-shaping-enhancing-backdoor-attack-against-reverse-engineering/
+  discovered_artifact: null
+- title: 'Group-based Robustness: A General Framework for Customized Robustness in
+    the Real World'
+  authors:
+  - Weiran Lin
+  - Keane Lucas
+  - Neo Eyal
+  - Lujo Bauer
+  - Michael K. Reiter
+  - Mahmood Sharif
+  page_link: https://www.ndss-symposium.org/ndss-paper/group-based-robustness-a-general-framework-for-customized-robustness-in-the-real-world/
+  discovered_artifact: https://github.com/linweiran/GBR
+- title: 'IdleLeak: Exploiting Idle State Side Effects for Information Leakage'
+  authors:
+  - Fabian Rauscher
+  - Andreas Kogler
+  - Jonas Juffinger
+  - Daniel Gruss
+  page_link: https://www.ndss-symposium.org/ndss-paper/idleleak-exploiting-idle-state-side-effects-for-information-leakage/
+  discovered_artifact: null
+- title: Information Based Heavy Hitters for Real-Time DNS Data Exfiltration Detection
+  authors:
+  - Yarin Ozery
+  - Asaf Nadler
+  - Asaf Shabtai
+  page_link: https://www.ndss-symposium.org/ndss-paper/information-based-heavy-hitters-for-real-time-dns-data-exfiltration-detection/
+  discovered_artifact: https://github.com/akamai/Information-based-Heavy-Hitters-for-Real-Time-DNS-Exfiltration-Detection
+- title: Improving the Robustness of Transformer-based Large Language Models with
+    Dynamic Attention
+  authors:
+  - Lujia Shen
+  - Yuwen Pu
+  - Shouling Ji
+  - Changjiang Li
+  - Xuhong Zhang
+  - Chunpeng Ge
+  - Ting Wang
+  page_link: https://www.ndss-symposium.org/ndss-paper/improving-the-robustness-of-transformer-based-large-language-models-with-dynamic-attention/
+  discovered_artifact: null
+- title: 'IRRedicator: Pruning IRR with RPKI-Valid BGP Insights'
+  authors:
+  - Minhyeok Kang
+  - Weitong Li
+  - Roland van Rijswijk-Deij
+  - Ted "Taekyoung" Kwon
+  - Taejoong Chung
+  page_link: https://www.ndss-symposium.org/ndss-paper/irredicator-pruning-irr-with-rpki-valid-bgp-insights/
+  discovered_artifact: https://irredicator.netsecurelab.org
+- title: 'Invisible Reflections: Leveraging Infrared Laser Reflections to Target Traffic
+    Sign Perception'
+  authors:
+  - Takami Sato
+  - Sri Hrushikesh Varma Bhupathiraju
+  - Michael Clifford
+  - Takeshi Sugawara
+  - Qi Alfred Chen
+  - Sara Rampazzi
+  page_link: https://www.ndss-symposium.org/ndss-paper/invisible-reflections-leveraging-infrared-laser-reflections-to-target-traffic-sign-perception/
+  discovered_artifact: https://sites.google.com/view/cav-sec/ilr-attack
+- title: 'K-LEAK: Towards Automating the Generation of Multi-Step Infoleak Exploits
+    against the Linux Kernel'
+  authors:
+  - Zhengchuan Liang
+  - Xiaochen Zou
+  - Chengyu Song
+  - Zhiyun Qian
+  page_link: https://www.ndss-symposium.org/ndss-paper/k-leak-towards-automating-the-generation-of-multi-step-infoleak-exploits-against-the-linux-kernel/
+  discovered_artifact: https://github.com/seclab-ucr/K-LEAK
+- title: Large Language Model guided Protocol Fuzzing
+  authors:
+  - Ruijie Meng
+  - Martin Mirchev
+  - Marcel Böhme
+  - Abhik Roychoudhury
+  page_link: https://www.ndss-symposium.org/ndss-paper/large-language-model-guided-protocol-fuzzing/
+  discovered_artifact: https://github.com/ChatAFLndss/ChatAFL
+- title: 'Leaking the Privacy of Groups and More: Understanding Privacy Risks of Cross-App
+    Content Sharing in Mobile Ecosystem'
+  authors:
+  - Jiangrong Wu
+  - Yuhong Nan
+  - Luyi Xing
+  - Jiatao Cheng
+  - Zimin Lin
+  - Zibin Zheng
+  - Min Yang
+  page_link: https://www.ndss-symposium.org/ndss-paper/leaking-the-privacy-of-groups-and-more-understanding-privacy-risks-of-cross-app-content-sharing-in-mobile-ecosystem/
+  discovered_artifact: null
+- title: 'Like, Comment, Get Scammed: Characterizing Comment Scams on Media Platforms'
+  authors:
+  - Xigao Li
+  - Amir Rahmati
+  - Nick Nikiforakis
+  page_link: https://www.ndss-symposium.org/ndss-paper/like-comment-get-scammed-characterizing-comment-scams-on-media-platforms/
+  discovered_artifact: https://like-comment-get-scammed.github.io/
+- title: 'LoRDMA: A New Low-Rate DoS Attack in RDMA Networks'
+  authors:
+  - Shicheng Wang
+  - Menghao Zhang
+  - Yuying Du
+  - Ziteng Chen
+  - Zhiliang Wang
+  - Mingwei Xu
+  - Renjie Xie
+  - Jiahai Yang
+  page_link: https://www.ndss-symposium.org/ndss-paper/lordma-a-new-low-rate-dos-attack-in-rdma-networks/
+  discovered_artifact: https://github.com/wangshicheng1225/LoRDMA
+- title: 'MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive
+    FMCW Radars'
+  authors:
+  - David Hunt
+  - Kristen Angell
+  - Zhenzhou Qi
+  - Tingjun Chen
+  - Miroslav Pajic
+  page_link: https://www.ndss-symposium.org/ndss-paper/madradar-a-black-box-physical-layer-attack-framework-on-mmwave-automotive-fmcw-radars/
+  discovered_artifact: null
+- title: 'MirageFlow: A New Bandwidth Inflation Attack on Tor'
+  authors:
+  - Christoph Sendner
+  - Jasper Stang
+  - Alexandra Dmitrienko
+  - Raveen Wijewickrama
+  - Murtuza Jadliwala
+  page_link: https://www.ndss-symposium.org/ndss-paper/mirageflow-a-new-bandwidth-inflation-attack-on-tor/
+  discovered_artifact: https://shadow.github.io/
+- title: 'Maginot Line: Assessing a New Cross-app Threat to PII-as-Factor Authentication
+    in Chinese Mobile Apps'
+  authors:
+  - Fannv He
+  - Yan Jia
+  - Jiayu Zhao
+  - Yue Fang
+  - Jice Wang
+  - Mengyue Feng
+  - Peng Liu
+  - Yuqing Zhang
+  page_link: https://www.ndss-symposium.org/ndss-paper/maginot-line-assessing-a-new-cross-app-threat-to-pii-as-factor-authentication-in-chinese-mobile-apps/
+  discovered_artifact: null
+- title: 'MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots'
+  authors:
+  - Gelei Deng
+  - Yi Liu
+  - Yuekang Li
+  - Kailong Wang
+  - Ying Zhang
+  - Zefeng Li
+  - Haoyu Wang
+  - Tianwei Zhang
+  - Yang Liu
+  page_link: https://www.ndss-symposium.org/ndss-paper/masterkey-automated-jailbreaking-of-large-language-model-chatbots/
+  discovered_artifact: https://api.semanticscholar.org/CorpusID:260777640
+- title: Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart
+    Contracts
+  authors:
+  - Nicola Ruaro
+  - Fabio Gritti
+  - Robert McLaughlin
+  - Ilya Grishchenko
+  - Christopher Kruegel
+  - Giovanni Vigna
+  page_link: https://www.ndss-symposium.org/ndss-paper/not-your-type-detecting-storage-collision-vulnerabilities-in-ethereum-smart-contracts/
+  discovered_artifact: null
+- title: 'Parrot-Trained Adversarial Examples: Pushing the Practicality of Black-Box
+    Audio Attacks against Speaker Recognition Models'
+  authors:
+  - Rui Duan
+  - Zhe Qu
+  - Leah Ding
+  - Yao Liu
+  - Zhuo Lu
+  page_link: https://www.ndss-symposium.org/ndss-paper/parrot-trained-adversarial-examples-pushing-the-practicality-of-black-box-audio-attacks-against-speaker-recognition-models/
+  discovered_artifact: null
+- title: 'Pencil: Private and Extensible Collaborative Learning without the Non-Colluding
+    Assumption'
+  authors:
+  - Xuanqi Liu
+  - Zhuotao Liu
+  - Qi Li
+  - Ke Xu
+  - Mingwei Xu
+  page_link: https://www.ndss-symposium.org/ndss-paper/pencil-private-and-extensible-collaborative-learning-without-the-non-colluding-assumption/
+  discovered_artifact: https://github.com/lightbulb128/Pencil
+- title: 'Phoenix: Surviving Unpatched Vulnerabilities via Accurate and Efficient
+    Filtering of Syscall Sequences'
+  authors:
+  - Hugo Kermabon-Bobinnec
+  - Yosr Jarraya
+  - Lingyu Wang
+  - Suryadipta Majumdar
+  - Makan Pourzandi
+  page_link: https://www.ndss-symposium.org/ndss-paper/phoenix-surviving-unpatched-vulnerabilities-via-accurate-and-efficient-filtering-of-syscall-sequences/
+  discovered_artifact: null
+- title: Powers of Tau in Asynchrony
+  authors:
+  - Sourav Das
+  - Zhuolun Xiang
+  - Ling Ren
+  page_link: https://www.ndss-symposium.org/ndss-paper/powers-of-tau-in-asynchrony/
+  discovered_artifact: https://github.com/sourav1547/qsdh-py
+- title: Predictive Context-sensitive Fuzzing
+  authors:
+  - Pietro Borrello
+  - Andrea Fioraldi
+  - Daniele Cono D'Elia
+  - Davide Balzarotti
+  - Leonardo Querzoni
+  - Cristiano Giuffrida
+  page_link: https://www.ndss-symposium.org/ndss-paper/predictive-context-sensitive-fuzzing/
+  discovered_artifact: https://github.com/eurecom-s3/predictive-cs-fuzzing
+- title: 'PrintListener: Uncovering the Vulnerability of Fingerprint Authentication
+    via the Finger Friction Sound'
+  authors:
+  - Man Zhou
+  - Shuao Su
+  - Qian Wang
+  - Qi Li
+  - Yuting Zhou
+  - Xiaojing Ma
+  - Zhengxiong Li
+  page_link: https://www.ndss-symposium.org/ndss-paper/printlistener-uncovering-the-vulnerability-of-fingerprint-authentication-via-the-finger-friction-sound/
+  discovered_artifact: null
+- title: 'PriSrv: Privacy-Enhanced and Highly Usable Service Discovery in Wireless
+    Communications'
+  authors:
+  - Yang Yang
+  - Robert H. Deng
+  - Guomin Yang
+  - Yingjiu Li
+  - HweeHwa Pang
+  - Minming Huang
+  - Rui Shi
+  - Jian Weng
+  page_link: https://www.ndss-symposium.org/ndss-paper/prisrv-privacy-enhanced-and-highly-usable-service-discovery-in-wireless-communications/
+  discovered_artifact: https://github.com/prisrv
+- title: Private Aggregate Queries to Untrusted Databases
+  authors:
+  - Syed Mahbub Hafiz
+  - Chitrabhanu Gupta
+  - Warren Wnuck
+  - Brijesh Vora
+  - Chen-Nee Chuah
+  page_link: https://www.ndss-symposium.org/ndss-paper/private-aggregate-queries-to-untrusted-databases/
+  discovered_artifact: https://github.com/smhafiz/private_queries_it_pir/tree/v1.0.0
+- title: 'ReqsMiner: Automated Discovery of CDN Forwarding Request Inconsistencies
+    and DoS Attacks with Grammar-based Fuzzing'
+  authors:
+  - Linkai Zheng
+  - Xiang Li
+  - Chuhan Wang
+  - Run Guo
+  - Haixin Duan
+  - Jianjun Chen
+  - Chao Zhang
+  - Kaiwen Shen
+  page_link: https://www.ndss-symposium.org/ndss-paper/reqsminer-automated-discovery-of-cdn-forwarding-request-inconsistencies-and-dos-attacks-with-grammar-based-fuzzing/
+  discovered_artifact: https://github.com/Konano/ReqsMiner
+- title: 'REPLICAWATCHER: Training-less Anomaly Detection in Containerized Microservices'
+  authors:
+  - Asbat El Khairi
+  - Marco Caselli
+  - Andreas Peter
+  - Andrea Continella
+  page_link: https://www.ndss-symposium.org/ndss-paper/replicawatcher-training-less-anomaly-detection-in-containerized-microservices/
+  discovered_artifact: https://github.com/utwente-scs/Replicawatcher
+- title: 'Proof of Backhaul: Trustfree Measurement of Broadband Bandwidth'
+  authors:
+  - Peiyao Sheng
+  - Nikita Yadav
+  - Vishal Sevani
+  - Arun Babu
+  - Anand Svr
+  - Himanshu Tyagi
+  - Pramod Viswanath
+  page_link: https://www.ndss-symposium.org/ndss-paper/proof-of-backhaul-trustfree-measurement-of-broadband-bandwidth/
+  discovered_artifact: https://github.com/multichallengerpob/proof-of-backhaul
+- title: 'QUACK: Hindering Deserialization Attacks via Static Duck Typing'
+  authors:
+  - Yaniv David
+  - Neophytos Christou
+  - Andreas D. Kellas
+  - Vasileios P. Kemerlis
+  - Junfeng Yang
+  page_link: https://www.ndss-symposium.org/ndss-paper/quack-hindering-deserialization-attacks-via-static-duck-typing/
+  discovered_artifact: https://figshare.com/articles/software/QUACK_Hindering_Deserialization_Attacks_via_Static_Duck_Typing/24578644
+- title: 'Scrappy: SeCure Rate Assuring Protocol with PrivacY'
+  authors:
+  - Kosei Akama
+  - Yoshimichi Nakatsuka
+  - Masaaki Sato
+  - Keisuke Uehara
+  page_link: https://www.ndss-symposium.org/ndss-paper/scrappy-secure-rate-assuring-protocol-with-privacy/
+  discovered_artifact: https://github.com/akakou/scrappy
+- title: Secret-Shared Shuffle with Malicious Security
+  authors:
+  - Xiangfu Song
+  - Dong Yin
+  - Jianli Bai
+  - Changyu Dong
+  - Ee-Chien Chang
+  page_link: https://www.ndss-symposium.org/ndss-paper/secret-shared-shuffle-with-malicious-security/
+  discovered_artifact: https://github.com/emp-toolkit
+- title: Secure Multiparty Computation of Threshold Signatures Made More Efficient
+  authors:
+  - Harry W. H. Wong
+  - Jack P. K. Ma
+  - Sherman S. M. Chow
+  page_link: https://www.ndss-symposium.org/ndss-paper/secure-multiparty-computation-of-threshold-signatures-made-more-efficient/
+  discovered_artifact: https://gitlab.com/alephledger/threshold-ecdsa
+- title: Security-Performance Tradeoff in DAG-based Proof-of-Work Blockchain Protocols
+  authors:
+  - Shichen Wu
+  - Puwen Wei
+  - Ren Zhang
+  - Bowen Jiang
+  page_link: https://www.ndss-symposium.org/ndss-paper/security-performance-tradeoff-in-dag-based-proof-of-work-blockchain-protocols/
+  discovered_artifact: null
+- title: 'SENSE: Enhancing Microarchitectural Awareness for TEEs via Subscription-Based
+    Notification'
+  authors:
+  - Fan Sang
+  - Jaehyuk Lee
+  - Xiaokuan Zhang
+  - Meng Xu
+  - Scott Constable
+  - Yuan Xiao
+  - Michael Steiner
+  - Mona Vij
+  - Taesoo Kim
+  page_link: https://www.ndss-symposium.org/ndss-paper/sense-enhancing-microarchitectural-awareness-for-tees-via-subscription-based-notification/
+  discovered_artifact: https://github.com/sslab-gatech/Sense
+- title: 'Sharing cyber threat intelligence: Does it really help?'
+  authors:
+  - Beomjin Jin
+  - Eunsoo Kim
+  - Hyunwoo Lee
+  - Elisa Bertino
+  - Doowon Kim
+  - Hyoungshick Kim
+  page_link: https://www.ndss-symposium.org/ndss-paper/sharing-cyber-threat-intelligence-does-it-really-help/
+  discovered_artifact: https://github.com/SKKU-SecLab/CTI_Lense
+- title: 'Separation is Good: A Faster Order-Fairness Byzantine Consensus'
+  authors:
+  - Ke Mu
+  - Bo Yin
+  - Alia Asheralieva
+  - Xuetao Wei
+  page_link: https://www.ndss-symposium.org/ndss-paper/separation-is-good-a-faster-order-fairness-byzantine-consensus/
+  discovered_artifact: null
+- title: 'SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition
+    Systems'
+  authors:
+  - Guangke Chen
+  - Yedi Zhang
+  - Fu Song
+  page_link: https://www.ndss-symposium.org/ndss-paper/slmia-sr-speaker-level-membership-inference-attacks-against-speaker-recognition-systems/
+  discovered_artifact: https://github.com/S3L-official/SLMIA-SR
+- title: 'Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks
+    with Neuromorphic Data'
+  authors:
+  - Gorka Abad
+  - Oguzhan Ersoy
+  - Stjepan Picek
+  - Aitor Urbieta BRTA
+  page_link: https://www.ndss-symposium.org/ndss-paper/sneaky-spikes-uncovering-stealthy-backdoor-attacks-in-spiking-neural-networks-with-neuromorphic-data/
+  discovered_artifact: https://github.com/GorkaAbad/Sneaky-Spikes
+- title: 'SyzBridge: Bridging the Gap in Exploitability Assessment of Linux Kernel
+    Bugs in the Linux Ecosystem'
+  authors:
+  - Xiaochen Zou
+  - Yu Hao
+  - Zheng Zhang
+  - Juefei Pu
+  - Weiteng Chen
+  - Zhiyun Qian
+  page_link: https://www.ndss-symposium.org/ndss-paper/syzbridge-bridging-the-gap-in-exploitability-assessment-of-linux-kernel-bugs-in-the-linux-ecosystem/
+  discovered_artifact: https://github.com/seclab-ucr/SyzBridge
+- title: 'SSL-WM: A Black-Box Watermarking Approach for Encoders Pre-trained by Self-Supervised
+    Learning'
+  authors:
+  - Peizhuo Lv
+  - Pan Li
+  - Shenchen Zhu
+  - Shengzhi Zhang
+  - Kai Chen
+  - Ruigang Liang
+  - Chang Yue
+  - Fang Xiang
+  - Yuling Cai
+  - Hualong Ma
+  - Yingjun Zhang
+  - Guozhu Meng
+  page_link: https://www.ndss-symposium.org/ndss-paper/ssl-wm-a-black-box-watermarking-approach-for-encoders-pre-trained-by-self-supervised-learning/
+  discovered_artifact: https://github.com/lvpeizhuo/SSL-WM
+- title: 'TALISMAN: Tamper Analysis for Reference Monitors'
+  authors:
+  - Frank Capobianco
+  - Quan Zhou
+  - Aditya Basu
+  - Trent Jaeger
+  - Danfeng Zhang
+  page_link: https://www.ndss-symposium.org/ndss-paper/talisman-tamper-analysis-for-reference-monitors/
+  discovered_artifact: https://github.com/isolachine/talisman
+- title: 'TEE-SHirT: Scalable Leakage-Free Cache Hierarchies for TEEs'
+  authors:
+  - Kerem Arikan
+  - Abraham Farrell
+  - Williams Zhang Cen
+  - Jack McMahon
+  - Barry Williams
+  - Yu David Liu
+  - Nael Abu-Ghazaleh
+  - Dmitry Ponomarev
+  page_link: https://www.ndss-symposium.org/ndss-paper/tee-shirt-scalable-leakage-free-cache-hierarchies-for-tees/
+  discovered_artifact: null
+- title: The CURE to Vulnerabilities in RPKI Validation
+  authors:
+  - Donika Mirdita
+  - Haya Schulmann
+  - Niklas Vogel
+  - Michael Waidner
+  page_link: https://www.ndss-symposium.org/ndss-paper/the-cure-to-vulnerabilities-in-rpki-validation/
+  discovered_artifact: https://github.com/rp-cure/rp-cure
+- title: 'TextGuard: Provable Defense against Backdoor Attacks on Text Classification'
+  authors:
+  - Hengzhi Pei
+  - Jinyuan Jia
+  - Wenbo Guo
+  - Bo Li
+  - Dawn Song
+  page_link: https://www.ndss-symposium.org/ndss-paper/textguard-provable-defense-against-backdoor-attacks-on-text-classification/
+  discovered_artifact: https://github.com/AI-secure/TextGuard
+- title: Timing Channels in Adaptive Neural Networks
+  authors:
+  - Ayomide Akinsanya
+  - Tegan Brennan
+  page_link: https://www.ndss-symposium.org/ndss-paper/timing-channels-in-adaptive-neural-networks/
+  discovered_artifact: https://zenodo.org/records/10164348
+- title: Towards Precise Reporting of Cryptographic Misuses
+  authors:
+  - Yikang Chen
+  - Yibo Liu
+  - Ka Lok Wu
+  - Duc V Le
+  - Sze Yiu Chau
+  page_link: https://www.ndss-symposium.org/ndss-paper/towards-precise-reporting-of-cryptographic-misuses/
+  discovered_artifact: https://doi.org/10.5281/zenodo.10158303
+- title: Understanding the Implementation and Security Implications of Protective
+    DNS Services
+  authors:
+  - Mingxuan Liu
+  - Yiming Zhang
+  - Xiang Li
+  - Chaoyi Lu
+  - Baojun Liu
+  - Haixin Duan
+  - Xiaofeng Zheng Beijing
+  page_link: https://www.ndss-symposium.org/ndss-paper/understanding-the-implementation-and-security-implications-of-protective-dns-services/
+  discovered_artifact: https://github.com/MingxuanLiu/ProtectiveDNS
+- title: Towards Automated Regulation Analysis for Effective Privacy Compliance
+  authors:
+  - Sunil Manandhar
+  - Kapil Singh
+  - Adwait Nadkarni
+  page_link: https://www.ndss-symposium.org/ndss-paper/towards-automated-regulation-analysis-for-effective-privacy-compliance/
+  discovered_artifact: https://github.com/Secure-Platforms-Lab-W-M/ARC
+- title: Understanding Route Origin Validation (ROV) Deployment in the Real World
+    and Why MANRS Action 1 Is Not Followed
+  authors:
+  - Lancheng Qin
+  - Li Chen
+  - Dan Li
+  - Honglin Ye
+  - Yutian Wang
+  page_link: https://www.ndss-symposium.org/ndss-paper/understanding-route-origin-validation-rov-deployment-in-the-real-world-and-why-manrs-action-1-is-not-followed/
+  discovered_artifact: null
+- title: 'UniID: Spoofing Face Authentication System by Universal Identity'
+  authors:
+  - Zhihao Wu
+  - Yushi Cheng
+  - Shibo Zhang
+  - Xiaoyu Ji
+  - Wenyuan Xu
+  page_link: https://www.ndss-symposium.org/ndss-paper/uniid-spoofing-face-authentication-system-by-universal-identity/
+  discovered_artifact: null
+- title: 'Untangle: Multi-Layer Web Server Fingerprinting'
+  authors:
+  - Cem Topcuoglu
+  - Kaan Onarlioglu
+  - Bahruz Jabiyev
+  - Engin Kirda
+  page_link: https://www.ndss-symposium.org/ndss-paper/untangle-multi-layer-web-server-fingerprinting/
+  discovered_artifact: https://tranco-list.eu/list/997K2
+- title: 'UntrustIDE: Exploiting Weaknesses in VS Code Extensions'
+  authors:
+  - Elizabeth Lin
+  - Igibek Koishybayev
+  - Trevor Dunlap
+  - William Enck
+  - Alexandros Kapravelos
+  page_link: https://www.ndss-symposium.org/ndss-paper/untrustide-exploiting-weaknesses-in-vs-code-extensions/
+  discovered_artifact: https://github.com/s3c2/UntrustIDE
+- title: 'VETEOS: Statically Vetting EOSIO Contracts for the "Groundhog Day" Vulnerabilities'
+  authors:
+  - Levi Taiji Li
+  - Ningyu He
+  - Haoyu Wang
+  - Mu Zhang
+  page_link: https://www.ndss-symposium.org/ndss-paper/veteos-statically-vetting-eosio-contracts-for-the-groundhog-day-vulnerabilities/
+  discovered_artifact: https://github.com/HKJL10201/VetEOS
+- title: 'When Cryptography Needs a Hand: Practical Post-Quantum Authentication for
+    V2V Communications'
+  authors:
+  - Geoff Twardokus
+  - Nina Bindel
+  - Hanif Rahbari
+  - Sarah McCarthy
+  page_link: https://www.ndss-symposium.org/ndss-paper/when-cryptography-needs-a-hand-practical-post-quantum-authentication-for-v2v-communications/
+  discovered_artifact: https://doi.org/10.5281/zenodo.10189511
+- title: 'You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural
+    Networks'
+  authors:
+  - Qiushi Li
+  - Yan Zhang
+  - Ju Ren
+  - Qi Li
+  - Yaoxue Zhang
+  page_link: https://www.ndss-symposium.org/ndss-paper/you-can-use-but-cannot-recognize-preserving-visual-privacy-in-deep-neural-networks/
+  discovered_artifact: https://github.com/Edison9419/ndss

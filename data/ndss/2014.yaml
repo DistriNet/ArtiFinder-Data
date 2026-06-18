@@ -1,0 +1,443 @@
+- title: 'No Direction Home: The True Cost of Routing Around Decoys'
+  authors:
+  - 'Author: Amir Houmansadr'
+  - Edmund L. Wong
+  - Vitaly Shmatikov
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/no-direction-home-true-cost-routing-around-decoys/
+  discovered_artifact: null
+- title: Gaining Control of Cellular Traffic Accounting by Spurious TCP Retransmission
+  authors:
+  - 'Author: Younghwan Go'
+  - EunYoung Jeong
+  - Jongil Won
+  - Yongdae Kim
+  - Denis Foo Kune
+  - KyoungSoo Park
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/gaining-control-cellular-traffic-accounting-spurious-tcp-retransmission/
+  discovered_artifact: null
+- title: On the Mismanagement and Maliciousness of Networks
+  authors:
+  - 'Author: Jing Zhang'
+  - Zakir Durumeric
+  - Michael Bailey
+  - Mingyan Liu and Manish Karir
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/mismanagement-and-maliciousness-networks/
+  discovered_artifact: null
+- title: 'CyberProbe: Towards Internet-Scale Active Detection of Malicious Servers'
+  authors:
+  - 'Author: Antonio Nappa'
+  - Zhaoyan Xu
+  - M. Zubair Rafique
+  - Juan Caballero
+  - Guofei Gu
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/cyberprobe-towards-internet-scale-active-detection-malicious-servers/
+  discovered_artifact: null
+- title: 'ROPecker: A Generic and Practical Approach for Defending Against ROP Attacks'
+  authors:
+  - 'Author: Yueqiang Cheng'
+  - Zongwei Zhou
+  - Miao Yu
+  - Xuhua Ding
+  - Robert H. Deng
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/ropecker-generic-and-practical-approach-defending-against-rop-attacks/
+  discovered_artifact: null
+- title: 'Amplification Hell: Revisiting Network Protocols for DDoS Abuse'
+  authors:
+  - 'Author: Christian Rossow'
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/amplification-hell-revisiting-network-protocols-ddos-abuse/
+  discovered_artifact: null
+- title: A Trusted Safety Verifier for Process Controller Code
+  authors:
+  - 'Author: Stephen McLaughlin'
+  - Saman Zonouz
+  - Devin Pohly
+  - Patrick McDaniel
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/trusted-safety-verifier-process-controller-code/
+  discovered_artifact: null
+- title: 'Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems''
+    Firmwares'
+  authors:
+  - 'Author: Jonas Zaddach'
+  - Luca Bruno
+  - Aurelien Francillon and Davide Balzarotti
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/avatar-framework-support-dynamic-security-analysis-embedded-systems-firmwares/
+  discovered_artifact: http://s3.eurecom.fr/tools/avatar
+- title: 'SAFEDISPATCH: Securing C++ Virtual Calls from Memory Corruption Attacks'
+  authors:
+  - 'Author: Dongseok Jang'
+  - Zachary Tatlock
+  - Sorin Lerner
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/safedispatch-securing-c-virtual-calls-memory-corruption-attacks/
+  discovered_artifact: null
+- title: 'HYBRID-BRIDGE: Efficiently Bridging the Semantic Gap in Virtual Machine
+    Introspection via Decoupled Execution and Training Memoization'
+  authors:
+  - 'Author: Alireza Saberi'
+  - Yangchun Fu
+  - Zhiqiang Lin
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/hybrid-bridge-efficiently-bridging-semantic-gap-virtual-machine-introspection-decoupled/
+  discovered_artifact: null
+- title: 'Screenmilker: How to Milk Your Android Screen for Secrets'
+  authors:
+  - 'Author: Chia-Chi Lin'
+  - Hongyang Li
+  - Xiaoyong Zhou
+  - XiaoFeng Wang
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/screenmilker-how-milk-your-android-screen-secrets/
+  discovered_artifact: null
+- title: 'AccelPrint: Imperfections of Accelerometers Make Smartphones Trackable'
+  authors:
+  - 'Author: Sanorita Dey'
+  - Nirupam Roy
+  - Wenyuan Xu
+  - Romit Roy Choudhury and Srihari Nelakuditi
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/accelprint-imperfections-accelerometers-make-smartphones-trackable/
+  discovered_artifact: http://web.engr.illinois.edu/~sdey4/AccelPrintDataSourceCode.html
+- title: 'Inside Job: Understanding and Mitigating the Threat of External Device Mis-Bonding
+    on Android'
+  authors:
+  - 'Author: Muhammad Naveed'
+  - Xiaoyong Zhou
+  - Soteris Demetriou
+  - XiaoFeng Wang
+  - Carl A Gunter
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/inside-job-understanding-and-mitigating-threat-external-device-mis-bonding-android/
+  discovered_artifact: null
+- title: 'DSpin: Detecting Automatically Spun Content on the Web'
+  authors:
+  - 'Author: Qing Zhang'
+  - David Y. Wang
+  - Geoffrey M. Voelker
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/dspin-detecting-automatically-spun-content-web/
+  discovered_artifact: null
+- title: Breaking and Fixing Origin-Based Access Control in Hybrid Web/Mobile Application
+    Frameworks
+  authors:
+  - 'Author: Martin Georgiev'
+  - Suman Jana
+  - Vitaly Shmatikov
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/breaking-and-fixing-origin-based-access-control-hybrid-webmobile-application-frameworks/
+  discovered_artifact: https://github.com/georgiev-martin/NoFrak
+- title: Smartphones as Practical and Secure Location Verification Tokens for Payments
+  authors:
+  - 'Author: Claudio Marforio'
+  - Nikolaos Karapanos
+  - Claudio Soriente
+  - Kari Kostiainen and Srdjan Capkun
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/smartphones-practical-and-secure-location-verification-tokens-payments/
+  discovered_artifact: null
+- title: Toward Black-Box Detection of Logic Flaws in Web Applications
+  authors:
+  - 'Author: Giancarlo Pellegrino'
+  - Davide Balzarotti
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/toward-black-box-detection-logic-flaws-web-applications/
+  discovered_artifact: null
+- title: Detecting Logic Vulnerabilities in E-Commerce Applications
+  authors:
+  - 'Author: Fangqi Sun'
+  - Liang Xu
+  - Zhendong Su
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/detecting-logic-vulnerabilities-e-commerce-applications/
+  discovered_artifact: null
+- title: 'Macaroons: Cookies with Contextual Caveats for Decentralized Authorization
+    in the Cloud'
+  authors:
+  - 'Author: Arnar Birgisson'
+  - Joe Gibbs Politz
+  - Ulfar Erlingsson
+  - Ankur Taly
+  - Michael Vrable and Mark Lentczner
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/macaroons-cookies-contextual-caveats-decentralized-authorization-cloud/
+  discovered_artifact: null
+- title: Simulation of Built-in PHP Features for Precise Static Code Analysis
+  authors:
+  - 'Author: Johannes Dahse'
+  - Thorsten Holz
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/simulation-built-php-features-precise-static-code-analysis/
+  discovered_artifact: null
+- title: Enhanced Certificate Transparency and End-to-end Encrypted Mail
+  authors:
+  - 'Author: Mark D. Ryan'
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/enhanced-certificate-transparency-and-end-end-encrypted-mail/
+  discovered_artifact: null
+- title: Privacy-Preserving Distributed Stream Monitoring
+  authors:
+  - 'Author: Arik Friedman'
+  - Izchak Sharfman
+  - Daniel Keren
+  - Assaf Schuster
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/privacy-preserving-distributed-stream-monitoring/
+  discovered_artifact: null
+- title: 'The Sniper Attack: Anonymously Deanonymizing and Disabling the Tor Network'
+  authors:
+  - 'Author: Rob Jansen'
+  - Florian Tschorsch
+  - Aaron Johnson
+  - Bjorn Scheuermann
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/sniper-attack-anonymously-deanonymizing-and-disabling-tor-network/
+  discovered_artifact: http://torps.github.io/
+- title: Privacy through Pseudonymity in Mobile Telephony Systems
+  authors:
+  - 'Author: Myrto Arapinis'
+  - Loretta Ilaria Mancini
+  - Eike Ritter
+  - Mark Ryan
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/privacy-through-pseudonymity-mobile-telephony-systems/
+  discovered_artifact: null
+- title: Selling Off Privacy at Auction
+  authors:
+  - 'Author: Lukasz Olejnik'
+  - Minh-Dung Tran
+  - Claude Castelluccia
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/selling-privacy-auction/
+  discovered_artifact: null
+- title: The Tangled Web of Password Reuse
+  authors:
+  - 'Author: Anupam Das'
+  - Joseph Bonneau
+  - Matthew Caesar
+  - Nikita Borisov and XiaoFeng Wang
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/tangled-web-password-reuse/
+  discovered_artifact: null
+- title: On the Semantic Patterns of Passwords and their Security Impact
+  authors:
+  - 'Author: Rafael Veras'
+  - Christopher Collins
+  - and Julie Thorpe
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/semantic-patterns-passwords-and-their-security-impact/
+  discovered_artifact: null
+- title: 'From Very Weak to Very Strong: Analyzing Password-Strength Meters'
+  authors:
+  - 'Author: Xavier de Carné de Carnavalet and Mohammad Mannan'
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/very-weak-very-strong-analyzing-password-strength-meters/
+  discovered_artifact: http://spectrum.library.concordia.ca/978049/
+- title: 'Copker: Computing with Private Keys without RAM'
+  authors:
+  - 'Author: Le Guan'
+  - Jingqiang Lin
+  - Bo Luo
+  - Jiwu Jing
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/copker-computing-private-keys-without-ram/
+  discovered_artifact: null
+- title: Practical Dynamic Searchable Encryption with Small Leakage
+  authors:
+  - 'Author: Emil Stefanov'
+  - Charalampos Papamanthou
+  - Elaine Shi
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/practical-dynamic-searchable-encryption-small-leakage/
+  discovered_artifact: null
+- title: Decentralized Anonymous Credentials
+  authors:
+  - 'Author: Christina Garman'
+  - Matthew Green
+  - Ian Miers
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/decentralized-anonymous-credentials/
+  discovered_artifact: null
+- title: 'Dynamic Searchable Encryption in Very-Large Databases: Data Structures and
+    Implementation'
+  authors:
+  - 'Author: David Cash'
+  - Joseph Jaeger
+  - Stanislaw Jarecki
+  - Charanjit Jutla
+  - Hugo Krawczyk
+  - Marcel-Catalin Ros
+  - and Michael Steiner
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/dynamic-searchable-encryption-very-large-databases-data-structures-and-implementation/
+  discovered_artifact: null
+- title: Authentication Using Pulse-Response Biometrics
+  authors:
+  - 'Author: Kasper B. Rasmussen'
+  - Marc Roeschlin
+  - Ivan Martinovic
+  - Gene Tsudik
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/authentication-using-pulse-response-biometrics/
+  discovered_artifact: null
+- title: Hardening Persona - Improving Federated Web Login
+  authors:
+  - 'Author: Michael Dietz and Dan S. Wallach'
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/hardening-persona-improving-federated-web-login/
+  discovered_artifact: https://github.com/WhisperSystems/
+- title: Two-Factor Authentication Resilient to Server Compromise Using Mix-Bandwidth
+    Devices
+  authors:
+  - 'Author: Maliheh Shirvanian'
+  - Stanislaw Jarecki
+  - Nitesh Saxena
+  - Naveen Nathan
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/two-factor-authentication-resilient-server-compromise-using-mix-bandwidth-devices/
+  discovered_artifact: null
+- title: Leveraging USB to Establish Host Identity Using Commodity Devices
+  authors:
+  - 'Author: Adam Bates'
+  - Ryan Leonard
+  - Hannah Pruse
+  - Daniel Lowd
+  - and Kevin R. B. Butler
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/leveraging-usb-establish-host-identity-using-commodity-devices/
+  discovered_artifact: null
+- title: 'PlaceAvoider: Steering First-Person Cameras away from Sensitive Spaces'
+  authors:
+  - 'Author: Robert Templeman'
+  - Mohammed Korayem
+  - David Crandall
+  - Apu Kapadia
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/placeavoider-steering-first-person-cameras-away-sensitive-spaces/
+  discovered_artifact: null
+- title: Auditable Version Control Systems
+  authors:
+  - 'Author: Bo Chen'
+  - Reza Curtmola
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/auditable-version-control-systems/
+  discovered_artifact: null
+- title: 'Power Attack: An Increasing Threat to Data Centers'
+  authors:
+  - 'Author: Zhang Xu'
+  - Haining Wang
+  - Zichen Xu
+  - Xiaorui Wang
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/power-attack-increasing-threat-data-centers/
+  discovered_artifact: null
+- title: 'Scambaiter: Understanding Targeted Nigerian Scams on Craigslist'
+  authors:
+  - 'Author: Youngsam Park'
+  - Jackie Jones
+  - Damon McCoy
+  - Elaine Shi
+  - Markus Jakobsson
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/scambaiter-understanding-targeted-nigerian-scams-craigslist/
+  discovered_artifact: null
+- title: 'Botcoin: Monetizing Stolen Cycles'
+  authors:
+  - 'Author: Danny Yuxing Huang'
+  - Hitesh Dharmdasani
+  - Sarah Meiklejohn
+  - Vacha Dave
+  - Chris Grier
+  - Damon McCoy
+  - Stefan Savage
+  - Nicholas Weaver
+  - Alex C. Snoeren and Kirill Levchenko
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/botcoin-monetizing-stolen-cycles/
+  discovered_artifact: https://github.com/forrestv/p2pool
+- title: A Machine-learning Approach for Classifying and Categorizing Android Sources
+    and Sinks
+  authors:
+  - 'Author: Siegfried Rasthofer'
+  - Steven Arzt
+  - Eric Bodden
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/machine-learning-approach-classifying-and-categorizing-android-sources-and-sinks/
+  discovered_artifact: https://github.com/secure-software-engineering/SuSi
+- title: 'AirBag: Boosting Smartphone Resistance to Malware Infection'
+  authors:
+  - 'Author: Chiachih Wu'
+  - Yajin Zhou
+  - Kunal Patel
+  - Zhenkai Liang
+  - Xuxian Jiang
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/airbag-boosting-smartphone-resistance-malware-infection/
+  discovered_artifact: http://www.malgenomeproject.org/
+- title: 'SMV-HUNTER: Large Scale, Automated Detection of SSL/TLS Man-in-the-Middle
+    Vulnerabilities in Android Apps'
+  authors:
+  - 'Author: David Sounthiraraj'
+  - Justin Sahs
+  - Garret Greenwood
+  - Zhiqiang Lin
+  - Latifur Khan
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/smv-hunter-large-scale-automated-detection-ssltls-man-middle-vulnerabilities-android-apps/
+  discovered_artifact: null
+- title: Execute This! Analyzing Unsafe and Malicious Dynamic Code Loading in Android
+    Applications
+  authors:
+  - 'Author: Sebastian Poeplau'
+  - Yanick Fratantonio
+  - Antonio Bianchi
+  - Christopher Kruegel
+  - Giovanni Vigna
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/execute-analyzing-unsafe-and-malicious-dynamic-code-loading-android-applications/
+  discovered_artifact: null
+- title: 'Nazca: Detecting Malware Distribution in Large-Scale Networks'
+  authors:
+  - 'Author: Luca Invernizzi'
+  - Stanislav Miskovic
+  - Ruben Torres
+  - Christopher Kruegel
+  - Sabyasachi Saha
+  - Giovanni Vigna
+  - Sung-Ju Lee
+  - Marco Mellia
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/nazca-detecting-malware-distribution-large-scale-networks/
+  discovered_artifact: null
+- title: 'AppSealer: Automatic Generation of Vulnerability-Specific Patches for Preventing
+    Component Hijacking Attacks in Android Applications'
+  authors:
+  - 'Author: Mu Zhang'
+  - Heng Yin
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/appsealer-automatic-generation-vulnerability-specific-patches-preventing-component-hijacking/
+  discovered_artifact: null
+- title: 'Persistent Data-only Malware: Function Hooks without Code'
+  authors:
+  - 'Author: Sebastian Vogl'
+  - Jonas Pfoh
+  - Thomas Kittel
+  - and Claudia Eckert Technische Universitat Munchen
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/persistent-data-only-malware-function-hooks-without-code/
+  discovered_artifact: null
+- title: 'Drebin: Effective and Explainable Detection of Android Malware in Your Pocket'
+  authors:
+  - 'Author: Daniel Arp'
+  - Michael Spreitzenbarth
+  - Malte Hubner
+  - Hugo Gascon
+  - and Konrad Rieck
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/drebin-effective-and-explainable-detection-android-malware-your-pocket/
+  discovered_artifact: null
+- title: 'Gyrus: A Framework for User-Intent Monitoring of Text-Based Networked Applications'
+  authors:
+  - 'Author: Yeongjin Jang'
+  - Simon P. Chung
+  - Bryan D. Payne
+  - Wenke Lee
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/gyrus-framework-user-intent-monitoring-text-based-networked-applications/
+  discovered_artifact: null
+- title: 'Neural Signatures of User-Centered Security: An fMRI Study of Phishing,
+    and Malware Warnings'
+  authors:
+  - 'Author: Ajaya Neupane'
+  - Nitesh Saxena
+  - Keya Kuruvilla
+  - Michael Georgescu
+  - Rajesh Kana
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/neural-signatures-user-centered-security-fmri-study-phishing-and-malware-warnings/
+  discovered_artifact: null
+- title: 'Web PKI: Closing the Gap between Guidelines and Practices'
+  authors:
+  - 'Author: Antoine Delignat-Lavaud'
+  - Mart ́ın Abadi
+  - Andrew Birrell
+  - Ilya Mironov
+  - Ted Wobber
+  - Yinglian Xie
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/web-pki-closing-gap-between-guidelines-and-practices/
+  discovered_artifact: null
+- title: Efficient Private File Retrieval by Combining ORAM and PIR
+  authors:
+  - 'Author: Travis Mayberry'
+  - Erik-Oliver Blass
+  - Agnes Hui Chan
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/efficient-private-file-retrieval-combining-oram-and-pir/
+  discovered_artifact: http://pasmac.ccs.neu.edu/
+- title: Practical Known-Plaintext Attacks against Physical Layer Security in Wireless
+    MIMO Systems
+  authors:
+  - 'Author: Matthias Schulz'
+  - Adrian Loch
+  - Matthias Hollick
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/practical-known-plaintext-attacks-against-physical-layer-security-wireless-mimo-systems/
+  discovered_artifact: null
+- title: Practical Issues with TLS Client Certificate Authentication
+  authors:
+  - 'Author: Arnis Parsovs'
+  page_link: https://www.ndss-symposium.org/ndss2014/ndss-2014-programme/practical-issues-tls-client-certificate-authentication/
+  discovered_artifact: null

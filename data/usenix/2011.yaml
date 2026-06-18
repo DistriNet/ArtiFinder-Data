@@ -1,0 +1,300 @@
+- title: Detecting Malware Domains at the Upper DNS Hierarchy.
+  authors:
+  - Manos Antonakakis
+  - Roberto Perdisci
+  - Wenke Lee
+  - Nikolaos Vasiloglou
+  - David Dagon
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Antonakakis.pdf
+  discovered_artifact: null
+- title: 'Measuring Pay-per-Install: The Commoditization of Malware Distribution.'
+  authors:
+  - Juan Caballero
+  - Chris Grier
+  - Christian Kreibich
+  - Vern Paxson
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Caballero.pdf
+  discovered_artifact: null
+- title: 'Bubble Trouble: Off-Line De-Anonymization of Bubble Forms.'
+  authors:
+  - Joseph A. Calandrino
+  - William Clarkson
+  - Edward W. Felten
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Calandrino.pdf
+  discovered_artifact: null
+- title: Comprehensive Experimental Analyses of Automotive Attack Surfaces.
+  authors:
+  - Stephen Checkoway
+  - Damon McCoy
+  - Brian Kantor
+  - Danny Anderson
+  - Hovav Shacham
+  - Stefan Savage
+  - Karl Koscher
+  - Alexei Czeskis
+  - Franziska Roesner
+  - Tadayoshi Kohno
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf
+  discovered_artifact: null
+- title: 'MACE: Model-inference-Assisted Concolic Exploration for Protocol and Vulnerability
+    Discovery.'
+  authors:
+  - Chia Yuan Cho
+  - Domagoj Babic
+  - Pongsin Poosankam
+  - Kevin Zhijie Chen
+  - Edward XueJun Wu
+  - Dawn Song
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Cho.pdf
+  discovered_artifact: null
+- title: 'Why (Special Agent) Johnny (Still) Can&apos;t Encrypt: A Security Analysis
+    of the APCO Project 25 Two-Way Radio System.'
+  authors:
+  - Sandy Clark
+  - Travis Goodspeed
+  - Perry Metzger
+  - Zachary Wasserman
+  - Kevin Xu
+  - Matt Blaze
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Clark.pdf
+  discovered_artifact: null
+- title: 'ZOZZLE: Fast and Precise In-Browser JavaScript Malware Detection.'
+  authors:
+  - Charlie Curtsinger
+  - Benjamin Livshits
+  - Benjamin G. Zorn
+  - Christian Seifert
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Curtsinger.pdf
+  discovered_artifact: null
+- title: 'mCarve: Carving Attributed Dump Sets.'
+  authors:
+  - Ton van Deursen
+  - Sjouke Mauw
+  - Sasa Radomirovic
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Deursen.pdf
+  discovered_artifact: http://satoss.uni.lu/mcarve
+- title: 'QUIRE: Lightweight Provenance for Smart Phone Operating Systems.'
+  authors:
+  - Michael Dietz
+  - Shashi Shekhar 0001
+  - Yuliy Pisetsky
+  - Anhei Shu
+  - Dan S. Wallach
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Dietz7-26-11.pdf
+  discovered_artifact: http://developer.android.com/guide/market/billing/billing_best_practices.html
+- title: Cloaking Malware with the Trusted Platform Module.
+  authors:
+  - Alan M. Dunn
+  - Owen S. Hofmann
+  - Brent Waters
+  - Emmett Witchel
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Dunn.pdf
+  discovered_artifact: null
+- title: A Study of Android Application Security.
+  authors:
+  - William Enck
+  - Damien Octeau
+  - Patrick D. McDaniel
+  - Swarat Chaudhuri
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Enck.pdf
+  discovered_artifact: http://siis.cse.psu.edu/ded/
+- title: 'Permission Re-Delegation: Attacks and Defenses.'
+  authors:
+  - Adrienne Porter Felt
+  - Helen J. Wang
+  - Alexander Moshchuk
+  - Steve Hanna
+  - Erika Chin
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Felt.pdf
+  discovered_artifact: null
+- title: Secure In-Band Wireless Pairing.
+  authors:
+  - Shyamnath Gollakota
+  - Nabeel Ahmed
+  - Nickolai Zeldovich
+  - Dina Katabi
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Gollakota.pdf
+  discovered_artifact: null
+- title: Toward Secure Embedded Web Interfaces.
+  authors:
+  - Baptiste Gourdin
+  - Chinmay Soman
+  - Hristo Bojinov
+  - Elie Bursztein
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Gourdin.pdf
+  discovered_artifact: null
+- title: Outsourcing the Decryption of ABE Ciphertexts.
+  authors:
+  - Matthew Green 0001
+  - Susan Hohenberger
+  - Brent Waters
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Green.pdf
+  discovered_artifact: null
+- title: Differential Privacy Under Fire.
+  authors:
+  - Andreas Haeberlen
+  - Benjamin C. Pierce
+  - Arjun Narayan
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Haeberlen.pdf
+  discovered_artifact: null
+- title: Fast and Precise Sanitizer Analysis with BEK.
+  authors:
+  - Pieter Hooimeijer
+  - Benjamin Livshits
+  - David Molnar
+  - Prateek Saxena
+  - Margus Veanes
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Hooimeijer.pdf
+  discovered_artifact: null
+- title: Faster Secure Two-Party Computation Using Garbled Circuits.
+  authors:
+  - Yan Huang 0001
+  - David Evans 0001
+  - Jonathan Katz
+  - Lior Malka
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Huang.pdf
+  discovered_artifact: http://MightBeEvil.org
+- title: 'JACKSTRAWS: Picking Command and Control Connections from Bot Traffic.'
+  authors:
+  - Grégoire Jacob
+  - Ralf Hund
+  - Christopher Kruegel
+  - Thorsten Holz
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Jacob.pdf
+  discovered_artifact: null
+- title: 'deSEO: Combating Search-Result Poisoning.'
+  authors:
+  - John P. John
+  - Fang Yu 0002
+  - Yinglian Xie
+  - Arvind Krishnamurthy
+  - Martín Abadi
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/John.pdf
+  discovered_artifact: null
+- title: 'Show Me the Money: Characterizing Spam-advertised Revenue.'
+  authors:
+  - Chris Kanich
+  - Nicholas Weaver
+  - Damon McCoy
+  - Tristan Halvorson
+  - Christian Kreibich
+  - Kirill Levchenko
+  - Vern Paxson
+  - Geoffrey M. Voelker
+  - Stefan Savage
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Kanich.pdf
+  discovered_artifact: null
+- title: Measuring and Analyzing Search-Redirection Attacks in the Illicit Online
+    Prescription Drug Trade.
+  authors:
+  - Nektarios Leontiadis
+  - Tyler Moore 0001
+  - Nicolas Christin
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Leontiadis.pdf
+  discovered_artifact: null
+- title: 'The Phantom Tollbooth: Privacy-Preserving Electronic Toll Collection in
+    the Presence of Driver Collusion.'
+  authors:
+  - Sarah Meiklejohn
+  - Keaton Mowery
+  - Stephen Checkoway
+  - Hovav Shacham
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Meiklejohn.pdf
+  discovered_artifact: null
+- title: 'PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval.'
+  authors:
+  - Prateek Mittal
+  - Femi G. Olumofin
+  - Carmela Troncoso
+  - Nikita Borisov
+  - Ian Goldberg
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Mittal.pdf
+  discovered_artifact: null
+- title: 'Dirty Jobs: The Role of Freelance Labor in Web Service Abuse.'
+  authors:
+  - Marti Motoyama
+  - Damon McCoy
+  - Kirill Levchenko
+  - Stefan Savage
+  - Geoffrey M. Voelker
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Motoyama.pdf
+  discovered_artifact: null
+- title: 'Dark Clouds on the Horizon: Using Cloud Storage as Attack Vector and Online
+    Slack Space.'
+  authors:
+  - Martin Mulazzani
+  - Sebastian Schrittwieser
+  - Manuel Leithner
+  - Markus Huber 0001
+  - Edgar R. Weippl
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Mulazzani6-24-11.pdf
+  discovered_artifact: null
+- title: TRESOR Runs Encryption Securely Outside RAM.
+  authors:
+  - Tilo Müller
+  - Felix C. Freiling
+  - Andreas Dewald
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Muller.pdf
+  discovered_artifact: null
+- title: 'SMS of Death: From Analyzing to Attacking Mobile Phones on a Large Scale.'
+  authors:
+  - Collin Mulliner
+  - Nico Golde
+  - Jean-Pierre Seifert
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Mulliner.pdf
+  discovered_artifact: null
+- title: 'ADsafety: Type-Based Verification of JavaScript Sandboxing.'
+  authors:
+  - Joe Gibbs Politz
+  - Spiridon Aristides Eliopoulos
+  - Arjun Guha
+  - Shriram Krishnamurthi
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Politz.pdf
+  discovered_artifact: cs.brown.edu/research/plt/dl/adsafety/v1
+- title: 'Q: Exploit Hardening Made Easy.'
+  authors:
+  - Edward J. Schwartz
+  - Thanassis Avgerinos
+  - David Brumley
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Schwartz.pdf
+  discovered_artifact: null
+- title: 'SHELLOS: Enabling Fast Detection and Forensic Analysis of Code Injection
+    Attacks.'
+  authors:
+  - Kevin Z. Snow
+  - Srinivas Krishnan
+  - Fabian Monrose
+  - Niels Provos
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Snow.pdf
+  discovered_artifact: null
+- title: 'BOTMAGNIFIER: Locating Spambots on the Internet.'
+  authors:
+  - Gianluca Stringhini
+  - Thorsten Holz
+  - Brett Stone-Gross
+  - Christopher Kruegel
+  - Giovanni Vigna
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Stringhini.pdf
+  discovered_artifact: null
+- title: Static Detection of Access Control Vulnerabilities in Web Applications.
+  authors:
+  - Fangqi Sun
+  - Liang Xu
+  - Zhendong Su 0001
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Sun.pdf
+  discovered_artifact: null
+- title: Forensic Triage for Mobile Phones with DEC0DE.
+  authors:
+  - Robert J. Walls
+  - Erik G. Learned-Miller
+  - Brian Neil Levine
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Walls.pdf
+  discovered_artifact: null
+- title: 'Telex: Anticensorship in the Network Infrastructure.'
+  authors:
+  - Eric Wustrow
+  - Scott Wolchok
+  - Ian Goldberg
+  - J. Alex Halderman
+  page_link: http://static.usenix.org/events/sec11/tech/full_papers/Wustrow.pdf
+  discovered_artifact: https://telex.cc

@@ -1,0 +1,1087 @@
+- title: 'Hare Hunting in the Wild Android: A Study on the Threat of Hanging Attribute
+    References.'
+  authors:
+  - Yousra Aafer
+  - Nan Zhang 0018
+  - Zhongwen Zhang
+  - Xiao Zhang
+  - Kai Chen 0012
+  - XiaoFeng Wang 0001
+  - Xiao-yong Zhou
+  - Wenliang Du
+  - Michael Grace
+  page_link: https://doi.org/10.1145/2810103.2813648
+  discovered_artifact: null
+- title: 'Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice.'
+  authors:
+  - David Adrian
+  - Karthikeyan Bhargavan
+  - Zakir Durumeric
+  - Pierrick Gaudry
+  - Matthew Green 0001
+  - J. Alex Halderman
+  - Nadia Heninger
+  - Drew Springall
+  - Emmanuel Thomé
+  - Luke Valenta
+  - Benjamin VanderSloot
+  - Eric Wustrow
+  - Santiago Zanella-Béguelin
+  - Paul Zimmermann 0001
+  page_link: https://doi.org/10.1145/2810103.2813707
+  discovered_artifact: https://weakdh.org
+- title: Automating Fast and Secure Translations from Type-I to Type-III Pairing Schemes.
+  authors:
+  - Joseph A. Akinyele
+  - Christina Garman
+  - Susan Hohenberger
+  page_link: https://doi.org/10.1145/2810103.2813601
+  discovered_artifact: https://github.com/jhuisi/auto-tools
+- title: Transparent Data Deduplication in the Cloud.
+  authors:
+  - Frederik Armknecht
+  - Jens-Matthias Bohli
+  - Ghassan O. Karame
+  - Franck Youssef
+  page_link: https://doi.org/10.1145/2810103.2813630
+  discovered_artifact: null
+- title: 'SEDA: Scalable Embedded Device Attestation.'
+  authors:
+  - N. Asokan
+  - Ferdinand Brasser
+  - Ahmad Ibrahim 0002
+  - Ahmad-Reza Sadeghi
+  - Matthias Schunter
+  - Gene Tsudik
+  - Christian Wachsmann
+  page_link: https://doi.org/10.1145/2810103.2813670
+  discovered_artifact: null
+- title: Subversion-Resilient Signature Schemes.
+  authors:
+  - Giuseppe Ateniese
+  - Bernardo Magri
+  - Daniele Venturi 0001
+  page_link: https://doi.org/10.1145/2810103.2813635
+  discovered_artifact: null
+- title: Automated Proofs of Pairing-Based Cryptography.
+  authors:
+  - Gilles Barthe
+  - Benjamin Grégoire
+  - Benedikt Schmidt
+  page_link: https://doi.org/10.1145/2810103.2813697
+  discovered_artifact: https://github.com/ZooCrypt/AutoGnP
+- title: Automated Symbolic Proofs of Observational Equivalence.
+  authors:
+  - David A. Basin
+  - Jannik Dreier
+  - Ralf Sasse
+  page_link: https://doi.org/10.1145/2810103.2813662
+  discovered_artifact: null
+- title: 'Mass-surveillance without the State: Strongly Undetectable Algorithm-Substitution
+    Attacks.'
+  authors:
+  - Mihir Bellare
+  - Joseph Jaeger
+  - Daniel Kane 0001
+  page_link: https://doi.org/10.1145/2810103.2813681
+  discovered_artifact: null
+- title: Timely Rerandomization for Mitigating Memory Disclosures.
+  authors:
+  - David Bigelow
+  - Thomas Hobson
+  - Robert Rudd
+  - William W. Streilein
+  - Hamed Okhravi
+  page_link: https://doi.org/10.1145/2810103.2813691
+  discovered_artifact: null
+- title: 'Practicing Oblivious Access on Cloud Storage: the Gap, the Fallacy, and
+    the New Way Forward.'
+  authors:
+  - Vincent Bindschaedler
+  - Muhammad Naveed 0001
+  - Xiaorui Pan
+  - XiaoFeng Wang 0001
+  - Yan Huang 0001
+  page_link: https://doi.org/10.1145/2810103.2813649
+  discovered_artifact: null
+- title: 'White-Box Cryptography Revisited: Space-Hard Ciphers.'
+  authors:
+  - Andrey Bogdanov
+  - Takanori Isobe 0001
+  page_link: https://doi.org/10.1145/2810103.2813699
+  discovered_artifact: null
+- title: 'CoDisasm: Medium Scale Concatic Disassembly of Self-Modifying Binaries with
+    Overlapping Instructions.'
+  authors:
+  - Guillaume Bonfante
+  - José M. Fernandez 0001
+  - Jean-Yves Marion
+  - Benjamin Rouxel
+  - Fabrice Sabatier
+  - Aurélien Thierry
+  page_link: https://doi.org/10.1145/2810103.2813627
+  discovered_artifact: http://www.lhs.loria.fr
+- title: Fast Non-Malleable Commitments.
+  authors:
+  - Hai Brenner
+  - Vipul Goyal
+  - Silas Richelson
+  - Alon Rosen
+  - Margarita Vald
+  page_link: https://doi.org/10.1145/2810103.2813721
+  discovered_artifact: null
+- title: Defeating IMSI Catchers.
+  authors:
+  - Fabian van den Broek
+  - Roel Verdult
+  - Joeri de Ruiter
+  page_link: https://doi.org/10.1145/2810103.2813615
+  discovered_artifact: null
+- title: (Un)linkable Pseudonyms for Governmental Databases.
+  authors:
+  - Jan Camenisch
+  - Anja Lehmann
+  page_link: https://doi.org/10.1145/2810103.2813658
+  discovered_artifact: null
+- title: Optimal Distributed Password Verification.
+  authors:
+  - Jan Camenisch
+  - Anja Lehmann
+  - Gregory Neven
+  page_link: https://doi.org/10.1145/2810103.2813722
+  discovered_artifact: null
+- title: Leakage-Abuse Attacks Against Searchable Encryption.
+  authors:
+  - David Cash
+  - Paul Grubbs
+  - Jason Perry
+  - Thomas Ristenpart
+  page_link: https://doi.org/10.1145/2810103.2813700
+  discovered_artifact: null
+- title: Authenticating Privately over Public Wi-Fi Hotspots.
+  authors:
+  - Aldo Cassola
+  - Erik-Oliver Blass
+  - Guevara Noubir
+  page_link: https://doi.org/10.1145/2810103.2813647
+  discovered_artifact: null
+- title: Using Linearly-Homomorphic Encryption to Evaluate Degree-2 Functions on Encrypted
+    Data.
+  authors:
+  - Dario Catalano
+  - Dario Fiore 0001
+  page_link: https://doi.org/10.1145/2810103.2813624
+  discovered_artifact: null
+- title: 'HORNET: High-speed Onion Routing at the Network Layer.'
+  authors:
+  - Chen Chen 0013
+  - Daniele Enrico Asoni
+  - David Barrera 0003
+  - George Danezis
+  - Adrian Perrig
+  page_link: https://doi.org/10.1145/2810103.2813628
+  discovered_artifact: null
+- title: 'Perplexed Messengers from the Cloud: Automated Security Analysis of Push-Messaging
+    Integrations.'
+  authors:
+  - Yangyi Chen
+  - Tongxin Li
+  - XiaoFeng Wang 0001
+  - Kai Chen 0012
+  - Xinhui Han
+  page_link: https://doi.org/10.1145/2810103.2813652
+  discovered_artifact: null
+- title: 'Static Detection of Packet Injection Vulnerabilities: A Case for Identifying
+    Attacker-controlled Implicit Information Leaks.'
+  authors:
+  - Qi Alfred Chen
+  - Zhiyun Qian
+  - Yunhan Jack Jia
+  - Yuru Shao
+  - Zhuoqing Morley Mao
+  page_link: https://doi.org/10.1145/2810103.2813643
+  discovered_artifact: null
+- title: 'Equivalence-based Security for Querying Encrypted Databases: Theory and
+    Application to Privacy Policy Audits.'
+  authors:
+  - Omar Chowdhury
+  - Deepak Garg 0001
+  - Limin Jia 0001
+  - Anupam Datta
+  page_link: https://doi.org/10.1145/2810103.2813638
+  discovered_artifact: null
+- title: Inlined Information Flow Monitoring for JavaScript.
+  authors:
+  - Andrey Chudnov
+  - David A. Naumann
+  page_link: https://doi.org/10.1145/2810103.2813684
+  discovered_artifact: null
+- title: 'Losing Control: On the Effectiveness of Control-Flow Integrity under Stack
+    Attacks.'
+  authors:
+  - Mauro Conti
+  - Stephen Crane
+  - Lucas Davi
+  - Michael Franz
+  - Per Larsen
+  - Marco Negro
+  - Christopher Liebchen
+  - Mohaned Qunaibit
+  - Ahmad-Reza Sadeghi
+  page_link: https://doi.org/10.1145/2810103.2813671
+  discovered_artifact: null
+- title: 'It&apos;s a TRaP: Table Randomization and Protection against Function-Reuse
+    Attacks.'
+  authors:
+  - Stephen J. Crane
+  - Stijn Volckaert
+  - Felix Schuster
+  - Christopher Liebchen
+  - Per Larsen
+  - Lucas Davi
+  - Ahmad-Reza Sadeghi
+  - Thorsten Holz
+  - Bjorn De Sutter
+  - Michael Franz
+  page_link: https://doi.org/10.1145/2810103.2813682
+  discovered_artifact: null
+- title: 'Provisions: Privacy-preserving Proofs of Solvency for Bitcoin Exchanges.'
+  authors:
+  - Gaby G. Dagher
+  - Benedikt Bünz
+  - Joseph Bonneau
+  - Jeremy Clark
+  - Dan Boneh
+  page_link: https://doi.org/10.1145/2810103.2813674
+  discovered_artifact: null
+- title: 'Monte Carlo Strength Evaluation: Fast and Reliable Password Checking.'
+  authors:
+  - Matteo Dell&apos;Amico
+  - Maurizio Filippone
+  page_link: https://doi.org/10.1145/2810103.2813631
+  discovered_artifact: null
+- title: Automated Synthesis of Optimized Circuits for Secure Computation.
+  authors:
+  - Daniel Demmler
+  - Ghada Dessouky
+  - Farinaz Koushanfar
+  - Ahmad-Reza Sadeghi
+  - Thomas Schneider 0003
+  - Shaza Zeitouni
+  page_link: https://doi.org/10.1145/2810103.2813678
+  discovered_artifact: https://github.com/encryptogroup/ABY
+- title: 'iRiS: Vetting Private API Abuse in iOS Applications.'
+  authors:
+  - Zhui Deng
+  - Brendan Saltaformaggio
+  - Xiangyu Zhang 0001
+  - Dongyan Xu
+  page_link: https://doi.org/10.1145/2810103.2813675
+  discovered_artifact: null
+- title: A Cryptographic Analysis of the TLS 1.3 Handshake Protocol Candidates.
+  authors:
+  - Benjamin Dowling
+  - Marc Fischlin
+  - Felix Günther 0001
+  - Douglas Stebila
+  page_link: https://doi.org/10.1145/2810103.2813653
+  discovered_artifact: null
+- title: A Search Engine Backed by Internet-Wide Scanning.
+  authors:
+  - Zakir Durumeric
+  - David Adrian
+  - Ariana Mirian
+  - Michael D. Bailey
+  - J. Alex Halderman
+  page_link: https://doi.org/10.1145/2810103.2813703
+  discovered_artifact: https://github.com/zmap/zgrab
+- title: 'Control Jujutsu: On the Weaknesses of Fine-Grained Control Flow Integrity.'
+  authors:
+  - Isaac Evans
+  - Fan Long
+  - Ulziibayar Otgonbaatar
+  - Howard E. Shrobe
+  - Martin C. Rinard
+  - Hamed Okhravi
+  - Stelios Sidiroglou-Douskos
+  page_link: https://doi.org/10.1145/2810103.2813646
+  discovered_artifact: null
+- title: 'SPRESSO: A Secure, Privacy-Respecting Single Sign-On System for the Web.'
+  authors:
+  - Daniel Fett
+  - Ralf Küsters
+  - Guido Schmitz
+  page_link: https://doi.org/10.1145/2810103.2813726
+  discovered_artifact: https://spresso.me
+- title: 'Security by Any Other Name: On the Effectiveness of Provider Based Email
+    Security.'
+  authors:
+  - Ian D. Foster
+  - Jon Larson
+  - Max Masich
+  - Alex C. Snoeren
+  - Stefan Savage
+  - Kirill Levchenko
+  page_link: https://doi.org/10.1145/2810103.2813607
+  discovered_artifact: null
+- title: Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures.
+  authors:
+  - Matt Fredrikson
+  - Somesh Jha
+  - Thomas Ristenpart
+  page_link: https://doi.org/10.1145/2810103.2813677
+  discovered_artifact: null
+- title: Lattice Basis Reduction Attack against Physically Unclonable Functions.
+  authors:
+  - Fatemeh Ganji
+  - Juliane Krämer
+  - Jean-Pierre Seifert
+  - Shahin Tajik
+  page_link: https://doi.org/10.1145/2810103.2813723
+  discovered_artifact: null
+- title: Cross-Site Search Attacks.
+  authors:
+  - Nethanel Gelernter
+  - Amir Herzberg
+  page_link: https://doi.org/10.1145/2810103.2813688
+  discovered_artifact: null
+- title: Tampering with the Delivery of Blocks and Transactions in Bitcoin.
+  authors:
+  - Arthur Gervais
+  - Hubert Ritzdorf
+  - Ghassan O. Karame
+  - Srdjan Capkun
+  page_link: https://doi.org/10.1145/2810103.2813655
+  discovered_artifact: null
+- title: 'The Clock is Still Ticking: Timing Attacks in the Modern Web.'
+  authors:
+  - Tom van Goethem
+  - Wouter Joosen
+  - Nick Nikiforakis
+  page_link: https://doi.org/10.1145/2810103.2813632
+  discovered_artifact: null
+- title: Clean Application Compartmentalization with SOAAP.
+  authors:
+  - Khilan Gudka
+  - Robert N. M. Watson
+  - Jonathan Anderson
+  - David Chisnall
+  - Brooks Davis
+  - Ben Laurie
+  - Ilias Marinos
+  - Peter G. Neumann
+  - Alex Richardson 0001
+  page_link: https://doi.org/10.1145/2810103.2813611
+  discovered_artifact: https://www.cl.cam.ac.uk/research/security/ctsrd/soaap/
+- title: 'GCM-SIV: Full Nonce Misuse-Resistant Authenticated Encryption at Under One
+    Cycle per Byte.'
+  authors:
+  - Shay Gueron
+  - Yehuda Lindell
+  page_link: https://doi.org/10.1145/2810103.2813613
+  discovered_artifact: null
+- title: Fast Garbling of Circuits Under Standard Assumptions.
+  authors:
+  - Shay Gueron
+  - Yehuda Lindell
+  - Ariel Nof
+  - Benny Pinkas
+  page_link: https://doi.org/10.1145/2810103.2813619
+  discovered_artifact: null
+- title: 'Drops for Stuff: An Analysis of Reshipping Mule Scams.'
+  authors:
+  - Shuang Hao 0001
+  - Kevin Borgolte
+  - Nick Nikiforakis
+  - Gianluca Stringhini
+  - Manuel Egele
+  - Michael Eubanks
+  - Brian Krebs
+  - Giovanni Vigna
+  page_link: https://doi.org/10.1145/2810103.2813620
+  discovered_artifact: null
+- title: Automated Analysis and Synthesis of Authenticated Encryption Schemes.
+  authors:
+  - Viet Tung Hoang
+  - Jonathan Katz
+  - Alex J. Malozemoff
+  page_link: https://doi.org/10.1145/2810103.2813636
+  discovered_artifact: https://github.com/amaloz/ae-generator
+- title: 'CacheBrowser: Bypassing Chinese Censorship without Proxies Using Cached
+    Content.'
+  authors:
+  - John Holowczak
+  - Amir Houmansadr
+  page_link: https://doi.org/10.1145/2810103.2813696
+  discovered_artifact: https://github.com/getlantern/flashlight
+- title: 'From System Services Freezing to System Server Shutdown in Android: All
+    You Need Is a Loop in an App.'
+  authors:
+  - Heqing Huang 0001
+  - Sencun Zhu
+  - Kai Chen 0012
+  - Peng Liu 0005
+  page_link: https://doi.org/10.1145/2810103.2813606
+  discovered_artifact: null
+- title: 'Surpass: System-initiated User-replaceable Passwords.'
+  authors:
+  - Jun Ho Huh
+  - Seongyeol Oh
+  - Hyoungshick Kim
+  - Konstantin Beznosov
+  - Apurva Mohan
+  - S. Raj Rajagopalan
+  page_link: https://doi.org/10.1145/2810103.2813622
+  discovered_artifact: null
+- title: 'Face/Off: Preventing Privacy Leakage From Photos in Social Networks.'
+  authors:
+  - Panagiotis Ilia
+  - Iasonas Polakis
+  - Elias Athanasopoulos
+  - Federico Maggi 0001
+  - Sotiris Ioannidis
+  page_link: https://doi.org/10.1145/2810103.2813603
+  discovered_artifact: null
+- title: On the Security of TLS 1.3 and QUIC Against Weaknesses in PKCS#1 v1.5 Encryption.
+  authors:
+  - Tibor Jager
+  - Jörg Schwenk
+  - Juraj Somorovsky
+  page_link: https://doi.org/10.1145/2810103.2813657
+  discovered_artifact: null
+- title: 'SafeDSA: Safeguard Dynamic Spectrum Access against Fake Secondary Users.'
+  authors:
+  - Xiaocong Jin
+  - Jingchao Sun
+  - Rui Zhang 0007
+  - Yanchao Zhang
+  page_link: https://doi.org/10.1145/2810103.2813717
+  discovered_artifact: null
+- title: 'Falcon Codes: Fast, Authenticated LT Codes (Or: Making Rapid Tornadoes Unstoppable).'
+  authors:
+  - Ari Juels
+  - James Kelley
+  - Roberto Tamassia
+  - Nikos Triandopoulos
+  page_link: https://doi.org/10.1145/2810103.2813728
+  discovered_artifact: null
+- title: Frequency-Hiding Order-Preserving Encryption.
+  authors:
+  - Florian Kerschbaum
+  page_link: https://doi.org/10.1145/2810103.2813629
+  discovered_artifact: null
+- title: 'DEMOS-2: Scalable E2E Verifiable Elections without Random Oracles.'
+  authors:
+  - Aggelos Kiayias
+  - Thomas Zacharias 0001
+  - Bingsheng Zhang
+  page_link: https://doi.org/10.1145/2810103.2813727
+  discovered_artifact: null
+- title: 'Traitor Deterring Schemes: Using Bitcoin as Collateral for Digital Content.'
+  authors:
+  - Aggelos Kiayias
+  - Qiang Tang 0005
+  page_link: https://doi.org/10.1145/2810103.2813698
+  discovered_artifact: null
+- title: 'Breaking and Fixing VoLTE: Exploiting Hidden Data Channels and Mis-implementations.'
+  authors:
+  - Hongil Kim
+  - Dongkwan Kim 0001
+  - Minhee Kwon
+  - HyungSeok Han
+  - Yeongjin Jang
+  - Dongsu Han
+  - Taesoo Kim
+  - Yongdae Kim
+  page_link: https://doi.org/10.1145/2810103.2813718
+  discovered_artifact: null
+- title: 'MalGene: Automatic Extraction of Malware Analysis Evasion Signature.'
+  authors:
+  - Dhilung Kirat
+  - Giovanni Vigna
+  page_link: https://doi.org/10.1145/2810103.2813642
+  discovered_artifact: null
+- title: 'AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in
+    Android Applications.'
+  authors:
+  - Deguang Kong
+  - Lei Cen
+  - Hongxia Jin
+  page_link: https://doi.org/10.1145/2810103.2813689
+  discovered_artifact: null
+- title: 'Certified PUP: Abuse in Authenticode Code Signing.'
+  authors:
+  - Platon Kotzias
+  - Srdjan Matic
+  - Richard Rivera
+  - Juan Caballero
+  page_link: https://doi.org/10.1145/2810103.2813665
+  discovered_artifact: null
+- title: 'Group Signatures with Probabilistic Revocation: A Computationally-Scalable
+    Approach for Providing Privacy-Preserving Authentication.'
+  authors:
+  - Vireshwar Kumar
+  - He Li 0007
+  - Jung-Min &quot;Jerry&quot; Park
+  - Kaigui Bian
+  - Yaling Yang
+  page_link: https://doi.org/10.1145/2810103.2813602
+  discovered_artifact: null
+- title: How to Use Bitcoin to Play Decentralized Poker.
+  authors:
+  - Ranjit Kumaresan
+  - Tal Moran
+  - Iddo Bentov
+  page_link: https://doi.org/10.1145/2810103.2813712
+  discovered_artifact: null
+- title: 'The Dropper Effect: Insights into Malware Distribution with Downloader Graph
+    Analytics.'
+  authors:
+  - Bum Jun Kwon
+  - Jayanta Mondal
+  - Jiyong Jang
+  - Leyla Bilge
+  - Tudor Dumitras
+  page_link: https://doi.org/10.1145/2810103.2813724
+  discovered_artifact: null
+- title: A Domain-Specific Language for Low-Level Secure Multiparty Computation Protocols.
+  authors:
+  - Peeter Laud
+  - Jaak Randmets
+  page_link: https://doi.org/10.1145/2810103.2813664
+  discovered_artifact: null
+- title: 'Sunlight: Fine-grained Targeting Detection at Scale with Statistical Confidence.'
+  authors:
+  - Mathias Lécuyer
+  - Riley Spahn
+  - Yannis Spiliopolous
+  - Augustin Chaintreau
+  - Roxana Geambasu
+  - Daniel J. Hsu
+  page_link: https://doi.org/10.1145/2810103.2813614
+  discovered_artifact: https://columbia.github.io/sunlight/
+- title: 'Seeing Your Face Is Not Enough: An Inertial Sensor-Based Liveness Detection
+    for Face Authentication.'
+  authors:
+  - Yan Li 0075
+  - Yingjiu Li
+  - Qiang Yan 0001
+  - Hancong Kong
+  - Robert H. Deng
+  page_link: https://doi.org/10.1145/2810103.2813612
+  discovered_artifact: null
+- title: Insecurity of Voice Solution VoLTE in LTE Mobile Networks.
+  authors:
+  - Chi-Yu Li 0001
+  - Guan-Hua Tu
+  - Chunyi Peng 0001
+  - Zengwen Yuan
+  - Yuanjie Li
+  - Songwu Lu
+  - Xinbing Wang
+  page_link: https://doi.org/10.1145/2810103.2813618
+  discovered_artifact: null
+- title: Blazing Fast 2PC in the Offline/Online Setting with Security for Malicious
+    Adversaries.
+  authors:
+  - Yehuda Lindell
+  - Ben Riva
+  page_link: https://doi.org/10.1145/2810103.2813666
+  discovered_artifact: null
+- title: Secure Deduplication of Encrypted Data without Additional Independent Servers.
+  authors:
+  - Jian Liu 0012
+  - N. Asokan
+  - Benny Pinkas
+  page_link: https://doi.org/10.1145/2810103.2813623
+  discovered_artifact: null
+- title: Exploiting Temporal Dynamics in Sybil Defenses.
+  authors:
+  - Changchang Liu
+  - Peng Gao 0008
+  - Matthew K. Wright
+  - Prateek Mittal
+  page_link: https://doi.org/10.1145/2810103.2813693
+  discovered_artifact: null
+- title: Thwarting Memory Disclosure with Efficient Hypervisor-enforced Intra-domain
+    Isolation.
+  authors:
+  - Yutao Liu
+  - Tianyu Zhou
+  - Kexin Chen
+  - Haibo Chen 0001
+  - Yubin Xia
+  page_link: https://doi.org/10.1145/2810103.2813690
+  discovered_artifact: null
+- title: 'When Good Becomes Evil: Keystroke Inference with Smartwatch.'
+  authors:
+  - Xiangyu Liu
+  - Zhe Zhou 0001
+  - Wenrui Diao
+  - Zhou Li 0001
+  - Kehuan Zhang
+  page_link: https://doi.org/10.1145/2810103.2813668
+  discovered_artifact: null
+- title: 'ASLR-Guard: Stopping Address Space Leakage for Code Reuse Attacks.'
+  authors:
+  - Kangjie Lu
+  - Chengyu Song
+  - Byoungyoung Lee
+  - Simon P. Chung
+  - Taesoo Kim
+  - Wenke Lee
+  page_link: https://doi.org/10.1145/2810103.2813694
+  discovered_artifact: null
+- title: Demystifying Incentives in the Consensus Computer.
+  authors:
+  - Loi Luu
+  - Jason Teutsch
+  - Raghav Kulkarni
+  - Prateek Saxena
+  page_link: https://doi.org/10.1145/2810103.2813659
+  discovered_artifact: null
+- title: 'CCFI: Cryptographically Enforced Control Flow Integrity.'
+  authors:
+  - Ali José Mashtizadeh
+  - Andrea Bittau
+  - Dan Boneh
+  - David Mazières
+  page_link: https://doi.org/10.1145/2810103.2813676
+  discovered_artifact: http://ccfi.scs.stanford.edu
+- title: 'CARONTE: Detecting Location Leaks for Deanonymizing Tor Hidden Services.'
+  authors:
+  - Srdjan Matic
+  - Platon Kotzias
+  - Juan Caballero
+  page_link: https://doi.org/10.1145/2810103.2813667
+  discovered_artifact: null
+- title: Ciphertext-only Cryptanalysis on Hardened Mifare Classic Cards.
+  authors:
+  - Carlo Meijer
+  - Roel Verdult
+  page_link: https://doi.org/10.1145/2810103.2813641
+  discovered_artifact: null
+- title: 'GRECS: Graph Encryption for Approximate Shortest Distance Queries.'
+  authors:
+  - Xianrui Meng
+  - Seny Kamara
+  - Kobbi Nissim
+  - George Kollios
+  page_link: https://doi.org/10.1145/2810103.2813672
+  discovered_artifact: null
+- title: Nonoutsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions.
+  authors:
+  - Andrew Miller 0001
+  - Ahmed E. Kosba
+  - Jonathan Katz
+  - Elaine Shi
+  page_link: https://doi.org/10.1145/2810103.2813621
+  discovered_artifact: http://cs.umd.edu/~amiller/
+- title: 'LOOP: Logic-Oriented Opaque Predicate Detection in Obfuscated Binary Code.'
+  authors:
+  - Jiang Ming 0002
+  - Dongpeng Xu 0001
+  - Li Wang
+  - Dinghao Wu
+  page_link: https://doi.org/10.1145/2810103.2813617
+  discovered_artifact: https://github.com/s3team/loop
+- title: Constant Communication ORAM with Small Blocksize.
+  authors:
+  - Tarik Moataz
+  - Travis Mayberry
+  - Erik-Oliver Blass
+  page_link: https://doi.org/10.1145/2810103.2813701
+  discovered_artifact: null
+- title: 'Fast and Secure Three-party Computation: The Garbled Circuit Approach.'
+  authors:
+  - Payman Mohassel
+  - Mike Rosulek
+  - Ye Zhang
+  page_link: https://doi.org/10.1145/2810103.2813705
+  discovered_artifact: null
+- title: 'Nomad: Mitigating Arbitrary Cloud Side Channels via Provider-Assisted Migration.'
+  authors:
+  - Soo-Jin Moon
+  - Vyas Sekar
+  - Michael K. Reiter
+  page_link: https://doi.org/10.1145/2810103.2813706
+  discovered_artifact: null
+- title: 'FlowWatcher: Defending against Data Disclosure Vulnerabilities in Web Applications.'
+  authors:
+  - Divya Muthukumaran
+  - Dan O&apos;Keeffe
+  - Christian Priebe
+  - David M. Eyers
+  - Brian Shand
+  - Peter R. Pietzuch
+  page_link: https://doi.org/10.1145/2810103.2813639
+  discovered_artifact: null
+- title: Inference Attacks on Property-Preserving Encrypted Databases.
+  authors:
+  - Muhammad Naveed 0001
+  - Seny Kamara
+  - Charles V. Wright
+  page_link: https://doi.org/10.1145/2810103.2813651
+  discovered_artifact: https://github.com/google/encrypted-bigquery-client
+- title: 'WebCapsule: Towards a Lightweight Forensic Engine for Web Browsers.'
+  authors:
+  - Christopher Neasbitt
+  - Bo Li 0058
+  - Roberto Perdisci
+  - Long Lu
+  - Kapil Singh
+  - Kang Li 0001
+  page_link: https://doi.org/10.1145/2810103.2813656
+  discovered_artifact: http://webcapsule.org
+- title: A Multi-Modal Neuro-Physiological Study of Phishing Detection and Malware
+    Warnings.
+  authors:
+  - Ajaya Neupane
+  - Md. Lutfor Rahman
+  - Nitesh Saxena
+  - Leanne M. Hirshfield
+  page_link: https://doi.org/10.1145/2810103.2813660
+  discovered_artifact: null
+- title: Per-Input Control-Flow Integrity.
+  authors:
+  - Ben Niu 0007
+  - Gang Tan
+  page_link: https://doi.org/10.1145/2810103.2813644
+  discovered_artifact: https://github.com/mcfi
+- title: Observing and Preventing Leakage in MapReduce.
+  authors:
+  - Olga Ohrimenko
+  - Manuel Costa
+  - Cédric Fournet
+  - Christos Gkantsidis
+  - Markulf Kohlweiss
+  - Divya Sharma
+  page_link: https://doi.org/10.1145/2810103.2813695
+  discovered_artifact: null
+- title: Detecting and Exploiting Second Order Denial-of-Service Vulnerabilities in
+    Web Applications.
+  authors:
+  - Oswaldo Olivo
+  - Isil Dillig
+  - Calvin Lin
+  page_link: https://doi.org/10.1145/2810103.2813680
+  discovered_artifact: null
+- title: 'The Spy in the Sandbox: Practical Cache Attacks in JavaScript and their
+    Implications.'
+  authors:
+  - Yossef Oren
+  - Vasileios P. Kemerlis
+  - Simha Sethumadhavan
+  - Angelos D. Keromytis
+  page_link: https://doi.org/10.1145/2810103.2813708
+  discovered_artifact: null
+- title: Micropayments for Decentralized Currencies.
+  authors:
+  - Rafael Pass
+  - Abhi Shelat
+  page_link: https://doi.org/10.1145/2810103.2813713
+  discovered_artifact: https://bitcoinj.github.io/working-with-micropayments
+- title: Leakage-Resilient Authentication and Encryption from Symmetric Cryptographic
+    Primitives.
+  authors:
+  - Olivier Pereira
+  - François-Xavier Standaert
+  - Srinivas Vivek 0001
+  page_link: https://doi.org/10.1145/2810103.2813626
+  discovered_artifact: null
+- title: 'VCCFinder: Finding Potential Vulnerabilities in Open-Source Projects to
+    Assist Code Audits.'
+  authors:
+  - Henning Perl
+  - Sergej Dechand
+  - Matthew Smith 0001
+  - Daniel Arp
+  - Fabian Yamaguchi
+  - Konrad Rieck
+  - Sascha Fahl
+  - Yasemin Acar
+  page_link: https://doi.org/10.1145/2810103.2813604
+  discovered_artifact: http://sethrobertson.GitHub.io/GitBestPractices/
+- title: 'Where&apos;s Wally?: Precise User Discovery Attacks in Location Proximity
+    Services.'
+  authors:
+  - Iasonas Polakis
+  - George Argyros
+  - Theofilos Petsios
+  - Suphannee Sivakorn
+  - Angelos D. Keromytis
+  page_link: https://doi.org/10.1145/2810103.2813605
+  discovered_artifact: http://www.cs.columbia.edu/nsl/projects/vpsn/
+- title: 'Liar, Liar, Coins on Fire!: Penalizing Equivocation By Loss of Bitcoins.'
+  authors:
+  - Tim Ruffing
+  - Aniket Kate
+  - Dominique Schröder
+  page_link: https://doi.org/10.1145/2810103.2813686
+  discovered_artifact: null
+- title: 'GUITAR: Piecing Together Android App GUIs from Memory Images.'
+  authors:
+  - Brendan Saltaformaggio
+  - Rohit Bhatia
+  - Zhongshu Gu
+  - Xiangyu Zhang 0001
+  - Dongyan Xu
+  page_link: https://doi.org/10.1145/2810103.2813650
+  discovered_artifact: null
+- title: 'VCR: App-Agnostic Recovery of Photographic Evidence from Android Device
+    Memory Images.'
+  authors:
+  - Brendan Saltaformaggio
+  - Rohit Bhatia
+  - Zhongshu Gu
+  - Xiangyu Zhang 0001
+  - Dongyan Xu
+  page_link: https://doi.org/10.1145/2810103.2813720
+  discovered_artifact: null
+- title: 'TOPAS: 2-Pass Key Exchange with Full Perfect Forward Secrecy and Optimal
+    Communication Complexity.'
+  authors:
+  - Sven Schäge
+  page_link: https://doi.org/10.1145/2810103.2813683
+  discovered_artifact: null
+- title: Privacy-Preserving Deep Learning.
+  authors:
+  - Reza Shokri
+  - Vitaly Shmatikov
+  page_link: https://doi.org/10.1145/2810103.2813687
+  discovered_artifact: https://github.com/facebook/fblualib
+- title: 'PyCRA: Physical Challenge-Response Authentication For Active Sensors Under
+    Spoofing Attacks.'
+  authors:
+  - Yasser Shoukry
+  - Paul Martin 0008
+  - Yair Yona
+  - Suhas N. Diggavi
+  - Mani B. Srivastava
+  page_link: https://doi.org/10.1145/2810103.2813679
+  discovered_artifact: null
+- title: Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths.
+  authors:
+  - Xiaokui Shu
+  - Danfeng Yao
+  - Naren Ramakrishnan
+  page_link: https://doi.org/10.1145/2810103.2813654
+  discovered_artifact: null
+- title: 'Moat: Verifying Confidentiality of Enclave Programs.'
+  authors:
+  - Rohit Sinha 0001
+  - Sriram K. Rajamani
+  - Sanjit A. Seshia
+  - Kapil Vaswani
+  page_link: https://doi.org/10.1145/2810103.2813608
+  discovered_artifact: https://devmoat.github.io
+- title: 'CrowdTarget: Target-based Detection of Crowdturfing in Online Social Networks.'
+  authors:
+  - Jonghyuk Song
+  - Sangho Lee 0001
+  - Jong Kim 0001
+  page_link: https://doi.org/10.1145/2810103.2813661
+  discovered_artifact: null
+- title: 'The SICILIAN Defense: Signature-based Whitelisting of Web JavaScript.'
+  authors:
+  - Pratik Soni
+  - Enrico Budianto
+  - Prateek Saxena
+  page_link: https://doi.org/10.1145/2810103.2813710
+  discovered_artifact: null
+- title: 'From Facepalm to Brain Bender: Exploring Client-Side Cross-Site Scripting.'
+  authors:
+  - Ben Stock
+  - Stephan Pfistner
+  - Bernd Kaiser
+  - Sebastian Lekies
+  - Martin Johns
+  page_link: https://doi.org/10.1145/2810103.2813625
+  discovered_artifact: null
+- title: 'TrustOTP: Transforming Smartphones into Secure One-Time Password Tokens.'
+  authors:
+  - He Sun 0005
+  - Kun Sun 0001
+  - Yuewu Wang
+  - Jiwu Jing
+  page_link: https://doi.org/10.1145/2810103.2813692
+  discovered_artifact: null
+- title: 'Heisenbyte: Thwarting Memory Disclosure Attacks using Destructive Code Reads.'
+  authors:
+  - Adrian Tang
+  - Simha Sethumadhavan
+  - Salvatore J. Stolfo
+  page_link: https://doi.org/10.1145/2810103.2813685
+  discovered_artifact: null
+- title: 'Differential Privacy with Bounded Priors: Reconciling Utility and Privacy
+    in Genome-Wide Association Studies.'
+  authors:
+  - Florian Tramèr
+  - Zhicong Huang
+  - Jean-Pierre Hubaux
+  - Erman Ayday
+  page_link: https://doi.org/10.1145/2810103.2813610
+  discovered_artifact: null
+- title: Deniable Key Exchanges for Secure Messaging.
+  authors:
+  - Nik Unger
+  - Ian Goldberg
+  page_link: https://doi.org/10.1145/2810103.2813616
+  discovered_artifact: http://hdl.handle.net/10012/9406
+- title: Practical Context-Sensitive CFI.
+  authors:
+  - Victor van der Veen
+  - Dennis Andriesse
+  - Enes Göktas
+  - Ben Gras
+  - Lionel Sambuc
+  - Asia Slowinska
+  - Herbert Bos
+  - Cristiano Giuffrida
+  page_link: https://doi.org/10.1145/2810103.2813673
+  discovered_artifact: https://github.com/dennisaa/patharmor
+- title: 'Maneuvering Around Clouds: Bypassing Cloud-based Security Providers.'
+  authors:
+  - Thomas Vissers
+  - Tom van Goethem
+  - Wouter Joosen
+  - Nick Nikiforakis
+  page_link: https://doi.org/10.1145/2810103.2813633
+  discovered_artifact: null
+- title: 'Circuit ORAM: On Tightness of the Goldreich-Ostrovsky Lower Bound.'
+  authors:
+  - Xiao Wang 0012
+  - T.-H. Hubert Chan
+  - Elaine Shi
+  page_link: https://doi.org/10.1145/2810103.2813634
+  discovered_artifact: null
+- title: Seeing through Network-Protocol Obfuscation.
+  authors:
+  - Liang Wang 0023
+  - Kevin P. Dyer
+  - Aditya Akella
+  - Thomas Ristenpart
+  - Thomas Shrimpton
+  page_link: https://doi.org/10.1145/2810103.2813715
+  discovered_artifact: null
+- title: Efficient Genome-Wide, Privacy-Preserving Similar Patient Query based on
+    Private Edit Distance.
+  authors:
+  - Xiao Shaun Wang
+  - Yan Huang 0001
+  - Yongan Zhao
+  - Haixu Tang
+  - XiaoFeng Wang 0001
+  - Diyue Bu
+  page_link: https://doi.org/10.1145/2810103.2813725
+  discovered_artifact: https://github.com/SPQ-EditDistance/code
+- title: Location-restricted Services Access Control Leveraging Pinpoint Waveforming.
+  authors:
+  - Tao Wang 0026
+  - Yao Liu 0007
+  - Qingqi Pei
+  - Tao Hou 0001
+  page_link: https://doi.org/10.1145/2810103.2813709
+  discovered_artifact: null
+- title: 'Walls Have Ears! Opportunistically Communicating Secret Messages Over the
+    Wiretap Channel: from Theory to Practice.'
+  authors:
+  - Qian Wang 0002
+  - Kui Ren 0001
+  - Guancheng Li
+  - Chenbo Xia
+  - Xiaobing Chen
+  - Zhibo Wang 0001
+  - Qin Zou 0001
+  page_link: https://doi.org/10.1145/2810103.2813702
+  discovered_artifact: null
+- title: Mitigating Storage Side Channels Using Statistical Privacy Mechanisms.
+  authors:
+  - Qiuyu Xiao
+  - Michael K. Reiter
+  - Yinqian Zhang
+  page_link: https://doi.org/10.1145/2810103.2813645
+  discovered_artifact: null
+- title: Protecting Locations with Differential Privacy under Temporal Correlations.
+  authors:
+  - Yonghui Xiao
+  - Li Xiong 0001
+  page_link: https://doi.org/10.1145/2810103.2813640
+  discovered_artifact: null
+- title: 'Cracking App Isolation on Apple: Unauthorized Cross-App Resource Access
+    on MAC OS~X and iOS.'
+  authors:
+  - Luyi Xing
+  - Xiaolong Bai
+  - Tongxin Li
+  - XiaoFeng Wang 0001
+  - Kai Chen 0012
+  - Xiaojing Liao
+  - Shi-Min Hu 0001
+  - Xinhui Han
+  page_link: https://doi.org/10.1145/2810103.2813609
+  discovered_artifact: null
+- title: 'UCognito: Private Browsing without Tears.'
+  authors:
+  - Meng Xu 0001
+  - Yeongjin Jang
+  - Xinyu Xing 0001
+  - Taesoo Kim
+  - Wenke Lee
+  page_link: https://doi.org/10.1145/2810103.2813716
+  discovered_artifact: null
+- title: 'From Collision To Exploitation: Unleashing Use-After-Free Vulnerabilities
+    in Linux Kernel.'
+  authors:
+  - Wen Xu
+  - Juanru Li
+  - Junliang Shu
+  - Wenbo Yang
+  - Tianyi Xie
+  - Yuanyuan Zhang 0002
+  - Dawu Gu
+  page_link: https://doi.org/10.1145/2810103.2813637
+  discovered_artifact: null
+- title: Symbolic Execution of Obfuscated Code.
+  authors:
+  - Babak Yadegari
+  - Saumya Debray
+  page_link: https://doi.org/10.1145/2810103.2813663
+  discovered_artifact: null
+- title: Trusted Display on Untrusted Commodity Platforms.
+  authors:
+  - Miao Yu
+  - Virgil D. Gligor
+  - Zongwei Zhou
+  page_link: https://doi.org/10.1145/2810103.2813719
+  discovered_artifact: null
+- title: Towards Automatic Generation of Security-Centric Descriptions for Android
+    Apps.
+  authors:
+  - Mu Zhang 0001
+  - Yue Duan
+  - Qian Feng
+  - Heng Yin 0001
+  page_link: https://doi.org/10.1145/2810103.2813669
+  discovered_artifact: null
+- title: 'IntegriDB: Verifiable SQL for Outsourced Databases.'
+  authors:
+  - Yupeng Zhang 0001
+  - Jonathan Katz
+  - Charalampos Papamanthou
+  page_link: https://doi.org/10.1145/2810103.2813711
+  discovered_artifact: integridb.github.io
+- title: 'Android Root and its Providers: A Double-Edged Sword.'
+  authors:
+  - Hang Zhang 0012
+  - Dongdong She
+  - Zhiyun Qian
+  page_link: https://doi.org/10.1145/2810103.2813714
+  discovered_artifact: null
+- title: An Empirical Study of Web Vulnerability Discovery Ecosystems.
+  authors:
+  - Mingyi Zhao
+  - Jens Grossklags
+  - Peng Liu 0005
+  page_link: https://doi.org/10.1145/2810103.2813704
+  discovered_artifact: null

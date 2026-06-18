@@ -1,0 +1,219 @@
+- title: 'AEG: Automatic Exploit Generation.'
+  authors:
+  - Thanassis Avgerinos
+  - Sang Kil Cha
+  - Brent Lim Tze Hao
+  - David Brumley
+  page_link: https://www.ndss-symposium.org/ndss2011/aeg-automatic-exploit-generation
+  discovered_artifact: null
+- title: A Security API for Distributed Social Networks.
+  authors:
+  - Michael Backes 0001
+  - Matteo Maffei
+  - Kim Pecina
+  page_link: https://www.ndss-symposium.org/ndss2011/security-api-distributed-social-networks-paper
+  discovered_artifact: null
+- title: Automated Discovery of Parameter Pollution Vulnerabilities in Web Applications.
+  authors:
+  - Marco Balduzzi
+  - Carmen Torrano Gimenez
+  - Davide Balzarotti
+  - Engin Kirda
+  page_link: https://www.ndss-symposium.org/ndss2011/automated-discovery-of-parameter-pollution-vulnerabilities-in-web-applications
+  discovered_artifact: null
+- title: 'EXPOSURE: Finding Malicious Domains Using Passive DNS Analysis.'
+  authors:
+  - Leyla Bilge
+  - Engin Kirda
+  - Christopher Kruegel
+  - Marco Balduzzi
+  page_link: https://www.ndss-symposium.org/ndss2011/exposure-finding-malicious-domains-using-passive-dns-analysis
+  discovered_artifact: null
+- title: 'Tracker: Security and Privacy for RFID-based Supply Chains.'
+  authors:
+  - Erik-Oliver Blass
+  - Kaoutar Elkhiyaoui
+  - Refik Molva
+  page_link: https://www.ndss-symposium.org/ndss2011/tracker-security-and-privacy-for-rfid-based-supply-chains
+  discovered_artifact: null
+- title: 'Good Neighbor: Ad hoc Pairing of Nearby Wireless Devices by Multiple Antennas.'
+  authors:
+  - Liang Cai
+  - Kai Zeng 0001
+  - Hao Chen 0003
+  - Prasant Mohapatra
+  page_link: https://www.ndss-symposium.org/ndss2011/good-neighbor-ad-hoc-pairing-of-nearby-wireless-devices-by-multiple-antennas
+  discovered_artifact: null
+- title: Accurate and Provably Secure Latency Estimation with Treeple.
+  authors:
+  - Eric Chan-Tin
+  - Nicholas Hopper
+  page_link: https://www.ndss-symposium.org/ndss2011/accurate-and-provably-secure-latency-estimation-treeple
+  discovered_artifact: null
+- title: 'On Measuring the Similarity of Network Hosts: Pitfalls, New Metrics, and
+    Empirical Analyses.'
+  authors:
+  - Scott E. Coull
+  - Fabian Monrose
+  - Michael D. Bailey
+  page_link: https://www.ndss-symposium.org/ndss2011/measuring-similarity-network-hosts-pitfalls-new-metrics-and-empirical-analyses
+  discovered_artifact: null
+- title: 'No Loitering: Exploiting Lingering Vulnerabilities in Default COM Objects.'
+  authors:
+  - David Dewey
+  - Patrick Traynor
+  page_link: https://www.ndss-symposium.org/ndss2011/no-loitering-exploiting-lingering-vulnerabilities-in-default-com-objects
+  discovered_artifact: null
+- title: 'SPARE: Replicas on Hold.'
+  authors:
+  - Tobias Distler
+  - Ivan Popov
+  - Wolfgang Schröder-Preikschat
+  - Hans P. Reiser
+  - Rüdiger Kapitza
+  page_link: https://www.ndss-symposium.org/ndss2011/spare-replicas-hold
+  discovered_artifact: null
+- title: 'PiOS: Detecting Privacy Leaks in iOS Applications.'
+  authors:
+  - Manuel Egele
+  - Christopher Kruegel
+  - Engin Kirda
+  - Giovanni Vigna
+  page_link: https://www.ndss-symposium.org/ndss2011/pios-detecting-privacy-leaks-ios-applications-paper
+  discovered_artifact: null
+- title: Using Classification to Protect the Integrity of Spectrum Measurements in
+    White Space Networks.
+  authors:
+  - Omid Fatemieh
+  - Ali Farhadi
+  - Ranveer Chandra
+  - Carl A. Gunter
+  page_link: https://www.ndss-symposium.org/ndss2011/using-classification-protect-integrity-spectrum-measurements-white-space-networks
+  discovered_artifact: null
+- title: Relay Attacks on Passive Keyless Entry and Start Systems in Modern Cars.
+  authors:
+  - Aurélien Francillon
+  - Boris Danev
+  - Srdjan Capkun
+  page_link: https://www.ndss-symposium.org/ndss2011/relay-attacks-on-passive-keyless-entry-and-start-systems-in-modern-cars
+  discovered_artifact: null
+- title: 'SWIRL: A Scalable Watermark to Detect Correlated Network Flows.'
+  authors:
+  - Amir Houmansadr
+  - Nikita Borisov
+  page_link: https://www.ndss-symposium.org/ndss2011/swirl-scalable-watermark-detect-correlated-network-flows
+  discovered_artifact: null
+- title: Efficient Privacy-Preserving Biometric Identification.
+  authors:
+  - Yan Huang 0001
+  - Lior Malka
+  - David Evans 0001
+  - Jonathan Katz
+  page_link: https://www.ndss-symposium.org/ndss2011/efficient-privacy-preserving-biometric-identification
+  discovered_artifact: http://mightbeevil.org
+- title: 'TIE: Principled Reverse Engineering of Types in Binary Programs.'
+  authors:
+  - JongHyup Lee
+  - Thanassis Avgerinos
+  - David Brumley
+  page_link: https://www.ndss-symposium.org/ndss2011/tie-principled-reverse-engineering-of-types-in-binary-programs
+  discovered_artifact: null
+- title: 'WebShield: Enabling Various Web Defense Techniques without Client Side Modifications.'
+  authors:
+  - Zhichun Li
+  - Yi Tang 0002
+  - Yinzhi Cao
+  - Vaibhav Rastogi
+  - Yan Chen 0004
+  - Bin Liu 0001
+  - Clint Sbisa
+  page_link: https://www.ndss-symposium.org/ndss2011/webshield-enabling-various-web-defense-techniques-without-client-side-modifications
+  discovered_artifact: null
+- title: Usability Testing a Malware-Resistant Input Mechanism.
+  authors:
+  - Alana Libonati
+  - Jonathan M. McCune
+  - Michael K. Reiter
+  page_link: https://www.ndss-symposium.org/ndss2011/usability-testing-a-malware-resistant-input-mechanism
+  discovered_artifact: null
+- title: 'SigGraph: Brute Force Scanning of Kernel Data Structure Instances Using
+    Graph-based Signatures.'
+  authors:
+  - Zhiqiang Lin 0001
+  - Junghwan Rhee
+  - Xiangyu Zhang 0001
+  - Dongyan Xu
+  - Xuxian Jiang
+  page_link: https://www.ndss-symposium.org/ndss2011/siggraph-brute-force-scanning-of-kernel-data-structure-instances-using-graph-based-signatures
+  discovered_artifact: null
+- title: 'HTTPOS: Sealing Information Leaks with Browser-side Obfuscation of Encrypted
+    Flows.'
+  authors:
+  - Xiapu Luo
+  - Peng Zhou 0002
+  - Edmond W. W. Chan
+  - Wenke Lee
+  - Rocky K. C. Chang
+  - Roberto Perdisci
+  page_link: https://www.ndss-symposium.org/ndss2011/httpos-sealing-information-leaks-with-browser-side-obfuscation-of-encrypted-flows
+  discovered_artifact: null
+- title: Location Privacy via Private Proximity Testing.
+  authors:
+  - Arvind Narayanan
+  - Narendran Thiagarajan
+  - Mugdha Lakhani
+  - Michael Hamburg
+  - Dan Boneh
+  page_link: https://www.ndss-symposium.org/ndss2011/privacy-private-proximity-testing-paper
+  discovered_artifact: null
+- title: 'Soundcomber: A Stealthy and Context-Aware Sound Trojan for Smartphones.'
+  authors:
+  - Roman Schlegel
+  - Kehuan Zhang
+  - Xiao-yong Zhou
+  - Mehool Intwala
+  - Apu Kapadia
+  - XiaoFeng Wang 0001
+  page_link: https://www.ndss-symposium.org/ndss2011/soundcomber-stealthy-and-context-aware-sound-trojan-smartphones
+  discovered_artifact: null
+- title: 'Losing Control of the Internet: Using the Data Plane to Attack the Control
+    Plane.'
+  authors:
+  - Max Schuchard
+  - Abedelaziz Mohaisen
+  - Denis Foo Kune
+  - Nicholas Hopper
+  - Yongdae Kim
+  - Eugene Y. Vasserman
+  page_link: https://www.ndss-symposium.org/ndss2011/losing-control-internet-using-data-plane-attack-control-plane
+  discovered_artifact: null
+- title: Privacy-Preserving Aggregation of Time-Series Data.
+  authors:
+  - Elaine Shi
+  - T.-H. Hubert Chan
+  - Eleanor Gilbert Rieffel
+  - Richard Chow
+  - Dawn Song
+  page_link: https://www.ndss-symposium.org/ndss2011/privacy-preserving-aggregation-of-time-series-data
+  discovered_artifact: null
+- title: 'Howard: A Dynamic Excavator for Reverse Engineering Data Structures.'
+  authors:
+  - Asia Slowinska
+  - Traian Stancescu
+  - Herbert Bos
+  page_link: https://www.ndss-symposium.org/ndss2011/howard-a-dynamic-excavator-for-reverse-engineering-data-structures
+  discovered_artifact: null
+- title: Efficient Monitoring of Untrusted Kernel-Mode Execution.
+  authors:
+  - Abhinav Srivastava
+  - Jonathon T. Giffin
+  page_link: https://www.ndss-symposium.org/ndss2011/efficient-monitoring-untrusted-kernel-mode-execution
+  discovered_artifact: null
+- title: Practical Protection of Kernel Integrity for Commodity OS from Untrusted
+    Extensions.
+  authors:
+  - Xi Xiong
+  - Donghai Tian
+  - Peng Liu 0005
+  page_link: https://www.ndss-symposium.org/ndss2011/practical-protection-of-kernel-integrity-for-commodity-os-from-untrusted-extensions
+  discovered_artifact: null

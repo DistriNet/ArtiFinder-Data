@@ -1,0 +1,333 @@
+- title: Detecting Hoaxes, Frauds, and Deception in Writing Style Online.
+  authors:
+  - Sadia Afroz 0001
+  - Michael Brennan
+  - Rachel Greenstadt
+  page_link: https://doi.org/10.1109/SP.2012.34
+  discovered_artifact: https://psal.cs.drexel.edu
+- title: 'LASTor: A Low-Latency AS-Aware Tor Client.'
+  authors:
+  - Masoud Akhoondi
+  - Curtis Yu
+  - Harsha V. Madhyastha
+  page_link: https://doi.org/10.1109/SP.2012.35
+  discovered_artifact: null
+- title: Sharing Mobile Code Securely with Information Flow Control.
+  authors:
+  - Owen Arden
+  - Michael D. George
+  - Jed Liu
+  - K. Vikram
+  - Aslan Askarov
+  - Andrew C. Myers
+  page_link: https://doi.org/10.1109/SP.2012.22
+  discovered_artifact: http://www.cs.cornell.edu/projects/fabric
+- title: 'ObliviAd: Provably Secure and Practical Online Behavioral Advertising.'
+  authors:
+  - Michael Backes 0001
+  - Aniket Kate
+  - Matteo Maffei
+  - Kim Pecina
+  page_link: https://doi.org/10.1109/SP.2012.25
+  discovered_artifact: null
+- title: 'OB-PWS: Obfuscation-Based Private Web Search.'
+  authors:
+  - Ero Balsa
+  - Carmela Troncoso
+  - Claudia Díaz
+  page_link: https://doi.org/10.1109/SP.2012.36
+  discovered_artifact: null
+- title: Foundations of Logic-Based Trust Management.
+  authors:
+  - Moritz Y. Becker
+  - Alessandra Russo
+  - Nik Sultana
+  page_link: https://doi.org/10.1109/SP.2012.20
+  discovered_artifact: null
+- title: 'The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords.'
+  authors:
+  - Joseph Bonneau
+  page_link: https://doi.org/10.1109/SP.2012.49
+  discovered_artifact: null
+- title: 'The Quest to Replace Passwords: A Framework for Comparative Evaluation of
+    Web Authentication Schemes.'
+  authors:
+  - Joseph Bonneau
+  - Cormac Herley
+  - Paul C. van Oorschot
+  - Frank Stajano
+  page_link: https://doi.org/10.1109/SP.2012.44
+  discovered_artifact: www.cl.cam.ac.uk/techreports/UCAM-CL-TR-817.html
+- title: Unleashing Mayhem on Binary Code.
+  authors:
+  - Sang Kil Cha
+  - Thanassis Avgerinos
+  - Alexandre Rebert
+  - David Brumley
+  page_link: https://doi.org/10.1109/SP.2012.31
+  discovered_artifact: null
+- title: Distance Hijacking Attacks on Distance Bounding Protocols.
+  authors:
+  - Cas Cremers
+  - Kasper Bonne Rasmussen
+  - Benedikt Schmidt 0002
+  - Srdjan Capkun
+  page_link: https://doi.org/10.1109/SP.2012.17
+  discovered_artifact: null
+- title: 'Hummingbird: Privacy at the Time of Twitter.'
+  authors:
+  - Emiliano De Cristofaro
+  - Claudio Soriente
+  - Gene Tsudik
+  - Andrew Williams 0003
+  page_link: https://doi.org/10.1109/SP.2012.26
+  discovered_artifact: http://sprout.ics.uci.edu/hummingbird
+- title: A Framework to Eliminate Backdoors from Response-Computable Authentication.
+  authors:
+  - Shuaifu Dai
+  - Tao Wei 0002
+  - Chao Zhang 0008
+  - Tielei Wang
+  - Yu Ding
+  - Zhenkai Liang
+  - Wei Zou
+  page_link: https://doi.org/10.1109/SP.2012.10
+  discovered_artifact: null
+- title: 'Don&apos;t Trust Satellite Phones: A Security Analysis of Two Satphone Standards.'
+  authors:
+  - Benedikt Driessen
+  - Ralf Hund
+  - Carsten Willems
+  - Christof Paar
+  - Thorsten Holz
+  page_link: https://doi.org/10.1109/SP.2012.18
+  discovered_artifact: null
+- title: 'Peek-a-Boo, I Still See You: Why Efficient Traffic Analysis Countermeasures
+    Fail.'
+  authors:
+  - Kevin P. Dyer
+  - Scott E. Coull
+  - Thomas Ristenpart
+  - Thomas Shrimpton
+  page_link: https://doi.org/10.1109/SP.2012.28
+  discovered_artifact: http://www.kpdyer.com/
+- title: 'Space Traveling across VM: Automatically Bridging the Semantic Gap in Virtual
+    Machine Introspection via Online Kernel Data Redirection.'
+  authors:
+  - Yangchun Fu
+  - Zhiqiang Lin 0001
+  page_link: https://doi.org/10.1109/SP.2012.40
+  discovered_artifact: null
+- title: 'ILR: Where&apos;d My Gadgets Go?'
+  authors:
+  - Jason Hiser
+  - Anh Nguyen-Tuong
+  - Michele Co
+  - Matthew Hall
+  - Jack W. Davidson
+  page_link: https://doi.org/10.1109/SP.2012.39
+  discovered_artifact: null
+- title: The Psychology of Security for the Home Computer User.
+  authors:
+  - Adele E. Howe
+  - Indrajit Ray
+  - Mark Roberts
+  - Malgorzata Urbanska
+  - Zinta S. Byrne
+  page_link: https://doi.org/10.1109/SP.2012.23
+  discovered_artifact: null
+- title: 'LAP: Lightweight Anonymity and Privacy.'
+  authors:
+  - Hsu-Chun Hsiao
+  - Tiffany Hyun-Jin Kim
+  - Adrian Perrig
+  - Akira Yamada 0001
+  - Samuel C. Nelson
+  - Marco Gruteser
+  - Wei Meng 0001
+  page_link: https://doi.org/10.1109/SP.2012.37
+  discovered_artifact: null
+- title: 'Quid-Pro-Quo-tocols: Strengthening Semi-honest Protocols with Dual Execution.'
+  authors:
+  - Yan Huang 0001
+  - Jonathan Katz
+  - David Evans 0001
+  page_link: https://doi.org/10.1109/SP.2012.43
+  discovered_artifact: null
+- title: 'EvilSeed: A Guided Approach to Finding Malicious Web Pages.'
+  authors:
+  - Luca Invernizzi
+  - Paolo Milani Comparetti
+  - Stefano Benvenuti
+  - Christopher Kruegel
+  - Marco Cova
+  - Giovanni Vigna
+  page_link: https://doi.org/10.1109/SP.2012.33
+  discovered_artifact: null
+- title: Abusing File Processing in Malware Detectors for Fun and Profit.
+  authors:
+  - Suman Jana
+  - Vitaly Shmatikov
+  page_link: https://doi.org/10.1109/SP.2012.15
+  discovered_artifact: null
+- title: 'Memento: Learning Secrets from Process Footprints.'
+  authors:
+  - Suman Jana
+  - Vitaly Shmatikov
+  page_link: https://doi.org/10.1109/SP.2012.19
+  discovered_artifact: null
+- title: 'ReDeBug: Finding Unpatched Code Clones in Entire OS Distributions.'
+  authors:
+  - Jiyong Jang
+  - Abeer Agrawal
+  - David Brumley
+  page_link: https://doi.org/10.1109/SP.2012.13
+  discovered_artifact: https://github.com/skyhover/Deckard
+- title: 'Guess Again (and Again and Again): Measuring Password Strength by Simulating
+    Password-Cracking Algorithms.'
+  authors:
+  - Patrick Gage Kelley
+  - Saranga Komanduri
+  - Michelle L. Mazurek
+  - Richard Shay
+  - Timothy Vidas
+  - Lujo Bauer
+  - Nicolas Christin
+  - Lorrie Faith Cranor
+  - Julio C. López 0001
+  page_link: https://doi.org/10.1109/SP.2012.38
+  discovered_artifact: null
+- title: 'Rozzle: De-cloaking Internet Malware.'
+  authors:
+  - Clemens Kolbitsch
+  - Benjamin Livshits
+  - Benjamin G. Zorn
+  - Christian Seifert
+  page_link: https://doi.org/10.1109/SP.2012.48
+  discovered_artifact: null
+- title: New Results for Timing-Based Attestation.
+  authors:
+  - Xeno Kovah
+  - Corey Kallenberg
+  - Chris Weathers
+  - Amy Herzog
+  - Matthew Albin
+  - John Butterworth
+  page_link: https://doi.org/10.1109/SP.2012.45
+  discovered_artifact: null
+- title: Clash Attacks on the Verifiability of E-Voting Systems.
+  authors:
+  - Ralf Küsters
+  - Tomasz Truderung
+  - Andreas Vogt 0001
+  page_link: https://doi.org/10.1109/SP.2012.32
+  discovered_artifact: null
+- title: 'Third-Party Web Tracking: Policy and Technology.'
+  authors:
+  - Jonathan R. Mayer
+  - John C. Mitchell
+  page_link: https://doi.org/10.1109/SP.2012.47
+  discovered_artifact: http://webpolicy.org/2012/
+- title: On the Feasibility of Internet-Scale Author Identification.
+  authors:
+  - Arvind Narayanan
+  - Hristo S. Paskov
+  - Neil Zhenqiang Gong
+  - John Bethencourt
+  - Emil Stefanov
+  - Eui Chul Richard Shin
+  - Dawn Song
+  page_link: https://doi.org/10.1109/SP.2012.46
+  discovered_artifact: null
+- title: 'Smashing the Gadgets: Hindering Return-Oriented Programming Using In-place
+    Code Randomization.'
+  authors:
+  - Vasilis Pappas
+  - Michalis Polychronakis
+  - Angelos D. Keromytis
+  page_link: https://doi.org/10.1109/SP.2012.41
+  discovered_artifact: null
+- title: Safe Loading - A Foundation for Secure Execution of Untrusted Programs.
+  authors:
+  - Mathias Payer
+  - Tobias Hartmann 0001
+  - Thomas R. Gross
+  page_link: https://doi.org/10.1109/SP.2012.11
+  discovered_artifact: null
+- title: Off-path TCP Sequence Number Inference Attack - How Firewall Middleboxes
+    Reduce Security.
+  authors:
+  - Zhiyun Qian
+  - Zhuoqing Morley Mao
+  page_link: https://doi.org/10.1109/SP.2012.29
+  discovered_artifact: null
+- title: 'User-Driven Access Control: Rethinking Permission Granting in Modern Operating
+    Systems.'
+  authors:
+  - Franziska Roesner
+  - Tadayoshi Kohno
+  - Alexander Moshchuk
+  - Bryan Parno
+  - Helen J. Wang
+  - Crispin Cowan
+  page_link: https://doi.org/10.1109/SP.2012.24
+  discovered_artifact: null
+- title: 'Prudent Practices for Designing Malware Experiments: Status Quo and Outlook.'
+  authors:
+  - Christian Rossow
+  - Christian J. Dietrich
+  - Chris Grier
+  - Christian Kreibich
+  - Vern Paxson
+  - Norbert Pohlmann
+  - Herbert Bos
+  - Maarten van Steen
+  page_link: https://doi.org/10.1109/SP.2012.14
+  discovered_artifact: null
+- title: Formalizing and Enforcing Purpose Restrictions in Privacy Policies.
+  authors:
+  - Michael Carl Tschantz
+  - Anupam Datta
+  - Jeannette M. Wing
+  page_link: https://doi.org/10.1109/SP.2012.21
+  discovered_artifact: null
+- title: 'Signing Me onto Your Accounts through Facebook and Google: A Traffic-Guided
+    Security Study of Commercially Deployed Single-Sign-On Web Services.'
+  authors:
+  - Rui Wang 0010
+  - Shuo Chen 0001
+  - XiaoFeng Wang 0001
+  page_link: https://doi.org/10.1109/SP.2012.30
+  discovered_artifact: null
+- title: 'Flash Memory for Ubiquitous Hardware Security Functions: True Random Number
+    Generation and Device Fingerprints.'
+  authors:
+  - Yinglei Wang
+  - Wing-Kei S. Yu
+  - Shuo Wu
+  - Greg Malysa
+  - G. Edward Suh
+  - Edwin Kan
+  page_link: https://doi.org/10.1109/SP.2012.12
+  discovered_artifact: null
+- title: Secure and Scalable Fault Localization under Dynamic Traffic Patterns.
+  authors:
+  - Xin Zhang 0003
+  - Chang Lan
+  - Adrian Perrig
+  page_link: https://doi.org/10.1109/SP.2012.27
+  discovered_artifact: null
+- title: Building Verifiable Trusted Path on Commodity x86 Computers.
+  authors:
+  - Zongwei Zhou
+  - Virgil D. Gligor
+  - James Newsome
+  - Jonathan M. McCune
+  page_link: https://doi.org/10.1109/SP.2012.42
+  discovered_artifact: null
+- title: 'Dissecting Android Malware: Characterization and Evolution.'
+  authors:
+  - Yajin Zhou
+  - Xuxian Jiang
+  page_link: https://doi.org/10.1109/SP.2012.16
+  discovered_artifact: http://paulsparrows.wordpress.com/2011/08/11/one-year-of-android-malware-full-list/

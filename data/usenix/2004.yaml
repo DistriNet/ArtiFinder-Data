@@ -1,0 +1,156 @@
+- title: 'TIED, LibsafePlus: Tools for Runtime Buffer Overflow Protection.'
+  authors:
+  - Kumar Avijit
+  - Prateek Gupta
+  - Deepak Gupta
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/avijit.html
+  discovered_artifact: null
+- title: 'Network-in-a-Box: How to Set Up a Secure Wireless Network in Under a Minute.'
+  authors:
+  - Dirk Balfanz
+  - Glenn Durfee
+  - Rebecca E. Grinter
+  - Diana K. Smetters
+  - Paul Stewart
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/balfanz.html
+  discovered_artifact: null
+- title: 'Privtrans: Automatically Partitioning Programs for Privilege Separation.'
+  authors:
+  - David Brumley
+  - Dawn Xiaodong Song
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/brumley.html
+  discovered_artifact: null
+- title: Understanding Data Lifetime via Whole System Simulation (Awarded Best Paper!).
+  authors:
+  - Jim Chow
+  - Ben Pfaff
+  - Tal Garfinkel
+  - Kevin Christopher
+  - Mendel Rosenblum
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/chow.html
+  discovered_artifact: null
+- title: On User Choice in Graphical Password Schemes.
+  authors:
+  - Darren Davis
+  - Fabian Monrose
+  - Michael K. Reiter
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/davis.html
+  discovered_artifact: null
+- title: 'Fixing Races for Fun and Profit: How to Use access(2).'
+  authors:
+  - Drew Dean
+  - Alan J. Hu
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/dean.html
+  discovered_artifact: null
+- title: 'Tor: The Second-Generation Onion Router.'
+  authors:
+  - Roger Dingledine
+  - Nick Mathewson
+  - Paul F. Syverson
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/dingledine.html
+  discovered_artifact: null
+- title: On Gray-Box Program Tracking for Anomaly Detection.
+  authors:
+  - Debin Gao
+  - Michael K. Reiter
+  - Dawn Xiaodong Song
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/gao.html
+  discovered_artifact: null
+- title: 'Collapsar: A VM-Based Architecture for Network Attack Detention Center.'
+  authors:
+  - Xuxian Jiang
+  - Dongyan Xu
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/jiang.html
+  discovered_artifact: null
+- title: Finding User/Kernel Pointer Bugs with Type Inference.
+  authors:
+  - Robert Johnson
+  - David A. Wagner 0001
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/johnson.html
+  discovered_artifact: null
+- title: 'Autograph: Toward Automated, Distributed Worm Signature Detection.'
+  authors:
+  - Hyang-Ah Kim
+  - Brad Karp
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/kim.html
+  discovered_artifact: null
+- title: Static Disassembly of Obfuscated Binaries.
+  authors:
+  - Christopher Krügel
+  - William K. Robertson
+  - Fredrik Valeur
+  - Giovanni Vigna
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/kruegel.html
+  discovered_artifact: null
+- title: Privacy-Preserving Sharing and Correlation of Security Alerts.
+  authors:
+  - Patrick Lincoln
+  - Phillip A. Porras
+  - Vitaly Shmatikov
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/lincoln.html
+  discovered_artifact: null
+- title: Fairplay - Secure Two-Party Computation System.
+  authors:
+  - Dahlia Malkhi
+  - Noam Nisan
+  - Benny Pinkas
+  - Yaron Sella
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/malkhi.html
+  discovered_artifact: null
+- title: 'Avfs: An On-Access Anti-Virus File System.'
+  authors:
+  - Yevgeniy Miretskiy
+  - Abhijith Das
+  - Charles P. Wright
+  - Erez Zadok
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/miretskiy.html
+  discovered_artifact: null
+- title: Copilot - a Coprocessor-based Kernel Runtime Integrity Monitor.
+  authors:
+  - Nick L. Petroni Jr.
+  - Timothy Fraser
+  - Jesus Molina
+  - William A. Arbaugh
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/petroni.html
+  discovered_artifact: null
+- title: A Virtual Honeypot Framework.
+  authors:
+  - Niels Provos
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/provos.html
+  discovered_artifact: http://www.citi.umich.edu/u/provos/honeyd/
+- title: Design and Implementation of a TCG-based Integrity Measurement Architecture.
+  authors:
+  - Reiner Sailer
+  - Xiaolan Zhang 0001
+  - Trent Jaeger
+  - Leendert van Doorn
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/sailer.html
+  discovered_artifact: null
+- title: Side Effects Are Not Sufficient to Authenticate Software.
+  authors:
+  - Umesh Shankar
+  - Monica Chew
+  - J. D. Tygar
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/shankar.html
+  discovered_artifact: null
+- title: Design of the EROS Trusted Window System.
+  authors:
+  - Jonathan S. Shapiro
+  - John Vanderburgh
+  - Eric Northup
+  - David Chizmadia
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/shapiro.html
+  discovered_artifact: null
+- title: Graphical Dictionaries and the Memorable Space of Graphical Passwords.
+  authors:
+  - Julie Thorpe
+  - Paul C. van Oorschot
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/thorpe.html
+  discovered_artifact: null
+- title: Very Fast Containment of Scanning Worms.
+  authors:
+  - Nicholas Weaver
+  - Stuart Staniford
+  - Vern Paxson
+  page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/weaver.html
+  discovered_artifact: null

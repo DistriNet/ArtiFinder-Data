@@ -1,0 +1,146 @@
+- title: 'CSAR: A Practical and Provable Technique to Make Randomized Systems Accountable.'
+  authors:
+  - Michael Backes 0001
+  - Peter Druschel
+  - Andreas Haeberlen
+  - Dominique Unruh
+  page_link: https://www.ndss-symposium.org/ndss2009/csar-practical-and-provable-technique-make-randomized-systems-accountable/
+  discovered_artifact: http://peerreview.mpi-sws.org/
+- title: Scalable, Behavior-Based Malware Clustering.
+  authors:
+  - Ulrich Bayer
+  - Paolo Milani Comparetti
+  - Clemens Hlauschek
+  - Christopher Krügel
+  - Engin Kirda
+  page_link: https://www.ndss-symposium.org/ndss2009/scalable-behavior-based-malware-clustering/
+  discovered_artifact: null
+- title: Analyzing and Comparing the Protection Quality of Security Enhanced Operating
+    Systems.
+  authors:
+  - Hong Chen
+  - Ninghui Li
+  - Ziqing Mao
+  page_link: https://www.ndss-symposium.org/ndss2009/analyzing-and-comparing-the-protection-quality-of-security-enhanced-operating-systems/
+  discovered_artifact: null
+- title: Two-Party Computation Model for Privacy-Preserving Queries over Distributed
+    Databases.
+  authors:
+  - Sherman S. M. Chow
+  - Jie-Han Lee
+  - Lakshminarayanan Subramanian
+  page_link: https://www.ndss-symposium.org/ndss2009/two-party-computation-model-privacy-preserving-queries-over-distributed-databases/
+  discovered_artifact: null
+- title: Recursive DNS Architectures and Vulnerability Implications.
+  authors:
+  - David Dagon
+  - Manos Antonakakis
+  - Kevin Day
+  - Xiapu Luo
+  - Christopher P. Lee 0001
+  - Wenke Lee
+  page_link: https://www.ndss-symposium.org/ndss2009/recursive-dns-architectures-and-vulnerability-implications/
+  discovered_artifact: null
+- title: 'SybilInfer: Detecting Sybil Nodes using Social Networks.'
+  authors:
+  - George Danezis
+  - Prateek Mittal
+  page_link: https://www.ndss-symposium.org/ndss2009/sybillnfer-detecting-sybil-nodes-using-social-networks/
+  discovered_artifact: null
+- title: Coordinated Scan Detection.
+  authors:
+  - Carrie Gates
+  page_link: https://www.ndss-symposium.org/ndss2009/coordinated-scan-detection/
+  discovered_artifact: null
+- title: 'Noncespaces: Using Randomization to Enforce Information Flow Tracking and
+    Thwart Cross-Site Scripting Attacks.'
+  authors:
+  - Matthew Van Gundy
+  - Hao Chen 0003
+  page_link: https://www.ndss-symposium.org/ndss2009/noncespaces-using-randomization-to-enforce-information-flow-tracking-and-thwart-cross-site-scripting-attacks/
+  discovered_artifact: null
+- title: 'RAINBOW: A Robust And Invisible Non-Blind Watermark for Network Flows.'
+  authors:
+  - Amir Houmansadr
+  - Negar Kiyavash
+  - Nikita Borisov
+  page_link: https://www.ndss-symposium.org/ndss2009/rainbow-a-robust-and-invisible-non-blind-watermark-for-network-flows/
+  discovered_artifact: null
+- title: 'RB-Seeker: Auto-detection of Redirection Botnets.'
+  authors:
+  - Xin Hu 0001
+  - Matthew Knysz
+  - Kang G. Shin
+  page_link: https://www.ndss-symposium.org/ndss2009/rb-seeker-auto-detection-of-redirection-botnets/
+  discovered_artifact: null
+- title: Conditioned-safe Ceremonies and a User Study of an Application to Web Authentication.
+  authors:
+  - Chris Karlof
+  - J. Doug Tygar
+  - David A. Wagner 0001
+  page_link: https://www.ndss-symposium.org/ndss2009/conditioned-safe-ceremonies-and-user-study-application-web-authentication/
+  discovered_artifact: null
+- title: 'K-Tracer: A System for Extracting Kernel Malware Behavior.'
+  authors:
+  - Andrea Lanzi
+  - Monirul Islam Sharif
+  - Wenke Lee
+  page_link: https://www.ndss-symposium.org/ndss2009/k-tracer-system-extracting-kernel-malware-behavior/
+  discovered_artifact: null
+- title: Safe Passage for Passwords and Other Sensitive Data.
+  authors:
+  - Jonathan M. McCune
+  - Adrian Perrig
+  - Michael K. Reiter
+  page_link: https://www.ndss-symposium.org/ndss2009/safe-passage-for-passwords-and-other-sensitive-data/
+  discovered_artifact: null
+- title: 'Document Structure Integrity: A Robust Basis for Cross-site Scripting Defense.'
+  authors:
+  - Yacin Nadji
+  - Prateek Saxena
+  - Dawn Song
+  page_link: https://www.ndss-symposium.org/ndss2009/document-structure-integrity-a-robust-basis-for-cross-site-scripting-defense/
+  discovered_artifact: null
+- title: An Efficient Black-box Technique for Defeating Web Application Attacks.
+  authors:
+  - R. Sekar 0001
+  page_link: https://www.ndss-symposium.org/ndss2009/an-efficient-black-box-technique-for-defeating-web-application-attacks/
+  discovered_artifact: null
+- title: 'Spectrogram: A Mixture-of-Markov-Chains Model for Anomaly Detection in Web
+    Traffic.'
+  authors:
+  - Yingbo Song
+  - Angelos D. Keromytis
+  - Salvatore J. Stolfo
+  page_link: https://www.ndss-symposium.org/ndss2009/spectrogram-mixture-markov-chains-model-anomaly-detection-web-traffic/
+  discovered_artifact: http://www.cs.columbia.edu/ids/
+- title: 'IntScope: Automatically Detecting Integer Overflow Vulnerability in X86
+    Binary Using Symbolic Execution.'
+  authors:
+  - Tielei Wang
+  - Tao Wei 0002
+  - Zhiqiang Lin 0001
+  - Wei Zou
+  page_link: https://www.ndss-symposium.org/ndss2009/intscope-automatically-detecting-integer-overflow-vulnerability-in-x86-binary-using-symbolic-execution/
+  discovered_artifact: null
+- title: Detecting Forged TCP Reset Packets.
+  authors:
+  - Nicholas Weaver
+  - Robin Sommer
+  - Vern Paxson
+  page_link: https://www.ndss-symposium.org/ndss2009/detecting-forged-tcp-reset-packets/
+  discovered_artifact: null
+- title: 'The Blind Stone Tablet: Outsourcing Durability to Untrusted Parties.'
+  authors:
+  - Peter Williams
+  - Radu Sion
+  - Dennis E. Shasha
+  page_link: https://www.ndss-symposium.org/ndss2009/the-blind-stone-tablet-outsourcing-durability-to-untrusted-parties/
+  discovered_artifact: null
+- title: 'Traffic Morphing: An Efficient Defense Against Statistical Traffic Analysis.'
+  authors:
+  - Charles V. Wright
+  - Scott E. Coull
+  - Fabian Monrose
+  page_link: https://www.ndss-symposium.org/ndss2009/traffic-morphing-efficient-defense-against-statistical-traffic-analysis/
+  discovered_artifact: null

@@ -1,0 +1,3962 @@
+- title: 'PhyAuth: Physical-Layer Message Authentication for ZigBee Networks'
+  authors:
+  - Ang Li 0013
+  - Jiawei Li 0010
+  - Dianqi Han
+  - Yan Zhang 0091
+  - Tao Li 0042
+  - Ting Zhu 0001
+  - Yanchao Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-ang
+  discovered_artifact: null
+- title: 'Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues'
+  authors:
+  - Domien Schepers
+  - Aanjhan Ranganathan
+  - Mathy Vanhoef
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/schepers
+  discovered_artifact: https://github.com/domienschepers/wifi-framing
+- title: 'Time for Change: How Clocks Break UWB Secure Ranging'
+  authors:
+  - Claudio Anliker
+  - Giovanni Camurati
+  - Srdjan Capkun
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/anliker
+  discovered_artifact: null
+- title: Formal Analysis and Patching of BLE-SC Pairing
+  authors:
+  - Min Shi
+  - Jing Chen 0003
+  - Kun He 0008
+  - Haoran Zhao
+  - Meng Jia
+  - Ruiying Du
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shi-min
+  discovered_artifact: https://github.com/luojiazhishu/BLE-SC-Pairing-Model
+- title: 'Abuse Vectors: A Framework for Conceptualizing IoT-Enabled Interpersonal
+    Abuse'
+  authors:
+  - Sophie Stephenson
+  - Majed Almansoori
+  - Pardis Emami Naeini
+  - Danny Yuxing Huang
+  - Rahul Chatterjee 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/stephenson-vectors
+  discovered_artifact: https://go.wisc.edu/k7ai9p
+- title: '"It''s the Equivalent of Feeling Like You''re in Jail": Lessons from Firsthand
+    and Secondhand Accounts of IoT-Enabled Intimate Partner Abuse'
+  authors:
+  - Sophie Stephenson
+  - Majed Almansoori
+  - Pardis Emami Naeini
+  - Rahul Chatterjee 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/stephenson-lessons
+  discovered_artifact: https://go.wisc.edu/gh813r
+- title: The Digital-Safety Risks of Financial Technologies for Survivors of Intimate
+    Partner Violence
+  authors:
+  - Rosanna Bellini
+  - Kevin Lee
+  - Megan A. Brown
+  - Jeremy Shaffer
+  - Rasika Bhalerao
+  - Thomas Ristenpart
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bellini
+  discovered_artifact: https://www.semanticscholar.org/paper/Strategies-and-Perceived-Risks-of-Sending-Sensitive-Warford-Munyendo/5cc1e7d8708f8b76fe3465739a109c343ed0478d
+- title: 'Sneaky Spy Devices and Defective Detectors: The Ecosystem of Intimate Partner
+    Surveillance with Covert Devices'
+  authors:
+  - Rose Ceccio
+  - Sophie Stephenson
+  - Varun Chadha
+  - Danny Yuxing Huang
+  - Rahul Chatterjee 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ceccio
+  discovered_artifact: https://github.com/ceccio247/IPV-Spy-Device-Study
+- title: Towards a General Video-based Keystroke Inference Attack
+  authors:
+  - Zhuolin Yang
+  - Yuxin Chen 0001
+  - Zain Sarwar
+  - Hadleigh Schwartz
+  - Ben Y. Zhao
+  - Haitao Zheng 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yang-zhuolin
+  discovered_artifact: https://sandlab.cs.uchicago.edu/keystroke/
+- title: 'Going through the motions: AR/VR keylogging from user head motions'
+  authors:
+  - Carter Slocum
+  - Yicheng Zhang
+  - Nael B. Abu-Ghazaleh
+  - Jiasi Chen
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/slocum
+  discovered_artifact: null
+- title: 'Auditory Eyesight: Demystifying ms-Precision Keystroke Tracking Attacks
+    on Unconstrained Keyboard Inputs'
+  authors:
+  - Yazhou Tu
+  - Liqun Shan
+  - Md. Imran Hossen
+  - Sara Rampazzi
+  - Kevin R. B. Butler
+  - Xiali Hei 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/tu
+  discovered_artifact: https://github.com/auditoryeye/auditoryeyesight
+- title: 'Watch your Watch: Inferring Personality Traits from Wearable Activity Trackers'
+  authors:
+  - Noé Zufferey
+  - Mathias Humbert
+  - Romain Tavenard
+  - Kévin Huguenin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zufferey
+  discovered_artifact: https://dx.doi.org/10.5281/zenodo.7621224
+- title: 'Squint Hard Enough: Attacking Perceptual Hashing with Adversarial Machine
+    Learning'
+  authors:
+  - Jonathan Prokos
+  - Neil Fendley
+  - Matthew Green 0001
+  - Roei Schuster
+  - Eran Tromer
+  - Tushar M. Jois
+  - Yinzhi Cao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/prokos
+  discovered_artifact: http://www.perceptualhashing.lol
+- title: How to Cover up Anomalous Accesses to Electronic Health Records
+  authors:
+  - Xiaojun Xu
+  - Qingying Hao
+  - Zhuolin Yang
+  - Bo Li 0026
+  - David M. Liebovitz
+  - Gang Wang 0011
+  - Carl A. Gunter
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xu-xiaojun
+  discovered_artifact: https://github.com/iHeartGraph/Euler
+- title: 'KENKU: Towards Efficient and Stealthy Black-box Adversarial Attacks against
+    ASR Systems'
+  authors:
+  - Xinghui Wu
+  - Shiqing Ma
+  - Chao Shen 0001
+  - Chenhao Lin
+  - Qian Wang 0002
+  - Qi Li 0002
+  - Yuan Rao 0004
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wu-xinghui
+  discovered_artifact: https://github.com/Xinghui-Wu/KENKU
+- title: 'Tubes Among Us: Analog Attack on Automatic Speaker Identification'
+  authors:
+  - Shimaa Ahmed
+  - Yash Wani
+  - Ali Shahin Shamsabadi
+  - Mohammad Yaghini
+  - Ilia Shumailov
+  - Nicolas Papernot
+  - Kassem Fawaz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ahmed-shimaa
+  discovered_artifact: https://github.com/asvspoof-challenge/2021
+- title: Near-Optimal Oblivious Key-Value Stores for Efficient PSI, PSU and Volume-Hiding
+    Multi-Maps
+  authors:
+  - Alexander Bienstock
+  - Sarvar Patel
+  - Joon Young Seo
+  - Kevin Yeo
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bienstock
+  discovered_artifact: https://github.com/alibaba-edu/mpc4j
+- title: Distance-Aware Private Set Intersection
+  authors:
+  - Anrin Chakraborti
+  - Giulia Fanti
+  - Michael K. Reiter
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chakraborti-intersection
+  discovered_artifact: https://github.com/emp-toolkit/emp-zk
+- title: Efficient Unbalanced Private Set Intersection Cardinality and User-friendly
+    Privacy-preserving Contact Tracing
+  authors:
+  - Mingli Wu
+  - Tsz Hon Yuen
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingli
+  discovered_artifact: https://github.com/microsoft/APSI
+- title: Linear Private Set Union from Multi-Query Reverse Private Membership Test
+  authors:
+  - Cong Zhang
+  - Yu Chen 0003
+  - Weiran Liu
+  - Min Zhang 0064
+  - Dongdai Lin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-cong
+  discovered_artifact: http://github.com/alibaba-edu/mpc4j
+- title: Rethinking System Audit Architectures for High Event Coverage and Synchronous
+    Log Availability
+  authors:
+  - Varun Gandhi
+  - Sarbartha Banerjee
+  - Aniket Agrawal
+  - Adil Ahmad
+  - Sangho Lee 0001
+  - Marcus Peinado
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gandhi
+  discovered_artifact: null
+- title: 'Auditing Frameworks Need Resource Isolation: A Systematic Study on the Super
+    Producer Threat to System Auditing and Its Mitigation'
+  authors:
+  - Peng Jiang 0007
+  - Ruizhe Huang
+  - Ding Li 0001
+  - Yao Guo 0001
+  - Xiangqun Chen
+  - Jianhai Luan
+  - Yuxin Ren 0001
+  - Xinwei Hu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-peng
+  discovered_artifact: https://github.com/PKU-ASAL/NoDrop
+- title: 'AIRTAG: Towards Automated Attack Investigation by Unsupervised Learning
+    with Log Texts'
+  authors:
+  - Hailun Ding
+  - Juan Zhai
+  - Yuhong Nan
+  - Shiqing Ma
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ding-hailun-airtag
+  discovered_artifact: https://github.com/dhl123/Airtag-2023
+- title: Improving Logging to Reduce Permission Over-Granting Mistakes
+  authors:
+  - Bingyu Shen 0002
+  - Tianyi Shan
+  - Yuanyuan Zhou 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shen-bingyu-logging
+  discovered_artifact: null
+- title: Diving into Robocall Content with SnorCall
+  authors:
+  - Sathvik Prasad
+  - Trevor Dunlap
+  - Alexander J. Ross
+  - Bradley Reaves
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/prasad
+  discovered_artifact: null
+- title: 'UCBlocker: Unwanted Call Blocking Using Anonymous Authentication'
+  authors:
+  - Changlai Du
+  - Hexuan Yu
+  - Yang Xiao 0010
+  - Y. Thomas Hou 0001
+  - Angelos D. Keromytis
+  - Wenjing Lou
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/du
+  discovered_artifact: null
+- title: Combating Robocalls with Phone Virtual Assistant Mediated Interaction
+  authors:
+  - Sharbani Pandit
+  - Krishanu Sarker
+  - Roberto Perdisci
+  - Mustaque Ahamad
+  - Diyi Yang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/pandit
+  discovered_artifact: null
+- title: 'BotScreen: Trust Everybody, but Cut the Aimbots Yourself'
+  authors:
+  - Minyeop Choi
+  - Gihyuk Ko
+  - Sang Kil Cha
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/choi
+  discovered_artifact: https://github.com/SoftSec-KAIST/BotScreen
+- title: '"If I could do this, I feel anyone could: " The Design and Evaluation of
+    a Secondary Authentication Factor Manager'
+  authors:
+  - Garrett Smith
+  - Tarun Kumar Yadav
+  - Jonathan Dutson
+  - Scott Ruoti
+  - Kent E. Seamons
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/smith
+  discovered_artifact: null
+- title: Exploring Privacy and Incentives Considerations in Adoption of COVID-19 Contact
+    Tracing Apps
+  authors:
+  - Oshrat Ayalon
+  - Dana Turjeman
+  - Elissa M. Redmiles
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ayalon
+  discovered_artifact: null
+- title: Exploring Tenants' Preferences of Privacy Negotiation in Airbnb
+  authors:
+  - Zixin Wang
+  - Danny Yuxing Huang
+  - Yaxing Yao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-zixin
+  discovered_artifact: https://osf.io/c43j5/
+- title: 'Know Your Cybercriminal: Evaluating Attacker Preferences by Measuring Profile
+    Sales on an Active, Leading Criminal Market for User Impersonation at Scale'
+  authors:
+  - Michele Campobasso
+  - Luca Allodi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/campobasso
+  discovered_artifact: https://security1.win.tue.nl
+- title: 'HorusEye: A Realtime IoT Malicious Traffic Detection Framework using Programmable
+    Switches'
+  authors:
+  - Yutao Dong
+  - Qing Li 0006
+  - Kaidong Wu
+  - Ruoyu Li 0003
+  - Dan Zhao 0003
+  - Gareth Tyson
+  - Junkun Peng
+  - Yong Jiang 0001
+  - Shutao Xia
+  - Mingwei Xu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao
+  discovered_artifact: https://github.com/vicTorKd/HorusEye
+- title: An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting
+  authors:
+  - Jian Qu
+  - Xiaobo Ma
+  - Jianfeng Li 0006
+  - Xiapu Luo
+  - Lei Xue 0001
+  - Junjie Zhang 0004
+  - Zhenhua Li 0001
+  - Li Feng
+  - Xiaohong Guan
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/qu
+  discovered_artifact: https://github.com/shashadehuajiang/trace_classifier
+- title: Subverting Website Fingerprinting Defenses with Robust Traffic Representation
+  authors:
+  - Meng Shen 0001
+  - Kexin Ji
+  - Zhenbo Gao
+  - Qi Li 0002
+  - Liehuang Zhu
+  - Ke Xu 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shen-meng
+  discovered_artifact: https://github.com/robust-fingerprinting/RF
+- title: 'Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse
+    Network Environments with TCP-Aware Traffic Augmentation'
+  authors:
+  - Renjie Xie
+  - Jiahao Cao 0001
+  - Enhuan Dong
+  - Mingwei Xu
+  - Kun Sun 0001
+  - Qi Li 0002
+  - Licheng Shen
+  - Menghao Zhang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xie
+  discovered_artifact: https://github.com/sunskyXX/Rosetta.git
+- title: Towards Targeted Obfuscation of Adversarial Unsafe Images using Reconstruction
+    and Counterfactual Super Region Attribution Explainability
+  authors:
+  - Mazal Bethany
+  - Andrew Seong
+  - Samuel Henrique Silva
+  - Nicole Beebe
+  - Nishant Vishwamitra
+  - Peyman Najafirad
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bethany
+  discovered_artifact: https://github.com/SecureAIAutonomyLab/uGuard
+- title: 'TPatch: A Triggered Physical Adversarial Patch'
+  authors:
+  - Wenjun Zhu
+  - Xiaoyu Ji 0001
+  - Yushi Cheng
+  - Shibo Zhang
+  - Wenyuan Xu 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhu
+  discovered_artifact: https://github.com/USSLab/TPatch
+- title: 'CAPatch: Physical Adversarial Patch against Image Captioning Systems'
+  authors:
+  - Shibo Zhang
+  - Yushi Cheng
+  - Wenjun Zhu
+  - Xiaoyu Ji 0001
+  - Wenyuan Xu 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-shibo
+  discovered_artifact: https://github.com/USSLab/CAPatch
+- title: Hard-label Black-box Universal Adversarial Patch Attack
+  authors:
+  - Guanhong Tao 0001
+  - Shengwei An
+  - Siyuan Cheng 0005
+  - Guangyu Shen
+  - Xiangyu Zhang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/tao
+  discovered_artifact: https://github.com/Gwinhen/HardBeat
+- title: 'Anatomy of a High-Profile Data Breach: Dissecting the Aftermath of a Crypto-Wallet
+    Case'
+  authors:
+  - Svetlana Abramova
+  - Rainer Böhme
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/abramova
+  discovered_artifact: null
+- title: 'Glimpse: On-Demand PoW Light Client with Constant-Size Storage for DeFi'
+  authors:
+  - Giulia Scaffino
+  - Lukas Aumayr
+  - Zeta Avarikioti
+  - Matteo Maffei
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/scaffino
+  discovered_artifact: https://github.com/Glimpse
+- title: 'Mixed Signals: Analyzing Ground-Truth Data on the Users and Economics of
+    a Bitcoin Mixing Service'
+  authors:
+  - Fieke Miedema
+  - Kelvin Lubbertsen
+  - Verena Schrama
+  - Rolf van Wegberg
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/miedema
+  discovered_artifact: null
+- title: Is Your Wallet Snitching On You? An Analysis on the Privacy Implications
+    of Web3
+  authors:
+  - Christof Ferreira Torres
+  - Fiona Willi
+  - Shweta Shinde
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/torres
+  discovered_artifact: https://github.com/christoftorres/Web3-Privacy
+- title: 'Capstone: A Capability-based Foundation for Trustless Secure Memory Access'
+  authors:
+  - Jason Zhijingcheng Yu
+  - Conrad Watt
+  - Aditya Badole
+  - Trevor E. Carlson
+  - Prateek Saxena
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yu-jason
+  discovered_artifact: https://github.com/jasonyu1996/capstone
+- title: 'FloatZone: Accelerating Memory Error Detection using the Floating Point
+    Unit'
+  authors:
+  - Floris Gorter
+  - Enrico Barberis
+  - Raphael Isemann
+  - Erik van der Kouwe
+  - Cristiano Giuffrida
+  - Herbert Bos
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gorter
+  discovered_artifact: https://github.com/vusec/floatzone
+- title: 'PUMM: Preventing Use-After-Free Using Execution Unit Partitioning'
+  authors:
+  - Carter Yagemann
+  - Simon P. Chung
+  - Brendan Saltaformaggio
+  - Wenke Lee
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yagemann
+  discovered_artifact: https://github.com/carter-yagemann/PUMM
+- title: 'MTSan: A Feasible and Practical Memory Sanitizer for Fuzzing COTS Binaries'
+  authors:
+  - Xingman Chen
+  - Yinghao Shi
+  - Zheyu Jiang
+  - Yuan Li 0061
+  - Ruoyu Wang 0001
+  - Haixin Duan
+  - Haoyu Wang 0001
+  - Chao Zhang 0008
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-xingman
+  discovered_artifact: null
+- title: 'Hidden Reality: Caution, Your Hand Gesture Inputs in the Immersive Virtual
+    World are Visible to All!'
+  authors:
+  - Sindhu Reddy Kalathur Gopal
+  - Diksha Shukla
+  - James David Wheelock
+  - Nitesh Saxena
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gopal
+  discovered_artifact: null
+- title: 'LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality'
+  authors:
+  - Habiba Farrukh
+  - Reham Mohamed 0003
+  - Aniket Nare
+  - Antonio Bianchi
+  - Z. Berkay Celik
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/farrukh
+  discovered_artifact: null
+- title: Unique Identification of 50,000+ Virtual Reality Users from Head & Hand Motion
+    Data
+  authors:
+  - Vivek Nair
+  - Wenbo Guo 0002
+  - Justus Mattern
+  - Rui Wang 0110
+  - James F. O&apos;Brien
+  - Louis B. Rosenberg
+  - Dawn Song
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/nair-identification
+  discovered_artifact: https://rdi.berkeley.edu/metaverse/boxrr-23
+- title: 'Erebus: Access Control for Augmented Reality Systems'
+  authors:
+  - Yoonsang Kim
+  - Sanket Goutam
+  - Amir Rahmati
+  - Arie E. Kaufman
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kim-yoonsang
+  discovered_artifact: https://github.com/Ethos-lab/erebus-AR_access_control
+- title: Exploring User Reactions and Mental Models Towards Perceptual Manipulation
+    Attacks in Mixed Reality
+  authors:
+  - Kaiming Cheng
+  - Jeffery F. Tian
+  - Tadayoshi Kohno
+  - Franziska Roesner
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cheng-kaiming
+  discovered_artifact: https://github.com/UWCSESecurityLab/MR-PMA-Harness
+- title: 'No Single Silver Bullet: Measuring the Accuracy of Password Strength Meters'
+  authors:
+  - Ding Wang 0002
+  - Xuan Shan
+  - Qiying Dong
+  - Yaosheng Shen
+  - Chunfu Jia
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-ding-silver-bullet
+  discovered_artifact: null
+- title: Password Guessing Using Random Forest
+  authors:
+  - Ding Wang 0002
+  - Yunkai Zou
+  - Zijian Zhang 0003
+  - Kedong Xiu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-ding-password-guessing
+  discovered_artifact: null
+- title: 'Pass2Edit: A Multi-Step Generative Model for Guessing Edited Passwords'
+  authors:
+  - Ding Wang 0002
+  - Yunkai Zou
+  - Yuan-an Xiao
+  - Siqi Ma
+  - Xiaofeng Chen 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-ding-pass2edit
+  discovered_artifact: null
+- title: Improving Real-world Password Guessing Attacks via Bi-directional Transformers
+  authors:
+  - Ming Xu 0006
+  - Jitao Yu
+  - Xinyi Zhang
+  - Chuanwang Wang
+  - Shenghao Zhang
+  - Haoqi Wu
+  - Weili Han
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xu-ming
+  discovered_artifact: https://github.com/snow0011/PassBertStrengthMeter
+- title: 'Arana: Discovering and Characterizing Password Guessing Attacks in Practice'
+  authors:
+  - Mazharul Islam 0002
+  - Marina Sanusi Bohuk
+  - Paul Chung
+  - Thomas Ristenpart
+  - Rahul Chatterjee 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/islam
+  discovered_artifact: https://github.com/islamazhar/Arana-Public
+- title: 'PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs'
+  authors:
+  - Hao Cui
+  - Rahmadi Trimananda
+  - Athina Markopoulou
+  - Scott Jordan 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cui
+  discovered_artifact: https://github.com/UCI-Networking-Group/PoliGraph
+- title: 'Calpric: Inclusive and Fine-grain Labeling of Privacy Policies with Crowdsourcing
+    and Active Learning'
+  authors:
+  - Wenjun Qiu
+  - David Lie
+  - Lisa M. Austin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/qiu
+  discovered_artifact: https://github.com/dlgroupuoft/Calpric
+- title: 'POLICYCOMP: Counterpart Comparison of Privacy Policies Uncovers Overbroad
+    Personal Data Collection Practices'
+  authors:
+  - Lu Zhou
+  - Chengyongxiao Wei
+  - Tong Zhu
+  - Guoxing Chen
+  - Xiaokuan Zhang
+  - Suguo Du
+  - Hui Cao
+  - Haojin Zhu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhou-lu
+  discovered_artifact: null
+- title: 'Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy Labels'
+  authors:
+  - Yue Xiao 0007
+  - Zhengyi Li
+  - Yue Qin
+  - Xiaolong Bai
+  - Jiale Guan
+  - Xiaojing Liao
+  - Luyi Xing
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-yue
+  discovered_artifact: https://sites.google.com/view/privacylabel/home
+- title: Automated Cookie Notice Analysis and Enforcement
+  authors:
+  - Rishabh Khandelwal
+  - Asmit Nayak
+  - Hamza Harkous
+  - Kassem Fawaz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/khandelwal
+  discovered_artifact: null
+- title: Continuous Learning for Android Malware Detection
+  authors:
+  - Yizheng Chen 0001
+  - Zhoujie Ding
+  - David A. Wagner 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-yizheng
+  discovered_artifact: https://github.com/wagner-group/active-learning
+- title: Adversarial Training for Raw-Binary Malware Classifiers
+  authors:
+  - Keane Lucas
+  - Samruddhi Pai
+  - Weiran Lin
+  - Lujo Bauer
+  - Michael K. Reiter
+  - Mahmood Sharif
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lucas
+  discovered_artifact: null
+- title: Humans vs. Machines in Malware Classification
+  authors:
+  - Simone Aonzo
+  - Yufei Han 0001
+  - Alessandro Mantovani
+  - Davide Balzarotti
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/aonzo
+  discovered_artifact: null
+- title: Black-box Adversarial Example Attack towards FCG Based Android Malware Detection
+    under Incomplete Feature Information
+  authors:
+  - Heng Li 0008
+  - Zhang Cheng
+  - Bang Wu
+  - Liheng Yuan
+  - Cuiying Gao
+  - Wei Yuan 0001
+  - Xiapu Luo
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-heng
+  discovered_artifact: null
+- title: Evading Provenance-Based ML Detectors with Adversarial System Actions
+  authors:
+  - Kunal Mukherjee
+  - Joshua Wiedemeier
+  - Tianhao Wang 0026
+  - James Wei
+  - Feng Chen
+  - Muhyun Kim
+  - Murat Kantarcioglu
+  - Kangkook Jee
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/mukherjee
+  discovered_artifact: https://github.com/syssec-utd/provninja
+- title: 'TreeSync: Authenticated Group Management for Messaging Layer Security'
+  authors:
+  - Théophile Wallez
+  - Jonathan Protzenko
+  - Benjamin Beurdouche
+  - Karthikeyan Bhargavan
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wallez
+  discovered_artifact: https://github.com/Inria-Prosecco/treesync
+- title: Cryptographic Administration for Secure Group Messaging
+  authors:
+  - David Balbás
+  - Daniel Collins 0001
+  - Serge Vaudenay
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/balbas
+  discovered_artifact: github.com/cryptographicadmins/impl
+- title: 'Formal Analysis of Session-Handling in Secure Messaging: Lifting Security
+    from Sessions to Conversations'
+  authors:
+  - Cas Cremers
+  - Charlie Jacomme
+  - Aurora Naska
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cremers-session-handling
+  discovered_artifact: https://github.com/sesame-symbolic-model/sesame-model
+- title: 'Wink: Deniable Secure Messaging'
+  authors:
+  - Anrin Chakraborti
+  - Darius Suciu
+  - Radu Sion
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chakraborti-wink
+  discovered_artifact: null
+- title: 'Three Lessons From Threema: Analysis of a Secure Messenger'
+  authors:
+  - Kenneth G. Paterson
+  - Matteo Scarlata
+  - Kien Tuong Truong
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/paterson
+  discovered_artifact: null
+- title: 'MorFuzz: Fuzzing Processor via Runtime Instruction Morphing enhanced Synchronizable
+    Co-simulation'
+  authors:
+  - Jinyan Xu
+  - Yiyuan Liu
+  - Sirui He
+  - Haoran Lin
+  - Yajin Zhou
+  - Cong Wang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jinyan
+  discovered_artifact: https://github.com/sycuricon/MorFuzz
+- title: 'uFUZZ: Redesign of Parallel Fuzzing using Microservice Architecture'
+  authors:
+  - Yongheng Chen
+  - Rui Zhong
+  - Yupeng Yang
+  - Hong Hu 0004
+  - Dinghao Wu
+  - Wenke Lee
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-yongheng
+  discovered_artifact: https://github.com/OMH4ck/mufuzz
+- title: 'FISHFUZZ: Catch Deeper Bugs by Throwing Larger Nets'
+  authors:
+  - Han Zheng 0006
+  - Jiayuan Zhang
+  - Yuhang Huang
+  - Zezhong Ren
+  - He Wang 0014
+  - Chunjie Cao
+  - Yuqing Zhang 0001
+  - Flavio Toffalini
+  - Mathias Payer
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zheng
+  discovered_artifact: https://github.com/HexHive/FishFuzz
+- title: 'HyPFuzz: Formal-Assisted Processor Fuzzing'
+  authors:
+  - Chen Chen 0125
+  - Rahul Kande
+  - Nathan Nguyen
+  - Flemming Andersen
+  - Aakash Tyagi
+  - Ahmad-Reza Sadeghi
+  - Jeyavijayan Rajendran
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-chen
+  discovered_artifact: null
+- title: 'PolyFuzz: Holistic Greybox Fuzzing of Multi-Language Systems'
+  authors:
+  - Wen Li 0007
+  - Jinyang Ruan
+  - Guangbei Yi
+  - Long Cheng 0005
+  - Xiapu Luo
+  - Haipeng Cai
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-wen
+  discovered_artifact: https://figshare.com/s/8ba4650e3248197fd756
+- title: 'VIPER: Spotting Syscall-Guard Variables for Data-Only Attacks'
+  authors:
+  - Hengkai Ye
+  - Song Liu
+  - Zhechang Zhang
+  - Hong Hu 0004
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ye
+  discovered_artifact: https://github.com/psu-security-universe/viper
+- title: 'AURC: Detecting Errors in Program Code and Documentation'
+  authors:
+  - Peiwei Hu
+  - Ruigang Liang
+  - Ying Cao 0006
+  - Kai Chen 0012
+  - Runze Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/hu
+  discovered_artifact: https://github.com/PeiweiHu/AURC
+- title: 'Not All Data are Created Equal: Data and Pointer Prioritization for Scalable
+    Protection Against Data-Oriented Attacks'
+  authors:
+  - Salman Ahmed 0001
+  - Hans Liljestrand
+  - Hani Jamjoom
+  - Matthew Hicks
+  - N. Asokan
+  - Danfeng Yao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ahmed-salman
+  discovered_artifact: https://github.com/salmanyam/dpp-llvm
+- title: 'SAFER: Efficient and Error-Tolerant Binary Instrumentation'
+  authors:
+  - Soumyakant Priyadarshan
+  - Huan Nguyen 0004
+  - Rohit Chouhan
+  - R. Sekar 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/priyadarshan
+  discovered_artifact: http://seclab.cs.sunysb.edu/soumyakant/safer
+- title: 'Reassembly is Hard: A Reflection on Challenges and Strategies'
+  authors:
+  - Hyungseok Kim 0002
+  - Soomin Kim 0002
+  - Junoh Lee
+  - Kangkook Jee
+  - Sang Kil Cha
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kim-hyungseok
+  discovered_artifact: https://github.com/SoftSec-KAIST/Reassessor
+- title: Are Consumers Willing to Pay for Security and Privacy of IoT Devices?
+  authors:
+  - Pardis Emami Naeini
+  - Janarth Dheenadhayalan
+  - Yuvraj Agarwal
+  - Lorrie Faith Cranor
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/emami-naeini
+  discovered_artifact: null
+- title: 'Measuring Up to (Reasonable) Consumer Expectations: Providing an Empirical
+    Basis for Holding IoT Manufacturers Legally Responsible'
+  authors:
+  - Lorenz Kustosch
+  - Carlos Gañán
+  - Mattis van &apos;t Schip
+  - Michel van Eeten
+  - Simon Parkin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kustosch
+  discovered_artifact: https://doi.org/10.4121/c.6440264.v1
+- title: Examining Consumer Reviews to Understand Security and Privacy Issues in the
+    Market of Smart Home Devices
+  authors:
+  - Swaathi Vetrivel
+  - Veerle van Harten
+  - Carlos Hernandez Gañán
+  - Michel van Eeten
+  - Simon Parkin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/vetrivel
+  discovered_artifact: null
+- title: Internet Service Providers' and Individuals' Attitudes, Barriers, and Incentives
+    to Secure IoT
+  authors:
+  - Nissy Sombatruang
+  - Tristan Caulfield
+  - Ingolf Becker
+  - Akira Fujita
+  - Takahiro Kasama
+  - Koji Nakao
+  - Daisuke Inoue
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/sombatruang
+  discovered_artifact: null
+- title: Detecting and Handling IoT Interaction Threats in Multi-Platform Multi-Control-Channel
+    Smart Homes
+  authors:
+  - Haotian Chi
+  - Qiang Zeng 0001
+  - Xiaojiang Du
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chi
+  discovered_artifact: https://github.com/HaotianChi/IoTMediator
+- title: Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion
+  authors:
+  - Chenghong Wang
+  - David Pujol
+  - Kartik Nayak
+  - Ashwin Machanavajjhala
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chenghong
+  discovered_artifact: null
+- title: 'PrivateFL: Accurate, Differentially Private Federated Learning via Personalized
+    Data Transformation'
+  authors:
+  - Yuchen Yang 0001
+  - Bo Hui 0002
+  - Haolin Yuan
+  - Neil Zhenqiang Gong
+  - Yinzhi Cao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yang-yuchen
+  discovered_artifact: https://github.com/BHui97/PrivateFL
+- title: What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy
+  authors:
+  - Priyanka Nanayakkara
+  - Mary Anne Smart
+  - Rachel Cummings
+  - Gabriel Kaptchuk
+  - Elissa M. Redmiles
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/nanayakkara
+  discovered_artifact: null
+- title: Tight Auditing of Differentially Private Machine Learning
+  authors:
+  - Milad Nasr
+  - Jamie Hayes
+  - Thomas Steinke 0002
+  - Borja Balle
+  - Florian Tramèr
+  - Matthew Jagielski
+  - Nicholas Carlini
+  - Andreas Terzis
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/nasr
+  discovered_artifact: null
+- title: 'Meta-Sift: How to Sift Out a Clean Subset in the Presence of Data Poisoning?'
+  authors:
+  - Yi Zeng 0005
+  - Minzhou Pan
+  - Himanshu Jahagirdar
+  - Ming Jin 0002
+  - Lingjuan Lyu
+  - Ruoxi Jia 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zeng
+  discovered_artifact: https://github.com/ruoxi-jia-group/Meta-Sift
+- title: Towards A Proactive ML Approach for Detecting Backdoor Poison Samples
+  authors:
+  - Xiangyu Qi
+  - Tinghao Xie
+  - Jiachen T. Wang
+  - Tong Wu
+  - Saeed Mahloujifar
+  - Prateek Mittal
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/qi
+  discovered_artifact: https://github.com/Unispac/Fight-Poison-With-Poison
+- title: 'PrivTrace: Differentially Private Trajectory Synthesis by Adaptive Markov
+    Models'
+  authors:
+  - Haiming Wang
+  - Zhikun Zhang 0001
+  - Tianhao Wang 0001
+  - Shibo He
+  - Michael Backes 0001
+  - Jiming Chen 0001
+  - Yang Zhang 0016
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-haiming
+  discovered_artifact: https://github.com/DpTrace/PrivTrace
+- title: 'PORE: Provably Robust Recommender Systems against Data Poisoning Attacks'
+  authors:
+  - Jinyuan Jia 0001
+  - Yupei Liu
+  - Yuepeng Hu
+  - Neil Zhenqiang Gong
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jia
+  discovered_artifact: null
+- title: 'Every Vote Counts: Ranking-Based Training of Federated Learning to Resist
+    Poisoning Attacks'
+  authors:
+  - Hamid Mozaffari
+  - Virat Shejwalkar
+  - Amir Houmansadr
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/mozaffari
+  discovered_artifact: https://github.com/SPIN-UMass/FRL
+- title: 'Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract'
+  authors:
+  - Zhuo Zhang 0002
+  - Zhiqiang Lin 0001
+  - Marcelo Morales
+  - Xiangyu Zhang 0001
+  - Kaiyuan Zhang 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-zhuo-exploit
+  discovered_artifact: https://github.com/ZhangZhuoSJTU/STING
+- title: Fine-grained Poisoning Attack to Local Differential Privacy Protocols for
+    Mean and Variance Estimation
+  authors:
+  - Xiaoguang Li
+  - Ninghui Li
+  - Wenhai Sun
+  - Neil Zhenqiang Gong
+  - Hui Li 0006
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-xiaoguang
+  discovered_artifact: null
+- title: Smart Learning to Find Dumb Contracts
+  authors:
+  - Tamer Abdelaziz
+  - Aquinas Hobor
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/abdelaziz
+  discovered_artifact: null
+- title: 'Confusum Contractum: Confused Deputy Vulnerabilities in Ethereum Smart Contracts'
+  authors:
+  - Fabio Gritti
+  - Nicola Ruaro
+  - Robert McLaughlin
+  - Priyanka Bose
+  - Dipanjan Das 0002
+  - Ilya Grishchenko
+  - Christopher Kruegel
+  - Giovanni Vigna
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gritti
+  discovered_artifact: null
+- title: 'Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable
+    Smart Contracts in Blockchains'
+  authors:
+  - William Edward Bodell III
+  - Sajad Meisami
+  - Yue Duan
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bodell
+  discovered_artifact: https://github.com/USCHunt-Anon/USCHunt
+- title: 'Panda: Security Analysis of Algorand Smart Contracts'
+  authors:
+  - Zhiyuan Sun
+  - Xiapu Luo
+  - Yinqian Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/sun
+  discovered_artifact: null
+- title: 'FuzzJIT: Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler'
+  authors:
+  - Junjie Wang 0008
+  - Zhiyi Zhang
+  - Shuang Liu 0007
+  - Xiaoning Du 0001
+  - Junjie Chen 0003
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-junjie
+  discovered_artifact: https://github.com/SpaceNaN/fuzzjit
+- title: 'Fuzztruction: Using Fault Injection-based Fuzzing to Leverage Implicit Domain
+    Knowledge'
+  authors:
+  - Nils Bars
+  - Moritz Schloegel
+  - Tobias Scharnowski
+  - Nico Schiller
+  - Thorsten Holz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bars
+  discovered_artifact: https://github.com/fuzztruction/fuzztruction
+- title: 'GLeeFuzz: Fuzzing WebGL Through Error Message Guided Mutation'
+  authors:
+  - Hui Peng
+  - Zhihao Yao 0001
+  - Ardalan Amiri Sani
+  - Dave Tian
+  - Mathias Payer
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/peng
+  discovered_artifact: https://github.com/HexHive/GLeeFuzz
+- title: 'autofz: Automated Fuzzer Composition at Runtime'
+  authors:
+  - Yu-Fu Fu
+  - Jae-Hyuk Lee
+  - Taesoo Kim
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/fu-yu-fu
+  discovered_artifact: https://github.com/sslab-gatech/autofz
+- title: 'CarpetFuzz: Automatic Program Option Constraint Extraction from Documentation
+    for Fuzzing'
+  authors:
+  - Dawei Wang 0021
+  - Ying Li 0104
+  - Zhiyu Zhang 0017
+  - Kai Chen 0012
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-dawei
+  discovered_artifact: https://github.com/waugustus/CarpetFuzz
+- title: SCARF - A Low-Latency Block Cipher for Secure Cache-Randomization
+  authors:
+  - Federico Canale
+  - Tim Güneysu
+  - Gregor Leander
+  - Jan Philipp Thoma
+  - Yosuke Todo
+  - Rei Ueno
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/canale
+  discovered_artifact: https://github.com/Chair-for-Security-Engineering/SCARF
+- title: 'Synchronization Storage Channels (S2C): Timer-less Cache Side-Channel Attacks
+    on the Apple M1 via Hardware Synchronization Instructions'
+  authors:
+  - Jiyong Yu
+  - Aishani Dutta
+  - Trent Jaeger
+  - David Kohlbrenner
+  - Christopher W. Fletcher
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yu-jiyong
+  discovered_artifact: https://github.com/FPSG-UIUC/S2C
+- title: 'The Gates of Time: Improving Cache Attacks with Transient Execution'
+  authors:
+  - Daniel Katzman
+  - William Kosasih
+  - Chitchanok Chuengsatiansup
+  - Eyal Ronen
+  - Yuval Yarom
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/katzman
+  discovered_artifact: null
+- title: 'CacheQL: Quantifying and Localizing Cache Side-Channel Vulnerabilities in
+    Production Software'
+  authors:
+  - Yuanyuan Yuan
+  - Zhibo Liu
+  - Shuai Wang 0011
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yuan-yuanyuan-cacheql
+  discovered_artifact: https://github.com/Yuanyuan-Yuan/CacheQL
+- title: ClepsydraCache -- Preventing Cache Attacks with Time-Based Evictions
+  authors:
+  - Jan Philipp Thoma
+  - Christian Niesler
+  - Dominic A. Funke
+  - Gregor Leander
+  - Pierre Mayr
+  - Nils Pohl
+  - Lucas Davi
+  - Tim Güneysu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/thoma
+  discovered_artifact: null
+- title: A Study of Multi-Factor and Risk-Based Authentication Availability
+  authors:
+  - Anthony Gavazzi
+  - Ryan Williams
+  - Engin Kirda
+  - Long Lu
+  - Andre King
+  - Andy Davis
+  - Tim Leek
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gavazzi
+  discovered_artifact: null
+- title: 'InfinityGauntlet: Expose Smartphone Fingerprint Authentication to Brute-force
+    Attack'
+  authors:
+  - Yu Chen
+  - Yang Yu
+  - Lidong Zhai
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-yu
+  discovered_artifact: https://github.com/alohachen/InfinityGauntlet
+- title: Security and Privacy Failures in Popular 2FA Apps
+  authors:
+  - Conor Gilsenan
+  - Fuzail Shakir
+  - Noura Alomar
+  - Serge Egelman
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gilsenan
+  discovered_artifact: https://allthingsauth.com/totp-apps
+- title: Multi-Factor Key Derivation Function (MFKDF) for Fast, Flexible, Secure,
+    & Practical Key Management
+  authors:
+  - Vivek Nair
+  - Dawn Song
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/nair-mfkdf
+  discovered_artifact: https://github.com/multifactor/mfkdf
+- title: A Large-Scale Measurement of Website Login Policies
+  authors:
+  - Suood Abdulaziz Al-Roomi
+  - Frank Li 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/al-roomi
+  discovered_artifact: null
+- title: 'Log: It''s Big, It''s Heavy, It''s Filled with Personal Data! Measuring
+    the Logging of Sensitive Information in the Android Ecosystem'
+  authors:
+  - Allan Lyons
+  - Julien Gamba
+  - Austin Shawaga
+  - Joel Reardon
+  - Juan Tapiador
+  - Serge Egelman
+  - Narseo Vallina-Rodriguez
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lyons
+  discovered_artifact: null
+- title: 'CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub
+    Copilot'
+  authors:
+  - Liang Niu
+  - Muhammad Shujaat Mirza
+  - Zayd Maradni
+  - Christina Pöpper
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/niu
+  discovered_artifact: https://github.com/niuliang42/CodexLeaks
+- title: 'Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings'
+  authors:
+  - Evangelos Bitsikas
+  - Theodor Schnitzler
+  - Christina Pöpper
+  - Aanjhan Ranganathan
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bitsikas
+  discovered_artifact: https://github.com/vaggelis-sudo/SMS-Location-Identification-Attack
+- title: 'Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models'
+  authors:
+  - Shawn Shan
+  - Jenna Cryan
+  - Emily Wenger
+  - Haitao Zheng 0001
+  - Rana Hanocka
+  - Ben Y. Zhao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shan
+  discovered_artifact: null
+- title: 'The Writing on the Wall and 3D Digital Twins: Personal Information in (not
+    so) Private Real Estate'
+  authors:
+  - Rachel McAmis
+  - Tadayoshi Kohno
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/mcamis
+  discovered_artifact: null
+- title: 'Two-in-One: A Model Hijacking Attack Against Text Generation Models'
+  authors:
+  - Wai Man Si
+  - Michael Backes 0001
+  - Yang Zhang 0016
+  - Ahmed Salem 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/si
+  discovered_artifact: null
+- title: 'Lost at C: A User Study on the Security Implications of Large Language Model
+    Code Assistants'
+  authors:
+  - Gustavo Sandoval
+  - Hammond Pearce
+  - Teo Nys
+  - Ramesh Karri
+  - Siddharth Garg
+  - Brendan Dolan-Gavitt
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/sandoval
+  discovered_artifact: https://zenodo.org/record/7187358
+- title: 'PTW: Pivotal Tuning Watermarking for Pre-Trained Image Generators'
+  authors:
+  - Nils Lukas
+  - Florian Kerschbaum
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lukas
+  discovered_artifact: https://github.com/dnn-security/gan-watermark
+- title: 'Lessons Lost: Incident Response in the Age of Cyber Insurance and Breach
+    Attorneys'
+  authors:
+  - Daniel W. Woods
+  - Rainer Böhme
+  - Josephine Wolff
+  - Daniel Schwarcz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/woods
+  discovered_artifact: null
+- title: Bug Hunters' Perspectives on the Challenges and Benefits of the Bug Bounty
+    Ecosystem
+  authors:
+  - Omer Akgul
+  - Taha Eghtesad
+  - Amit Elazari
+  - Omprakash Gnawali
+  - Jens Grossklags
+  - Michelle L. Mazurek
+  - Daniel Votipka
+  - Aron Laszka
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/akgul
+  discovered_artifact: null
+- title: '"Employees Who Don''t Accept the Time Security Takes Are Not Aware Enough":
+    The CISO View of Human-Centred Security'
+  authors:
+  - Jonas Hielscher
+  - Uta Menges
+  - Simon Parkin
+  - Annette Kluge
+  - M. Angela Sasse
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/hielscher
+  discovered_artifact: null
+- title: 'Work-From-Home and COVID-19: Trajectories of Endpoint Security Management
+    in a Security Operations Center'
+  authors:
+  - Kailani R. Jones
+  - Dalton A. Brucker-Hahn
+  - Bradley Fidler
+  - Alexandru G. Bardas
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jones
+  discovered_artifact: null
+- title: 'Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks'
+  authors:
+  - Jialai Wang
+  - Ziyuan Zhang
+  - Meiqi Wang
+  - Han Qiu 0001
+  - Tianwei Zhang 0004
+  - Qi Li 0002
+  - Zongpeng Li
+  - Tao Wei 0002
+  - Chao Zhang 0008
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-jialai
+  discovered_artifact: https://github.com/vul337/Aegis.git
+- title: Rethinking White-Box Watermarks on Deep Learning Models under Neural Structural
+    Obfuscation
+  authors:
+  - Yifan Yan
+  - Xudong Pan
+  - Mi Zhang 0001
+  - Min Yang 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yan
+  discovered_artifact: null
+- title: 'PELICAN: Exploiting Backdoors of Naturally Trained Deep Learning Models
+    In Binary Code Analysis'
+  authors:
+  - Zhuo Zhang 0002
+  - Guanhong Tao 0001
+  - Guangyu Shen
+  - Shengwei An
+  - Qiuling Xu
+  - Yingqi Liu
+  - Yapeng Ye
+  - Yaoxuan Wu
+  - Xiangyu Zhang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-zhuo-pelican
+  discovered_artifact: null
+- title: 'IvySyn: Automated Vulnerability Discovery in Deep Learning Frameworks'
+  authors:
+  - Neophytos Christou
+  - Di Jin
+  - Vaggelis Atlidakis
+  - Baishakhi Ray
+  - Vasileios P. Kemerlis
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/christou
+  discovered_artifact: https://gitlab.com/brown-ssl/ivysyn
+- title: Hey Kimya, Is My Smart Speaker Spying on Me? Taking Control of Sensor Privacy
+    Through Isolation and Amnesia
+  authors:
+  - Piet De Vaere
+  - Adrian Perrig
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/de-vaere
+  discovered_artifact: https://github.com/KimyaGateway
+- title: 'Spying through Your Voice Assistants: Realistic Voice Command Fingerprinting'
+  authors:
+  - Dilawer Ahmed
+  - Aafaq Sabir
+  - Anupam Das 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ahmed-dilawer
+  discovered_artifact: https://github.com/dilawer11/va-fingerprinting
+- title: 'Learning Normality is Enough: A Software-based Mitigation against Inaudible
+    Voice Attacks'
+  authors:
+  - Xinfeng Li
+  - Xiaoyu Ji 0001
+  - Chen Yan 0001
+  - Chaohao Li
+  - Yichen Li
+  - Zhenning Zhang
+  - Wenyuan Xu 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-xinfeng
+  discovered_artifact: https://sites.google.com/view/normdetect
+- title: 'QFA2SR: Query-Free Adversarial Transfer Attacks to Speaker Recognition Systems'
+  authors:
+  - Guangke Chen
+  - Yedi Zhang
+  - Zhe Zhao 0007
+  - Fu Song
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-guangke
+  discovered_artifact: https://sites.google.com/view/qfa2sr
+- title: 'Powering for Privacy: Improving User Trust in Smart Speaker Microphones
+    with Intentional Powering and Perceptible Assurance'
+  authors:
+  - Youngwook Do
+  - Nivedita Arora
+  - Ali Mirzazadeh
+  - Injoo Moon
+  - Eryue Xu
+  - Zhihan Zhang 0002
+  - Gregory D. Abowd
+  - Sauvik Das
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/do
+  discovered_artifact: null
+- title: 'To Cloud or not to Cloud: A Qualitative Study on Self-Hosters'' Motivation,
+    Operation, and Security Mindset'
+  authors:
+  - Lea Gröber
+  - Rafael Mrowczynski
+  - Nimisha Vijay
+  - Daphne A. Muller
+  - Adrian Dabrowski
+  - Katharina Krombholz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/grober
+  discovered_artifact: https://github.com/usrgroup/USENIX23-selfhosting
+- title: '"I wouldn''t want my unsafe code to run my pacemaker": An Interview Study
+    on the Use, Comprehension, and Perceived Risks of Unsafe Rust'
+  authors:
+  - Sandra Höltervennhoff
+  - Philip Klostermeyer
+  - Noah Wöhler
+  - Yasemin Acar
+  - Sascha Fahl
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/h%C3%B6ltervennhoff
+  discovered_artifact: https://doi.org/10.25835/gggv8xg7
+- title: 'Pushed by Accident: A Mixed-Methods Study on Strategies of Handling Secret
+    Information in Source Code Repositories'
+  authors:
+  - Alexander Krause
+  - Jan H. Klemmer
+  - Nicolas Huaman
+  - Dominik Wermke
+  - Yasemin Acar
+  - Sascha Fahl
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/krause
+  discovered_artifact: https://doi.org/10.25835/xfc2h3pg
+- title: A Mixed-Methods Study of Security Practices of Smart Contract Developers
+  authors:
+  - Tanusree Sharma
+  - Kyrie Zhixuan Zhou
+  - Andrew Miller 0001
+  - Yang Wang 0005
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/sharma
+  discovered_artifact: null
+- title: The Role of Professional Product Reviewers in Evaluating Security and Privacy
+  authors:
+  - Wentao Guo 0005
+  - Jason Walter
+  - Michelle L. Mazurek
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/guo-wentao
+  discovered_artifact: null
+- title: 'Network Responses to Russia''s Invasion of Ukraine in 2022: A Cautionary
+    Tale for Internet Freedom'
+  authors:
+  - Reethika Ramesh
+  - Ram Sundara Raman
+  - Apurva Virkud
+  - Alexandra Dirksen
+  - Armin Huremagic
+  - David Fifield
+  - Dirk Rodenburg
+  - Rod Hynes
+  - Douglas Madory
+  - Roya Ensafi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ramesh-network-responses
+  discovered_artifact: https://github.com/censoredplanet/geoinspector
+- title: A Study of China's Censorship and Its Evasion Through the Lens of Online
+    Gaming
+  authors:
+  - Yuzhou Feng
+  - Ruyu Zhai
+  - Radu Sion
+  - Bogdan Carbunar
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/feng
+  discovered_artifact: null
+- title: 'DeResistor: Toward Detection-Resistant Probing for Evasion of Internet Censorship'
+  authors:
+  - Abderrahmen Amich
+  - Birhanu Eshete
+  - Vinod Yegneswaran
+  - Nguyen Phong Hoang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/amich
+  discovered_artifact: https://github.com/um-dsp/DeResistor
+- title: Timeless Timing Attacks and Preload Defenses in Tor's DNS Cache
+  authors:
+  - Rasmus Dahlberg
+  - Tobias Pulls
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/dahlberg
+  discovered_artifact: https://gitlab.torproject.org/rgdd/ttapd/-/tree/main/artifact
+- title: A Data-free Backdoor Injection Approach in Neural Networks
+  authors:
+  - Peizhuo Lv
+  - Chang Yue
+  - Ruigang Liang
+  - Yunfei Yang 0001
+  - Shengzhi Zhang
+  - Hualong Ma
+  - Kai Chen 0012
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lv
+  discovered_artifact: https://github.com/lvpeizhuo/Data-free_Backdoor
+- title: How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic
+  authors:
+  - Mingshi Wu
+  - Jackson Sippe
+  - Danesh Sivakumar
+  - Jack Burg
+  - Peter Anderson
+  - Xiaokang Wang
+  - Kevin Bock 0001
+  - Amir Houmansadr
+  - Dave Levin
+  - Eric Wustrow
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wu-mingshi
+  discovered_artifact: https://gfw.report/publications/usenixsecurity23/en
+- title: 'Sparsity Brings Vulnerabilities: Exploring New Metrics in Backdoor Attacks'
+  authors:
+  - Jianwen Tian
+  - Kefan Qiu
+  - Debin Gao
+  - Zhi Wang 0014
+  - Xiaohui Kuang
+  - Gang Zhao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/tian
+  discovered_artifact: https://lief-project.github.io/
+- title: Aliasing Backdoor Attacks on Pre-trained Models
+  authors:
+  - Cheng&apos;an Wei
+  - Yeonjoon Lee
+  - Kai Chen 0012
+  - Guozhu Meng
+  - Peizhuo Lv
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wei-chengan
+  discovered_artifact: https://github.com/CassiniHuy/AliasingBackdoorAttack
+- title: 'ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning
+    Paradigms'
+  authors:
+  - Minzhou Pan
+  - Yi Zeng 0005
+  - Lingjuan Lyu
+  - Xue Lin 0001
+  - Ruoxi Jia 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/pan
+  discovered_artifact: https://github.com/ruoxi-jia-group/ASSET
+- title: 'VILLAIN: Backdoor Attacks Against Vertical Split Learning'
+  authors:
+  - Yijie Bai
+  - Yanjiao Chen
+  - Hanlei Zhang
+  - Wenyuan Xu 0001
+  - Haiqin Weng
+  - Dou Goodman
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bai
+  discovered_artifact: null
+- title: 'ARI: Attestation of Real-time Mission Execution Integrity'
+  authors:
+  - Jinwen Wang
+  - Yujie Wang
+  - Ao Li 0006
+  - Yang Xiao 0010
+  - Ruide Zhang
+  - Wenjing Lou
+  - Y. Thomas Hou 0001
+  - Ning Zhang 0017
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-jinwen
+  discovered_artifact: https://github.com/WUSTL-CSPL/ARI
+- title: 'HashTag: Hash-based Integrity Protection for Tagged Architectures'
+  authors:
+  - Lukas Lamster
+  - Martin Unterguggenberger
+  - David Schrammel
+  - Stefan Mangard
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lamster
+  discovered_artifact: null
+- title: Design of Access Control Mechanisms in Systems-on-Chip with Formal Integrity
+    Guarantees
+  authors:
+  - Dino Mehmedagic
+  - Mohammad Rahmani Fadiheh
+  - Johannes Müller 0006
+  - Anna Lena Duque Antón
+  - Dominik Stoffel
+  - Wolfgang Kunz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/mehmedagic
+  discovered_artifact: null
+- title: 'XCheck: Verifying Integrity of 3D Printed Patient-Specific Devices via Computing
+    Tomography'
+  authors:
+  - Zhiyuan Yu 0001
+  - Yuanhaur Chang
+  - Shixuan Zhai
+  - Nicholas Deily
+  - Tao Ju
+  - XiaoFeng Wang 0001
+  - Uday Jammalamadaka
+  - Ning Zhang 0017
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yu-zhiyuan-xcheck
+  discovered_artifact: https://3dxcheck.github.io/
+- title: Demystifying Pointer Authentication on Apple M1
+  authors:
+  - Zechao Cai
+  - Jiaxun Zhu
+  - Wenbo Shen
+  - Yutian Yang
+  - Rui Chang
+  - Yu Wang
+  - Jinku Li
+  - Kui Ren 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cai-zechao
+  discovered_artifact: null
+- title: 'DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directed
+    Fuzzing'
+  authors:
+  - Ming Yuan 0003
+  - Bodong Zhao
+  - Penghui Li 0001
+  - Jiashuo Liang
+  - Xinhui Han
+  - Xiapu Luo
+  - Chao Zhang 0008
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yuan-ming
+  discovered_artifact: https://github.com/vul337/DDRace
+- title: Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation
+  authors:
+  - Cen Zhang
+  - Yuekang Li
+  - Hao Zhou 0043
+  - Xiaohan Zhang
+  - Yaowen Zheng
+  - Xian Zhan
+  - Xiaofei Xie
+  - Xiapu Luo
+  - Xinghua Li 0001
+  - Yang Liu 0003
+  - Sheikh Mahbub Habib
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-cen
+  discovered_artifact: https://sites.google.com/view/rubick-lore/home
+- title: 'Hoedur: Embedded Firmware Fuzzing using Multi-Stream Inputs'
+  authors:
+  - Tobias Scharnowski
+  - Simon Wörner
+  - Felix Buchmann
+  - Nils Bars
+  - Moritz Schloegel
+  - Thorsten Holz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/scharnowski
+  discovered_artifact: https://github.com/fuzzware-fuzzer/hoedur
+- title: Forming Faster Firmware Fuzzers
+  authors:
+  - Lukas Seidel
+  - Dominik Christian Maier
+  - Marius Muench
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/seidel
+  discovered_artifact: https://github.com/pr0me/SAFIREFUZZ
+- title: 'Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated
+    Driving System from Appearing Attacks'
+  authors:
+  - Qifan Xiao
+  - Xudong Pan
+  - Yifan Lu
+  - Mi Zhang 0001
+  - Jiarun Dai
+  - Min Yang 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-qifan
+  discovered_artifact: null
+- title: 'ReUSB: Replay-Guided USB Driver Fuzzing'
+  authors:
+  - Jisoo Jang
+  - Minsuk Kang
+  - Dokyung Song
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jang
+  discovered_artifact: null
+- title: Discovering Adversarial Driving Maneuvers against Autonomous Vehicles
+  authors:
+  - Ruoyu Song 0001
+  - Muslum Ozgur Ozmen
+  - Hyungsub Kim
+  - Raymond Muller
+  - Z. Berkay Celik
+  - Antonio Bianchi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/song
+  discovered_artifact: null
+- title: Understand Users' Privacy Perception and Decision of V2X Communication in
+    Connected Autonomous Vehicles
+  authors:
+  - Zekun Cai
+  - Aiping Xiong
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cai-zekun
+  discovered_artifact: null
+- title: 'PatchVerif: Discovering Faulty Patches in Robotic Vehicles'
+  authors:
+  - Hyungsub Kim
+  - Muslum Ozgur Ozmen
+  - Z. Berkay Celik
+  - Antonio Bianchi
+  - Dongyan Xu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kim-hyungsub
+  discovered_artifact: https://github.com/purseclab/PatchVerif
+- title: 'You Can''t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles
+    Driving Frameworks'
+  authors:
+  - Yulong Cao
+  - S. Hrushikesh Bhupathiraju
+  - Pirouz Naghavi
+  - Takeshi Sugawara 0001
+  - Z. Morley Mao
+  - Sara Rampazzi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cao
+  discovered_artifact: https://cpseclab.github.io/youcantseeme/
+- title: Fast IDentity Online with Anonymous Credentials (FIDO-AC)
+  authors:
+  - Wei-Zhu Yeoh
+  - Michal Kepkowski
+  - Gunnar Heide
+  - Dali Kaafar
+  - Lucjan Hanzlik
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yeoh
+  discovered_artifact: https://github.com/FIDO-AC/fidoac
+- title: How to Bind Anonymous Credentials to Humans
+  authors:
+  - Julia Hesse
+  - Nitin Singh
+  - Alessandro Sorniotti
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/hesse
+  discovered_artifact: null
+- title: Inducing Authentication Failures to Bypass Credit Card PINs
+  authors:
+  - David A. Basin
+  - Patrick Schaller
+  - Jorge Toro-Pozo
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/basin
+  discovered_artifact: https://emvrace.github.io
+- title: 'Account Verification on Social Media: User Perceptions and Paid Enrollment'
+  authors:
+  - Madelyne Xiao
+  - Mona Wang
+  - Anunay Kulshrestha
+  - Jonathan R. Mayer
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-madelyne
+  discovered_artifact: null
+- title: An Empirical Study & Evaluation of Modern CAPTCHAs
+  authors:
+  - Andrew Searles
+  - Yoshimichi Nakatsuka
+  - Ercan Ozturk
+  - Andrew Paverd
+  - Gene Tsudik
+  - Ai Enkoji
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/searles
+  discovered_artifact: https://github.com/sprout-uci/captcha-study
+- title: User Awareness and Behaviors Concerning Encrypted DNS Settings in Web Browsers
+  authors:
+  - Alexandra Nisenoff
+  - Ranya Sharma
+  - Nick Feamster
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/nisenoff-awareness
+  discovered_artifact: null
+- title: 'Two Sides of the Shield: Understanding Protective DNS adoption factors'
+  authors:
+  - Elsa Turcios Rodriguez
+  - Radu Anghel
+  - Simon Parkin
+  - Michel van Eeten
+  - Carlos Gañán
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/rodriguez
+  discovered_artifact: https://doi.org/10.4121/22232911.v1
+- title: 'NRDelegationAttack: Complexity DDoS attack on DNS Recursive Resolvers'
+  authors:
+  - Yehuda Afek
+  - Anat Bremler-Barr
+  - Shani Stajnrod
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/afek
+  discovered_artifact: https://github.com/ShaniBenAtya/dnssim
+- title: 'Fourteen Years in the Life: A Root Server''s Perspective on DNS Resolver
+    Security'
+  authors:
+  - Alden Hilton
+  - Casey T. Deccio
+  - Jacob Davis
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/hilton
+  discovered_artifact: null
+- title: 'The Maginot Line: Attacking the Boundary of DNS Caching Protection'
+  authors:
+  - Xiang Li 0108
+  - Chaoyi Lu
+  - Baojun Liu
+  - Qifan Zhang 0002
+  - Zhou Li 0001
+  - Haixin Duan
+  - Qi Li 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-xiang
+  discovered_artifact: https://netsec.ccert.edu.cn/people/duanhx/
+- title: Inductive Graph Unlearning
+  authors:
+  - Cheng-Long Wang 0003
+  - Mengdi Huai
+  - Di Wang 0015
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-cheng-long
+  discovered_artifact: https://github.com/Happy2Git/GUIDE
+- title: 'GAP: Differentially Private Graph Neural Networks with Aggregation Perturbation'
+  authors:
+  - Sina Sajadmanesh
+  - Ali Shahin Shamsabadi
+  - Aurélien Bellet
+  - Daniel Gatica-Perez
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/sajadmanesh
+  discovered_artifact: https://github.com/sisaman/GAP
+- title: 'PrivGraph: Differentially Private Graph Data Publication by Exploiting Community
+    Information'
+  authors:
+  - Quan Yuan
+  - Zhikun Zhang 0001
+  - Linkang Du
+  - Min Chen 0032
+  - Peng Cheng 0001
+  - Mingyang Sun
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yuan-quan
+  discovered_artifact: https://github.com/Privacy-Graph/PrivGraph
+- title: On the Security Risks of Knowledge Graph Reasoning
+  authors:
+  - Zhaohan Xi
+  - Tianyu Du
+  - Changjiang Li
+  - Ren Pang
+  - Shouling Ji
+  - Xiapu Luo
+  - Xusheng Xiao
+  - Fenglong Ma
+  - Ting Wang 0006
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xi
+  discovered_artifact: null
+- title: The Case for Learned Provenance Graph Storage Systems
+  authors:
+  - Hailun Ding
+  - Juan Zhai
+  - Dong Deng 0001
+  - Shiqing Ma
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ding-hailun-provenance
+  discovered_artifact: https://github.com/dhl123/Leonard
+- title: A Large Scale Study of the Ethereum Arbitrage Ecosystem
+  authors:
+  - Robert McLaughlin
+  - Christopher Kruegel
+  - Giovanni Vigna
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/mclaughlin
+  discovered_artifact: https://github.com/ucsb-seclab/goldphish
+- title: 'ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles'
+  authors:
+  - Sangdon Park 0001
+  - Osbert Bastani
+  - Taesoo Kim
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/park
+  discovered_artifact: https://github.com/sslab-gatech/ACon2
+- title: 'Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes'
+  authors:
+  - Massimiliano Taverna
+  - Kenneth G. Paterson
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/taverna
+  discovered_artifact: https://github.com/massitaverna/malicious-go-ethereum
+- title: 'LibScan: Towards More Precise Third-Party Library Identification for Android
+    Applications'
+  authors:
+  - Yafei Wu
+  - Cong Sun 0001
+  - Dongrui Zeng
+  - Gang Tan
+  - Siqi Ma
+  - Peicheng Wang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wu-yafei
+  discovered_artifact: https://github.com/wyf295/LibScan
+- title: Automated Inference on Financial Security of Ethereum Smart Contracts
+  authors:
+  - Wansen Wang 0001
+  - Wenchao Huang 0001
+  - Zhaoyi Meng
+  - Yan Xiong 0001
+  - Fuyou Miao 0001
+  - Xianjin Fang
+  - Caichang Tu
+  - Renjie Ji
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-wansen
+  discovered_artifact: null
+- title: 'Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem
+    of Tokens in Ethereum and in the Binance Smart Chain (BNB)'
+  authors:
+  - Federico Cernera
+  - Massimo La Morgia
+  - Alessandro Mei
+  - Francesco Sassi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cernera
+  discovered_artifact: null
+- title: 'Union under Duress: Understanding Hazards of Duplicate Resource Mismediation
+    in Android Software Supply Chain'
+  authors:
+  - Xueqiang Wang
+  - Yifan Zhang 0010
+  - XiaoFeng Wang 0001
+  - Yan Jia
+  - Luyi Xing
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-xueqiang-duress
+  discovered_artifact: https://sites.google.com/view/union-under-duress
+- title: 'UVSCAN: Detecting Third-Party Component Usage Violations in IoT Firmware'
+  authors:
+  - Binbin Zhao
+  - Shouling Ji
+  - Xuhong Zhang 0002
+  - Yuan Tian 0001
+  - Qinying Wang
+  - Yuwen Pu
+  - Chenyang Lyu
+  - Raheem Beyah
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhao-binbin
+  discovered_artifact: https://github.com/BBge/IoT-CVE
+- title: 'SandDriller: A Fully-Automated Approach for Testing Language-Based JavaScript
+    Sandboxes'
+  authors:
+  - Abdullah AlHamdan
+  - Cristian-Alexandru Staicu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/alhamdan
+  discovered_artifact: https://github.com/andromeda/mir
+- title: 'Beyond Typosquatting: An In-depth Look at Package Confusion'
+  authors:
+  - Shradha Neupane
+  - Grant Holmes
+  - Elizabeth Wyss
+  - Drew Davidson
+  - Lorenzo De Carli
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/neupane
+  discovered_artifact: https://github.com/ldklab/typomind-release
+- title: 'Instructions Unclear: Undefined Behaviour in Cellular Network Specifications'
+  authors:
+  - Daniel Klischies
+  - Moritz Schloegel
+  - Tobias Scharnowski
+  - Mikhail Bogodukhov
+  - David Rupprecht
+  - Veelasha Moonsamy
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/klischies
+  discovered_artifact: https://zenodo.org/record/8013704
+- title: Eavesdropping Mobile App Activity via Radio-Frequency Energy Harvesting
+  authors:
+  - Tao Ni 0003
+  - Guohao Lan
+  - Jia Wang 0008
+  - Qingchuan Zhao
+  - Weitao Xu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ni
+  discovered_artifact: null
+- title: 'MobileAtlas: Geographically Decoupled Measurements in Cellular Networks
+    for Security and Privacy Research'
+  authors:
+  - Gabriel K. Gegenhuber
+  - Wilfried Mayer
+  - Edgar R. Weippl
+  - Adrian Dabrowski
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gegenhuber
+  discovered_artifact: https://github.com/sbaresearch/mobile-atlas
+- title: 'Sherlock on Specs: Building LTE Conformance Tests through Automated Reasoning'
+  authors:
+  - Yi Chen 0024
+  - Di Tang 0001
+  - Yepeng Yao
+  - Mingming Zha 0001
+  - XiaoFeng Wang 0001
+  - Xiaozhong Liu
+  - Haixu Tang
+  - Baoxu Liu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-yi
+  discovered_artifact: https://sites.google.com/view/contester
+- title: 'BASECOMP: A Comparative Analysis for Integrity Protection in Cellular Baseband
+    Software'
+  authors:
+  - Eunsoo Kim
+  - Min Woo Baek
+  - CheolJun Park
+  - Dongkwan Kim 0001
+  - Yongdae Kim
+  - Insu Yun
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kim-eunsoo
+  discovered_artifact: https://github.com/kaist-hacking/BaseComp
+- title: '"My Privacy for their Security": Employees'' Privacy Perspectives and Expectations
+    when using Enterprise Security Software'
+  authors:
+  - Jonah Stegman
+  - Patrick J. Trottier
+  - Caroline Hillier
+  - Hassan Khan
+  - Mohammad Mannan
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/stegman
+  discovered_artifact: null
+- title: Investigating Verification Behavior and Perceptions of Visual Digital Certificates
+  authors:
+  - Dañiel Gerhardt
+  - Alexander Ponticello
+  - Adrian Dabrowski
+  - Katharina Krombholz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gerhardt
+  discovered_artifact: null
+- title: 'Account Security Interfaces: Important, Unintuitive, and Untrustworthy'
+  authors:
+  - Alaa Daffalla
+  - Marina Sanusi Bohuk
+  - Nicola Dell
+  - Rosanna Bellini
+  - Thomas Ristenpart
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/daffalla
+  discovered_artifact: null
+- title: 'Defining "Broken": User Experiences and Remediation Tactics When Ad-Blocking
+    or Tracking-Protection Tools Break a Website''s User Experience'
+  authors:
+  - Alexandra Nisenoff
+  - Arthur Borem
+  - Madison Pickering
+  - Grant Nakanishi
+  - Maya Thumpasery
+  - Blase Ur
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/nisenoff-broken
+  discovered_artifact: null
+- title: 'Cryptographic Deniability: A Multi-perspective Study of User Perceptions
+    and Expectations'
+  authors:
+  - Tarun Kumar Yadav
+  - Devashish Gosain
+  - Kent E. Seamons
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yadav
+  discovered_artifact: null
+- title: 'Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs'
+  authors:
+  - Jianhao Xu
+  - Kangjie Lu
+  - Zhengjie Du
+  - Zhu Ding
+  - Linke Li
+  - Qiushi Wu
+  - Mathias Payer
+  - Bing Mao 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao
+  discovered_artifact: https://sites.google.com/view/cisb-study
+- title: 'A Bug''s Life: Analyzing the Lifecycle and Mitigation Process of Content
+    Security Policy Bugs'
+  authors:
+  - Gertjan Franken
+  - Tom van Goethem
+  - Lieven Desmet
+  - Wouter Joosen
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/franken
+  discovered_artifact: https://github.com/DistriNet/BugHog
+- title: 'Remote Code Execution from SSTI in the Sandbox: Automatically Detecting
+    and Exploiting Template Escape Bugs'
+  authors:
+  - Yudi Zhao
+  - Yuan Zhang 0009
+  - Min Yang 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhao-yudi
+  discovered_artifact: https://github.com/seclab-fudan/TEFuzz/
+- title: Detecting API Post-Handling Bugs Using Code and Description in Patches
+  authors:
+  - Miaoqian Lin
+  - Kai Chen 0012
+  - Yang Xiao 0011
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lin
+  discovered_artifact: https://github.com/Yuuoniy/APHP
+- title: 'Place Your Locks Well: Understanding and Detecting Lock Misuse Bugs'
+  authors:
+  - Yuandao Cai
+  - Peisen Yao
+  - Chengfeng Ye
+  - Charles Zhang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cai-yuandao
+  discovered_artifact: null
+- title: The Space of Adversarial Strategies
+  authors:
+  - Ryan Sheatsley
+  - Blaine Hoak
+  - Eric Pauley
+  - Patrick D. McDaniel
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/sheatsley
+  discovered_artifact: null
+- title: '"Security is not my field, I''m a stats guy": A Qualitative Root Cause Analysis
+    of Barriers to Adversarial Machine Learning Defenses in Industry'
+  authors:
+  - Jaron Mink
+  - Harjot Kaur
+  - Juliane Schmüser
+  - Sascha Fahl
+  - Yasemin Acar
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/mink
+  discovered_artifact: null
+- title: 'X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item
+    Detection'
+  authors:
+  - Aishan Liu
+  - Jun Guo 0009
+  - Jiakai Wang
+  - Siyuan Liang
+  - Renshuai Tao
+  - Wenbo Zhou
+  - Cong Liu 0006
+  - Xianglong Liu 0001
+  - Dacheng Tao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/liu-aishan
+  discovered_artifact: https://github.com/DIG-Beihang/X-adv
+- title: 'URET: Universal Robustness Evaluation Toolkit (for Evasion)'
+  authors:
+  - Kevin Eykholt
+  - Taesung Lee
+  - Douglas Lee Schales
+  - Jiyong Jang
+  - Ian M. Molloy
+  - Masha Zorin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/eykholt
+  discovered_artifact: https://github.com/IBM/URET
+- title: 'SMACK: Semantically Meaningful Adversarial Audio Attack'
+  authors:
+  - Zhiyuan Yu 0001
+  - Yuanhaur Chang
+  - Ning Zhang 0017
+  - Chaowei Xiao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yu-zhiyuan-smack
+  discovered_artifact: https://semanticaudioattack.github.io/
+- title: Authenticated private information retrieval
+  authors:
+  - Simone Colombo 0002
+  - Kirill Nikitin 0001
+  - Henry Corrigan-Gibbs
+  - David J. Wu 0001
+  - Bryan Ford
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/colombo
+  discovered_artifact: https://github.com/dedis/apir-code
+- title: 'Don''t be Dense: Efficient Keyword PIR for Sparse Databases'
+  authors:
+  - Sarvar Patel
+  - Joon Young Seo
+  - Kevin Yeo
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/patel
+  discovered_artifact: null
+- title: 'GigaDORAM: Breaking the Billion Address Barrier'
+  authors:
+  - Brett Hemenway Falk
+  - Rafail Ostrovsky
+  - Matan Shtepel
+  - Jacob Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/falk
+  discovered_artifact: null
+- title: 'One Server for the Price of Two: Simple and Fast Single-Server Private Information
+    Retrieval'
+  authors:
+  - Alexandra Henzinger
+  - Matthew M. Hong
+  - Henry Corrigan-Gibbs
+  - Sarah Meiklejohn
+  - Vinod Vaikuntanathan
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/henzinger
+  discovered_artifact: github.com/ahenzinger/simplepir
+- title: 'Duoram: A Bandwidth-Efficient Distributed ORAM for 2- and 3-Party Computation'
+  authors:
+  - Adithya Vadapalli
+  - Ryan Henry
+  - Ian Goldberg
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/vadapalli
+  discovered_artifact: https://git-crysp.uwaterloo.ca/avadapal/duoram
+- title: 'PATROL: Provable Defense against Adversarial Policy in Two-player Games'
+  authors:
+  - Wenbo Guo 0002
+  - Xian Wu 0007
+  - Lun Wang 0001
+  - Xinyu Xing 0001
+  - Dawn Song
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/guo-wenbo
+  discovered_artifact: null
+- title: 'A Peek into the Metaverse: Detecting 3D Model Clones in Mobile Games'
+  authors:
+  - Chaoshun Zuo
+  - Chao Wang 0113
+  - Zhiqiang Lin 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zuo
+  discovered_artifact: https://github.com/OSUSecLab/3DScan
+- title: The Blockchain Imitation Game
+  authors:
+  - Kaihua Qin
+  - Stefanos Chaliasos
+  - Liyi Zhou
+  - Benjamin Livshits
+  - Dawn Song
+  - Arthur Gervais
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/qin
+  discovered_artifact: null
+- title: 'It''s all in your head(set): Side-channel attacks on AR/VR systems'
+  authors:
+  - Yicheng Zhang
+  - Carter Slocum
+  - Jiasi Chen
+  - Nael B. Abu-Ghazaleh
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-yicheng
+  discovered_artifact: null
+- title: Reusable Enclaves for Confidential Serverless Computing
+  authors:
+  - Shixuan Zhao 0002
+  - Pinshen Xu
+  - Guoxing Chen
+  - Mengya Zhang
+  - Yinqian Zhang
+  - Zhiqiang Lin 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhao-shixuan
+  discovered_artifact: null
+- title: 'Egg Hunt in Tesla Infotainment: A First Look at Reverse Engineering of Qt
+    Binaries'
+  authors:
+  - Haohuang Wen
+  - Zhiqiang Lin 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wen
+  discovered_artifact: https://github.com/OSUSecLab/QtRE
+- title: 'EnigMap: External-Memory Oblivious Map for Secure Enclaves'
+  authors:
+  - Afonso Tinoco
+  - Sixiang Gao
+  - Elaine Shi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/tinoco
+  discovered_artifact: https://github.com/odslib/EnigMap
+- title: 'AEX-Notify: Thwarting Precise Single-Stepping Attacks through Interrupt
+    Awareness for Intel SGX Enclaves'
+  authors:
+  - Scott Constable
+  - Jo Van Bulck
+  - Xiang Cheng
+  - Yuan Xiao 0001
+  - Cedric Xing
+  - Ilya Alexandrovich
+  - Taesoo Kim
+  - Frank Piessens
+  - Mona Vij
+  - Mark Silberstein
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/constable
+  discovered_artifact: null
+- title: Guarding Serverless Applications with Kalium
+  authors:
+  - Deepak Sirone Jegan
+  - Liang Wang 0023
+  - Siddhant Bhagat
+  - Michael M. Swift
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jegan
+  discovered_artifact: null
+- title: 'Controlled Data Races in Enclaves: Attacks and Detection'
+  authors:
+  - Sanchuan Chen
+  - Zhiqiang Lin 0001
+  - Yinqian Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-sanchuan
+  discovered_artifact: https://github.com/OSUSecLab/SGXRacer
+- title: '"To Do This Properly, You Need More Resources": The Hidden Costs of Introducing
+    Simulated Phishing Campaigns'
+  authors:
+  - Lina Brunken
+  - Annalina Buckmann
+  - Jonas Hielscher
+  - M. Angela Sasse
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/brunken
+  discovered_artifact: null
+- title: 'You''ve Got Report: Measurement and Security Implications of DMARC Reporting'
+  authors:
+  - Md. Ishtiaq Ashiq
+  - Weitong Li
+  - Tobias Fiebig
+  - Taejoong Chung
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ashiq
+  discovered_artifact: https://dmarc-study.github.io/
+- title: Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing
+    Detection
+  authors:
+  - Ruofan Liu
+  - Yun Lin 0001
+  - Yifan Zhang
+  - Penn Han Lee
+  - Jin Song Dong 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/liu-ruofan
+  discovered_artifact: https://github.com/code-philia/Dynaphish
+- title: 'Rods with Laser Beams: Understanding Browser Fingerprinting on Phishing
+    Pages'
+  authors:
+  - Iskander Sánchez-Rola
+  - Leyla Bilge
+  - Davide Balzarotti
+  - Armin Buescher
+  - Petros Efstathopoulos
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/sanchez-rola
+  discovered_artifact: null
+- title: 'Content-Type: multipart/oracle - Tapping into Format Oracles in Email End-to-End
+    Encryption'
+  authors:
+  - Fabian Ising
+  - Damian Poddebniak
+  - Tobias Kappert
+  - Christoph Saatjohann
+  - Sebastian Schinzel
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ising
+  discovered_artifact: null
+- title: 'PET: Prevent Discovered Errors from Being Triggered in the Linux Kernel'
+  authors:
+  - Zicheng Wang
+  - Yueqi Chen 0001
+  - Qingkai Zeng 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-zicheng
+  discovered_artifact: https://github.com/purplewall1206/PET
+- title: 'AlphaEXP: An Expert System for Identifying Security-Sensitive Kernel Objects'
+  authors:
+  - Ruipeng Wang
+  - Kaixiang Chen
+  - Chao Zhang 0008
+  - Zulie Pan
+  - Qianyu Li 0001
+  - Siliang Qin
+  - Shenglin Xu
+  - Min Zhang 0054
+  - Yang Li 0215
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-ruipeng
+  discovered_artifact: null
+- title: A Hybrid Alias Analysis and Its Application to Global Variable Protection
+    in the Linux Kernel
+  authors:
+  - Guoren Li
+  - Hang Zhang 0012
+  - Jinmeng Zhou
+  - Wenbo Shen
+  - Yulei Sui
+  - Zhiyun Qian
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-guoren
+  discovered_artifact: null
+- title: 'Mitigating Security Risks in Linux with KLAUS: A Method for Evaluating Patch
+    Correctness'
+  authors:
+  - Yuhang Wu 0003
+  - Zhenpeng Lin
+  - Yueqi Chen 0001
+  - Dang K. Le
+  - Dongliang Mu
+  - Xinyu Xing 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wu-yuhang
+  discovered_artifact: null
+- title: Detecting Union Type Confusion in Component Object Model
+  authors:
+  - Yuxing Zhang
+  - Xiaogang Zhu 0001
+  - Daojing He
+  - Minhui Xue 0001
+  - Shouling Ji
+  - Mohammad Sayad Haghighi
+  - Sheng Wen
+  - Zhiniang Peng
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-yuxing
+  discovered_artifact: null
+- title: Network Detection of Interactive SSH Impostors Using Deep Learning
+  authors:
+  - Julien Piet
+  - Aashish Sharma
+  - Vern Paxson
+  - David A. Wagner 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/piet
+  discovered_artifact: https://github.com/wagner-group/ssh_keystroke_analytics
+- title: 'ARGUS: Context-Based Detection of Stealthy IoT Infiltration Attacks'
+  authors:
+  - Phillip Rieger
+  - Marco Chilese
+  - Reham Mohamed 0002
+  - Markus Miettinen
+  - Hossein Fereidooni
+  - Ahmad-Reza Sadeghi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/rieger
+  discovered_artifact: https://github.com/TRUST-TUDa/argus-data
+- title: Generative Intrusion Detection and Prevention on Data Stream
+  authors:
+  - HyungBin Seo
+  - MyungKeun Yoon 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/seo
+  discovered_artifact: null
+- title: 'xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems
+    for Active Intrusion Responses'
+  authors:
+  - Feng Wei
+  - Hongda Li 0002
+  - Ziming Zhao 0001
+  - Hongxin Hu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wei-feng
+  discovered_artifact: https://github.com/CactiLab/code-xNIDS.git
+- title: 'Dubhe: Succinct Zero-Knowledge Proofs for Standard AES and related Applications'
+  authors:
+  - Changchang Ding
+  - Yan Huang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ding-changchang
+  discovered_artifact: null
+- title: 'PROGRAPHER: An Anomaly Detection System based on Provenance Graph Embedding'
+  authors:
+  - Fan Yang
+  - Jiacen Xu
+  - Chunlin Xiong
+  - Zhou Li 0001
+  - Kehuan Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yang-fan
+  discovered_artifact: null
+- title: 'Curve Trees: Practical and Transparent Zero-Knowledge Accumulators'
+  authors:
+  - Matteo Campanelli
+  - Mathias Hall-Andersen
+  - Simon Holmgaard Kamp
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/campanelli
+  discovered_artifact: https://github.com/simonkamp/curve-trees
+- title: 'BalanceProofs: Maintainable Vector Commitments with Fast Aggregation'
+  authors:
+  - Weijie Wang
+  - Annie Ulichney
+  - Charalampos Papamanthou
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-weijie
+  discovered_artifact: https://github.com/wangnick2017/balanceproofs-go
+- title: 'zkSaaS: Zero-Knowledge SNARKs as a Service'
+  authors:
+  - Sanjam Garg
+  - Aarushi Goel
+  - Abhishek Jain 0002
+  - Guru-Vamsi Policharla
+  - Sruthi Sekar
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/garg
+  discovered_artifact: https://github.com/guruvamsi-policharla/zksaas
+- title: 'Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance'
+  authors:
+  - Jiwon Kim 0001
+  - Benjamin E. Ujcich
+  - Dave Tian
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kim-jiwon
+  discovered_artifact: https://github.com/purseclab/intender
+- title: 'VeriZexe: Decentralized Private Computation with Universal Setup'
+  authors:
+  - Alex Luoyuan Xiong
+  - Binyi Chen
+  - Zhenfei Zhang
+  - Benedikt Bünz
+  - Ben Fisch
+  - Fernando Krell
+  - Philippe Camacho
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xiong
+  discovered_artifact: https://github.com/EspressoSystems/veri-zexe
+- title: 'Bleem: Packet Sequence Oriented Fuzzing for Protocol Implementations'
+  authors:
+  - Zhengxiong Luo 0002
+  - Junze Yu
+  - Feilong Zuo
+  - Jianzhong Liu
+  - Yu Jiang 0001
+  - Ting Chen 0002
+  - Abhik Roychoudhury
+  - Jiaguang Sun 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/luo-zhengxiong
+  discovered_artifact: null
+- title: Automated Exploitable Heap Layout Generation for Heap Overflows Through Manipulation
+    Distance-Guided Fuzzing
+  authors:
+  - Bin Zhang
+  - Jiongyi Chen
+  - Runhao Li
+  - Chao Feng 0002
+  - Ruilin Li 0002
+  - Chaojing Tang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-bin
+  discovered_artifact: https://github.com/Epeius/Scatter
+- title: Systematic Assessment of Fuzzers using Mutation Analysis
+  authors:
+  - Philipp Görz
+  - Björn Mathis
+  - Keno Hassler
+  - Emre Güler
+  - Thorsten Holz
+  - Andreas Zeller
+  - Rahul Gopinath
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gorz
+  discovered_artifact: https://github.com/CISPA-SysSec/mua_fuzzer_bench
+- title: 'MINER: A Hybrid Data-Driven Approach for REST API Fuzzing'
+  authors:
+  - Chenyang Lyu
+  - Jiacheng Xu
+  - Shouling Ji
+  - Xuhong Zhang 0002
+  - Qinying Wang
+  - Binbin Zhao
+  - Gaoning Pan
+  - Wei Cao
+  - Peng Cheng 0001
+  - Raheem Beyah
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lyu
+  discovered_artifact: https://github.com/puppet-meteor/MINER
+- title: 'HOMESPY: The Invisible Sniffer of Infrared Remote Control of Smart TVs'
+  authors:
+  - Kong Huang
+  - Yutong Zhou
+  - Ke Zhang 0039
+  - Jiacen Xu
+  - Jiongyi Chen
+  - Di Tang 0001
+  - Kehuan Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/huang
+  discovered_artifact: https://sites.google.com/view/homespydemo4560
+- title: 'Near-Ultrasound Inaudible Trojan (Nuit): Exploiting Your Speaker to Attack
+    Your Microphone'
+  authors:
+  - Qi Xia
+  - Qian Chen
+  - Shouhuai Xu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xia
+  discovered_artifact: https://sites.google.com/view/nuitattack/home
+- title: Remote Attacks on Speech Recognition Systems Using Sound from Power Supply
+  authors:
+  - Lanqing Yang
+  - Xinqi Chen
+  - Xiangyong Jian
+  - Leping Yang
+  - Yijie Li 0002
+  - Qianfei Ren
+  - Yi-Chao Chen 0001
+  - Guangtao Xue
+  - Xiaoyu Ji 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yang-lanqing
+  discovered_artifact: null
+- title: 'Medusa Attack: Exploring Security Hazards of In-App QR Code Scanning'
+  authors:
+  - Xing Han
+  - Yuheng Zhang
+  - Xue Zhang
+  - Zeyuan Chen
+  - Mingzhe Wang
+  - Yiwei Zhang
+  - Siqi Ma
+  - Yu Yu 0001
+  - Elisa Bertino
+  - Juanru Li
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/han-xing
+  discovered_artifact: https://medusa.code-analysis.org
+- title: 'Othered, Silenced and Scapegoated: Understanding the Situated Security of
+    Marginalised Populations in Lebanon'
+  authors:
+  - Jessica McClearn
+  - Rikke Bjerg Jensen
+  - Reem Talhouk
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/mcclearn
+  discovered_artifact: null
+- title: Examining Power Dynamics and User Privacy in Smart Technology Use Among Jordanian
+    Households
+  authors:
+  - Wael S. Albayaydh
+  - Ivan Flechais
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/albayaydh
+  discovered_artifact: null
+- title: '"If sighted people know, I should be able to know: " Privacy Perceptions
+    of Bystanders with Visual Impairments around Camera-based Technology'
+  authors:
+  - Yuhang Zhao 0001
+  - Yaxing Yao
+  - Jiaru Fu
+  - Nihan Zhou
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhao-yuhang
+  discovered_artifact: null
+- title: A Research Framework and Initial Study of Browser Security for the Visually
+    Impaired
+  authors:
+  - Elaine Lau
+  - Zachary Peterson
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lau
+  discovered_artifact: null
+- title: 'ELASM: Error-Latency-Aware Scale Management for Fully Homomorphic Encryption'
+  authors:
+  - Yongwoo Lee 0001
+  - Seonyoung Cheon
+  - Dongkwan Kim 0002
+  - Dongyoon Lee
+  - Hanjun Kim 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lee-yongwoo
+  discovered_artifact: https://github.com/corelab-src/elasm
+- title: 'HECO: Fully Homomorphic Encryption Compiler'
+  authors:
+  - Alexander Viand
+  - Patrick Jattke
+  - Miro Haller
+  - Anwar Hithnawi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/viand
+  discovered_artifact: null
+- title: A Verified Confidential Computing as a Service Framework for Privacy Preservation
+  authors:
+  - Hongbo Chen
+  - Haobin Hiroki Chen
+  - Mingshen Sun
+  - Kang Li
+  - Zhaofeng Chen
+  - XiaoFeng Wang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-hongbo
+  discovered_artifact: https://github.com/ya0guang/PoBF
+- title: 'CSHER: A System for Compact Storage with HE-Retrieval'
+  authors:
+  - Adi Akavia
+  - Neta Oren
+  - Boaz Sapir
+  - Margarita Vald
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/akavia
+  discovered_artifact: null
+- title: Precise and Generalized Robustness Certification for Neural Networks
+  authors:
+  - Yuanyuan Yuan
+  - Shuai Wang 0011
+  - Zhendong Su 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yuan-yuanyuan-certification
+  discovered_artifact: https://github.com/Yuanyuan-Yuan/GCert
+- title: 'DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing'
+  authors:
+  - Jiawei Zhang 0002
+  - Zhongzhu Chen
+  - Huan Zhang 0001
+  - Chaowei Xiao
+  - Bo Li 0026
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-jiawei
+  discovered_artifact: https://github.com/openai/improved-diffusion
+- title: 'HOLMES: Efficient Distribution Testing for Secure Collaborative Learning'
+  authors:
+  - Ian Chang
+  - Katerina Sotiraki
+  - Weikeng Chen
+  - Murat Kantarcioglu
+  - Raluca A. Popa
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chang
+  discovered_artifact: https://github.com/holmes-inputcheck/holmes-library
+- title: 'ACORN: Input Validation for Secure Aggregation'
+  authors:
+  - James Bell 0001
+  - Adrià Gascón
+  - Tancrède Lepoint
+  - Baiyu Li
+  - Sarah Meiklejohn
+  - Mariana Raykova 0001
+  - Cathie Yun
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bell
+  discovered_artifact: null
+- title: 'Keep Your Friends Close, but Your Routeservers Closer: Insights into RPKI
+    Validation in the Internet'
+  authors:
+  - Tomas Hlavacek
+  - Haya Schulmann
+  - Niklas Vogel
+  - Michael Waidner
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/hlavacek
+  discovered_artifact: https://www.ripe.net/ripe/mail/archives/db-wg/2023-March/007772.html
+- title: 'Exploring the Unknown DTLS Universe: Analysis of the DTLS Server Ecosystem
+    on the Internet'
+  authors:
+  - Nurullah Erinola
+  - Marcel Maehren
+  - Robert Merget
+  - Juraj Somorovsky
+  - Jörg Schwenk
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/erinola
+  discovered_artifact: https://github.com/tls-attacker/TLS-Attacker
+- title: 'Extended Hell(o): A Comprehensive Large-Scale Study on Email Confidentiality
+    and Integrity Mechanisms in the Wild'
+  authors:
+  - Birk Blechschmidt
+  - Ben Stock
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/blechschmidt
+  discovered_artifact: null
+- title: 'We Really Need to Talk About Session Tickets: A Large-Scale Analysis of
+    Cryptographic Dangers with TLS Session Tickets'
+  authors:
+  - Sven Hebrok
+  - Simon Nachtigall
+  - Marcel Maehren
+  - Nurullah Erinola
+  - Robert Merget
+  - Juraj Somorovsky
+  - Jörg Schwenk
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/hebrok
+  discovered_artifact: https://github.com/tls-attacker/TLS-Attacker
+- title: 'No Linux, No Problem: Fast and Correct Windows Binary Fuzzing via Target-embedded
+    Snapshotting'
+  authors:
+  - Leo Stone
+  - Rishi Ranjan
+  - Stefan Nagy
+  - Matthew Hicks
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/stone
+  discovered_artifact: github.com/FoRTE-Research/winfuzz
+- title: 'DAFL: Directed Grey-box Fuzzing guided by Data Dependency'
+  authors:
+  - Tae Eun Kim
+  - Jaeseung Choi 0002
+  - Kihong Heo
+  - Sang Kil Cha
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kim-tae-eun
+  discovered_artifact: https://doi.org/10.5281/zenodo.8031029
+- title: 'DynSQL: Stateful Fuzzing for Database Management Systems with Complex and
+    Valid SQL Query Generation'
+  authors:
+  - Zu-Ming Jiang
+  - Jia-Ju Bai
+  - Zhendong Su 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-zu-ming
+  discovered_artifact: null
+- title: 'AIFORE: Smart Fuzzing Based on Automatic Input Format Reverse Engineering'
+  authors:
+  - Ji Shi 0002
+  - Zhun Wang
+  - Zhiyao Feng
+  - Yang Lan
+  - Shisong Qin
+  - Wei You 0001
+  - Wei Zou
+  - Mathias Payer
+  - Chao Zhang 0008
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shi-ji
+  discovered_artifact: null
+- title: 'BoKASAN: Binary-only Kernel Address Sanitizer for Effective Kernel Fuzzing'
+  authors:
+  - Mingi Cho
+  - Dohyeon An
+  - Hoyong Jin
+  - Taekyoung Kwon 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cho
+  discovered_artifact: null
+- title: 'ACTOR: Action-Guided Kernel Fuzzing'
+  authors:
+  - Marius Fleischer
+  - Dipanjan Das 0002
+  - Priyanka Bose
+  - Weiheng Bai
+  - Kangjie Lu
+  - Mathias Payer
+  - Christopher Kruegel
+  - Giovanni Vigna
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/fleischer
+  discovered_artifact: https://github.com/ucsb-seclab/actor
+- title: 'FirmSolo: Enabling dynamic analysis of binary Linux-based IoT kernel modules'
+  authors:
+  - Ioannis Angelakopoulos
+  - Gianluca Stringhini
+  - Manuel Egele
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/angelakopoulos
+  discovered_artifact: K.C.R.E.to
+- title: 'KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting
+    Mitigations'
+  authors:
+  - Tingting Yin
+  - Zicong Gao
+  - Zhenghang Xiao
+  - Zheyu Ma
+  - Min Zheng
+  - Chao Zhang 0008
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yin
+  discovered_artifact: https://github.com/vul337/KextFuzz
+- title: 'Uncontained: Uncovering Container Confusion in the Linux Kernel'
+  authors:
+  - Jakob Koschel
+  - Pietro Borrello
+  - Daniele Cono D&apos;Elia
+  - Herbert Bos
+  - Cristiano Giuffrida
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/koschel
+  discovered_artifact: https://vusec.net/projects/uncontained
+- title: '"I''m going to trust this until it burns me" Parents'' Privacy Concerns
+    and Delegation of Trust in K-8 Educational Technology'
+  authors:
+  - Victoria Zhong
+  - Susan E. McGregor
+  - Rachel Greenstadt
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhong
+  discovered_artifact: null
+- title: Educators' Perspectives of Using (or Not Using) Online Exam Proctoring
+  authors:
+  - David G. Balash
+  - Elena Korkes
+  - Miles Grant
+  - Adam J. Aviv
+  - Rahel A. Fainchtein
+  - Micah Sherr
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/balash
+  discovered_artifact: https://github.com/gwusec/2023-USENIX-Educator-Perspectives-of-Exam-Proctoring
+- title: 'No more Reviewer #2: Subverting Automatic Paper-Reviewer Assignment using
+    Adversarial Learning'
+  authors:
+  - Thorsten Eisenhofer
+  - Erwin Quiring
+  - Jonas Möller
+  - Doreen Riepel
+  - Thorsten Holz
+  - Konrad Rieck
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/eisenhofer
+  discovered_artifact: https://github.com/rub-syssec/adversarial-papers
+- title: A Two-Decade Retrospective Analysis of a University's Vulnerability to Attacks
+    Exploiting Reused Passwords
+  authors:
+  - Alexandra Nisenoff
+  - Maximilian Golla
+  - Miranda Wei
+  - Juliette Hainline
+  - Hayley Szymanek
+  - Annika Braun
+  - Annika Hildebrandt
+  - Blair Christensen
+  - David Langenberg
+  - Blase Ur
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/nisenoff-retrospective
+  discovered_artifact: null
+- title: 'Ethical Frameworks and Computer Security Trolley Problems: Foundations for
+    Conversations'
+  authors:
+  - Tadayoshi Kohno
+  - Yasemin Acar
+  - Wulf Loh
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kohno
+  discovered_artifact: https://securityethics.cs.washington.edu/
+- title: 'Catch You and I Can: Revealing Source Voiceprint Against Voice Conversion'
+  authors:
+  - Jiangyi Deng
+  - Yanjiao Chen
+  - Yinan Zhong
+  - Qianhao Miao
+  - Xueluan Gong
+  - Wenyuan Xu 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/deng-jiangyi-voiceprint
+  discovered_artifact: https://github.com/Jackson-Kang/VQVC-Pytorch
+- title: 'V-Cloak: Intelligibility-, Naturalness- & Timbre-Preserving Real-Time Voice
+    Anonymization'
+  authors:
+  - Jiangyi Deng
+  - Fei Teng
+  - Yanjiao Chen
+  - Xiaofu Chen
+  - Zhaohui Wang
+  - Wenyuan Xu 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/deng-jiangyi-v-cloak
+  discovered_artifact: null
+- title: 'Assessing Anonymity Techniques Employed in German Court Decisions: A De-Anonymization
+    Experiment'
+  authors:
+  - Dominic Deuber
+  - Michael Keuchen
+  - Nicolas Christin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/deuber
+  discovered_artifact: null
+- title: 'Person Re-identification in 3D Space: A WiFi Vision-based Approach'
+  authors:
+  - Yili Ren
+  - Yichao Wang
+  - Sheng Tan
+  - Yingying Chen 0001
+  - Jie Yang 0003
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ren
+  discovered_artifact: null
+- title: In the Quest to Protect Users from Side-Channel Attacks - A User-Centred
+    Design Space to Mitigate Thermal Attacks on Public Payment Terminals
+  authors:
+  - Karola Marky
+  - Shaun Alexander Macdonald
+  - Yasmeen Abdrabou
+  - Mohamed Khamis
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/marky
+  discovered_artifact: null
+- title: Extracting Training Data from Diffusion Models
+  authors:
+  - Nicholas Carlini
+  - Jamie Hayes
+  - Milad Nasr
+  - Matthew Jagielski
+  - Vikash Sehwag
+  - Florian Tramèr
+  - Borja Balle
+  - Daphne Ippolito
+  - Eric Wallace
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/carlini
+  discovered_artifact: https://github.com/openai/improved-diffusion
+- title: 'PCAT: Functionality and Data Stealing from Split Learning by Pseudo-Client
+    Attack'
+  authors:
+  - Xinben Gao
+  - Lan Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gao
+  discovered_artifact: null
+- title: 'A Plot is Worth a Thousand Words: Model Information Stealing Attacks via
+    Scientific Plots'
+  authors:
+  - Boyang Zhang
+  - Xinlei He 0001
+  - Yun Shen
+  - Tianhao Wang 0001
+  - Yang Zhang 0016
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-boyang
+  discovered_artifact: https://github.com/boz083/Plot_Steal
+- title: 'Beyond The Gates: An Empirical Analysis of HTTP-Managed Password Stealers
+    and Operators'
+  authors:
+  - Athanasios Avgetidis
+  - Omar Alrawi
+  - Kevin Valakuzhy
+  - Charles Lever
+  - Paul Burbage
+  - Angelos D. Keromytis
+  - Fabian Monrose
+  - Manos Antonakakis
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/avgetidis
+  discovered_artifact: https://github.com/Astrolavos/stealer-sec23
+- title: 'LightThief: Your Optical Communication Information is Stolen behind the
+    Wall'
+  authors:
+  - Xin Liu 0045
+  - Wei Wang 0190
+  - Guanqun Song
+  - Ting Zhu 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/liu-xin
+  discovered_artifact: null
+- title: 'WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially
+    Synchronous BFT'
+  authors:
+  - Haibin Zhang
+  - Sisi Duan
+  - Boxin Zhao
+  - Liehuang Zhu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-haibin
+  discovered_artifact: https://github.com/fififish/waterbear
+- title: Practical Asynchronous High-threshold Distributed Key Generation and Distributed
+    Polynomial Sampling
+  authors:
+  - Sourav Das 0001
+  - Zhuolun Xiang
+  - Lefteris Kokoris-Kogias
+  - Ling Ren 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/das
+  discovered_artifact: https://github.com/sourav1547/htadkg
+- title: Efficient 3PC for Binary Circuits with Application to Maliciously-Secure
+    DNN Inference
+  authors:
+  - Yun Li 0010
+  - Yufei Duan
+  - Zhicong Huang
+  - Cheng Hong 0001
+  - Chao Zhang 0008
+  - Yifan Song 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-yun
+  discovered_artifact: https://github.com/AntCPLab/malicious_3pc_binary
+- title: 'Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications'
+  authors:
+  - Thomas Yurek
+  - Zhuolun Xiang
+  - Yu Xia 0005
+  - Andrew Miller 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yurek
+  discovered_artifact: https://github.com/tyurek/dpss
+- title: 'TVA: A multi-party computation system for secure and expressive time series
+    analytics'
+  authors:
+  - Muhammad Faisal 0001
+  - Jerry Zhang
+  - John Liagouris
+  - Vasiliki Kalavri
+  - Mayank Varia
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/faisal
+  discovered_artifact: https://github.com/CASP-Systems-BU/tva
+- title: 'Eye-Shield: Real-Time Protection of Mobile Device Screen Information from
+    Shoulder Surfing'
+  authors:
+  - Brian Tang
+  - Kang G. Shin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/tang
+  discovered_artifact: https://www.bjaytang.com/projects/post_008/
+- title: 'Powering Privacy: On the Energy Demand and Feasibility of Anonymity Networks
+    on Smartphones'
+  authors:
+  - Daniel Hugenroth
+  - Alastair R. Beresford
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/hugenroth
+  discovered_artifact: https://github.com/lambdapioneer/powering-privacy
+- title: 'The OK Is Not Enough: A Large Scale Study of Consent Dialogs in Smartphone
+    Applications'
+  authors:
+  - Simon Koch 0001
+  - Benjamin Altpeter
+  - Martin Johns
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/koch
+  discovered_artifact: https://github.com/the-ok-is-not-enough
+- title: Notice the Imposter! A Study on User Tag Spoofing Attack in Mobile Apps
+  authors:
+  - Shuai Li 0006
+  - Zhemin Yang
+  - Guangliang Yang 0001
+  - Hange Zhang
+  - Nan Hua
+  - Yurui Huang
+  - Min Yang 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-shuai
+  discovered_artifact: null
+- title: 'Silent Spring: Prototype Pollution Leads to Remote Code Execution in Node.js'
+  authors:
+  - Mikhail Shcherbakov
+  - Musard Balliu
+  - Cristian-Alexandru Staicu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shcherbakov
+  discovered_artifact: https://github.com/yuske/silent-spring
+- title: 'Lost in Conversion: Exploit Data Structure Conversion with Attribute Loss
+    to Break Android Systems'
+  authors:
+  - Rui Li 0102
+  - Wenrui Diao
+  - Shishuai Yang
+  - Xiangyu Liu
+  - Shanqing Guo
+  - Kehuan Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-rui
+  discovered_artifact: https://github.com/little-leiry/TwinDroid
+- title: 'Cookie Crumbles: Breaking and Fixing Web Session Integrity'
+  authors:
+  - Marco Squarcina
+  - Pedro Adão
+  - Lorenzo Veronese
+  - Matteo Maffei
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/squarcina
+  discovered_artifact: https://github.com/SecPriv/cookiecrumbles
+- title: 'Minimalist: Semi-automated Debloating of PHP Web Applications through Static
+    Analysis'
+  authors:
+  - Rasoul Jahanshahi
+  - Babak Amin Azad
+  - Nick Nikiforakis
+  - Manuel Egele
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jahanshahi
+  discovered_artifact: https://github.com/BUseclab/Minimalist
+- title: 'AnimateDead: Debloating Web Applications Using Concolic Execution'
+  authors:
+  - Babak Amin Azad
+  - Rasoul Jahanshahi
+  - Chris Tsoukaladelis
+  - Manuel Egele
+  - Nick Nikiforakis
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/azad
+  discovered_artifact: https://debloating.com
+- title: 'NAUTILUS: Automated RESTful API Vulnerability Detection'
+  authors:
+  - Gelei Deng
+  - Zhiyi Zhang 0005
+  - Yuekang Li
+  - Yi Liu 0069
+  - Tianwei Zhang 0004
+  - Yang Liu 0003
+  - Guo Yu
+  - Dongjin Wang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/deng-gelei
+  discovered_artifact: https://sites.google.com/view/nautilus-testing
+- title: '"Un-Equal Online Safety?" A Gender Analysis of Security and Privacy Protection
+    Advice and Behaviour Patterns'
+  authors:
+  - Kovila P. L. Coopamootoo
+  - Magdalene Ng
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/coopamootoo
+  discovered_artifact: null
+- title: '"Millions of people are watching you": Understanding the Digital-Safety
+    Needs and Practices of Creators'
+  authors:
+  - Patrawat Samermit
+  - Anna Turner
+  - Patrick Gage Kelley
+  - Tara Matthews
+  - Vanessia Wu
+  - Sunny Consolvo
+  - Kurt Thomas
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/samermit
+  discovered_artifact: null
+- title: Problematic Advertising and its Disparate Exposure on Facebook
+  authors:
+  - Muhammad Ali 0014
+  - Angelica Goetzen
+  - Alan Mislove
+  - Elissa M. Redmiles
+  - Piotr Sapiezynski
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ali
+  discovered_artifact: null
+- title: '  How Library IT Staff Navigate Privacy and Security Challenges and Responsibilities'
+  authors:
+  - Alan F. Luo
+  - Noel Warford
+  - Samuel Dooley
+  - Rachel Greenstadt
+  - Michelle L. Mazurek
+  - Nora McDonald
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/luo-alan
+  discovered_artifact: null
+- title: 'One Size Does not Fit All: Quantifying the Risk of Malicious App Encounters
+    for Different Android User Profiles'
+  authors:
+  - Savino Dambra
+  - Leyla Bilge
+  - Platon Kotzias
+  - Yun Shen
+  - Juan Caballero
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/dambra
+  discovered_artifact: null
+- title: How Effective is Multiple-Vantage-Point Domain Control Validation?
+  authors:
+  - Grace H. Cimaszewski
+  - Henry Birge-Lee
+  - Liang Wang 0054
+  - Jennifer Rexford
+  - Prateek Mittal
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cimaszewski
+  discovered_artifact: null
+- title: 'Bypassing Tunnels: Leaking VPN Client Traffic by Abusing Routing Tables'
+  authors:
+  - Nian Xue
+  - Yashaswi Malla
+  - Zihang Xia
+  - Christina Pöpper
+  - Mathy Vanhoef
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xue
+  discovered_artifact: https://github.com/vanhoefm/vpnleaks
+- title: 'Back to School: On the (In)Security of Academic VPNs'
+  authors:
+  - Ka Lok Wu
+  - Man Hong Hue
+  - Ngai Man Poon
+  - Kin Man Leung
+  - Wai Yin Po
+  - Kin Ting Wong
+  - Sze Ho Hui
+  - Sze Yiu Chau
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wu-ka-lok
+  discovered_artifact: null
+- title: '"All of them claim to be the best": Multi-perspective study of VPN users
+    and VPN providers'
+  authors:
+  - Reethika Ramesh
+  - Anjali Vyas
+  - Roya Ensafi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/ramesh-vpn
+  discovered_artifact: null
+- title: 'FABRID: Flexible Attestation-Based Routing for Inter-Domain Networks'
+  authors:
+  - Cyrill Krähenbühl
+  - Marc Wyss
+  - David A. Basin
+  - Vincent Lenders
+  - Adrian Perrig
+  - Martin Strohmeier
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/krahenbuhl
+  discovered_artifact: null
+- title: 'Greenhouse: Single-Service Rehosting of Linux-Based Firmware Binaries in
+    User-Space Emulation'
+  authors:
+  - Hui Jun Tay
+  - Kyle Zeng
+  - Jayakrishna Menon Vadayath
+  - Arvind S. Raj
+  - Audrey Dutcher
+  - Tejesh Reddy
+  - Wil Gibbs
+  - Zion Leonahenahe Basque
+  - Fangzhou Dong
+  - Zack Smith
+  - Adam Doupé
+  - Tiffany Bao
+  - Yan Shoshitaishvili
+  - Ruoyu Wang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/tay
+  discovered_artifact: https://github.com/sefcom/greenhouse
+- title: 'FuncTeller: How Well Does eFPGA Hide Functionality?'
+  authors:
+  - Zhaokun Han
+  - Mohammed Shayan
+  - Aneesh Dixit
+  - Mustafa M. Shihab
+  - Yiorgos Makris
+  - Jeyavijayan Rajendran
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/han-zhaokun
+  discovered_artifact: null
+- title: 'ACFA: Secure Runtime Auditing & Guaranteed Device Healing via Active Control
+    Flow Attestation'
+  authors:
+  - Adam Caulfield
+  - Norrathep Rattanavipanon
+  - Ivan De Oliveira Nunes
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/caulfield
+  discovered_artifact: https://github.com/RIT-CHAOS-SEC/ACFA/
+- title: 'Fuzz The Power: Dual-role State Guided Black-box Fuzzing for USB Power Delivery'
+  authors:
+  - Kyungtae Kim
+  - Sungwoo Kim 0005
+  - Kevin R. B. Butler
+  - Antonio Bianchi
+  - Rick Kennell
+  - Dave Tian
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kim-kyungtae
+  discovered_artifact: Https://github.com/purseclab/fuzzpd
+- title: 'The Impostor Among US(B): Off-Path Injection Attacks on USB Communications'
+  authors:
+  - Robert Dumitru 0002
+  - Daniel Genkin
+  - Andrew Wabnitz
+  - Yuval Yarom
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/dumitru
+  discovered_artifact: https://github.com/0xADE1A1DE/USB-Injection
+- title: 'Hash Gone Bad: Automated discovery of protocol attacks that exploit hash
+    function weaknesses'
+  authors:
+  - Vincent Cheval
+  - Cas Cremers
+  - Alexander Dax
+  - Lucca Hirschi
+  - Charlie Jacomme
+  - Steve Kremer
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cheval
+  discovered_artifact: https://hal.archives-ouvertes.fr/hal-03795715
+- title: A comprehensive, formal and automated analysis of the EDHOC protocol
+  authors:
+  - Charlie Jacomme
+  - Elise Klein 0002
+  - Steve Kremer
+  - Maïwenn Racouchot
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jacomme
+  discovered_artifact: https://github.com/charlie-j/edhoc-formal-analysis
+- title: How fast do you heal? A taxonomy for post-compromise security in secure-channel
+    establishment
+  authors:
+  - Olivier Blazy
+  - Ioana Boureanu
+  - Pascal Lafourcade 0001
+  - Cristina Onete
+  - Léo Robert
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/blazy
+  discovered_artifact: null
+- title: 'Automated Analysis of Protocols that use Authenticated Encryption: How Subtle
+    AEAD Differences can impact Protocol Security'
+  authors:
+  - Cas Cremers
+  - Alexander Dax
+  - Charlie Jacomme
+  - Mang Zhao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cremers-protocols
+  discovered_artifact: https://inria.hal.science/hal-04126116
+- title: 'High Recovery with Fewer Injections: Practical Binary Volumetric Injection
+    Attacks against Dynamic Searchable Encryption'
+  authors:
+  - Xianglong Zhang
+  - Wei Wang 0088
+  - Peng Xu 0003
+  - Laurence T. Yang
+  - Kaitai Liang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-xianglong
+  discovered_artifact: https://github.com/Kskfte/BVA-BVMA
+- title: 'Cross Container Attacks: The Bewildered eBPF on Clouds'
+  authors:
+  - Yi He 0020
+  - Roland Guo
+  - Yunlong Xing
+  - Xijia Che
+  - Kun Sun 0001
+  - Zhuotao Liu
+  - Ke Xu 0002
+  - Qi Li 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/he
+  discovered_artifact: https://github.com/cilium/tetragon
+- title: 'DScope: A Cloud-Native Internet Telescope'
+  authors:
+  - Eric Pauley
+  - Paul Barford
+  - Patrick D. McDaniel
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/pauley
+  discovered_artifact: null
+- title: 'Credit Karma: Understanding Security Implications of Exposed Cloud Services
+    through Automated Capability Inference'
+  authors:
+  - Xueqiang Wang
+  - Yuqiong Sun
+  - Susanta Nanda
+  - XiaoFeng Wang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-xueqiang-karma
+  discovered_artifact: null
+- title: Detecting Multi-Step IAM Attacks in AWS Environments via Model Checking
+  authors:
+  - Ilia Shevrin
+  - Oded Margalit
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shevrin
+  discovered_artifact: null
+- title: Auditing Framework APIs via Inferred App-side Security Specifications
+  authors:
+  - Parjanya Vyas
+  - Asim Waheed
+  - Yousra Aafer
+  - N. Asokan
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/vyas
+  discovered_artifact: null
+- title: Remote Direct Memory Introspection
+  authors:
+  - Hongyi Liu
+  - Jiarong Xing
+  - Yibo Huang 0005
+  - Danyang Zhuo
+  - Srinivas Devadas
+  - Ang Chen 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/liu-hongyi
+  discovered_artifact: https://github.com/aladinggit/RDMI
+- title: 'WHIP: Improving Static Vulnerability Detection in Web Application by Forcing
+    tools to Collaborate'
+  authors:
+  - Feras Al Kassar
+  - Luca Compagna
+  - Davide Balzarotti
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/al-kassar
+  discovered_artifact: https://github.com/enferas/WHIP
+- title: 'SQIRL: Grey-Box Detection of SQL Injection Vulnerabilities Using Reinforcement
+    Learning'
+  authors:
+  - Salim Al Wahaibi
+  - Myles Foley
+  - Sergio Maffeis
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/al-wahaibi
+  discovered_artifact: https://github.com/ICL-ml4csec/SQIRL
+- title: 'Hiding in Plain Sight: An Empirical Study of Web Application Abuse in Malware'
+  authors:
+  - Mingxuan Yao
+  - Jonathan Fuller
+  - Ranjita Pai Kasturi
+  - Saumya Agarwal
+  - Amit Kumar Sikder
+  - Brendan Saltaformaggio
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yao-mingxuan
+  discovered_artifact: https://github.com/CyFI-Lab-Public/MARSEA
+- title: 'Bilingual Problems: Studying the Security Risks Incurred by Native Extensions
+    in Scripting Languages'
+  authors:
+  - Cristian-Alexandru Staicu
+  - Sazzadur Rahaman
+  - Ágnes Kiss
+  - Michael Backes 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/staicu
+  discovered_artifact: https://www.staicu.org/native-extension-risks
+- title: Did the Shark Eat the Watchdog in the NTP Pool? Deceiving the NTP Pool's
+    Monitoring System
+  authors:
+  - Jonghoon Kwon
+  - Jeonggyu Song
+  - Junbeom Hur
+  - Adrian Perrig
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kwon
+  discovered_artifact: https://github.com/ntppool/
+- title: Device Tracking via Linux's New TCP Source Port Selection Algorithm
+  authors:
+  - Moshe Kol
+  - Amit Klein 0001
+  - Yossi Gilad
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kol
+  discovered_artifact: https://github.com/0xkol/rfc6056-device-tracker
+- title: 'Temporal CDN-Convex Lens: A CDN-Assisted Practical Pulsing DDoS Attack'
+  authors:
+  - Run Guo
+  - Jianjun Chen 0005
+  - Yihang Wang
+  - Keran Mu
+  - Baojun Liu
+  - Xiang Li 0108
+  - Chao Zhang 0008
+  - Haixin Duan
+  - Jianping Wu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/guo-run
+  discovered_artifact: null
+- title: An Efficient Design of Intelligent Network Data Plane
+  authors:
+  - Guangmeng Zhou
+  - Zhuotao Liu
+  - Chuanpu Fu
+  - Qi Li 0002
+  - Ke Xu 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhou-guangmeng
+  discovered_artifact: https://github.com/IDP-code/NetBeacon
+- title: 'Glowing in the Dark: Uncovering IPv6 Address Discovery and Scanning Strategies
+    in the Wild'
+  authors:
+  - Hammas Bin Tanveer
+  - Rachee Singh
+  - Paul Pearce
+  - Rishab Nithyanand
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bin-tanveer
+  discovered_artifact: null
+- title: Oops..! I Glitched It Again! How to Multi-Glitch the Glitching-Protections
+    on ARM TrustZone-M
+  authors:
+  - Xhani Marvin Saß
+  - Richard Mitev
+  - Ahmad-Reza Sadeghi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/sass
+  discovered_artifact: null
+- title: 'SHELTER: Extending Arm CCA with Isolation in User Space'
+  authors:
+  - Yiming Zhang 0030
+  - Yuxin Hu
+  - Zhenyu Ning
+  - Fengwei Zhang
+  - Xiapu Luo
+  - Haoyang Huang
+  - Shoumeng Yan
+  - Zhengyu He
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-yiming
+  discovered_artifact: https://github.com/Compass-All/SHELTER
+- title: 'Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs'
+  authors:
+  - Hritvik Taneja
+  - Jason Kim 0007
+  - Jie Jeff Xu
+  - Stephan van Schaik
+  - Daniel Genkin
+  - Yuval Yarom
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/taneja
+  discovered_artifact: null
+- title: 'SpectrEM: Exploiting Electromagnetic Emanations During Transient Execution'
+  authors:
+  - Jesse De Meulemeester
+  - Antoon Purnal
+  - Lennert Wouters
+  - Arthur Beckers
+  - Ingrid Verbauwhede
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/de-meulemeester
+  discovered_artifact: https://github.com/KULeuven-COSIC/SpectrEM
+- title: 'ARMore: Pushing Love Back Into Binaries'
+  authors:
+  - Luca Di Bartolomeo
+  - Hossein Moghaddas
+  - Mathias Payer
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/di-bartolomeo
+  discovered_artifact: null
+- title: Secure Floating-Point Training
+  authors:
+  - Deevashwer Rathee
+  - Anwesh Bhattacharya
+  - Divya Gupta 0001
+  - Rahul Sharma 0001
+  - Dawn Song
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/rathee
+  discovered_artifact: https://github.com/mpc-msri/EzPC
+- title: 'NeuroPots: Realtime Proactive Defense against Bit-Flip Attacks in Neural
+    Networks'
+  authors:
+  - Qi Liu 0017
+  - Jieming Yin
+  - Wujie Wen
+  - Chengmo Yang
+  - Shi Sha
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/liu-qi
+  discovered_artifact: null
+- title: 'FedVal: Different good or different bad in federated learning'
+  authors:
+  - Viktor Valadi
+  - Xinchi Qiu
+  - Pedro Porto Buarque de Gusmão
+  - Nicholas D. Lane
+  - Mina Alibeigi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/valadi
+  discovered_artifact: https://github.com/viktorvaladi/FedVal
+- title: Gradient Obfuscation Gives a False Sense of Security in Federated Learning
+  authors:
+  - Kai Yue
+  - Richeng Jin
+  - Chau-Wai Wong
+  - Dror Baron
+  - Huaiyu Dai
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yue
+  discovered_artifact: null
+- title: 'FreeEagle: Detecting Complex Neural Trojans in Data-Free Cases'
+  authors:
+  - Chong Fu 0002
+  - Xuhong Zhang 0002
+  - Shouling Ji
+  - Ting Wang 0006
+  - Peng Lin
+  - Yanghe Feng
+  - Jianwei Yin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/fu-chong
+  discovered_artifact: https://github.com/SCLBD/BackdoorBench
+- title: 'Prime Match: A Privacy-Preserving Inventory Matching System'
+  authors:
+  - Antigoni Polychroniadou
+  - Gilad Asharov
+  - Benjamin E. Diamond
+  - Tucker Balch
+  - Hans Buehler
+  - Richard Hua
+  - Suwen Gu
+  - Greg Gimler
+  - Manuela Veloso
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/polychroniadou
+  discovered_artifact: null
+- title: 'Squirrel: A Scalable Secure Two-Party Computation Framework for Training
+    Gradient Boosting Decision Tree'
+  authors:
+  - Wen-jie Lu
+  - Zhicong Huang
+  - Qizhi Zhang
+  - Yuchen Wang
+  - Cheng Hong 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lu
+  discovered_artifact: null
+- title: 'Machine-checking Multi-Round Proofs of Shuffle: Terelius-Wikstrom and Bayer-Groth'
+  authors:
+  - Thomas Haines
+  - Rajeev Goré
+  - Mukesh Tiwari
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/haines
+  discovered_artifact: https://github.com/gerlion/secure-e-voting-with-coq
+- title: 'Eos: Efficient Private Delegation of zkSNARK Provers'
+  authors:
+  - Alessandro Chiesa
+  - Ryan Lehmkuhl
+  - Pratyush Mishra
+  - Yinuo Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chiesa
+  discovered_artifact: https://github.com/alex-ozdemir/collaborative-zksnark/
+- title: 'TAP: Transparent and Privacy-Preserving Data Services'
+  authors:
+  - Daniël Reijsbergen
+  - Aung Maw
+  - Zheng Yang 0001
+  - Tien Tuan Anh Dinh
+  - Jianying Zhou 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/reijsbergen
+  discovered_artifact: https://github.com/tap-group/transparent-data-service
+- title: 'Trojan Source: Invisible Vulnerabilities'
+  authors:
+  - Nicholas Boucher
+  - Ross Anderson 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/boucher
+  discovered_artifact: https://github.com/nickboucher/trojan-source
+- title: 'Cheesecloth: Zero-Knowledge Proofs of Real World Vulnerabilities'
+  authors:
+  - Santiago Cuéllar
+  - Bill Harris
+  - James Parker
+  - Stuart Pernsteiner
+  - Eran Tromer
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cuellar
+  discovered_artifact: https://github.com/GaloisInc/cheesecloth
+- title: 'V1SCAN: Discovering 1-day Vulnerabilities in Reused C/C++ Open-source Software
+    Components Using Code Classification Techniques'
+  authors:
+  - Seunghoon Woo
+  - Eunjin Choi
+  - Heejo Lee
+  - Hakjoo Oh
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/woo
+  discovered_artifact: https://github.com/wooseunghoon/V1SCAN-public
+- title: 'VulChecker: Graph-based Vulnerability Localization in Source Code'
+  authors:
+  - Yisroel Mirsky
+  - George Macon
+  - Michael D. Brown
+  - Carter Yagemann
+  - Matthew Pruett
+  - Evan Downing
+  - J. Sukarno Mertoguno
+  - Wenke Lee
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/mirsky
+  discovered_artifact: https://github.com/ymirsky/VulChecker
+- title: 'DISTDET: A Cost-Effective Distributed Cyber Threat Detection System'
+  authors:
+  - Feng Dong 0008
+  - Liu Wang 0002
+  - Xu Nie
+  - Fei Shao
+  - Haoyu Wang 0001
+  - Ding Li 0001
+  - Xiapu Luo
+  - Xusheng Xiao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/dong-feng
+  discovered_artifact: null
+- title: 'Formal Analysis of SPDM: Security Protocol and Data Model version 1.2'
+  authors:
+  - Cas Cremers
+  - Alexander Dax
+  - Aurora Naska
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cremers-spdm
+  discovered_artifact: https://github.com/AnalysisSPDM/FormalModel
+- title: Automated Security Analysis of Exposure Notification Systems
+  authors:
+  - Kevin Morio
+  - Ilkan Esiyok
+  - Dennis Jackson
+  - Robert Künnemann
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/morio
+  discovered_artifact: null
+- title: 'One Size Does Not Fit All: Uncovering and Exploiting Cross Platform Discrepant
+    APIs in WeChat'
+  authors:
+  - Chao Wang 0113
+  - Yue Zhang 0025
+  - Zhiqiang Lin 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chao
+  discovered_artifact: github.com/OSUSecLab/APIDiff
+- title: 'The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities
+    in H.264 Decoders'
+  authors:
+  - Willy R. Vasquez
+  - Stephen Checkoway
+  - Hovav Shacham
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/vasquez
+  discovered_artifact: https://github.com/h26forge/h26forge
+- title: Are You Spying on Me? Large-Scale Analysis on IoT Data Exposure through Companion
+    Apps
+  authors:
+  - Yuhong Nan
+  - Xueqiang Wang
+  - Luyi Xing
+  - Xiaojing Liao
+  - Ruoyu Wu
+  - Jianliang Wu 0002
+  - Yifan Zhang 0010
+  - XiaoFeng Wang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/nan
+  discovered_artifact: null
+- title: Strategies and Vulnerabilities of Participants in Venezuelan Influence Operations
+  authors:
+  - Ruben Recabarren
+  - Bogdan Carbunar
+  - Nestor Hernandez
+  - Ashfaq Ali Shafin
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/recabarren
+  discovered_artifact: null
+- title: 'TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks'
+  authors:
+  - Zheng Yang
+  - Joey Allen
+  - Matthew Landen
+  - Roberto Perdisci
+  - Wenke Lee
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yang-zheng
+  discovered_artifact: https://github.com/ian7yang/trident
+- title: 'Fact-Saboteurs: A Taxonomy of Evidence Manipulation Attacks against Fact-Verification
+    Systems'
+  authors:
+  - Sahar Abdelnabi
+  - Mario Fritz
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/abdelnabi
+  discovered_artifact: https://github.com/S-Abdelnabi/Fact-Saboteurs
+- title: Reversing, Breaking, and Fixing the French Legislative Election E-Voting
+    Protocol
+  authors:
+  - Alexandre Debant
+  - Lucca Hirschi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/debant
+  discovered_artifact: null
+- title: 'PROVIDENCE: a Flexible Round-by-Round Risk-Limiting Audit'
+  authors:
+  - Oliver Broadrick
+  - Poorvi L. Vora
+  - Filip Zagórski
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/broadrick
+  discovered_artifact: null
+- title: 'Cipherfix: Mitigating Ciphertext Side-Channel Attacks in Software'
+  authors:
+  - Jan Wichelmann
+  - Anna Pätschke
+  - Luca Wilke
+  - Thomas Eisenbarth 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wichelmann
+  discovered_artifact: https://github.com/UzL-ITS/Cipherfix
+- title: 'NVLeak: Off-Chip Side-Channel Attacks via Non-Volatile Memory Systems'
+  authors:
+  - Zixuan Wang 0027
+  - Mohammadkazem Taram
+  - Daniel Moghimi
+  - Steven Swanson
+  - Dean M. Tullsen
+  - Jishen Zhao
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-zixuan
+  discovered_artifact: https://github.com/TheNetAdmin/NVLeak
+- title: 'Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique'
+  authors:
+  - Yoochan Lee
+  - Jinhan Kwak
+  - Junesoo Kang
+  - Yuseok Jeon
+  - Byoungyoung Lee
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/lee-yoochan
+  discovered_artifact: null
+- title: Side-Channel Attacks on Optane Persistent Memory
+  authors:
+  - Sihang Liu 0001
+  - Suraaj Kanniwadi
+  - Martin Schwarzl
+  - Andreas Kogler
+  - Daniel Gruss
+  - Samira Manabi Khan
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/liu-sihang
+  discovered_artifact: https://pliss2019.github.io/ben_titzer_spectre_slides.pdf
+- title: 'CipherH: Automated Detection of Ciphertext Side-channel Vulnerabilities
+    in Cryptographic Implementations'
+  authors:
+  - Sen Deng
+  - Mengyuan Li 0004
+  - Yining Tang
+  - Shuai Wang 0011
+  - Shoumeng Yan
+  - Yinqian Zhang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/deng-sen
+  discovered_artifact: https://github.com/Sen-Deng/CipherH
+- title: 'ICSPatch: Automated Vulnerability Localization and Non-Intrusive Hotpatching
+    in Industrial Control Systems using Data Dependence Graphs'
+  authors:
+  - Prashant Hari Narayan Rajput
+  - Constantine Doumanidis
+  - Michail Maniatakos
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/rajput
+  discovered_artifact: https://github.com/momalab/ICSPatch
+- title: 'Access Denied: Assessing Physical Risks to Internet Access Networks'
+  authors:
+  - Alexander Marder
+  - Zesen Zhang
+  - Ricky K. P. Mok
+  - Ramakrishna Padmanabhan
+  - Bradley Huffaker
+  - Matthew Luckie
+  - Alberto Dainotti
+  - K. C. Claffy
+  - Alex C. Snoeren
+  - Aaron Schulman
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/marder
+  discovered_artifact: null
+- title: 'ZBCAN: A Zero-Byte CAN Defense System'
+  authors:
+  - Khaled Serag
+  - Rohit Bhatia
+  - Akram Faqih
+  - Muslum Ozgur Ozmen
+  - Vireshwar Kumar
+  - Z. Berkay Celik
+  - Dongyan Xu
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/serag
+  discovered_artifact: null
+- title: 'RIDAS: Real-time identification of attack sources on controller area networks'
+  authors:
+  - Jiwoo Shin
+  - Hyunghoon Kim
+  - Seyoung Lee 0003
+  - Wonsuk Choi 0001
+  - Dong Hoon Lee 0001
+  - Hyo Jin Jo
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shin
+  discovered_artifact: null
+- title: 'That Person Moves Like A Car: Misclassification Attack Detection for Autonomous
+    Systems Using Spatiotemporal Consistency'
+  authors:
+  - Yanmao Man
+  - Raymond Muller
+  - Ming Li 0003
+  - Z. Berkay Celik
+  - Ryan M. Gerdes
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/man
+  discovered_artifact: https://github.com/harry1993/percepguard
+- title: 'TRust: A Compilation Framework for In-process Isolation to Protect Safe
+    Rust against Untrusted Code'
+  authors:
+  - Inyoung Bang
+  - Martin Kayondo
+  - Hyungon Moon
+  - Yunheung Paek
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/bang
+  discovered_artifact: null
+- title: 'Jinn: Hijacking Safe Programs with Trojans'
+  authors:
+  - Komail Dharsee
+  - John Criswell
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/dharsee
+  discovered_artifact: null
+- title: 'ARGUS: A Framework for Staged Static Taint Analysis of GitHub Workflows
+    and Actions'
+  authors:
+  - Siddharth Muralee
+  - Igibek Koishybayev
+  - Aleksandr Nahapetyan
+  - Greg Tystahl
+  - Bradley Reaves
+  - Antonio Bianchi
+  - William Enck
+  - Alexandros Kapravelos
+  - Aravind Machiry
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/muralee
+  discovered_artifact: https://secureci.org/argus
+- title: 'McFIL: Model Counting Functionality-Inherent Leakage'
+  authors:
+  - Maximilian Zinkus
+  - Yinzhi Cao
+  - Matthew D. Green
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zinkus
+  discovered_artifact: https://github.com/maxzinkus/McFIL-Release
+- title: Extracting Protocol Format as State Machine via Controlled Static Loop Analysis
+  authors:
+  - Qingkai Shi
+  - Xiangzhe Xu
+  - Xiangyu Zhang 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shi-qingkai
+  discovered_artifact: null
+- title: 'Isolated and Exhausted: Attacking Operating Systems via Site Isolation in
+    the Browser'
+  authors:
+  - Matthias Gierlings
+  - Marcus Brinkmann
+  - Jörg Schwenk
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gierlings
+  discovered_artifact: https://git.noc.rub.de/gierlmds/isolated-and-exhausted
+- title: 'Extending a Hand to Attackers: Browser Privilege Escalation Attacks via
+    Extensions'
+  authors:
+  - Young Min Kim
+  - Byoungyoung Lee
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kim-young-min
+  discovered_artifact: https://github.com/compsec-snu/
+- title: 'RoB: Ransomware over Modern Web Browsers'
+  authors:
+  - Harun Oz
+  - Ahmet Aris
+  - Abbas Acar
+  - Güliz Seray Tuncay
+  - Leonardo Babun
+  - A. Selcuk Uluagac
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/oz
+  discovered_artifact: https://github.com/cslfiu/RoB_Ransomware_over_Modern_Web_Browsers
+- title: 'Checking Passwords on Leaky Computers: A Side Channel Analysis of Chrome''s
+    Password Leak Detect Protocol'
+  authors:
+  - Andrew Kwong
+  - Walter Wang
+  - Jason Kim 0007
+  - Jonathan Berger
+  - Daniel Genkin
+  - Eyal Ronen
+  - Hovav Shacham
+  - Riad S. Wahby
+  - Yuval Yarom
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kwong
+  discovered_artifact: null
+- title: 'Pool-Party: Exploiting Browser Resource Pools for Web Tracking'
+  authors:
+  - Peter Snyder
+  - Soroush Karami
+  - Arthur Edelstein
+  - Benjamin Livshits
+  - Hamed Haddadi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/snyder
+  discovered_artifact: https://w3ctag.github.io/privacy-principles/
+- title: 'Ultimate SLH: Taking Speculative Load Hardening to the Next Level'
+  authors:
+  - Zhiyuan Zhang 0005
+  - Gilles Barthe
+  - Chitchanok Chuengsatiansup
+  - Peter Schwabe
+  - Yuval Yarom
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-zhiyuan-slh
+  discovered_artifact: https://github.com/0xADE1A1DE/USLH
+- title: 'Speculation at Fault: Modeling and Testing Microarchitectural Leakage of
+    CPU Exceptions'
+  authors:
+  - Jana Hofmann
+  - Emanuele Vannacci
+  - Cédric Fournet
+  - Boris Köpf
+  - Oleksii Oleksenko
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/hofmann
+  discovered_artifact: https://github.com/microsoft/sca-fuzzer
+- title: 'ProSpeCT: Provably Secure Speculation for the Constant-Time Policy'
+  authors:
+  - Lesly-Ann Daniel
+  - Marton Bognar
+  - Job Noorman
+  - Sébastien Bardin
+  - Tamara Rezk
+  - Frank Piessens
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/daniel
+  discovered_artifact: https://github.com/proteus-core/prospect
+- title: 'Downfall: Exploiting Speculative Data Gathering'
+  authors:
+  - Daniel Moghimi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/moghimi
+  discovered_artifact: https://downfall.page
+- title: 'FACE-AUDITOR: Data Auditing in Facial Recognition Systems'
+  authors:
+  - Min Chen 0032
+  - Zhikun Zhang 0001
+  - Tianhao Wang 0001
+  - Michael Backes 0001
+  - Yang Zhang 0016
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/chen-min
+  discovered_artifact: https://github.com/MinChen00/Face-Auditor
+- title: Fairness Properties of Face Recognition and Obfuscation Systems
+  authors:
+  - Harrison Rosenberg
+  - Brian Tang
+  - Kassem Fawaz
+  - Somesh Jha
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/rosenberg
+  discovered_artifact: github.com/wi-pi/fairness_face_obfuscation
+- title: 'GlitchHiker: Uncovering Vulnerabilities of Image Signal Transmission with
+    IEMI'
+  authors:
+  - Qinhong Jiang
+  - Xiaoyu Ji 0001
+  - Chen Yan 0001
+  - Zhixin Xie
+  - Haina Lou
+  - Wenyuan Xu 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/jiang-qinhong
+  discovered_artifact: null
+- title: 'UnGANable: Defending Against GAN-based Face Manipulation'
+  authors:
+  - Zheng Li 0023
+  - Ning Yu 0006
+  - Ahmed Salem 0001
+  - Michael Backes 0001
+  - Mario Fritz
+  - Yang Zhang 0016
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/li-zheng
+  discovered_artifact: https://github.com/zhenglisec/UnGANable
+- title: '(M)WAIT for It: Bridging the Gap between Microarchitectural and Architectural
+    Side Channels'
+  authors:
+  - Ruiyi Zhang 0001
+  - Taehyun Kim
+  - Daniel Weber 0007
+  - Michael Schwarz 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-ruiyi
+  discovered_artifact: https://github.com/CISPA/mwait
+- title: 'Inception: Exposing New Attack Surfaces with Training in Transient Execution'
+  authors:
+  - Daniël Trujillo
+  - Johannes Wikner
+  - Kaveh Razavi
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/trujillo
+  discovered_artifact: https://comsec.ethz.ch/inception
+- title: 'Collide+Power: Leaking Inaccessible Data with Software-based Power Side
+    Channels'
+  authors:
+  - Andreas Kogler
+  - Jonas Juffinger
+  - Lukas Giner
+  - Lukas Gerlach 0001
+  - Martin Schwarzl
+  - Michael Schwarz 0001
+  - Daniel Gruss
+  - Stefan Mangard
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/kogler
+  discovered_artifact: https://github.com/iaik/CollidePower
+- title: 'BunnyHop: Exploiting the Instruction Prefetcher'
+  authors:
+  - Zhiyuan Zhang 0005
+  - Mingtian Tao
+  - Sioli O&apos;Connell
+  - Chitchanok Chuengsatiansup
+  - Daniel Genkin
+  - Yuval Yarom
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-zhiyuan-bunnyhop
+  discovered_artifact: https://github.com/0xADE1A1DE/BunnyHop
+- title: Can a Deep Learning Model for One Architecture Be Used for Others? Retargeted-Architecture
+    Binary Code Analysis
+  authors:
+  - Junzhe Wang
+  - Matthew Sharp
+  - Chuxiong Wu
+  - Qiang Zeng 0001
+  - Lannan Luo
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/wang-junzhe
+  discovered_artifact: https://github.com/lannan/UniMap
+- title: Decompiling x86 Deep Neural Network Executables
+  authors:
+  - Zhibo Liu
+  - Yuanyuan Yuan
+  - Shuai Wang 0011
+  - Xiaofei Xie
+  - Lei Ma 0003
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/liu-zhibo
+  discovered_artifact: https://github.com/monkbai/DNN-decompiler/
+- title: 'AIRS: Explanation for Deep Reinforcement Learning based Security Applications'
+  authors:
+  - Jiahao Yu 0001
+  - Wenbo Guo 0002
+  - Qi Qin
+  - Gang Wang 0011
+  - Ting Wang 0006
+  - Xinyu Xing 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/yu-jiahao
+  discovered_artifact: https://github.com/sherdencooper/AIRS
+- title: 'Differential Testing of Cross Deep Learning Framework APIs: Revealing Inconsistencies
+    and Vulnerabilities'
+  authors:
+  - Zizhuang Deng
+  - Guozhu Meng
+  - Kai Chen 0012
+  - Tong Liu 0027
+  - Lu Xiang
+  - Chunyang Chen 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/deng-zizhuang
+  discovered_artifact: null
+- title: 'Every Signature is Broken: On the Insecurity of Microsoft Office''s OOXML
+    Signatures'
+  authors:
+  - Simon Rohlmann
+  - Vladislav Mladenov
+  - Christian Mainka
+  - Daniel Hirschberger
+  - Jörg Schwenk
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann
+  discovered_artifact: https://github.com/RUB-NDS/OOXML_Signature_Security
+- title: 'Downgrading DNSSEC: How to Exploit Crypto Agility for Hijacking Signed Zones'
+  authors:
+  - Elias Heftrig
+  - Haya Schulmann
+  - Michael Waidner
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/heftrig
+  discovered_artifact: https://www.dnssec-downgrade.net/
+- title: 'All cops are broadcasting: TETRA under scrutiny'
+  authors:
+  - Carlo Meijer
+  - Wouter Bokslag
+  - Jos Wetzels
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/meijer
+  discovered_artifact: https://github.com/MidnightBlueLabs/TETRA_burst
+- title: Security Analysis of MongoDB Queryable Encryption
+  authors:
+  - Zichen Gui
+  - Kenneth G. Paterson
+  - Tianxin Tang
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/gui
+  discovered_artifact: null
+- title: On the Feasibility of Malware Unpacking via Hardware-assisted Loop Profiling
+  authors:
+  - Binlin Cheng
+  - Erika A. Leal
+  - Haotian Zhang
+  - Jiang Ming 0002
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/cheng-binlin
+  discovered_artifact: https://github.com/binlinc/LoopHPCs
+- title: 'Multiview: Finding Blind Spots in Access-Deny Issues Diagnosis'
+  authors:
+  - Bingyu Shen 0002
+  - Tianyi Shan
+  - Yuanyuan Zhou 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/shen-bingyu-multiview
+  discovered_artifact: null
+- title: 'Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers
+    Through Operation Forwarding'
+  authors:
+  - Jietao Xiao
+  - Nanzi Yang
+  - Wenbo Shen
+  - Jinku Li
+  - Xin Guo
+  - Zhiqiang Dong
+  - Fei Xie
+  - Jianfeng Ma 0001
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/xiao-jietao
+  discovered_artifact: null
+- title: 'AutoFR: Automated Filter Rule Generation for Adblocking'
+  authors:
+  - Hieu Le 0003
+  - Salma Elmalaki 0001
+  - Athina Markopoulou
+  - Zubair Shafiq
+  page_link: https://www.usenix.org/conference/usenixsecurity23/presentation/le
+  discovered_artifact: https://athinagroup.eng.uci.edu/projects/ats-on-the-web/

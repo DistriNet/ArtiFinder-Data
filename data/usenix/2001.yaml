@@ -1,0 +1,166 @@
+- title: Secure Data Deletion for Linux File Systems.
+  authors:
+  - Steven J. Bauer
+  - Nissanka Bodhi Priyantha
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/bauer.html
+  discovered_artifact: null
+- title: A Method for Fast Revocation of Public Key Certificates and Security Capabilities.
+  authors:
+  - Dan Boneh
+  - Xuhua Ding
+  - Gene Tsudik
+  - Chi-Ming Wong
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/boneh.html
+  discovered_artifact: http://crypto.stanford.edu/semmail/
+- title: 'FormatGuard: Automatic Protection From printf Format String Vulnerabilities.'
+  authors:
+  - Crispin Cowan
+  - Matt Barringer
+  - Steve Beattie
+  - Greg Kroah-Hartman
+  - Michael Frantzen
+  - Jamie Lokier
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/cowanbarringer.html
+  discovered_artifact: http://immunix.org
+- title: 'RaceGuard: Kernel Protection From Temporary File Race Vulnerabilities.'
+  authors:
+  - Crispin Cowan
+  - Steve Beattie
+  - Chris Wright 0003
+  - Greg Kroah-Hartman
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/cowanbeattie.html
+  discovered_artifact: null
+- title: 'Reading Between the Lines: Lessons from the SDMI Challenge.'
+  authors:
+  - Scott Craver
+  - Min Wu 0001
+  - Bede Liu
+  - Adam Stubblefield
+  - Ben Swartzlander
+  - Dan S. Wallach
+  - Drew Dean
+  - Edward W. Felten
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/craver.html
+  discovered_artifact: null
+- title: Using Client Puzzles to Protect TLS.
+  authors:
+  - Drew Dean
+  - Adam Stubblefield
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/dean.html
+  discovered_artifact: null
+- title: 'StackGhost: Hardware Facilitated Stack Protection.'
+  authors:
+  - Michael Frantzen
+  - Michael Shuey
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/frantzen.html
+  discovered_artifact: null
+- title: The Dos and Don&apos;ts of Client Authentication on the Web.
+  authors:
+  - Kevin Fu
+  - Emil Sit
+  - Kendra Smith
+  - Nick Feamster
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/fu.html
+  discovered_artifact: http://pdos.lcs.mit.edu/asrg/
+- title: 'MULTOPS: A Data-Structure for Bandwidth Attack Detection.'
+  authors:
+  - Thomer M. Gil
+  - Massimiliano Poletto
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/gil.html
+  discovered_artifact: null
+- title: 'Transient Addressing for Related Processes: Improved Firewalling by Using
+    IPV6 and Multiple Addresses per Host.'
+  authors:
+  - Peter M. Gleitz
+  - Steven M. Bellovin
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/gleitz.html
+  discovered_artifact: null
+- title: Data Remanence in Semiconductor Devices.
+  authors:
+  - Peter Gutmann
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/gutmann.html
+  discovered_artifact: null
+- title: 'Network Intrusion Detection: Evasion, Traffic Normalization, and End-to-End
+    Protocol Semantics.'
+  authors:
+  - Mark Handley
+  - Vern Paxson
+  - Christian Kreibich
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/handley.html
+  discovered_artifact: null
+- title: 'SC-CFS: Smartcard Secured Cryptographic File System.'
+  authors:
+  - Naomaru Itoi
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/itoi.html
+  discovered_artifact: http://www.citi.umich.edu/projects/smartcard/sc-cfs.html
+- title: 'PDM: A New Strong Password-Based Protocol.'
+  authors:
+  - Charlie Kaufman
+  - Radia J. Perlman
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/kaufman.html
+  discovered_artifact: null
+- title: 'Kerberized Credential Translation: A Solution to Web Access Control.'
+  authors:
+  - Olga Kornievskaia
+  - Peter Honeyman
+  - Bill Doster
+  - Kevin Coffman
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/kornievskaia.html
+  discovered_artifact: null
+- title: Statically Detecting Likely Buffer Overflow Vulnerabilities.
+  authors:
+  - David Larochelle
+  - David Evans 0001
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/larochelle.html
+  discovered_artifact: http://www.wu-ftpd.org
+- title: Improving DES Coprocessor Throughput for Short Operations.
+  authors:
+  - Mark Lindemann
+  - Sean W. Smith
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/lindemann.html
+  discovered_artifact: null
+- title: Inferring Internet Denial-of-Service Activity.
+  authors:
+  - David Moore 0001
+  - Geoffrey M. Voelker
+  - Stefan Savage
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/moore.html
+  discovered_artifact: null
+- title: Secure Distribution of Events in Content-Based Publish Subscribe Systems.
+  authors:
+  - Lukasz Opyrchal
+  - Atul Prakash 0001
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/opyrchal.html
+  discovered_artifact: null
+- title: Defending Against Statistical Steganalysis.
+  authors:
+  - Niels Provos
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/provos.html
+  discovered_artifact: www.outguess.org
+- title: 'Capability File Names: Separating Authorisation From User Management in
+    an Internet File System.'
+  authors:
+  - Jude T. Regan
+  - Christian Damsgaard Jensen
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/regan.html
+  discovered_artifact: null
+- title: Detecting Format String Vulnerabilities with Type Qualifiers.
+  authors:
+  - Umesh Shankar
+  - Kunal Talwar
+  - Jeffrey S. Foster
+  - David A. Wagner 0001
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/shankar.html
+  discovered_artifact: null
+- title: Timing Analysis of Keystrokes and Timing Attacks on SSH.
+  authors:
+  - Dawn Xiaodong Song
+  - David A. Wagner 0001
+  - Xuqing Tian
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/song.html
+  discovered_artifact: null
+- title: Architecting the Lumeta Firewall Analyzer.
+  authors:
+  - Avishai Wool
+  page_link: http://www.usenix.org/publications/library/proceedings/sec01/wool.html
+  discovered_artifact: null

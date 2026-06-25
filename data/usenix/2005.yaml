@@ -6,6 +6,7 @@
   - Andrew Schultz
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/opus-online-patches-and-updates-security
   discovered_artifact: null
+  validated: false
 - title: Detecting Targeted Attacks Using Shadow Honeypots.
   authors:
   - Kostas G. Anagnostakis
@@ -16,6 +17,7 @@
   - Angelos D. Keromytis
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/detecting-targeted-attacks-using-shadow-honeypots
   discovered_artifact: null
+  validated: false
 - title: Mapping Internet Sensors with Probe Response Attacks.
   authors:
   - John Bethencourt
@@ -23,12 +25,14 @@
   - Mary K. Vernon
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/mapping-internet-sensors-probe-response-attacks
   discovered_artifact: null
+  validated: false
 - title: Efficient Techniques for Comprehensive Protection from Memory Error Exploits.
   authors:
   - Sandeep Bhatkar
   - Daniel C. DuVarney
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/efficient-techniques-comprehensive-protection-memory-error
   discovered_artifact: null
+  validated: false
 - title: Security Analysis of a Cryptographically-Enabled RFID Device.
   authors:
   - Steve Bono
@@ -39,12 +43,14 @@
   - Michael Szydlo
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/security-analysis-cryptographically-enabled-rfid-device
   discovered_artifact: null
+  validated: false
 - title: 'Fixing Races for Fun and Profit: How to Abuse atime.'
   authors:
   - Nikita Borisov
   - Robert Johnson
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/fixing-races-fun-and-profit-how-abuse-atime
   discovered_artifact: http://nikita.ca/
+  validated: false
 - title: Non-Control-Data Attacks Are Realistic Threats.
   authors:
   - Shuo Chen 0001
@@ -52,6 +58,7 @@
   - Emre Can Sezer
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/non-control-data-attacks-are-realistic-threats
   discovered_artifact: null
+  validated: false
 - title: 'Shredding Your Garbage: Reducing Data Lifetime Through Secure Deallocation.'
   authors:
   - Jim Chow
@@ -60,12 +67,14 @@
   - Mendel Rosenblum
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/shredding-your-garbage-reducing-data-lifetime-through
   discovered_artifact: null
+  validated: false
 - title: Robust TCP Stream Reassembly in the Presence of Adversaries.
   authors:
   - Sarang Dharmapurikar
   - Vern Paxson
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/robust-tcp-stream-reassembly-presence-adversaries
   discovered_artifact: null
+  validated: false
 - title: 'Cryptographic Voting Protocols: A Systems Perspective.'
   authors:
   - Chris Karlof
@@ -73,6 +82,7 @@
   - David A. Wagner 0001
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/cryptographic-voting-protocols-systems-perspective
   discovered_artifact: null
+  validated: false
 - title: Automating Mimicry Attacks Using Static Binary Analysis.
   authors:
   - Christopher Kruegel
@@ -82,6 +92,7 @@
   - Giovanni Vigna
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/automating-mimicry-attacks-using-static-binary-analysis
   discovered_artifact: null
+  validated: false
 - title: Protecting Against Unexpected System Calls.
   authors:
   - Cullen Linn
@@ -92,12 +103,14 @@
   - John H. Hartman
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/protecting-against-unexpected-system-calls
   discovered_artifact: null
+  validated: false
 - title: Finding Security Vulnerabilities in Java Applications with Static Analysis.
   authors:
   - V. Benjamin Livshits
   - Monica S. Lam
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/finding-security-vulnerabilities-java-applications-static
   discovered_artifact: null
+  validated: false
 - title: 'MulVAL: A Logic-based Network Security Analyzer.'
   authors:
   - Xinming Ou
@@ -105,6 +118,7 @@
   - Andrew W. Appel
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/mulval-logic-based-network-security-analyzer
   discovered_artifact: null
+  validated: false
 - title: On the Effectiveness of Distributed Worm Monitoring.
   authors:
   - Moheeb Abu Rajab
@@ -112,6 +126,7 @@
   - Andreas Terzis
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/effectiveness-distributed-worm-monitoring
   discovered_artifact: null
+  validated: false
 - title: Stronger Password Authentication Using Browser Extensions.
   authors:
   - Blake Ross
@@ -121,6 +136,7 @@
   - John C. Mitchell
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/stronger-password-authentication-using-browser-extensions
   discovered_artifact: http://crypto.stanford.edu/PwdHash
+  validated: false
 - title: Vulnerabilities of Passive Internet Threat Monitors.
   authors:
   - Yoichi Shinoda
@@ -128,6 +144,7 @@
   - Motomu Itoh
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/vulnerabilities-passive-internet-threat-monitors
   discovered_artifact: null
+  validated: false
 - title: Where&apos;s the FEEB? The Effectiveness of Instruction Set Randomization.
   authors:
   - Ana Nora Sovarel
@@ -135,12 +152,14 @@
   - Nathanael Paul
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/wheres-feeb-effectiveness-instruction-set-randomization
   discovered_artifact: http://www.cs.virginia.edu/feeb
+  validated: false
 - title: Countering Targeted File Attacks Using LocationGuard.
   authors:
   - Mudhakar Srivatsa
   - Ling Liu 0001
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/countering-targeted-file-attacks-using-locationguard
   discovered_artifact: null
+  validated: false
 - title: Empirical Study of Tolerating Denial-of-Service Attacks with a Proxy Network.
   authors:
   - Ju Wang 0010
@@ -148,6 +167,7 @@
   - Andrew A. Chien
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/empirical-study-tolerating-denial-service-attacks-proxy
   discovered_artifact: null
+  validated: false
 - title: An Architecture for Generating Semantic Aware Signatures.
   authors:
   - Vinod Yegneswaran
@@ -156,9 +176,11 @@
   - Somesh Jha
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/architecture-generating-semantic-aware-signatures
   discovered_artifact: null
+  validated: false
 - title: Building an Application-aware IPsec Policy System.
   authors:
   - Heng Yin 0001
   - Haining Wang 0001
   page_link: https://www.usenix.org/conference/14th-usenix-security-symposium/building-application-aware-ipsec-policy-system
   discovered_artifact: null
+  validated: false

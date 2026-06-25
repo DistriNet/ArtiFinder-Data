@@ -9,6 +9,7 @@
   - Angelos D. Keromytis
   page_link: https://doi.org/10.1145/586110.586118
   discovered_artifact: null
+  validated: false
 - title: Scalable, graph-based network vulnerability analysis.
   authors:
   - Paul Ammann
@@ -16,6 +17,7 @@
   - Saket Kaushik
   page_link: https://doi.org/10.1145/586110.586140
   discovered_artifact: null
+  validated: false
 - title: The verification of an industrial payment protocol.
   authors:
   - Giampaolo Bella
@@ -23,6 +25,7 @@
   - Fabio Massacci
   page_link: https://doi.org/10.1145/586110.586113
   discovered_artifact: null
+  validated: false
 - title: 'Authenticated encryption in SSH: provably fixing the SSH binary packet protocol.'
   authors:
   - Mihir Bellare
@@ -30,6 +33,7 @@
   - Chanathip Namprempre
   page_link: https://doi.org/10.1145/586110.586112
   discovered_artifact: null
+  validated: false
 - title: A temporal key management scheme for secure broadcasting of XML documents.
   authors:
   - Elisa Bertino
@@ -37,12 +41,14 @@
   - Elena Ferrari 0001
   page_link: https://doi.org/10.1145/586110.586116
   discovered_artifact: null
+  validated: false
 - title: Almost entirely correct mixing with applications to voting.
   authors:
   - Dan Boneh
   - Philippe Golle
   page_link: https://doi.org/10.1145/586110.586121
   discovered_artifact: null
+  validated: false
 - title: Asynchronous verifiable secret sharing and proactive cryptosystems.
   authors:
   - Christian Cachin
@@ -51,23 +57,27 @@
   - Reto Strobl
   page_link: https://doi.org/10.1145/586110.586124
   discovered_artifact: null
+  validated: false
 - title: Design and implementation of the idemix anonymous credential system.
   authors:
   - Jan Camenisch
   - Els Van Herreweghen
   page_link: https://doi.org/10.1145/586110.586114
   discovered_artifact: null
+  validated: false
 - title: 'DRM: doesn&apos;t really mean digital copyright management.'
   authors:
   - L. Jean Camp
   page_link: https://doi.org/10.1145/586110.586122
   discovered_artifact: null
+  validated: false
 - title: 'MOPS: an infrastructure for examining security properties of software.'
   authors:
   - Hao Chen 0003
   - David A. Wagner 0001
   page_link: https://doi.org/10.1145/586110.586142
   discovered_artifact: http://www.cs.berkeley.edu/~daw/mops/
+  validated: false
 - title: A reputation-based approach for choosing reliable resources in peer-to-peer
     networks.
   authors:
@@ -78,12 +88,14 @@
   - Fabio Violante
   page_link: https://doi.org/10.1145/586110.586138
   discovered_artifact: null
+  validated: false
 - title: Query-flood DoS attacks in gnutella.
   authors:
   - Neil Daswani
   - Hector Garcia-Molina
   page_link: https://doi.org/10.1145/586110.586136
   discovered_artifact: null
+  validated: false
 - title: Defending against redirect attacks in mobile IP.
   authors:
   - Robert H. Deng
@@ -91,6 +103,7 @@
   - Feng Bao 0001
   page_link: https://doi.org/10.1145/586110.586120
   discovered_artifact: https://core.ac.uk/display/13248815?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+  validated: false
 - title: Runtime verification of authorization hook placement for the linux security
     modules framework.
   authors:
@@ -99,18 +112,21 @@
   - Xiaolan Zhang 0001
   page_link: https://doi.org/10.1145/586110.586141
   discovered_artifact: null
+  validated: false
 - title: A key-management scheme for distributed sensor networks.
   authors:
   - Laurent Eschenauer
   - Virgil D. Gligor
   page_link: https://doi.org/10.1145/586110.586117
   discovered_artifact: null
+  validated: false
 - title: 'Tarzan: a peer-to-peer anonymizing network layer.'
   authors:
   - Michael J. Freedman
   - Robert Morris 0005
   page_link: https://doi.org/10.1145/586110.586137
   discovered_artifact: null
+  validated: false
 - title: Silicon physical random functions.
   authors:
   - Blaise Gassend
@@ -119,11 +135,13 @@
   - Srinivas Devadas
   page_link: https://doi.org/10.1145/586110.586132
   discovered_artifact: null
+  validated: false
 - title: Efficient packet marking for large-scale IP traceback.
   authors:
   - Michael T. Goodrich
   page_link: https://doi.org/10.1145/586110.586128
   discovered_artifact: null
+  validated: false
 - title: Generic implementations of elliptic curve cryptography using partial reduction.
   authors:
   - Nils Gura
@@ -131,12 +149,14 @@
   - Sheueling Chang Shantz
   page_link: https://doi.org/10.1145/586110.586126
   discovered_artifact: null
+  validated: false
 - title: Sensor-based intrusion detection for intra-domain distance-vector routing.
   authors:
   - Vishal Mittal
   - Giovanni Vigna
   page_link: https://doi.org/10.1145/586110.586129
   discovered_artifact: null
+  validated: false
 - title: Constructing attack scenarios through correlation of intrusion alerts.
   authors:
   - Peng Ning
@@ -144,17 +164,20 @@
   - Douglas S. Reeves
   page_link: https://doi.org/10.1145/586110.586144
   discovered_artifact: null
+  validated: false
 - title: Securing passwords against dictionary attacks.
   authors:
   - Benny Pinkas
   - Tomas Sander
   page_link: https://doi.org/10.1145/586110.586133
   discovered_artifact: null
+  validated: false
 - title: Authenticated-encryption with associated-data.
   authors:
   - Phillip Rogaway
   page_link: https://doi.org/10.1145/586110.586125
   discovered_artifact: null
+  validated: false
 - title: 'Specification-based anomaly detection: a new approach for detecting network
     intrusions.'
   authors:
@@ -167,18 +190,21 @@
   - S. Zhou
   page_link: https://doi.org/10.1145/586110.586146
   discovered_artifact: null
+  validated: false
 - title: Mimicry attacks on host-based intrusion detection systems.
   authors:
   - David A. Wagner 0001
   - Paolo Soto
   page_link: https://doi.org/10.1145/586110.586145
   discovered_artifact: null
+  validated: false
 - title: Policy algebras for access control the predicate case.
   authors:
   - Duminda Wijesekera
   - Sushil Jajodia
   page_link: https://doi.org/10.1145/586110.586134
   discovered_artifact: null
+  validated: false
 - title: Code red worm propagation modeling and analysis.
   authors:
   - Cliff Changchun Zou
@@ -186,3 +212,4 @@
   - Donald F. Towsley
   page_link: https://doi.org/10.1145/586110.586130
   discovered_artifact: null
+  validated: false

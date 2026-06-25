@@ -6,6 +6,7 @@
   - David Brumley
   page_link: https://www.ndss-symposium.org/ndss2011/aeg-automatic-exploit-generation
   discovered_artifact: null
+  validated: false
 - title: A Security API for Distributed Social Networks.
   authors:
   - Michael Backes 0001
@@ -13,6 +14,7 @@
   - Kim Pecina
   page_link: https://www.ndss-symposium.org/ndss2011/security-api-distributed-social-networks-paper
   discovered_artifact: null
+  validated: false
 - title: Automated Discovery of Parameter Pollution Vulnerabilities in Web Applications.
   authors:
   - Marco Balduzzi
@@ -21,6 +23,7 @@
   - Engin Kirda
   page_link: https://www.ndss-symposium.org/ndss2011/automated-discovery-of-parameter-pollution-vulnerabilities-in-web-applications
   discovered_artifact: null
+  validated: false
 - title: 'EXPOSURE: Finding Malicious Domains Using Passive DNS Analysis.'
   authors:
   - Leyla Bilge
@@ -29,6 +32,7 @@
   - Marco Balduzzi
   page_link: https://www.ndss-symposium.org/ndss2011/exposure-finding-malicious-domains-using-passive-dns-analysis
   discovered_artifact: null
+  validated: false
 - title: 'Tracker: Security and Privacy for RFID-based Supply Chains.'
   authors:
   - Erik-Oliver Blass
@@ -36,6 +40,7 @@
   - Refik Molva
   page_link: https://www.ndss-symposium.org/ndss2011/tracker-security-and-privacy-for-rfid-based-supply-chains
   discovered_artifact: null
+  validated: false
 - title: 'Good Neighbor: Ad hoc Pairing of Nearby Wireless Devices by Multiple Antennas.'
   authors:
   - Liang Cai
@@ -44,12 +49,14 @@
   - Prasant Mohapatra
   page_link: https://www.ndss-symposium.org/ndss2011/good-neighbor-ad-hoc-pairing-of-nearby-wireless-devices-by-multiple-antennas
   discovered_artifact: null
+  validated: false
 - title: Accurate and Provably Secure Latency Estimation with Treeple.
   authors:
   - Eric Chan-Tin
   - Nicholas Hopper
   page_link: https://www.ndss-symposium.org/ndss2011/accurate-and-provably-secure-latency-estimation-treeple
   discovered_artifact: null
+  validated: false
 - title: 'On Measuring the Similarity of Network Hosts: Pitfalls, New Metrics, and
     Empirical Analyses.'
   authors:
@@ -58,12 +65,14 @@
   - Michael D. Bailey
   page_link: https://www.ndss-symposium.org/ndss2011/measuring-similarity-network-hosts-pitfalls-new-metrics-and-empirical-analyses
   discovered_artifact: null
+  validated: false
 - title: 'No Loitering: Exploiting Lingering Vulnerabilities in Default COM Objects.'
   authors:
   - David Dewey
   - Patrick Traynor
   page_link: https://www.ndss-symposium.org/ndss2011/no-loitering-exploiting-lingering-vulnerabilities-in-default-com-objects
   discovered_artifact: null
+  validated: false
 - title: 'SPARE: Replicas on Hold.'
   authors:
   - Tobias Distler
@@ -73,6 +82,7 @@
   - Rüdiger Kapitza
   page_link: https://www.ndss-symposium.org/ndss2011/spare-replicas-hold
   discovered_artifact: null
+  validated: false
 - title: 'PiOS: Detecting Privacy Leaks in iOS Applications.'
   authors:
   - Manuel Egele
@@ -81,6 +91,7 @@
   - Giovanni Vigna
   page_link: https://www.ndss-symposium.org/ndss2011/pios-detecting-privacy-leaks-ios-applications-paper
   discovered_artifact: null
+  validated: false
 - title: Using Classification to Protect the Integrity of Spectrum Measurements in
     White Space Networks.
   authors:
@@ -90,6 +101,7 @@
   - Carl A. Gunter
   page_link: https://www.ndss-symposium.org/ndss2011/using-classification-protect-integrity-spectrum-measurements-white-space-networks
   discovered_artifact: null
+  validated: false
 - title: Relay Attacks on Passive Keyless Entry and Start Systems in Modern Cars.
   authors:
   - Aurélien Francillon
@@ -97,12 +109,14 @@
   - Srdjan Capkun
   page_link: https://www.ndss-symposium.org/ndss2011/relay-attacks-on-passive-keyless-entry-and-start-systems-in-modern-cars
   discovered_artifact: null
+  validated: false
 - title: 'SWIRL: A Scalable Watermark to Detect Correlated Network Flows.'
   authors:
   - Amir Houmansadr
   - Nikita Borisov
   page_link: https://www.ndss-symposium.org/ndss2011/swirl-scalable-watermark-detect-correlated-network-flows
   discovered_artifact: null
+  validated: false
 - title: Efficient Privacy-Preserving Biometric Identification.
   authors:
   - Yan Huang 0001
@@ -111,6 +125,7 @@
   - Jonathan Katz
   page_link: https://www.ndss-symposium.org/ndss2011/efficient-privacy-preserving-biometric-identification
   discovered_artifact: http://mightbeevil.org
+  validated: false
 - title: 'TIE: Principled Reverse Engineering of Types in Binary Programs.'
   authors:
   - JongHyup Lee
@@ -118,6 +133,7 @@
   - David Brumley
   page_link: https://www.ndss-symposium.org/ndss2011/tie-principled-reverse-engineering-of-types-in-binary-programs
   discovered_artifact: null
+  validated: false
 - title: 'WebShield: Enabling Various Web Defense Techniques without Client Side Modifications.'
   authors:
   - Zhichun Li
@@ -129,6 +145,7 @@
   - Clint Sbisa
   page_link: https://www.ndss-symposium.org/ndss2011/webshield-enabling-various-web-defense-techniques-without-client-side-modifications
   discovered_artifact: null
+  validated: false
 - title: Usability Testing a Malware-Resistant Input Mechanism.
   authors:
   - Alana Libonati
@@ -136,6 +153,7 @@
   - Michael K. Reiter
   page_link: https://www.ndss-symposium.org/ndss2011/usability-testing-a-malware-resistant-input-mechanism
   discovered_artifact: null
+  validated: false
 - title: 'SigGraph: Brute Force Scanning of Kernel Data Structure Instances Using
     Graph-based Signatures.'
   authors:
@@ -146,6 +164,7 @@
   - Xuxian Jiang
   page_link: https://www.ndss-symposium.org/ndss2011/siggraph-brute-force-scanning-of-kernel-data-structure-instances-using-graph-based-signatures
   discovered_artifact: null
+  validated: false
 - title: 'HTTPOS: Sealing Information Leaks with Browser-side Obfuscation of Encrypted
     Flows.'
   authors:
@@ -157,6 +176,7 @@
   - Roberto Perdisci
   page_link: https://www.ndss-symposium.org/ndss2011/httpos-sealing-information-leaks-with-browser-side-obfuscation-of-encrypted-flows
   discovered_artifact: null
+  validated: false
 - title: Location Privacy via Private Proximity Testing.
   authors:
   - Arvind Narayanan
@@ -166,6 +186,7 @@
   - Dan Boneh
   page_link: https://www.ndss-symposium.org/ndss2011/privacy-private-proximity-testing-paper
   discovered_artifact: null
+  validated: false
 - title: 'Soundcomber: A Stealthy and Context-Aware Sound Trojan for Smartphones.'
   authors:
   - Roman Schlegel
@@ -176,6 +197,7 @@
   - XiaoFeng Wang 0001
   page_link: https://www.ndss-symposium.org/ndss2011/soundcomber-stealthy-and-context-aware-sound-trojan-smartphones
   discovered_artifact: null
+  validated: false
 - title: 'Losing Control of the Internet: Using the Data Plane to Attack the Control
     Plane.'
   authors:
@@ -187,6 +209,7 @@
   - Eugene Y. Vasserman
   page_link: https://www.ndss-symposium.org/ndss2011/losing-control-internet-using-data-plane-attack-control-plane
   discovered_artifact: null
+  validated: false
 - title: Privacy-Preserving Aggregation of Time-Series Data.
   authors:
   - Elaine Shi
@@ -196,6 +219,7 @@
   - Dawn Song
   page_link: https://www.ndss-symposium.org/ndss2011/privacy-preserving-aggregation-of-time-series-data
   discovered_artifact: null
+  validated: false
 - title: 'Howard: A Dynamic Excavator for Reverse Engineering Data Structures.'
   authors:
   - Asia Slowinska
@@ -203,12 +227,14 @@
   - Herbert Bos
   page_link: https://www.ndss-symposium.org/ndss2011/howard-a-dynamic-excavator-for-reverse-engineering-data-structures
   discovered_artifact: null
+  validated: false
 - title: Efficient Monitoring of Untrusted Kernel-Mode Execution.
   authors:
   - Abhinav Srivastava
   - Jonathon T. Giffin
   page_link: https://www.ndss-symposium.org/ndss2011/efficient-monitoring-untrusted-kernel-mode-execution
   discovered_artifact: null
+  validated: false
 - title: Practical Protection of Kernel Integrity for Commodity OS from Untrusted
     Extensions.
   authors:
@@ -217,3 +243,4 @@
   - Peng Liu 0005
   page_link: https://www.ndss-symposium.org/ndss2011/practical-protection-of-kernel-integrity-for-commodity-os-from-untrusted-extensions
   discovered_artifact: null
+  validated: false

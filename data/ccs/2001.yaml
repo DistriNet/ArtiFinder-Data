@@ -4,6 +4,7 @@
   - Stefan Mangard
   page_link: https://doi.org/10.1145/501983.501996
   discovered_artifact: null
+  validated: false
 - title: A Chinese wall security model for decentralized workflow systems.
   authors:
   - Vijayalakshmi Atluri
@@ -11,6 +12,7 @@
   - Pietro Mazzoleni
   page_link: https://doi.org/10.1145/501983.501991
   discovered_artifact: null
+  validated: false
 - title: Provably authenticated group Diffie-Hellman key exchange.
   authors:
   - Emmanuel Bresson
@@ -19,6 +21,7 @@
   - Jean-Jacques Quisquater
   page_link: https://doi.org/10.1145/501983.502018
   discovered_artifact: null
+  validated: false
 - title: Paillier&apos;s cryptosystem revisited.
   authors:
   - Dario Catalano
@@ -27,6 +30,7 @@
   - Phong Q. Nguyen
   page_link: https://doi.org/10.1145/501983.502012
   discovered_artifact: null
+  validated: false
 - title: Inductive methods and contract-signing protocols.
   authors:
   - Rohit Chadha
@@ -34,12 +38,14 @@
   - Andre Scedrov
   page_link: https://doi.org/10.1145/501983.502008
   discovered_artifact: null
+  validated: false
 - title: Events in security protocols.
   authors:
   - Federico Crazzolara
   - Glynn Winskel
   page_link: https://doi.org/10.1145/501983.501998
   discovered_artifact: null
+  validated: false
 - title: Flexible authentication of XML documents.
   authors:
   - Premkumar T. Devanbu
@@ -50,12 +56,14 @@
   - Stuart G. Stubblebine
   page_link: https://doi.org/10.1145/501983.502003
   discovered_artifact: null
+  validated: false
 - title: Error-tolerant password recovery.
   authors:
   - Niklas Frykholm
   - Ari Juels
   page_link: https://doi.org/10.1145/501983.501985
   discovered_artifact: null
+  validated: false
 - title: 'The faithfulness of abstract protocol analysis: message authentication.'
   authors:
   - Joshua D. Guttman
@@ -63,18 +71,21 @@
   - Lenore D. Zuck
   page_link: https://doi.org/10.1145/501983.502009
   discovered_artifact: null
+  validated: false
 - title: Securely combining public-key cryptosystems.
   authors:
   - Stuart Haber
   - Benny Pinkas
   page_link: https://doi.org/10.1145/501983.502013
   discovered_artifact: null
+  validated: false
 - title: On the relationship between strand spaces and multi-agent systems.
   authors:
   - Joseph Y. Halpern
   - Riccardo Pucella
   page_link: https://doi.org/10.1145/501983.501999
   discovered_artifact: http://www.cs.cornell.edu/home/halpern
+  validated: false
 - title: The performance of public key-enabled kerberos authentication in mobile computing
     applications.
   authors:
@@ -82,6 +93,7 @@
   - Daniel A. Menascé
   page_link: https://doi.org/10.1145/501983.501995
   discovered_artifact: null
+  validated: false
 - title: 'Distributed credential chain discovery in trust management: extended abstract.'
   authors:
   - Ninghui Li
@@ -89,18 +101,21 @@
   - John C. Mitchell
   page_link: https://doi.org/10.1145/501983.502005
   discovered_artifact: null
+  validated: false
 - title: Delegation of cryptographic servers for capture-resilient devices.
   authors:
   - Philip D. MacKenzie
   - Michael K. Reiter
   page_link: https://doi.org/10.1145/501983.501986
   discovered_artifact: null
+  validated: false
 - title: Formalizing GDOI group key management requirements in NPATRL.
   authors:
   - Catherine Meadows 0001
   - Paul F. Syverson
   page_link: https://doi.org/10.1145/501983.502016
   discovered_artifact: null
+  validated: false
 - title: 'Accountable-subgroup multisignatures: extended abstract.'
   authors:
   - Silvio Micali
@@ -108,12 +123,14 @@
   - Leonid Reyzin
   page_link: https://doi.org/10.1145/501983.502017
   discovered_artifact: null
+  validated: false
 - title: Constraint solving for bounded-process cryptographic protocol analysis.
   authors:
   - Jonathan K. Millen
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1145/501983.502007
   discovered_artifact: null
+  validated: false
 - title: 'Twin signatures: an alternative to the hash-and-sign paradigm.'
   authors:
   - David Naccache
@@ -121,11 +138,13 @@
   - Jacques Stern
   page_link: https://doi.org/10.1145/501983.501987
   discovered_artifact: null
+  validated: false
 - title: A verifiable secret shuffle and its application to e-voting.
   authors:
   - C. Andrew Neff
   page_link: https://doi.org/10.1145/501983.502000
   discovered_artifact: null
+  validated: false
 - title: Design and implementation of a flexible RBAC-service in an object-oriented
     scripting language.
   authors:
@@ -133,6 +152,7 @@
   - Mark Strembeck
   page_link: https://doi.org/10.1145/501983.501992
   discovered_artifact: null
+  validated: false
 - title: An efficient security verification method for programs with stack inspection.
   authors:
   - Naoya Nitta
@@ -140,11 +160,13 @@
   - Hiroyuki Seki
   page_link: https://doi.org/10.1145/501983.501994
   discovered_artifact: null
+  validated: false
 - title: The BiBa one-time signature and broadcast authentication protocol.
   authors:
   - Adrian Perrig
   page_link: https://doi.org/10.1145/501983.501988
   discovered_artifact: null
+  validated: false
 - title: 'OCB: a block-cipher mode of operation for efficient authenticated encryption.'
   authors:
   - Phillip Rogaway
@@ -153,23 +175,27 @@
   - Ted Krovetz
   page_link: https://doi.org/10.1145/501983.502011
   discovered_artifact: www-cse.ucsd.edu/users/mihir
+  validated: false
 - title: Practical forward secure group signature schemes.
   authors:
   - Dawn Xiaodong Song
   page_link: https://doi.org/10.1145/501983.502015
   discovered_artifact: null
+  validated: false
 - title: 'Tangler: a censorship-resistant publishing system based on document entanglements.'
   authors:
   - Marc Waldman
   - David Mazières
   page_link: https://doi.org/10.1145/501983.502002
   discovered_artifact: null
+  validated: false
 - title: 'Policy algebras for access control: the propositional case.'
   authors:
   - Duminda Wijesekera
   - Sushil Jajodia
   page_link: https://doi.org/10.1145/501983.501990
   discovered_artifact: null
+  validated: false
 - title: Interoperable strategies in automated trust negotiation.
   authors:
   - Ting Yu 0001
@@ -177,3 +203,4 @@
   - Kent E. Seamons
   page_link: https://doi.org/10.1145/501983.502004
   discovered_artifact: null
+  validated: false

@@ -5,6 +5,7 @@
   - Edward W. Felten
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/bauer.html
   discovered_artifact: null
+  validated: false
 - title: 'Side-Channel Attacks on Symmetric Encryption Schemes: The Case for Authenticated
     Encryption.'
   authors:
@@ -12,6 +13,7 @@
   - Hector Urtubia
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/black.html
   discovered_artifact: null
+  validated: false
 - title: Setuid Demystified.
   authors:
   - Hao Chen 0003
@@ -19,6 +21,7 @@
   - Drew Dean
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/chen.html
   discovered_artifact: null
+  validated: false
 - title: Security in Plan 9.
   authors:
   - Russ Cox
@@ -28,6 +31,7 @@
   - Sean Quinlan
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/cox.html
   discovered_artifact: null
+  validated: false
 - title: 'Infranet: Circumventing Web Censorship and Surveillance.'
   authors:
   - Nick Feamster
@@ -37,6 +41,7 @@
   - David R. Karger
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/feamster.html
   discovered_artifact: http://nms.lcs.mit.edu/projects/infranet
+  validated: false
 - title: Detecting Manipulated Remote Call Streams.
   authors:
   - Jonathon T. Giffin
@@ -44,11 +49,13 @@
   - Barton P. Miller
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/giffin.html
   discovered_artifact: null
+  validated: false
 - title: Lessons Learned in Implementing and Deploying Crypto Software.
   authors:
   - Peter Gutmann
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/gutmann.html
   discovered_artifact: null
+  validated: false
 - title: Making Mix Nets Robust for Electronic Voting by Randomized Partial Checking.
   authors:
   - Markus Jakobsson
@@ -56,6 +63,7 @@
   - Ronald L. Rivest
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/jakobsson.html
   discovered_artifact: null
+  validated: false
 - title: Secure Execution via Program Shepherding.
   authors:
   - Vladimir Kiriansky
@@ -63,30 +71,35 @@
   - Saman P. Amarasinghe
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/kiriansky.html
   discovered_artifact: null
+  validated: false
 - title: Type-Assisted Dynamic Buffer Overflow Detection.
   authors:
   - Kyung-suk Lhee
   - Steve J. Chapin
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/lhee.html
   discovered_artifact: null
+  validated: false
 - title: Using Text Categorization Techniques for Intrusion Detection.
   authors:
   - Yihua Liao
   - V. Rao Vemuri
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/liao.html
   discovered_artifact: null
+  validated: false
 - title: Secure History Preservation Through Timeline Entanglement.
   authors:
   - Petros Maniatis
   - Mary Baker
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/maniatis.html
   discovered_artifact: null
+  validated: false
 - title: Deanonymizing Users of the SafeWeb Anonymizing Service.
   authors:
   - David M. Martin Jr.
   - Andrew Schulman
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/martin.html
   discovered_artifact: null
+  validated: false
 - title: Toward Speech-Generated Cryptographic Keys on Resource-Constrained Devices.
   authors:
   - Fabian Monrose
@@ -96,6 +109,7 @@
   - Chilin Shih
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/monrose.html
   discovered_artifact: null
+  validated: false
 - title: A Flexible Containment Mechanism for Executing Untrusted Code.
   authors:
   - David S. Peterson
@@ -103,11 +117,13 @@
   - Raju Pandey
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/peterson.html
   discovered_artifact: null
+  validated: false
 - title: 'VeriSign CZAG: Privacy Leak in X.509 Certificates.'
   authors:
   - Scott G. Renfro
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/renfro.html
   discovered_artifact: null
+  validated: false
 - title: 'SSLACC: A Clustered SSL Accelerator.'
   authors:
   - Eric Rescorla
@@ -115,6 +131,7 @@
   - Brian Korver
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/rescorla.html
   discovered_artifact: null
+  validated: false
 - title: Access and Integrity Control in a Public-Access, High-Assurance Configuration
     Management System.
   authors:
@@ -122,6 +139,7 @@
   - John Vanderburgh
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/shapiro.html
   discovered_artifact: null
+  validated: false
 - title: How to Own the Internet in Your Spare Time.
   authors:
   - Stuart Staniford
@@ -129,6 +147,7 @@
   - Nicholas Weaver
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/staniford.html
   discovered_artifact: http://www.icir.org/vern
+  validated: false
 - title: 'Linux Security Modules: General Security Support for the Linux Kernel.'
   authors:
   - Chris Wright 0003
@@ -138,12 +157,14 @@
   - Greg Kroah-Hartman
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/wright.html
   discovered_artifact: null
+  validated: false
 - title: Trusted Paths for Browsers.
   authors:
   - Zishuang (Eileen) Ye
   - Sean W. Smith
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/ye.html
   discovered_artifact: null
+  validated: false
 - title: Using CQUAL for Static Analysis of Authorization Hook Placement.
   authors:
   - Xiaolan Zhang 0001
@@ -151,3 +172,4 @@
   - Trent Jaeger
   page_link: http://www.usenix.org/publications/library/proceedings/sec02/zhang.html
   discovered_artifact: null
+  validated: false

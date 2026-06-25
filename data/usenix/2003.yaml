@@ -4,6 +4,7 @@
   - Stefan Savage
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/80211-denial-service-attacks-real-vulnerabilities-and
   discovered_artifact: null
+  validated: false
 - title: 'Address Obfuscation: An Efficient Approach to Combat a Broad Range of Memory
     Error Exploits.'
   authors:
@@ -12,6 +13,7 @@
   - R. Sekar 0001
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/address-obfuscation-efficient-approach-combat-broad-range
   discovered_artifact: null
+  validated: false
 - title: A New Two-Server Approach for Authentication with Short Secrets.
   authors:
   - John G. Brainard
@@ -20,6 +22,7 @@
   - Michael Szydlo
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/new-two-server-approach-authentication-short-secrets
   discovered_artifact: null
+  validated: false
 - title: 'Scrash: A System for Generating Secure Crash Information.'
   authors:
   - Peter Broadwell
@@ -27,18 +30,21 @@
   - Naveen Sastry
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/scrash-system-generating-secure-crash-information
   discovered_artifact: null
+  validated: false
 - title: Remote Timing Attacks Are Practical.
   authors:
   - David Brumley
   - Dan Boneh
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/remote-timing-attacks-are-practical
   discovered_artifact: null
+  validated: false
 - title: Static Analysis of Executables to Detect Malicious Patterns.
   authors:
   - Mihai Christodorescu
   - Somesh Jha
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/static-analysis-executables-detect-malicious-patterns
   discovered_artifact: http://www.cs.wisc.edu/wisa
+  validated: false
 - title: 'PointGuard™: Protecting Pointers from Buffer Overflow Vulnerabilities.'
   authors:
   - Crispin Cowan
@@ -47,17 +53,20 @@
   - Perry Wagle
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/pointguard%E2%84%A2-protecting-pointers-buffer-overflow
   discovered_artifact: null
+  validated: false
 - title: Denial of Service via Algorithmic Complexity Attacks.
   authors:
   - Scott A. Crosby
   - Dan S. Wallach
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/denial-service-algorithmic-complexity-attacks
   discovered_artifact: null
+  validated: false
 - title: 'Plug-and-Play PKI: A PKI Your Mother Can Use.'
   authors:
   - Peter Gutmann
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/plug-and-play-pki-pki-your-mother-can-use
   discovered_artifact: null
+  validated: false
 - title: Analyzing Integrity Protection in the SELinux Example Policy.
   authors:
   - Trent Jaeger
@@ -65,24 +74,28 @@
   - Xiaolan Zhang 0001
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/analyzing-integrity-protection-selinux-example-policy
   discovered_artifact: null
+  validated: false
 - title: Establishing the Genuinity of Remote Computer Systems.
   authors:
   - Rick Kennell
   - Leah H. Jamieson
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/establishing-genuinity-remote-computer-systems
   discovered_artifact: null
+  validated: false
 - title: High Coverage Detection of Input-Related Security Faults.
   authors:
   - Eric Larson
   - Todd M. Austin
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/high-coverage-detection-input-related-security-faults
   discovered_artifact: null
+  validated: false
 - title: 'SSL Splitting: Securely Serving Data from Untrusted Caches.'
   authors:
   - Chris Lesniewski-Laas
   - M. Frans Kaashoek
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/ssl-splitting-securely-serving-data-untrusted-caches
   discovered_artifact: http://pdos.lcs.mit.edu/barnraising/
+  validated: false
 - title: 'Storage-based Intrusion Detection: Watching Storage Activity for Suspicious
     Behavior.'
   authors:
@@ -94,11 +107,13 @@
   - Gregory R. Ganger
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/storage-based-intrusion-detection-watching-storage
   discovered_artifact: null
+  validated: false
 - title: Improving Host Security with System Call Policies.
   authors:
   - Niels Provos
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/improving-host-security-system-call-policies
   discovered_artifact: null
+  validated: false
 - title: Preventing Privilege Escalation.
   authors:
   - Niels Provos
@@ -106,11 +121,13 @@
   - Peter Honeyman
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/preventing-privilege-escalation
   discovered_artifact: null
+  validated: false
 - title: Security Holes . . . Who Cares?
   authors:
   - Eric Rescorla
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/security-holes-who-cares
   discovered_artifact: null
+  validated: false
 - title: Domain-Based Administration of Identity-Based Cryptosystems for Secure Email
     and IPSEC.
   authors:
@@ -118,6 +135,7 @@
   - Glenn Durfee
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/domain-based-administration-identity-based-cryptosystems
   discovered_artifact: null
+  validated: false
 - title: Detecting Malicious Java Code Using Virtual Machine Auditing.
   authors:
   - Sunil Soman
@@ -125,15 +143,18 @@
   - Giovanni Vigna
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/detecting-malicious-java-code-using-virtual-machine
   discovered_artifact: null
+  validated: false
 - title: Dynamic Detection and Prevention of Race Conditions in File Accesses.
   authors:
   - Eugene Tsyrklevich
   - Bennet Yee
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/dynamic-detection-and-prevention-race-conditions-file
   discovered_artifact: null
+  validated: false
 - title: Implementing and Testing a Virus Throttle.
   authors:
   - Jamie Twycross
   - Matthew M. Williamson
   page_link: https://www.usenix.org/conference/12th-usenix-security-symposium/implementing-and-testing-virus-throttle
   discovered_artifact: null
+  validated: false

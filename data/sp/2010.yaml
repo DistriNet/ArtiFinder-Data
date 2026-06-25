@@ -6,6 +6,7 @@
   - John C. Mitchell
   page_link: https://doi.org/10.1109/SP.2010.27
   discovered_artifact: null
+  validated: false
 - title: How Good Are Humans at Solving CAPTCHAs? A Large Scale Evaluation.
   authors:
   - Elie Bursztein
@@ -15,12 +16,14 @@
   - Daniel Jurafsky
   page_link: https://doi.org/10.1109/SP.2010.31
   discovered_artifact: null
+  validated: false
 - title: Round-Efficient Broadcast Authentication Protocols for Fixed Topology Classes.
   authors:
   - Haowen Chan
   - Adrian Perrig
   page_link: https://doi.org/10.1109/SP.2010.22
   discovered_artifact: null
+  validated: false
 - title: 'Side-Channel Leaks in Web Applications: A Reality Today, a Challenge Tomorrow.'
   authors:
   - Shuo Chen 0001
@@ -29,6 +32,7 @@
   - Kehuan Zhang
   page_link: https://doi.org/10.1109/SP.2010.20
   discovered_artifact: null
+  validated: false
 - title: Identifying Dormant Functionality in Malware Programs.
   authors:
   - Paolo Milani Comparetti
@@ -39,12 +43,14 @@
   - Stefano Zanero
   page_link: https://doi.org/10.1109/SP.2010.12
   discovered_artifact: null
+  validated: false
 - title: Noninterference through Secure Multi-execution.
   authors:
   - Dominique Devriese
   - Frank Piessens
   page_link: https://doi.org/10.1109/SP.2010.15
   discovered_artifact: null
+  validated: false
 - title: 'Scalable Parametric Verification of Secure Systems: How to Verify Reference
     Monitors without Worrying about Data Structure Size.'
   authors:
@@ -54,6 +60,7 @@
   - Arvind Seshadri
   page_link: https://doi.org/10.1109/SP.2010.29
   discovered_artifact: null
+  validated: false
 - title: Synthesizing Near-Optimal Malware Specifications from Suspicious Behaviors.
   authors:
   - Matt Fredrikson
@@ -63,12 +70,14 @@
   - Xifeng Yan
   page_link: https://doi.org/10.1109/SP.2010.11
   discovered_artifact: null
+  validated: false
 - title: A Proof-Carrying File System.
   authors:
   - Deepak Garg 0001
   - Frank Pfenning
   page_link: https://doi.org/10.1109/SP.2010.28
   discovered_artifact: http://www.openssl.org
+  validated: false
 - title: Reconciling Belief and Vulnerability in Information Flow.
   authors:
   - Sardaouna Hamadou
@@ -76,6 +85,7 @@
   - Catuscia Palamidessi
   page_link: https://doi.org/10.1109/SP.2010.13
   discovered_artifact: null
+  validated: false
 - title: 'Overcoming an Untrusted Computing Base: Detecting and Removing Malicious
     Hardware Automatically.'
   authors:
@@ -86,6 +96,7 @@
   - Jonathan M. Smith
   page_link: https://doi.org/10.1109/SP.2010.18
   discovered_artifact: null
+  validated: false
 - title: 'Inspector Gadget: Automated Extraction of Proprietary Gadgets from Malware
     Binaries.'
   authors:
@@ -95,6 +106,7 @@
   - Engin Kirda
   page_link: https://doi.org/10.1109/SP.2010.10
   discovered_artifact: null
+  validated: false
 - title: Experimental Security Analysis of a Modern Automobile.
   authors:
   - Karl Koscher
@@ -110,6 +122,7 @@
   - Stefan Savage
   page_link: https://doi.org/10.1109/SP.2010.34
   discovered_artifact: null
+  validated: false
 - title: Revocation Systems with Very Small Private Keys.
   authors:
   - Allison B. Lewko
@@ -117,6 +130,7 @@
   - Brent Waters
   page_link: https://doi.org/10.1109/SP.2010.23
   discovered_artifact: null
+  validated: false
 - title: Authenticating Primary Users&apos; Signals in Cognitive Radio Networks via
     Integrated Cryptographic and Wireless Link Signatures.
   authors:
@@ -125,6 +139,7 @@
   - Huaiyu Dai
   page_link: https://doi.org/10.1109/SP.2010.24
   discovered_artifact: null
+  validated: false
 - title: Object Capabilities and Isolation of Untrusted Web Applications.
   authors:
   - Sergio Maffeis
@@ -132,6 +147,7 @@
   - Ankur Taly
   page_link: https://doi.org/10.1109/SP.2010.16
   discovered_artifact: null
+  validated: false
 - title: 'TrustVisor: Efficient TCB Reduction and Attestation.'
   authors:
   - Jonathan M. McCune
@@ -143,6 +159,7 @@
   - Adrian Perrig
   page_link: https://doi.org/10.1109/SP.2010.17
   discovered_artifact: null
+  validated: false
 - title: 'ConScript: Specifying and Enforcing Fine-Grained Security Policies for JavaScript
     in the Browser.'
   authors:
@@ -150,6 +167,7 @@
   - V. Benjamin Livshits
   page_link: https://doi.org/10.1109/SP.2010.36
   discovered_artifact: null
+  validated: false
 - title: Chip and PIN is Broken.
   authors:
   - Steven J. Murdoch
@@ -158,6 +176,7 @@
   - Mike Bond
   page_link: https://doi.org/10.1109/SP.2010.33
   discovered_artifact: http://www.lightbluetouchpaper.org/2010/02/11/chip-and-pin-is-broken/444
+  validated: false
 - title: SCiFI - A System for Secure Face Identification.
   authors:
   - Margarita Osadchy
@@ -166,6 +185,7 @@
   - Boaz Moskovich
   page_link: https://doi.org/10.1109/SP.2010.39
   discovered_artifact: null
+  validated: false
 - title: Bootstrapping Trust in Commodity Computers.
   authors:
   - Bryan Parno
@@ -173,6 +193,7 @@
   - Adrian Perrig
   page_link: https://doi.org/10.1109/SP.2010.32
   discovered_artifact: null
+  validated: false
 - title: 'Investigation of Triangular Spamming: A Stealthy and Efficient Spamming
     Technique.'
   authors:
@@ -182,6 +203,7 @@
   - Fang Yu 0002
   page_link: https://doi.org/10.1109/SP.2010.42
   discovered_artifact: null
+  validated: false
 - title: Towards Static Flow-Based Declassification for Legacy and Untrusted Programs.
   authors:
   - Bruno P. S. Rocha
@@ -191,6 +213,7 @@
   - Sandro Etalle
   page_link: https://doi.org/10.1109/SP.2010.14
   discovered_artifact: null
+  validated: false
 - title: A Symbolic Execution Framework for JavaScript.
   authors:
   - Prateek Saxena
@@ -201,6 +224,7 @@
   - Dawn Song
   page_link: https://doi.org/10.1109/SP.2010.38
   discovered_artifact: null
+  validated: false
 - title: All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic
     Execution (but Might Have Been Afraid to Ask).
   authors:
@@ -209,6 +233,7 @@
   - David Brumley
   page_link: https://doi.org/10.1109/SP.2010.26
   discovered_artifact: null
+  validated: false
 - title: On the Incoherencies in Web Browser Access Control Policies.
   authors:
   - Kapil Singh
@@ -217,6 +242,7 @@
   - Wenke Lee
   page_link: https://doi.org/10.1109/SP.2010.35
   discovered_artifact: null
+  validated: false
 - title: 'Outside the Closed World: On Using Machine Learning for Network Intrusion
     Detection.'
   authors:
@@ -224,12 +250,14 @@
   - Vern Paxson
   page_link: https://doi.org/10.1109/SP.2010.25
   discovered_artifact: null
+  validated: false
 - title: Tamper Evident Microprocessors.
   authors:
   - Adam Waksman
   - Simha Sethumadhavan
   page_link: https://doi.org/10.1109/SP.2010.19
   discovered_artifact: null
+  validated: false
 - title: 'HyperSafe: A Lightweight Approach to Provide Lifetime Hypervisor Control-Flow
     Integrity.'
   authors:
@@ -237,6 +265,7 @@
   - Xuxian Jiang
   page_link: https://doi.org/10.1109/SP.2010.30
   discovered_artifact: null
+  validated: false
 - title: 'TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software
     Vulnerability Detection.'
   authors:
@@ -246,6 +275,7 @@
   - Wei Zou
   page_link: https://doi.org/10.1109/SP.2010.37
   discovered_artifact: null
+  validated: false
 - title: A Practical Attack to De-anonymize Social Network Users.
   authors:
   - Gilbert Wondracek
@@ -254,3 +284,4 @@
   - Christopher Kruegel
   page_link: https://doi.org/10.1109/SP.2010.21
   discovered_artifact: null
+  validated: false

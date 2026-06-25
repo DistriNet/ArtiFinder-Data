@@ -7,6 +7,7 @@
   - Steven Hand 0001
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/akritidis.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Cross-Origin JavaScript Capability Leaks: Detection, Exploitation, and Defense.'
   authors:
   - Adam Barth
@@ -14,6 +15,7 @@
   - Dawn Song
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/barth.pdf
   discovered_artifact: null
+  validated: false
 - title: Protecting Confidential Data on Personal Computers with Storage Capsules.
   authors:
   - Kevin Borders
@@ -22,6 +24,7 @@
   - Atul Prakash 0001
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/borders.pdf
   discovered_artifact: null
+  validated: false
 - title: Memory Safety for Low-Level Software/Hardware Interactions.
   authors:
   - John Criswell
@@ -29,12 +32,14 @@
   - Vikram S. Adve
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/criswell.pdf
   discovered_artifact: null
+  validated: false
 - title: Efficient Data Structures For Tamper-Evident Logging.
   authors:
   - Scott A. Crosby
   - Dan S. Wallach
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/crosby.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Nemesis: Preventing Authentication &amp; Access Control Vulnerabilities
     in Web Applications.'
   authors:
@@ -43,6 +48,7 @@
   - Nickolai Zeldovich
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/dalton.pdf
   discovered_artifact: null
+  validated: false
 - title: Physical-layer Identification of RFID Devices.
   authors:
   - Boris Danev
@@ -50,6 +56,7 @@
   - Srdjan Capkun
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/danev.pdf
   discovered_artifact: null
+  validated: false
 - title: A Practical Congestion Attack on Tor Using Long Paths.
   authors:
   - Nathan S. Evans
@@ -57,6 +64,7 @@
   - Christian Grothoff
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/evans.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Vanish: Increasing Data Privacy with Self-Destructing Data.'
   authors:
   - Roxana Geambasu
@@ -65,6 +73,7 @@
   - Henry M. Levy
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/geambasu.pdf
   discovered_artifact: null
+  validated: false
 - title: 'GATEKEEPER: Mostly Static Enforcement of Security and Reliability Policies
     for JavaScript Code.'
   authors:
@@ -72,6 +81,7 @@
   - V. Benjamin Livshits
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/guarnieri.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Detecting Spammers with SNARE: Spatio-temporal Network-level Automatic Reputation
     Engine.'
   authors:
@@ -82,6 +92,7 @@
   - Sven Krasser
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/hao.pdf
   discovered_artifact: http://www.gtnoise.net/
+  validated: false
 - title: 'Return-Oriented Rootkits: Bypassing Kernel Code Integrity Protection Mechanisms.'
   authors:
   - Ralf Hund
@@ -89,6 +100,7 @@
   - Felix C. Freiling
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/hund.pdf
   discovered_artifact: null
+  validated: false
 - title: Effective and Efficient Malware Detection at the End Host.
   authors:
   - Clemens Kolbitsch
@@ -99,6 +111,7 @@
   - XiaoFeng Wang 0001
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/kolbitsch.pdf
   discovered_artifact: null
+  validated: false
 - title: Dynamic Test Generation to Find Integer Bugs in x86 Binary Linux Programs.
   authors:
   - David Molnar
@@ -106,6 +119,7 @@
   - David A. Wagner 0001
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/molnar.pdf
   discovered_artifact: null
+  validated: false
 - title: 'VPriv: Protecting Privacy in Location-Based Vehicular Services.'
   authors:
   - Raluca A. Popa
@@ -113,6 +127,7 @@
   - Andrew J. Blumberg
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/popa.pdf
   discovered_artifact: http://cartel.csail.mit.edu/#vpriv.2
+  validated: false
 - title: Jamming-resistant Broadcast Communication without Shared Keys.
   authors:
   - Christina Pöpper
@@ -120,6 +135,7 @@
   - Srdjan Capkun
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/popper.pdf
   discovered_artifact: null
+  validated: false
 - title: Locating Prefix Hijackers using LOCK.
   authors:
   - Tongqing Qiu
@@ -130,6 +146,7 @@
   - Hitesh Ballani
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/qiu.pdf
   discovered_artifact: null
+  validated: false
 - title: 'NOZZLE: A Defense Against Heap-spraying Code Injection Attacks.'
   authors:
   - Paruj Ratanaworabhan
@@ -137,12 +154,14 @@
   - Benjamin G. Zorn
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/ratanaworabhan.pdf
   discovered_artifact: null
+  validated: false
 - title: Static Enforcement of Web Application Integrity Through Strong Typing.
   authors:
   - William K. Robertson
   - Giovanni Vigna
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/robertson.pdf
   discovered_artifact: null
+  validated: false
 - title: 'CCCP: Secure Remote Storage for Computational RFIDs.'
   authors:
   - Mastooreh Salajegheh
@@ -152,6 +171,7 @@
   - Ari Juels
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/salajegheh.pdf
   discovered_artifact: null
+  validated: false
 - title: 'xBook: Redesigning Privacy Control in Social Networking Platforms.'
   authors:
   - Kapil Singh
@@ -159,6 +179,7 @@
   - Wenke Lee
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/singh.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Crying Wolf: An Empirical Study of SSL Warning Effectiveness.'
   authors:
   - Joshua Sunshine
@@ -168,12 +189,14 @@
   - Lorrie Faith Cranor
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/sunshine.pdf
   discovered_artifact: null
+  validated: false
 - title: Compromising Electromagnetic Emanations of Wired and Wireless Keyboards.
   authors:
   - Martin Vuagnoux
   - Sylvain Pasini
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/vuagnoux.pdf
   discovered_artifact: null
+  validated: false
 - title: The Multi-Principal OS Construction of the Gazelle Web Browser.
   authors:
   - Helen J. Wang
@@ -184,15 +207,18 @@
   - Herman Venter
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/wang.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Peeping Tom in the Neighborhood: Keystroke Eavesdropping on Multi-User Systems.'
   authors:
   - Kehuan Zhang
   - XiaoFeng Wang 0001
   page_link: http://www.usenix.org/events/sec09/tech/full_papers/zhang.pdf
   discovered_artifact: null
+  validated: false
 - title: A Practical Congestion Attack on Tor Using Long Paths.
   authors:
   - Joel Reardon
   - Ian Goldberg
   page_link: https://www.usenix.org/conference/usenixsecurity09/technical-sessions/presentation/improving-tor-using-tcp-over-dtls-tunnel
   discovered_artifact: null
+  validated: false

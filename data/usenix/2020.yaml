@@ -7,6 +7,7 @@
   - Matthias Hollick
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/ruge
   discovered_artifact: https://github.com/seemoo-lab/frankenstein
+  validated: false
 - title: 'You Are What You Broadcast: Identification of Mobile and IoT Devices from
     (Public) WiFi'
   authors:
@@ -17,6 +18,7 @@
   - Qingyun Liu 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/yu
   discovered_artifact: https://github.com/jamesdlow/open-airplay/
+  validated: false
 - title: Breaking Secure Pairing of Bluetooth Low Energy Using Downgrade Attacks
   authors:
   - Yue Zhang 0025
@@ -27,6 +29,7 @@
   - Xinwen Fu
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-yue
   discovered_artifact: null
+  validated: false
 - title: 'A Formal Analysis of IEEE 802.11''s WPA2: Countering the Kracks Caused by
     Cracking the Counters'
   authors:
@@ -35,6 +38,7 @@
   - Niklas Medinger
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/cremers
   discovered_artifact: https://cispa.saarland/group/cremers/tools/tamarin/WPA2/index.html
+  validated: false
 - title: 'Call Me Maybe: Eavesdropping Encrypted LTE Calls With ReVoLTE'
   authors:
   - David Rupprecht
@@ -43,6 +47,7 @@
   - Christina Pöpper
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/rupprecht
   discovered_artifact: null
+  validated: false
 - title: Empirical Measurement of Systemic 2FA Usability
   authors:
   - Joshua Reynolds
@@ -54,6 +59,7 @@
   - Serge Egelman
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/reynolds
   discovered_artifact: null
+  validated: false
 - title: 'The Impact of Ad-Blockers on Product Search and Purchase Behavior: A Lab
     Experiment'
   authors:
@@ -62,6 +68,7 @@
   - Alessandro Acquisti
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/frik
   discovered_artifact: null
+  validated: false
 - title: 'Understanding security mistakes developers make: Qualitative analysis from
     Build It, Break It, Fix It'
   authors:
@@ -73,6 +80,7 @@
   - Michael Hicks 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/votipka-understanding
   discovered_artifact: null
+  validated: false
 - title: A Comprehensive Quality Evaluation of Security and Privacy Advice on the
     Web
   authors:
@@ -86,12 +94,14 @@
   - Michelle L. Mazurek
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/redmiles
   discovered_artifact: null
+  validated: false
 - title: 'Symbolic execution with SymCC: Don''t interpret, compile!'
   authors:
   - Sebastian Poeplau
   - Aurélien Francillon
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/poeplau
   discovered_artifact: http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html
+  validated: false
 - title: 'What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions,
     and Ad Explanations Through Users'' Own Twitter Data'
   authors:
@@ -107,6 +117,7 @@
   - Blase Ur
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/wei
   discovered_artifact: null
+  validated: false
 - title: 'Everything Old is New Again: Binary Security of WebAssembly'
   authors:
   - Daniel Lehmann 0002
@@ -114,6 +125,7 @@
   - Michael Pradel
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann
   discovered_artifact: https://github.com/sola-st/wasm-binary-security
+  validated: false
 - title: 'Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code'
   authors:
   - Fraser Brown
@@ -121,6 +133,7 @@
   - Dawson R. Engler
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/brown
   discovered_artifact: null
+  validated: false
 - title: 'AURORA: Statistical Crash Analysis for Automated Root Cause Explanation'
   authors:
   - Tim Blazytko
@@ -132,6 +145,7 @@
   - Thorsten Holz
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/blazytko
   discovered_artifact: https://github.com/RUB-SysSec/aurora
+  validated: false
 - title: 'SmartVerif: Push the Limit of Automation Capability of Verifying Security
     Protocols by Dynamic Strategies'
   authors:
@@ -143,6 +157,7 @@
   - Hengyi Ouyang
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/xiong
   discovered_artifact: null
+  validated: false
 - title: 'BigMAC: Fine-Grained Policy Analysis of Android Firmware'
   authors:
   - Grant Hernandez
@@ -152,6 +167,7 @@
   - Kevin R. B. Butler
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/hernandez
   discovered_artifact: https://github.com/FICS/BigMAC
+  validated: false
 - title: From Needs to Actions to Secure Apps? The Effect of Requirements and Developer
     Practices on App Security
   authors:
@@ -160,6 +176,7 @@
   - Sascha Fahl
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/weir
   discovered_artifact: null
+  validated: false
 - title: 'FANS: Fuzzing Android Native System Services via Automated Interface Analysis'
   authors:
   - Baozheng Liu
@@ -170,6 +187,7 @@
   - Jianwei Zhuge
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/liu
   discovered_artifact: https://github.com/iromise/fans
+  validated: false
 - title: 'Chaperone: Real-time Locking and Loss Prevention for Smartphones'
   authors:
   - Jiayi Chen
@@ -178,12 +196,14 @@
   - Mohammad Mannan
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/chen-jiayi
   discovered_artifact: https://github.com/cryspuwaterloo/chaperone
+  validated: false
 - title: 'Towards HTTPS Everywhere on Android: We Are Not There Yet'
   authors:
   - Andrea Possemato
   - Yanick Fratantonio
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/possemato
   discovered_artifact: null
+  validated: false
 - title: 'Sunrise to Sunset: Analyzing the End-to-end Life Cycle and Effectiveness
     of Phishing Attacks at Scale'
   authors:
@@ -198,6 +218,7 @@
   - Gail-Joon Ahn
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/oest-sunrise
   discovered_artifact: null
+  validated: false
 - title: 'PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing
     Blacklists'
   authors:
@@ -210,6 +231,7 @@
   - Adam Doupé
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/oest-phishtime
   discovered_artifact: null
+  validated: false
 - title: Who's Calling? Characterizing Robocalls through Audio and Metadata Analysis
   authors:
   - Sathvik Prasad
@@ -218,6 +240,7 @@
   - Bradley Reaves
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/prasad
   discovered_artifact: null
+  validated: false
 - title: 'See No Evil: Phishing for Permissions with False Transparency'
   authors:
   - Güliz Seray Tuncay
@@ -225,6 +248,7 @@
   - Carl A. Gunter
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/tuncay
   discovered_artifact: null
+  validated: false
 - title: A different cup of TI? The added value of commercial threat intelligence
   authors:
   - Xander Bouwman
@@ -235,6 +259,7 @@
   - Michel van Eeten
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/bouwman
   discovered_artifact: null
+  validated: false
 - title: 'HybCache: Hybrid Side-Channel-Resilient Caches for Trusted Execution Environments'
   authors:
   - Ghada Dessouky
@@ -242,6 +267,7 @@
   - Ahmad-Reza Sadeghi
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/dessouky
   discovered_artifact: null
+  validated: false
 - title: 'CopyCat: Controlled Instruction-Level Attacks on Enclaves'
   authors:
   - Daniel Moghimi
@@ -251,6 +277,7 @@
   - Berk Sunar
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/moghimi-copycat
   discovered_artifact: https://github.com/SSGAalto/sgx-branch-shadowing-mitigation
+  validated: false
 - title: 'Civet: An Efficient Java Partitioning Framework for Hardware Enclaves'
   authors:
   - Chia-Che Tsai
@@ -261,6 +288,7 @@
   - Donald E. Porter
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/tsai
   discovered_artifact: null
+  validated: false
 - title: 'BesFS: A POSIX Filesystem for Enclaves with a Mechanized Safety Proof'
   authors:
   - Shweta Shinde
@@ -271,6 +299,7 @@
   - Prateek Saxena
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/shinde
   discovered_artifact: https://shwetasshinde24.github.io/BesFS/
+  validated: false
 - title: 'EPIC: Every Packet Is Checked in the Data Plane of a Path-Aware Internet'
   authors:
   - Markus Legner
@@ -280,6 +309,7 @@
   - Adrian Perrig
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/legner
   discovered_artifact: null
+  validated: false
 - title: 'ShadowMove: A Stealthy Lateral Movement Strategy'
   authors:
   - Amirreza Niakanlahiji
@@ -289,6 +319,7 @@
   - Bei-Tseng Chu
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/niakanlahiji
   discovered_artifact: null
+  validated: false
 - title: 'Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting DNS
     Forwarding Devices'
   authors:
@@ -304,6 +335,7 @@
   - Zhiyun Qian
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zheng
   discovered_artifact: null
+  validated: false
 - title: Programmable In-Network Security for Context-aware BYOD Policies
   authors:
   - Qiao Kang
@@ -314,6 +346,7 @@
   - Xiapu Luo
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/kang
   discovered_artifact: https://github.com/qiaokang92/poise
+  validated: false
 - title: A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email
   authors:
   - Hyeonmin Lee
@@ -323,6 +356,7 @@
   - Taejoong Chung
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/lee-hyeonmin
   discovered_artifact: https://dane-study.github.io
+  validated: false
 - title: 'NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities'
   authors:
   - Yehuda Afek
@@ -330,6 +364,7 @@
   - Lior Shafir
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/afek
   discovered_artifact: null
+  validated: false
 - title: 'Cached and Confused: Web Cache Deception in the Wild'
   authors:
   - Seyed Ali Mirheidari
@@ -340,12 +375,14 @@
   - William Robertson 0002
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/mirheidari
   discovered_artifact: null
+  validated: false
 - title: 'Shim Shimmeny: Evaluating the Security and Privacy Contributions of Link
     Shimming in the Modern Web'
   authors:
   - Frank Li 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/li-frank
   discovered_artifact: null
+  validated: false
 - title: 'A Tale of Two Headers: A Formal Analysis of Inconsistent Click-Jacking Protection
     on the Web'
   authors:
@@ -356,6 +393,7 @@
   - Ben Stock
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/calzavara
   discovered_artifact: https://github.com/cispa/framing-control-analytics
+  validated: false
 - title: Retrofitting Fine Grain Isolation in the Firefox Renderer
   authors:
   - Shravan Narayan
@@ -368,12 +406,14 @@
   - Deian Stefan
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/narayan
   discovered_artifact: https://jfkthame.github.io/test/udhr_urd.html
+  validated: false
 - title: Zero-delay Lightweight Defenses against Website Fingerprinting
   authors:
   - Jiajun Gong
   - Tao Wang 0012
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/gong
   discovered_artifact: https://github.com/websitefingerprinting/
+  validated: false
 - title: Achieving Keyless CDNs with Conclaves
   authors:
   - Stephen Herwig
@@ -381,6 +421,7 @@
   - Dave Levin
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/herwig
   discovered_artifact: https://phoenix.cs.umd.edu
+  validated: false
 - title: 'SENG, the SGX-Enforcing Network Gateway: Authorizing Communication from
     Shielded Clients'
   authors:
@@ -388,6 +429,7 @@
   - Christian Rossow
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/schwarz
   discovered_artifact: https://github.com/sengsgx/sengsgx
+  validated: false
 - title: 'APEX: A Verified Architecture for Proofs of Execution on Remote Devices
     under Full Software Compromise'
   authors:
@@ -397,6 +439,7 @@
   - Gene Tsudik
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/nunes
   discovered_artifact: https://github.com/sprout-uci/
+  validated: false
 - title: 'PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software Using
     Emulation'
   authors:
@@ -407,6 +450,7 @@
   - Michael Grace
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/harrison
   discovered_artifact: null
+  validated: false
 - title: 'PHMon: A Programmable Hardware Monitor and Its Security Use Cases'
   authors:
   - Leila Delshadtehrani
@@ -417,6 +461,7 @@
   - Manuel Egele
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/delshadtehrani
   discovered_artifact: https://github.com/bu-icsg/PHMon
+  validated: false
 - title: Horizontal Privilege Escalation in Trusted Applications
   authors:
   - Darius Suciu
@@ -425,6 +470,7 @@
   - Radu Sion
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/suciu
   discovered_artifact: null
+  validated: false
 - title: 'TeeRex: Discovery and Exploitation of Memory Corruption Vulnerabilities
     in SGX Enclaves'
   authors:
@@ -433,6 +479,7 @@
   - Lucas Davi
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/cloosters
   discovered_artifact: null
+  validated: false
 - title: Stealthy Tracking of Autonomous Vehicles with Cache Side Channels
   authors:
   - Mulong Luo
@@ -440,6 +487,7 @@
   - G. Edward Suh
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/luo
   discovered_artifact: null
+  validated: false
 - title: 'Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box
     Adversarial Sensor Attack and Countermeasures'
   authors:
@@ -449,6 +497,7 @@
   - Z. Morley Mao
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/sun
   discovered_artifact: null
+  validated: false
 - title: 'SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants'
   authors:
   - Raul Quinonez
@@ -459,6 +508,7 @@
   - Zhiqiang Lin 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/quinonez
   discovered_artifact: https://github.com/Cyphysecurity/SAVIOR.git
+  validated: false
 - title: 'Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as
     A New Over-the-Air Attack Surface in Automotive IoT'
   authors:
@@ -467,6 +517,7 @@
   - Zhiqiang Lin 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/wen
   discovered_artifact: https://github.com/OSUSecLab/DongleScope
+  validated: false
 - title: 'From Control Model to Program: Investigating Robotic Aerial Vehicle Accidents
     with MAYDAY'
   authors:
@@ -481,6 +532,7 @@
   - Dongyan Xu
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/kim
   discovered_artifact: null
+  validated: false
 - title: 'Drift with Devil: Security of Multi-Sensor Fusion based Localization in
     High-Level Autonomous Driving under GPS Spoofing'
   authors:
@@ -490,6 +542,7 @@
   - Qi Alfred Chen
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/shen
   discovered_artifact: null
+  validated: false
 - title: 'PCKV: Locally Differentially Private Correlated Key-Value Data Collection
     with Optimized Utility'
   authors:
@@ -500,6 +553,7 @@
   - Yang Cao 0011
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/gu
   discovered_artifact: null
+  validated: false
 - title: 'Walking Onions: Scaling Anonymity Networks while Protecting Users'
   authors:
   - Chelsea Komlo
@@ -507,6 +561,7 @@
   - Ian Goldberg
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/komlo
   discovered_artifact: https://git-crysp.uwaterloo.ca/iang/walkingonions
+  validated: false
 - title: 'Actions Speak Louder than Words: Entity-Sensitive Privacy Policy and Data
     Flow Analysis with PoliCheck'
   authors:
@@ -519,6 +574,7 @@
   - Serge Egelman
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/andow
   discovered_artifact: null
+  validated: false
 - title: 'Visor: Privacy-Preserving Video Analytics as a Cloud Service'
   authors:
   - Rishabh Poddar
@@ -528,12 +584,14 @@
   - Raluca Ada Popa
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/poddar
   discovered_artifact: null
+  validated: false
 - title: Datalog Disassembly
   authors:
   - Antonio Flores-Montoya
   - Eric M. Schulte
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/flores-montoya
   discovered_artifact: https://github.com/GrammaTech/ddisasm
+  validated: false
 - title: 'DELF: Safeguarding deletion correctness in Online Social Networks'
   authors:
   - Katriel Cohn-Gordon
@@ -548,6 +606,7 @@
   - Available Media
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/cohn-gordon
   discovered_artifact: null
+  validated: false
 - title: 'KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write
     Vulnerabilities'
   authors:
@@ -557,6 +616,7 @@
   - Zhiyun Qian
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/chen-weiteng
   discovered_artifact: https://github.com/seclab-ucr/KOOBE
+  validated: false
 - title: Automatic Techniques to Systematically Discover New Heap Exploitation Primitives
   authors:
   - Insu Yun
@@ -564,6 +624,7 @@
   - Taesoo Kim
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/yun
   discovered_artifact: https://github.com/sslab-gatech/ArcHeap
+  validated: false
 - title: The Industrial Age of Hacking
   authors:
   - Timothy Nosco
@@ -575,6 +636,7 @@
   - W. Michael Petullo
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/nosco
   discovered_artifact: null
+  validated: false
 - title: 'BScout: Direct Whole Patch Presence Test for Java Executables'
   authors:
   - Jiarun Dai
@@ -589,6 +651,7 @@
   - Zhemin Yang
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/dai
   discovered_artifact: null
+  validated: false
 - title: 'MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures'
   authors:
   - Yang Xiao 0011
@@ -604,6 +667,7 @@
   - Wenchang Shi
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/xiao
   discovered_artifact: null
+  validated: false
 - title: 'Shattered Chain of Trust: Understanding Security Risks in Cross-Cloud IoT
     Access Delegation'
   authors:
@@ -617,6 +681,7 @@
   - Yuqing Zhang 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/yuan
   discovered_artifact: https://sites.google.com/view/shattered-chain-of-trust-under/
+  validated: false
 - title: 'HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation'
   authors:
   - Abraham A. Clements
@@ -630,6 +695,7 @@
   - Mathias Payer
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/clements
   discovered_artifact: https://github.com/ucsb-seclab/hal-fuzz
+  validated: false
 - title: 'Silhouette: Efficient Protected Shadow Stacks for Embedded Systems'
   authors:
   - Jie Zhou 0022
@@ -640,6 +706,7 @@
   - Robert J. Walls
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-jie
   discovered_artifact: https://github.com/URSec/Silhouette
+  validated: false
 - title: 'P2IM: Scalable and Hardware-independent Firmware Testing via Automatic Peripheral
     Interface Modeling'
   authors:
@@ -648,6 +715,7 @@
   - Long Lu
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/feng
   discovered_artifact: null
+  validated: false
 - title: 'COUNTERFOIL: Verifying Provenance of Integrated Circuits using Intrinsic
     Package Fingerprints and Inexpensive Cameras'
   authors:
@@ -656,12 +724,14 @@
   - Daniel E. Holcomb
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/dhanuskodi
   discovered_artifact: https://en.oxforddictionaries.com/definition/counterfoil
+  validated: false
 - title: 'Hall Spoofing: A Non-Invasive DoS Attack on Grid-Tied Solar Inverter'
   authors:
   - Anomadarshi Barua
   - Mohammad Abdullah Al Faruque
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/barua
   discovered_artifact: https://sites.google.com/view/usenix-spoofing/home
+  validated: false
 - title: 'Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning'
   authors:
   - Ahmed Salem 0001
@@ -671,6 +741,7 @@
   - Yang Zhang 0016
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/salem
   discovered_artifact: null
+  validated: false
 - title: Exploring Connections Between Active Learning and Model Extraction
   authors:
   - Varun Chandrasekaran
@@ -680,6 +751,7 @@
   - Songbai Yan
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/chandrasekaran
   discovered_artifact: null
+  validated: false
 - title: 'Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited
     Queries'
   authors:
@@ -689,6 +761,7 @@
   - Yuan Tian 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/suya
   discovered_artifact: https://github.com/suyeecav/Hybrid-Attack
+  validated: false
 - title: High Accuracy and High Fidelity Extraction of Neural Networks
   authors:
   - Matthew Jagielski
@@ -698,6 +771,7 @@
   - Nicolas Papernot
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/jagielski
   discovered_artifact: null
+  validated: false
 - title: 'Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks
     in Machine Learning'
   authors:
@@ -708,6 +782,7 @@
   - Konrad Rieck
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/quiring
   discovered_artifact: http://scaling-attacks.net
+  validated: false
 - title: 'TextShield: Robust Text Classification Based on Multimodal Embedding and
     Neural Machine Translation'
   authors:
@@ -720,12 +795,14 @@
   - Ting Wang 0006
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/li-jinfeng
   discovered_artifact: null
+  validated: false
 - title: 'Data Recovery from "Scrubbed" NAND Flash Storage: Need for Analog Sanitization'
   authors:
   - Md. Mehedi Hasan
   - Biswajit Ray
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/hasan
   discovered_artifact: null
+  validated: false
 - title: 'PKU Pitfalls: Attacks on PKU-based Memory Isolation Systems'
   authors:
   - R. Joseph Connor
@@ -734,6 +811,7 @@
   - Max Schuchard
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/connor
   discovered_artifact: https://github.com/SELinuxProject
+  validated: false
 - title: 'V0LTpwn: Attacking x86 Processor Integrity from Software'
   authors:
   - Zijo Kenjar
@@ -743,6 +821,7 @@
   - Ahmad-Reza Sadeghi
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/kenjar
   discovered_artifact: null
+  validated: false
 - title: 'Medusa: Microarchitectural Data Leakage via Automated Attack Synthesis'
   authors:
   - Daniel Moghimi
@@ -751,6 +830,7 @@
   - Michael Schwarz 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/moghimi-medusa
   discovered_artifact: https://github.com/vernamlab/Medusa
+  validated: false
 - title: 'DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted
     Chain of Bit Flips'
   authors:
@@ -759,6 +839,7 @@
   - Deliang Fan
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/yao
   discovered_artifact: null
+  validated: false
 - title: 'SpecFuzz: Bringing Spectre-type vulnerabilities to the surface'
   authors:
   - Oleksii Oleksenko
@@ -767,6 +848,7 @@
   - Christof Fetzer
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/oleksenko
   discovered_artifact: https://github.com/tudinfse/SpecFuzz
+  validated: false
 - title: Security Analysis of Unified Payments Interface and Payment Apps in India
   authors:
   - Renuka Kumar
@@ -775,6 +857,7 @@
   - Atul Prakash 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/kumar
   discovered_artifact: null
+  validated: false
 - title: 'Cardpliance: PCI DSS Compliance of Android Applications'
   authors:
   - Samin Yaseer Mahmud
@@ -784,6 +867,7 @@
   - Bradley Reaves
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/mahmud
   discovered_artifact: https://github.com/wspr-ncsu/cardpliance
+  validated: false
 - title: 'The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz,
     the First Internet Voting Application Used in U.S. Federal Elections'
   authors:
@@ -792,6 +876,7 @@
   - Daniel J. Weitzner
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/specter
   discovered_artifact: null
+  validated: false
 - title: 'VoteAgain: A scalable coercion-resistant voting system'
   authors:
   - Wouter Lueks
@@ -799,6 +884,7 @@
   - Carmela Troncoso
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/lueks
   discovered_artifact: https://github.com/spring-epfl/voteagain
+  validated: false
 - title: 'Boxer: Preventing fraud by scanning credit cards'
   authors:
   - Zain ul Abi Din
@@ -812,6 +898,7 @@
   - Samuel T. King
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/din
   discovered_artifact: null
+  validated: false
 - title: 'Fawkes: Protecting Privacy against Unauthorized Deep Learning Models'
   authors:
   - Shawn Shan
@@ -822,6 +909,7 @@
   - Ben Y. Zhao
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/shan
   discovered_artifact: null
+  validated: false
 - title: 'Stolen Memories: Leveraging Model Memorization for Calibrated White-Box
     Membership Inference'
   authors:
@@ -829,6 +917,7 @@
   - Matt Fredrikson
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/leino
   discovered_artifact: null
+  validated: false
 - title: Local Model Poisoning Attacks to Byzantine-Robust Federated Learning
   authors:
   - Minghong Fang
@@ -837,6 +926,7 @@
   - Neil Zhenqiang Gong
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/fang
   discovered_artifact: null
+  validated: false
 - title: 'Justinian''s GAAvernor: Robust Distributed Learning with Gradient Aggregation
     Agent'
   authors:
@@ -848,6 +938,7 @@
   - Min Yang 0002
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/pan
   discovered_artifact: https://bit.ly/2wjR2bb
+  validated: false
 - title: Interpretable Deep Learning under Fire
   authors:
   - Xinyang Zhang 0001
@@ -858,6 +949,7 @@
   - Ting Wang 0006
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-xinyang
   discovered_artifact: https://github.com/ngessert/isic2018
+  validated: false
 - title: 'Donky: Domain Keys - Efficient In-Process Isolation for RISC-V and x86'
   authors:
   - David Schrammel
@@ -869,6 +961,7 @@
   - Daniel Gruss
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/schrammel
   discovered_artifact: https://github.com/IAIK/Donky
+  validated: false
 - title: (Mostly) Exitless VM Protection from Untrusted Hypervisor through Disaggregated
     Nested Virtualization
   authors:
@@ -879,6 +972,7 @@
   - Haibing Guan
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/mi
   discovered_artifact: null
+  validated: false
 - title: 'DECAF: Automatic, Adaptive De-bloating and Hardening of COTS Firmware'
   authors:
   - Jake Christensen
@@ -888,6 +982,7 @@
   - Radu Sion
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/christensen
   discovered_artifact: null
+  validated: false
 - title: Temporal System Call Specialization for Attack Surface Reduction
   authors:
   - Seyedhamed Ghavamnia
@@ -896,12 +991,14 @@
   - Michalis Polychronakis
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/ghavamnia
   discovered_artifact: https://github.com/shamedgh/temporal-specialization
+  validated: false
 - title: 'McTiny: Fast High-Confidence Post-Quantum Key Erasure for Tiny Network Servers'
   authors:
   - Daniel J. Bernstein
   - Tanja Lange 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/bernstein
   discovered_artifact: https://mctiny.org
+  validated: false
 - title: 'Big Numbers - Big Troubles: Systematically Analyzing Nonce Leakage in (EC)DSA
     Implementations'
   authors:
@@ -911,11 +1008,13 @@
   - Raphael Spreitzer
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/weiser
   discovered_artifact: https://github.com/Fraunhofer-AISEC/DATA
+  validated: false
 - title: 'Estonian Electronic Identity Card: Security Flaws in Key Management'
   authors:
   - Arnis Parsovs
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/parsovs
   discovered_artifact: null
+  validated: false
 - title: 'The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx
     7-Series FPGAs'
   authors:
@@ -924,6 +1023,7 @@
   - Christof Paar
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/ender
   discovered_artifact: null
+  validated: false
 - title: Automating the Development of Chosen Ciphertext Attacks
   authors:
   - Gabrielle Beck
@@ -931,6 +1031,7 @@
   - Matthew Green 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/beck
   discovered_artifact: null
+  validated: false
 - title: 'SHA-1 is a Shambles: First Chosen-Prefix Collision on SHA-1 and Application
     to the PGP Web of Trust'
   authors:
@@ -938,6 +1039,7 @@
   - Thomas Peyrin
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/leurent
   discovered_artifact: https://github.com/SHA-mbles/sha1-cp
+  validated: false
 - title: 'A Spectral Analysis of Noise: A Comprehensive, Automated, Formal Analysis
     of Diffie-Hellman Protocols'
   authors:
@@ -949,6 +1051,7 @@
   - David A. Basin
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/girol
   discovered_artifact: https://github.com/symphorien/
+  validated: false
 - title: An Observational Investigation of Reverse Engineers' Processes
   authors:
   - Daniel Votipka
@@ -958,6 +1061,7 @@
   - Michelle L. Mazurek
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/votipka-observational
   discovered_artifact: null
+  validated: false
 - title: 'The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis
     of Online Infidelity Forums'
   authors:
@@ -971,6 +1075,7 @@
   - Thomas Ristenpart
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/tseng
   discovered_artifact: https://www.ipvtechresearch.org
+  validated: false
 - title: 'DatashareNetwork: A Decentralized Privacy-Preserving Search Engine for Investigative
     Journalists'
   authors:
@@ -984,6 +1089,7 @@
   - Carmela Troncoso
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/edalatnejad
   discovered_artifact: https://github.com/spring-epfl/datashare-network-crypto
+  validated: false
 - title: '"I am uncomfortable sharing what I can''t see": Privacy Concerns of the
     Visually Impaired with Camera Based Assistive Applications'
   authors:
@@ -994,6 +1100,7 @@
   - Bryan C. Semaan
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/akter
   discovered_artifact: null
+  validated: false
 - title: '''I have too much respect for my elders'': Understanding South African Mobile
     Users'' Perceptions of Privacy and Current Behaviors on Facebook and WhatsApp'
   authors:
@@ -1005,6 +1112,7 @@
   - Marshini Chetty
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/reichel
   discovered_artifact: null
+  validated: false
 - title: 'RELOAD+REFRESH: Abusing Cache Replacement Policies to Perform Stealthy Cache
     Attacks'
   authors:
@@ -1014,6 +1122,7 @@
   - Thomas Eisenbarth 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/briongos
   discovered_artifact: https://github.com/greenlsi/reload_refresh
+  validated: false
 - title: 'Timeless Timing Attacks: Exploiting Concurrency to Leak Secrets over Remote
     Connections'
   authors:
@@ -1023,6 +1132,7 @@
   - Mathy Vanhoef
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/van-goethem
   discovered_artifact: https://github.com/vanhoefm/modwifi
+  validated: false
 - title: 'Cache Telepathy: Leveraging Shared Resource Attacks to Learn DNN Architectures'
   authors:
   - Mengjia Yan 0001
@@ -1030,6 +1140,7 @@
   - Josep Torrellas
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/yan
   discovered_artifact: null
+  validated: false
 - title: 'NetWarden: Mitigating Network Covert Channels while Preserving Performance'
   authors:
   - Jiarong Xing
@@ -1037,6 +1148,7 @@
   - Ang Chen 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/xing
   discovered_artifact: https://github.com/jiarong0907/NetWarden
+  validated: false
 - title: Certified Side Channels
   authors:
   - Cesar Pereida García
@@ -1047,6 +1159,7 @@
   - Billy Bob Brumley
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/garcia
   discovered_artifact: https://doi.org/10.5281/zenodo.3736311
+  validated: false
 - title: 'TPM-FAIL: TPM meets Timing and Lattice Attacks'
   authors:
   - Daniel Moghimi
@@ -1055,6 +1168,7 @@
   - Nadia Heninger
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/moghimi-tpm
   discovered_artifact: https://github.com/VernamLab/TPM-Fail
+  validated: false
 - title: Scaling Verifiable Computation Using Efficient Set Accumulators
   authors:
   - Alex Ozdemir
@@ -1063,6 +1177,7 @@
   - Dan Boneh
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/ozdemir
   discovered_artifact: null
+  validated: false
 - title: 'SANNS: Scaling Up Secure Approximate k-Nearest Neighbors Search'
   authors:
   - Hao Chen 0030
@@ -1073,6 +1188,7 @@
   - M. Sadegh Riazi
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao
   discovered_artifact: null
+  validated: false
 - title: 'MIRAGE: Succinct Arguments for Randomized Algorithms with Applications to
     Universal zk-SNARKs'
   authors:
@@ -1082,6 +1198,7 @@
   - Dawn Song
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/kosba
   discovered_artifact: null
+  validated: false
 - title: 'Pixel: Multi-signatures for Consensus'
   authors:
   - Manu Drijvers
@@ -1090,12 +1207,14 @@
   - Hoeteck Wee
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/drijvers
   discovered_artifact: https://github.com/algorand/pixel
+  validated: false
 - title: Secure Multi-party Computation of Differentially Private Median
   authors:
   - Jonas Böhler
   - Florian Kerschbaum
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/boehler
   discovered_artifact: null
+  validated: false
 - title: 'Composition Kills: A Case Study of Email Sender Authentication'
   authors:
   - Jianjun Chen 0005
@@ -1103,12 +1222,14 @@
   - Jian Jiang 0002
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/chen-jianjun
   discovered_artifact: https://github.com/chenjj/espoofer
+  validated: false
 - title: Detecting Stuffing of a User's Credentials at Her Own Accounts
   authors:
   - Ke Coby Wang
   - Michael K. Reiter
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/wang
   discovered_artifact: null
+  validated: false
 - title: 'That Was Then, This Is Now: A Security Evaluation of Password Generation,
     Storage, and Autofill in Browser-Based Password Managers'
   authors:
@@ -1116,6 +1237,7 @@
   - Scott Ruoti
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/oesch
   discovered_artifact: https://userlab.utk.edu/papers/oesch2020that
+  validated: false
 - title: 'Liveness is Not Enough: Enhancing Fingerprint Authentication with Behavioral
     Biometrics to Defeat Puppet Attacks'
   authors:
@@ -1126,6 +1248,7 @@
   - Ruiying Du
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/wu
   discovered_artifact: null
+  validated: false
 - title: Human Distinguishable Visual Key Fingerprints
   authors:
   - Mozhgan Azimpourkivi
@@ -1133,6 +1256,7 @@
   - Bogdan Carbunar
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/azimpourkivi
   discovered_artifact: null
+  validated: false
 - title: 'FuzzGen: Automatic Fuzzer Generation'
   authors:
   - Kyriakos K. Ispoglou
@@ -1141,6 +1265,7 @@
   - Mathias Payer
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/ispoglou
   discovered_artifact: https://github.com/HexHive/FuzzGen
+  validated: false
 - title: 'FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing
     through Deep Learning'
   authors:
@@ -1152,6 +1277,7 @@
   - Kai Chen 0012
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zong
   discovered_artifact: https://github.com/zongpy/FuzzGuard
+  validated: false
 - title: 'ParmeSan: Sanitizer-guided Greybox Fuzzing'
   authors:
   - Sebastian Österlund
@@ -1160,6 +1286,7 @@
   - Cristiano Giuffrida
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/osterlund
   discovered_artifact: https://github.com/vusec/parmesan
+  validated: false
 - title: 'EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial
     Multi-Armed Bandit'
   authors:
@@ -1172,6 +1299,7 @@
   - Xu Zhou 0004
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/yue
   discovered_artifact: https://github.com/MoonLight-SteinsGate/EcoFuzz
+  validated: false
 - title: 'MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded
     Programs'
   authors:
@@ -1185,6 +1313,7 @@
   - Yang Liu 0003
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hongxu
   discovered_artifact: https://github.com/Lawliar/ConAFL
+  validated: false
 - title: On Training Robust PDF Malware Classifiers
   authors:
   - Yizheng Chen 0001
@@ -1193,6 +1322,7 @@
   - Suman Jana
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/chen-yizheng
   discovered_artifact: https://github.com/surrealyz/pdfclassifier
+  validated: false
 - title: Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines
   authors:
   - Shuofei Zhu
@@ -1204,6 +1334,7 @@
   - Gang Wang 0011
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zhu
   discovered_artifact: https://sfzhu93.github.io/projects/vt/index.html
+  validated: false
 - title: 'FIRMSCOPE: Automatic Uncovering of Privilege-Escalation Vulnerabilities
     in Pre-Installed Apps in Android Firmware'
   authors:
@@ -1215,6 +1346,7 @@
   - Zhiqiang Lin 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/elsabagh
   discovered_artifact: null
+  validated: false
 - title: Automatic Hot Patch Generation for Android Kernels
   authors:
   - Zhengzi Xu
@@ -1226,6 +1358,7 @@
   - Yang Liu 0003
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/xu
   discovered_artifact: https://sites.google.com/view/usenix-auto-patch-paper
+  validated: false
 - title: 'iOS, Your OS, Everybody''s OS: Vetting and Analyzing Network Services of
     iOS Applications'
   authors:
@@ -1239,6 +1372,7 @@
   - Haojin Zhu
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/tang
   discovered_artifact: https://github.com/pwnzen-mobile
+  validated: false
 - title: 'SEAL: Attack Mitigation for Encrypted Databases via Adjustable Leakage'
   authors:
   - Ioannis Demertzis
@@ -1247,6 +1381,7 @@
   - Saurabh Shintre
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/demertzis
   discovered_artifact: null
+  validated: false
 - title: 'Pancake: Frequency Smoothing for Encrypted Data Stores'
   authors:
   - Paul Grubbs
@@ -1258,6 +1393,7 @@
   - Thomas Ristenpart
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/grubbs
   discovered_artifact: https://github.com/pancake-security
+  validated: false
 - title: 'Droplet: Decentralized Authorization and Access Control for Encrypted Data
     Streams'
   authors:
@@ -1267,6 +1403,7 @@
   - Anwar Hithnawi
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/shafagh
   discovered_artifact: https://dropletchain.github.io/
+  validated: false
 - title: Secure parallel computation on national scale volumes of data
   authors:
   - Sahar Mazloom
@@ -1275,6 +1412,7 @@
   - S. Dov Gordon
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/mazloom
   discovered_artifact: https://github.com/sama730/National-Scale-Secure-Parallel-Computation
+  validated: false
 - title: 'Delphi: A Cryptographic Inference Service for Neural Networks'
   authors:
   - Pratyush Mishra
@@ -1284,6 +1422,7 @@
   - Raluca Ada Popa
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/mishra
   discovered_artifact: https://github.com/chiraag/gazelle_mpc
+  validated: false
 - title: Analysis of DTLS Implementations Using Protocol State Fuzzing
   authors:
   - Paul Fiterau-Brostean
@@ -1294,6 +1433,7 @@
   - Juraj Somorovsky
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/fiter%C4%83u-bro%C5%9Ftean
   discovered_artifact: https://github.com/assist-project/dtls-fuzzer/
+  validated: false
 - title: 'Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine
     Checkpoints'
   authors:
@@ -1305,12 +1445,14 @@
   - Michael Franz
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/song
   discovered_artifact: https://github.com/securesystemslab/agamotto
+  validated: false
 - title: 'USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation'
   authors:
   - Hui Peng
   - Mathias Payer
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/peng
   discovered_artifact: https://github.com/HexHive/USBFuzz
+  validated: false
 - title: 'GREYONE: Data Flow Sensitive Fuzzing'
   authors:
   - Shuitao Gan
@@ -1322,6 +1464,7 @@
   - Zuoning Chen
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/gan
   discovered_artifact: null
+  validated: false
 - title: 'Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer'
   authors:
   - Suyoung Lee
@@ -1330,6 +1473,7 @@
   - Sooel Son
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/lee-suyoung
   discovered_artifact: https://github.com/WSP-LAB/Montage
+  validated: false
 - title: Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection
   authors:
   - Zu-Ming Jiang
@@ -1338,6 +1482,7 @@
   - Shi-Min Hu 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/jiang
   discovered_artifact: null
+  validated: false
 - title: 'Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable
     Systems'
   authors:
@@ -1348,6 +1493,7 @@
   - Kevin Fu
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/sugawara
   discovered_artifact: null
+  validated: false
 - title: 'SkillExplorer: Understanding the Behavior of Skills in Large Scale'
   authors:
   - Zhixiu Guo
@@ -1356,6 +1502,7 @@
   - Kai Chen 0012
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/guo
   discovered_artifact: null
+  validated: false
 - title: 'Devil''s Whisper: A General Approach for Physical Adversarial Attacks against
     Commercial Black-box Speech Recognition Devices'
   authors:
@@ -1368,6 +1515,7 @@
   - XiaoFeng Wang 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/chen-yuxuan
   discovered_artifact: https://github.com/RiskySignal/Devil-Whisper-Attack
+  validated: false
 - title: 'Void: A fast and light voice liveness detection system'
   authors:
   - Muhammad Ejaz Ahmed
@@ -1378,6 +1526,7 @@
   - Hyoungshick Kim
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/ahmed-muhammad
   discovered_artifact: https://keithito.com/LJ-Speech-Dataset/
+  validated: false
 - title: 'Preech: A System for Privacy-Preserving Speech Transcription'
   authors:
   - Shimaa Ahmed
@@ -1386,6 +1535,7 @@
   - Parmesh Ramanathan
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/ahmed-shimaa
   discovered_artifact: https://bit.ly/2Vytbx7
+  validated: false
 - title: 'BlockSci: Design and applications of a blockchain analysis platform'
   authors:
   - Harry A. Kalodner
@@ -1397,6 +1547,7 @@
   - Arvind Narayanan
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/kalodner
   discovered_artifact: https://citp.github.io/BlockSci/studies/
+  validated: false
 - title: Remote Side-Channel Attacks on Anonymous Transactions
   authors:
   - Florian Tramèr
@@ -1404,6 +1555,7 @@
   - Kenny Paterson
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/tramer
   discovered_artifact: null
+  validated: false
 - title: 'ETHBMC: A Bounded Model Checker for Smart Contracts'
   authors:
   - Joel Frank
@@ -1411,6 +1563,7 @@
   - Thorsten Holz
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/frank
   discovered_artifact: https://github.com/RUB-SysSec/EthBMC
+  validated: false
 - title: 'TXSPECTOR: Uncovering Attacks in Ethereum from Transactions'
   authors:
   - Mengya Zhang
@@ -1419,6 +1572,7 @@
   - Zhiqiang Lin 0001
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-mengya
   discovered_artifact: https://github.com/OSUSecLab/TxSpector
+  validated: false
 - title: 'An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in
     Ethereum Ecosystem'
   authors:
@@ -1430,6 +1584,7 @@
   - Yuan Zhang 0009
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-shunfan
   discovered_artifact: null
+  validated: false
 - title: An Off-Chip Attack on Hardware Enclaves via the Memory Bus
   authors:
   - Dayeol Lee
@@ -1437,6 +1592,7 @@
   - Ian T. Fang
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/lee-dayeol
   discovered_artifact: null
+  validated: false
 - title: Differentially-Private Control-Flow Node Coverage for Software Usage Analysis
   authors:
   - Hailon Zhang
@@ -1445,3 +1601,4 @@
   - Atanas Rountev
   page_link: https://www.usenix.org/conference/usenixsecurity20/presentation/zhang-hailong
   discovered_artifact: null
+  validated: false

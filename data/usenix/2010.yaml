@@ -6,11 +6,13 @@
   - Dan Boneh
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Aggarwal.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Cling: A Memory Allocator to Mitigate Dangling Pointers.'
   authors:
   - Periklis Akritidis
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Akritidis.pdf
   discovered_artifact: null
+  validated: false
 - title: Building a Dynamic Reputation System for DNS.
   authors:
   - Manos Antonakakis
@@ -20,6 +22,7 @@
   - Nick Feamster
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Antonakakis.pdf
   discovered_artifact: null
+  validated: false
 - title: Acoustic Side-Channel Attacks on Printers.
   authors:
   - Michael Backes 0001
@@ -29,6 +32,7 @@
   - Caroline Sporleder
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Backes.pdf
   discovered_artifact: null
+  validated: false
 - title: 'PrETP: Privacy-Preserving Electronic Toll Pricing.'
   authors:
   - Josep Balasch
@@ -39,6 +43,7 @@
   - Christophe Geuens
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Balasch.pdf
   discovered_artifact: null
+  validated: false
 - title: 'VEX: Vetting Browser Extensions for Security Vulnerabilities.'
   authors:
   - Sruthi Bandhakavi
@@ -47,6 +52,7 @@
   - Marianne Winslett
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Bandhakavi.pdf
   discovered_artifact: null
+  validated: false
 - title: The Case for Ubiquitous Transport-Level Encryption.
   authors:
   - Andrea Bittau
@@ -56,6 +62,7 @@
   - Dan Boneh
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Bittau.pdf
   discovered_artifact: null
+  validated: false
 - title: 'SEPIA: Privacy-Preserving Aggregation of Multi-Domain Network Events and
     Statistics.'
   authors:
@@ -65,6 +72,7 @@
   - Xenofontas A. Dimitropoulos
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Burkhart.pdf
   discovered_artifact: http://www.sepia.ee.ethz.ch
+  validated: false
 - title: Chipping Away at Censorship Firewalls with User-Generated Content.
   authors:
   - Sam Burnett
@@ -72,6 +80,7 @@
   - Santosh S. Vempala
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Burnett.pdf
   discovered_artifact: http://www.gtnoise.net/collage/
+  validated: false
 - title: 'Scantegrity II Municipal Election at Takoma Park: The First E2E Binding
     Governmental Election with Ballot Privacy.'
   authors:
@@ -89,6 +98,7 @@
   - Poorvi L. Vora
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Carback.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Baaz: A System for Detecting Access Control Misconfigurations.'
   authors:
   - Tathagata Das
@@ -96,12 +106,14 @@
   - Prasad Naldurg
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Das.pdf
   discovered_artifact: null
+  validated: false
 - title: Securing Script-Based Extensibility in Web Browsers.
   authors:
   - Vladan Djeric
   - Ashvin Goel
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Djeric.pdf
   discovered_artifact: null
+  validated: false
 - title: 'P4P: Practical Large-Scale Privacy-Preserving Distributed Computation Robust
     against Malicious Users.'
   authors:
@@ -111,6 +123,7 @@
   - Justin Z. Zhan
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Duan.pdf
   discovered_artifact: null
+  validated: false
 - title: Idle Port Scanning and Non-interference Analysis of Network Protocol Stacks
     Using Model Checking.
   authors:
@@ -120,6 +133,7 @@
   - Jedidiah R. Crandall
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Ensafi.pdf
   discovered_artifact: null
+  validated: false
 - title: Toward Automated Detection of Logic Vulnerabilities in Web Applications.
   authors:
   - Viktoria Felmetsger
@@ -128,6 +142,7 @@
   - Giovanni Vigna
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Felmetsger.pdf
   discovered_artifact: null
+  validated: false
 - title: Dude, Where&apos;s That IP? Circumventing Measurement-based IP Geolocation.
   authors:
   - Phillipa Gill
@@ -136,12 +151,14 @@
   - David Lie
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Gill.pdf
   discovered_artifact: null
+  validated: false
 - title: Fighting Coercion Attacks in Key Generation using Skin Conductance.
   authors:
   - Payas Gupta
   - Debin Gao
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Gupta.pdf
   discovered_artifact: null
+  validated: false
 - title: Searching the Searchers with SearchAudit.
   authors:
   - John P. John
@@ -151,12 +168,14 @@
   - Arvind Krishnamurthy
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/John.pdf
   discovered_artifact: null
+  validated: false
 - title: Making Linux Protection Mechanisms Egalitarian with UserFS.
   authors:
   - Taesoo Kim
   - Nickolai Zeldovich
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Kim.pdf
   discovered_artifact: null
+  validated: false
 - title: 'AdJail: Practical Enforcement of Confidentiality and Integrity Policies
     on Web Advertisements.'
   authors:
@@ -165,12 +184,14 @@
   - V. N. Venkatakrishnan
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/TerLouw.pdf
   discovered_artifact: null
+  validated: false
 - title: Structuring Protocol Implementations to Protect Sensitive Data.
   authors:
   - Petr Marchenko
   - Brad Karp
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Marchenko.pdf
   discovered_artifact: null
+  validated: false
 - title: 'ZKPDL: A Language-Based System for Efficient Zero-Knowledge Proofs and Electronic
     Cash.'
   authors:
@@ -181,6 +202,7 @@
   - Anna Lysyanskaya
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Meiklejohn.pdf
   discovered_artifact: http://github.com/brownie/cashlib
+  validated: false
 - title: Fast Regular Expression Matching Using Small TCAMs for Network Intrusion
     Detection and Prevention Systems.
   authors:
@@ -191,6 +213,7 @@
   - Alex X. Liu
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Meiners.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Re: CAPTCHAs-Understanding CAPTCHA-Solving Services in an Economic Context.'
   authors:
   - Marti Motoyama
@@ -201,6 +224,7 @@
   - Stefan Savage
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Motoyama.pdf
   discovered_artifact: null
+  validated: false
 - title: 'BotGrep: Finding P2P Bots with Structured Graph Analysis.'
   authors:
   - Shishir Nagaraja
@@ -210,6 +234,7 @@
   - Nikita Borisov
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Nagaraja.pdf
   discovered_artifact: null
+  validated: false
 - title: Automatic Generation of Remediation Procedures for Malware Infections.
   authors:
   - Roberto Paleari
@@ -221,12 +246,14 @@
   - Somesh Jha
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Paleari.pdf
   discovered_artifact: http://www.cs.wisc.edu/~mfredrik/remediate
+  validated: false
 - title: Realization of RF Distance Bounding.
   authors:
   - Kasper Bonne Rasmussen
   - Srdjan Capkun
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Rasmussen.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Security and Privacy Vulnerabilities of In-Car Wireless Networks: A Tire
     Pressure Monitoring System Case Study.'
   authors:
@@ -241,6 +268,7 @@
   - Ivan Seskar
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Rouf.pdf
   discovered_artifact: null
+  validated: false
 - title: Adapting Software Fault Isolation to Contemporary CPU Architectures.
   authors:
   - David Sehr
@@ -253,6 +281,7 @@
   - Brad Chen
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Sehr.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Capsicum: Practical Capabilities for UNIX.'
   authors:
   - Robert N. M. Watson
@@ -261,3 +290,4 @@
   - Kris Kennaway
   page_link: http://www.usenix.org/events/sec10/tech/full_papers/Watson.pdf
   discovered_artifact: http://www.cl.cam.ac.uk/research/security/capsicum/
+  validated: false

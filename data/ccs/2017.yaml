@@ -6,12 +6,14 @@
   - Yang Zhang 0016
   page_link: https://doi.org/10.1145/3133956.3133972
   discovered_artifact: https://github.com/yangzhangalmo/walk2friends
+  validated: false
 - title: 'Bolt: Anonymous Payment Channels for Decentralized Currencies.'
   authors:
   - Matthew Green 0001
   - Ian Miers
   page_link: https://doi.org/10.1145/3133956.3134093
   discovered_artifact: null
+  validated: false
 - title: 'Where the Wild Warnings Are: Root Causes of Chrome HTTPS Certificate Errors.'
   authors:
   - Mustafa Emre Acer
@@ -25,6 +27,7 @@
   - Parisa Tabriz
   page_link: https://doi.org/10.1145/3133956.3134007
   discovered_artifact: null
+  validated: false
 - title: 'Efficient Public Trace and Revoke from Standard Assumptions: Extended Abstract.'
   authors:
   - Shweta Agrawal 0001
@@ -34,17 +37,20 @@
   - Shota Yamada 0001
   page_link: https://doi.org/10.1145/3133956.3134041
   discovered_artifact: null
+  validated: false
 - title: 'FAME: Fast Attribute-based Message Encryption.'
   authors:
   - Shashank Agrawal
   - Melissa Chase
   page_link: https://doi.org/10.1145/3133956.3134014
   discovered_artifact: https://github.com/sagrawal87/ABE
+  validated: false
 - title: Economic Factors of Vulnerability Trade and Exploitation.
   authors:
   - Luca Allodi
   page_link: https://doi.org/10.1145/3133956.3133960
   discovered_artifact: http://security1.win.tue.nl
+  validated: false
 - title: 'Jasmin: High-Assurance and High-Speed Cryptography.'
   authors:
   - José Bacelar Almeida
@@ -59,6 +65,7 @@
   - Pierre-Yves Strub
   page_link: https://doi.org/10.1145/3133956.3134078
   discovered_artifact: https://github.com/jasmin-lang/jasmin
+  validated: false
 - title: A Fast and Verified Software Stack for Secure Function Evaluation.
   authors:
   - José Bacelar Almeida
@@ -70,6 +77,7 @@
   - Vitor Pereira 0002
   page_link: https://doi.org/10.1145/3133956.3134017
   discovered_artifact: https://github.com/haslab/circgen
+  validated: false
 - title: Practical Graphs for Optimal Side-Channel Resistant Memory-Hard Functions.
   authors:
   - Joël Alwen
@@ -77,6 +85,7 @@
   - Benjamin Harsha
   page_link: https://doi.org/10.1145/3133956.3134031
   discovered_artifact: https://github.com/Practical-Graphs/Argon2-Practical-Graph
+  validated: false
 - title: 'Attribute-Based Encryption in the Generic Group Model: Automated Proofs
     and New Constructions.'
   authors:
@@ -86,6 +95,7 @@
   - Hoeteck Wee
   page_link: https://doi.org/10.1145/3133956.3134088
   discovered_artifact: https://github.com/miguel-ambrona/ggm-symbolic-solver
+  validated: false
 - title: 'Ligero: Lightweight Sublinear Arguments Without a Trusted Setup.'
   authors:
   - Scott Ames
@@ -94,6 +104,7 @@
   - Muthuramakrishnan Venkitasubramaniam
   page_link: https://doi.org/10.1145/3133956.3134104
   discovered_artifact: null
+  validated: false
 - title: 'Defending Against Key Exfiltration: Efficiency Improvements for Big-Key
     Cryptography via Large-Alphabet Subkey Prediction.'
   authors:
@@ -101,12 +112,14 @@
   - Wei Dai 0011
   page_link: https://doi.org/10.1145/3133956.3133965
   discovered_artifact: null
+  validated: false
 - title: Identity-Based Format-Preserving Encryption.
   authors:
   - Mihir Bellare
   - Viet Tung Hoang
   page_link: https://doi.org/10.1145/3133956.3133995
   discovered_artifact: null
+  validated: false
 - title: 'Better Than Advertised: Improved Collision-Resistance Guarantees for MD-Based
     Hash Functions.'
   authors:
@@ -115,12 +128,14 @@
   - Julia Len
   page_link: https://doi.org/10.1145/3133956.3134087
   discovered_artifact: null
+  validated: false
 - title: Algorithm Substitution Attacks from a Steganographic Perspective.
   authors:
   - Sebastian Berndt 0001
   - Maciej Liskiewicz
   page_link: https://doi.org/10.1145/3133956.3133981
   discovered_artifact: null
+  validated: false
 - title: 'RiskTeller: Predicting the Risk of Cyber Incidents.'
   authors:
   - Leyla Bilge
@@ -128,6 +143,7 @@
   - Matteo Dell&apos;Amico
   page_link: https://doi.org/10.1145/3133956.3134022
   discovered_artifact: null
+  validated: false
 - title: Directed Greybox Fuzzing.
   authors:
   - Marcel Böhme
@@ -136,6 +152,7 @@
   - Abhik Roychoudhury
   page_link: https://doi.org/10.1145/3133956.3134020
   discovered_artifact: https://github.com/aflgo/aflgo.git
+  validated: false
 - title: Practical Secure Aggregation for Privacy-Preserving Machine Learning.
   authors:
   - Kallista A. Bonawitz
@@ -149,6 +166,7 @@
   - Karn Seth
   page_link: https://doi.org/10.1145/3133956.3133982
   discovered_artifact: null
+  validated: false
 - title: Forward and Backward Private Searchable Encryption from Constrained Cryptographic
     Primitives.
   authors:
@@ -157,6 +175,7 @@
   - Olga Ohrimenko
   page_link: https://doi.org/10.1145/3133956.3133980
   discovered_artifact: https://github.com/OpenSSE/opensse-schemes
+  validated: false
 - title: 'Homomorphic Secret Sharing: Optimizations and Applications.'
   authors:
   - Elette Boyle
@@ -166,6 +185,7 @@
   - Michele Orrù
   page_link: https://doi.org/10.1145/3133956.3134107
   discovered_artifact: null
+  validated: false
 - title: Practical UC-Secure Delegatable Credentials with Attributes and Their Application
     to Blockchain.
   authors:
@@ -174,6 +194,7 @@
   - Maria Dubovitskaya
   page_link: https://doi.org/10.1145/3133956.3134025
   discovered_artifact: github.com/miracl/amcl
+  validated: false
 - title: 'Zero-Knowledge Contingent Payments Revisited: Attacks and Payments for Services.'
   authors:
   - Matteo Campanelli
@@ -182,6 +203,7 @@
   - Luca Nizzardo
   page_link: https://doi.org/10.1145/3133956.3134060
   discovered_artifact: null
+  validated: false
 - title: Deterministic Browser.
   authors:
   - Yinzhi Cao
@@ -190,6 +212,7 @@
   - Shujiang Wu
   page_link: https://doi.org/10.1145/3133956.3133996
   discovered_artifact: https://github.com/nkdxczh/gecko-dev/tree/deterfox
+  validated: false
 - title: '5Gen-C: Multi-input Functional Encryption and Program Obfuscation for Arithmetic
     Circuits.'
   authors:
@@ -198,6 +221,7 @@
   - Mariana Raykova 0001
   page_link: https://doi.org/10.1145/3133956.3133983
   discovered_artifact: https://github.com/5GenCrypto/
+  validated: false
 - title: Nonmalleable Information Flow Control.
   authors:
   - Ethan Cecchetti
@@ -205,6 +229,7 @@
   - Owen Arden
   page_link: https://doi.org/10.1145/3133956.3134054
   discovered_artifact: null
+  validated: false
 - title: 'Solidus: Confidential Distributed Ledger Transactions via PVORM.'
   authors:
   - Ethan Cecchetti
@@ -215,6 +240,7 @@
   - Elaine Shi
   page_link: https://doi.org/10.1145/3133956.3134010
   discovered_artifact: null
+  validated: false
 - title: 'Efficient, Constant-Round and Actively Secure MPC: Beyond the Three-Party
     Case.'
   authors:
@@ -224,6 +250,7 @@
   - Satyanarayana Vusirikala
   page_link: https://doi.org/10.1145/3133956.3134100
   discovered_artifact: null
+  validated: false
 - title: Post-Quantum Zero-Knowledge and Signatures from Symmetric-Key Primitives.
   authors:
   - Melissa Chase
@@ -236,6 +263,7 @@
   - Greg Zaverucha
   page_link: https://doi.org/10.1145/3133956.3133997
   discovered_artifact: https://github.com/Microsoft/Picnic
+  validated: false
 - title: 'The TypTop System: Personalized Typo-Tolerant Password Checking.'
   authors:
   - Rahul Chatterjee 0001
@@ -245,6 +273,7 @@
   - Thomas Ristenpart
   page_link: https://doi.org/10.1145/3133956.3134000
   discovered_artifact: https://typtop.info/330
+  validated: false
 - title: Precise Detection of Side-Channel Vulnerabilities using Quantitative Cartesian
     Hoare Logic.
   authors:
@@ -253,6 +282,7 @@
   - Isil Dillig
   page_link: https://doi.org/10.1145/3133956.3134058
   discovered_artifact: null
+  validated: false
 - title: Fast Private Set Intersection from Homomorphic Encryption.
   authors:
   - Hao Chen 0030
@@ -260,6 +290,7 @@
   - Peter Rindal
   page_link: https://doi.org/10.1145/3133956.3134061
   discovered_artifact: null
+  validated: false
 - title: 'PeGaSus: Data-Adaptive Differentially Private Stream Processing.'
   authors:
   - Yan Chen 0022
@@ -268,6 +299,7 @@
   - Gerome Miklau
   page_link: https://doi.org/10.1145/3133956.3134102
   discovered_artifact: null
+  validated: false
 - title: Practical Attacks Against Graph-based Clustering.
   authors:
   - Yizheng Chen 0001
@@ -279,6 +311,7 @@
   - Nikolaos Vasiloglou
   page_link: https://doi.org/10.1145/3133956.3134083
   discovered_artifact: null
+  validated: false
 - title: 'Client-side Name Collision Vulnerability in the New gTLD Era: A Systematic
     Study.'
   authors:
@@ -290,6 +323,7 @@
   - Zhuoqing Morley Mao
   page_link: https://doi.org/10.1145/3133956.3134084
   discovered_artifact: null
+  validated: false
 - title: Mass Discovery of Android Traffic Imprints through Instantiated Partial Execution.
   authors:
   - Yi Chen 0024
@@ -300,6 +334,7 @@
   - Wei Zou
   page_link: https://doi.org/10.1145/3133956.3134009
   discovered_artifact: null
+  validated: false
 - title: 'Standardizing Bad Cryptographic Practice: A Teardown of the IEEE Standard
     for Protecting Electronic-design Intellectual Property.'
   authors:
@@ -310,12 +345,14 @@
   - Mark Tehranipoor
   page_link: https://doi.org/10.1145/3133956.3134040
   discovered_artifact: null
+  validated: false
 - title: 'Viden: Attacker Identification on In-Vehicle Networks.'
   authors:
   - Kyong-Tak Cho
   - Kang G. Shin
   page_link: https://doi.org/10.1145/3133956.3134001
   discovered_artifact: null
+  validated: false
 - title: 'Fairness in an Unfair World: Fair Multiparty Computation from Public Bulletin
     Boards.'
   authors:
@@ -326,6 +363,7 @@
   - Ian Miers
   page_link: https://doi.org/10.1145/3133956.3134092
   discovered_artifact: null
+  validated: false
 - title: 'DIFUZE: Interface Aware Fuzzing for Kernel Drivers.'
   authors:
   - Jake Corina
@@ -337,6 +375,7 @@
   - Giovanni Vigna
   page_link: https://doi.org/10.1145/3133956.3134069
   discovered_artifact: www.github.com/ucsb-seclab/difuze
+  validated: false
 - title: A Type System for Privacy Properties.
   authors:
   - Véronique Cortier
@@ -345,6 +384,7 @@
   - Matteo Maffei
   page_link: https://doi.org/10.1145/3133956.3133998
   discovered_artifact: null
+  validated: false
 - title: A Comprehensive Symbolic Analysis of TLS 1.3.
   authors:
   - Cas Cremers
@@ -354,6 +394,7 @@
   - Thyla van der Merwe
   page_link: https://doi.org/10.1145/3133956.3134063
   discovered_artifact: https://tls13tamarin.github.io/TLS13Tamarin/
+  validated: false
 - title: Evading Classifiers by Morphing in the Dark.
   authors:
   - Hung Dang
@@ -361,6 +402,7 @@
   - Ee-Chien Chang
   page_link: https://doi.org/10.1145/3133956.3133978
   discovered_artifact: null
+  validated: false
 - title: 'Use Privacy in Data-Driven Systems: Theory and Experiments with Machine
     Learnt Programs.'
   authors:
@@ -371,6 +413,7 @@
   - Shayak Sen
   page_link: https://doi.org/10.1145/3133956.3134097
   discovered_artifact: null
+  validated: false
 - title: 'Keep me Updated: An Empirical Study of Third-Party Library Updatability
     on Android.'
   authors:
@@ -381,12 +424,14 @@
   - Michael Backes 0001
   page_link: https://doi.org/10.1145/3133956.3134059
   discovered_artifact: null
+  validated: false
 - title: Scaling ORAM for Secure Computation.
   authors:
   - Jack Doerner
   - Abhi Shelat
   page_link: https://doi.org/10.1145/3133956.3133967
   discovered_artifact: https://gitlab.com/neucrypt/floram
+  validated: false
 - title: 'Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for
     Verifiable Cloud Computing.'
   authors:
@@ -397,6 +442,7 @@
   - Aad van Moorsel
   page_link: https://doi.org/10.1145/3133956.3134032
   discovered_artifact: https://github.com/mjod89/SmartContracts
+  validated: false
 - title: 'TinyOLE: Efficient Actively Secure Two-Party Computation from Oblivious
     Linear Function Evaluation.'
   authors:
@@ -407,6 +453,7 @@
   - Roberto Trifiletti
   page_link: https://doi.org/10.1145/3133956.3134024
   discovered_artifact: null
+  validated: false
 - title: 'DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning.'
   authors:
   - Min Du 0003
@@ -415,6 +462,7 @@
   - Vivek Srikumar
   page_link: https://doi.org/10.1145/3133956.3134015
   discovered_artifact: null
+  validated: false
 - title: Identifying Open-Source License Violation and 1-day Security Risk at Large
     Scale.
   authors:
@@ -425,6 +473,7 @@
   - Wenke Lee
   page_link: https://doi.org/10.1145/3133956.3134048
   discovered_artifact: https://github.com/lingfennan/osspolice
+  validated: false
 - title: 'Side-Channel Attacks on BLISS Lattice-Based Signatures: Exploiting Branch
     Tracing against strongSwan and Electromagnetic Emanations in Microcontrollers.'
   authors:
@@ -434,6 +483,7 @@
   - Mehdi Tibouchi
   page_link: https://doi.org/10.1145/3133956.3134028
   discovered_artifact: https://github.com/mti/bliss-sidechannel
+  validated: false
 - title: Distributed Measurement with Private Set-Union Cardinality.
   authors:
   - Ellis Fenske
@@ -442,6 +492,7 @@
   - Micah Sherr
   page_link: https://doi.org/10.1145/3133956.3134034
   discovered_artifact: http://safecounting.com/
+  validated: false
 - title: Verifying Security Policies in Multi-agent Workflows with Loops.
   authors:
   - Bernd Finkbeiner
@@ -450,6 +501,7 @@
   - Eugen Zalinescu
   page_link: https://doi.org/10.1145/3133956.3134080
   discovered_artifact: null
+  validated: false
 - title: 'IRON: Functional Encryption using Intel SGX.'
   authors:
   - Ben Fisch
@@ -458,6 +510,7 @@
   - Sergey Gorbunov 0001
   page_link: https://doi.org/10.1145/3133956.3134106
   discovered_artifact: https://github.com/5GenCrypto
+  validated: false
 - title: 'JITGuard: Hardening Just-in-time Compilers with SGX.'
   authors:
   - Tommaso Frassetto
@@ -466,6 +519,7 @@
   - Ahmad-Reza Sadeghi
   page_link: https://doi.org/10.1145/3133956.3134037
   discovered_artifact: null
+  validated: false
 - title: Quantifying the Pressure of Legal Risks on Third-party Vulnerability Research.
   authors:
   - Alexander Gamero-Garrido
@@ -474,6 +528,7 @@
   - Alex C. Snoeren
   page_link: https://doi.org/10.1145/3133956.3134047
   discovered_artifact: null
+  validated: false
 - title: 'May the Fourth Be With You: A Microarchitectural Side Channel Attack on
     Several Real-World Applications of Curve25519.'
   authors:
@@ -482,18 +537,21 @@
   - Yuval Yarom
   page_link: https://doi.org/10.1145/3133956.3134029
   discovered_artifact: null
+  validated: false
 - title: Better Bounds for Block Cipher Modes of Operation via Nonce-Based Key Derivation.
   authors:
   - Shay Gueron
   - Yehuda Lindell
   page_link: https://doi.org/10.1145/3133956.3133992
   discovered_artifact: null
+  validated: false
 - title: 'Querying for Queries: Indexes of Queries for Efficient and Expressive IT-PIR.'
   authors:
   - Syed Mahbub Hafiz
   - Ryan Henry
   page_link: https://doi.org/10.1145/3133956.3134008
   discovered_artifact: null
+  validated: false
 - title: Implementing BP-Obfuscation Using Graph-Induced Encoding.
   authors:
   - Shai Halevi
@@ -502,12 +560,14 @@
   - Noah Stephens-Davidowitz
   page_link: https://doi.org/10.1145/3133956.3133976
   discovered_artifact: http://shoup.net/ntl/
+  validated: false
 - title: 'IMF: Inferred Model-based Fuzzer.'
   authors:
   - HyungSeok Han
   - Sang Kil Cha
   page_link: https://doi.org/10.1145/3133956.3134103
   discovered_artifact: https://github.com/SoftSec-KAIST/IMF
+  validated: false
 - title: Watch Me, but Don&apos;t Touch Me! Contactless Control Flow Monitoring via
     Electromagnetic Emanations.
   authors:
@@ -518,6 +578,7 @@
   - Athina P. Petropulu
   page_link: https://doi.org/10.1145/3133956.3134081
   discovered_artifact: null
+  validated: false
 - title: 'BBA+: Improving the Security and Applicability of Privacy-Preserving Point
     Collection.'
   authors:
@@ -527,6 +588,7 @@
   - Andy Rupp
   page_link: https://doi.org/10.1145/3133956.3134071
   discovered_artifact: null
+  validated: false
 - title: 'Composing Differential Privacy and Secure Computation: A Case Study on Scaling
     Private Record Linkage.'
   authors:
@@ -536,6 +598,7 @@
   - Divesh Srivastava
   page_link: https://doi.org/10.1145/3133956.3134030
   discovered_artifact: null
+  validated: false
 - title: 'FirmUSB: Vetting USB Device Firmware using Domain Informed Symbolic Execution.'
   authors:
   - Grant Hernandez
@@ -545,6 +608,7 @@
   - Kevin R. B. Butler
   page_link: https://doi.org/10.1145/3133956.3134050
   discovered_artifact: null
+  validated: false
 - title: New Techniques for Structural Batch Verification in Bilinear Groups with
     Applications to Groth-Sahai Proofs.
   authors:
@@ -555,6 +619,7 @@
   - Andy Rupp
   page_link: https://doi.org/10.1145/3133956.3134068
   discovered_artifact: null
+  validated: false
 - title: 'Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning.'
   authors:
   - Briland Hitaj
@@ -562,6 +627,7 @@
   - Fernando Pérez-Cruz
   page_link: https://doi.org/10.1145/3133956.3134012
   discovered_artifact: null
+  validated: false
 - title: 'S3ORAM: A Computation-Efficient and Constant Client Bandwidth Blowup ORAM
     with Shamir Secret Sharing.'
   authors:
@@ -572,6 +638,7 @@
   - Tam Nguyen
   page_link: https://doi.org/10.1145/3133956.3134090
   discovered_artifact: https://github.com/thanghoang/S3ORAM
+  validated: false
 - title: 'The ART of App Compartmentalization: Compiler-based Library Privilege Separation
     on Stock Android.'
   authors:
@@ -581,6 +648,7 @@
   - Michael Backes 0001
   page_link: https://doi.org/10.1145/3133956.3134064
   discovered_artifact: https://github.com/Project-ARTist
+  validated: false
 - title: 'FlashGuard: Leveraging Intrinsic Flash Properties to Defend Against Encryption
     Ransomware.'
   authors:
@@ -591,6 +659,7 @@
   - Moinuddin K. Qureshi
   page_link: https://doi.org/10.1145/3133956.3134035
   discovered_artifact: null
+  validated: false
 - title: Exploiting a Thermal Side Channel for Power Attacks in Multi-Tenant Data
     Centers.
   authors:
@@ -599,6 +668,7 @@
   - Adam Wierman
   page_link: https://doi.org/10.1145/3133956.3133994
   discovered_artifact: null
+  validated: false
 - title: 'HexType: Efficient Detection of Type Confusion Errors for C++.'
   authors:
   - Yuseok Jeon
@@ -608,6 +678,7 @@
   - Mathias Payer
   page_link: https://doi.org/10.1145/3133956.3134062
   discovered_artifact: https://github.com/HexHive/HexType
+  validated: false
 - title: 'RAIN: Refinable Attack Investigation with On-demand Inter-Process Information
     Flow Tracking.'
   authors:
@@ -621,6 +692,7 @@
   - Wenke Lee
   page_link: https://doi.org/10.1145/3133956.3134045
   discovered_artifact: null
+  validated: false
 - title: 'DEFTL: Implementing Plausibly Deniable Encryption in Flash Translation Layer.'
   authors:
   - Shijie Jia 0001
@@ -629,12 +701,14 @@
   - Peng Liu 0005
   page_link: https://doi.org/10.1145/3133956.3134011
   discovered_artifact: null
+  validated: false
 - title: 'Revive: Rebalancing Off-Blockchain Payment Networks.'
   authors:
   - Rami Khalil
   - Arthur Gervais
   page_link: https://doi.org/10.1145/3133956.3134033
   discovered_artifact: https://github.com/rami-khalil/revive
+  validated: false
 - title: 'Certified Malware: Measuring Breaches of Trust in the Windows Code-Signing
     PKI.'
   authors:
@@ -643,6 +717,7 @@
   - Tudor Dumitras
   page_link: https://doi.org/10.1145/3133956.3133958
   discovered_artifact: null
+  validated: false
 - title: Forward Secure Dynamic Searchable Symmetric Encryption with Efficient Updates.
   authors:
   - Kee Sung Kim
@@ -652,6 +727,7 @@
   - Woo-Hwan Kim
   page_link: https://doi.org/10.1145/3133956.3133970
   discovered_artifact: null
+  validated: false
 - title: 'Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse.'
   authors:
   - Panagiotis Kintis
@@ -664,6 +740,7 @@
   - Manos Antonakakis
   page_link: https://doi.org/10.1145/3133956.3134002
   discovered_artifact: null
+  validated: false
 - title: 'T/Key: Second-Factor Authentication From Secure Hash Chains.'
   authors:
   - Dmitry Kogan
@@ -671,6 +748,7 @@
   - Dan Boneh
   page_link: https://doi.org/10.1145/3133956.3133989
   discovered_artifact: null
+  validated: false
 - title: Practical Multi-party Private Set Intersection from Symmetric-Key Techniques.
   authors:
   - Vladimir Kolesnikov
@@ -680,6 +758,7 @@
   - Ni Trieu
   page_link: https://doi.org/10.1145/3133956.3134065
   discovered_artifact: https://github.com/osu-crypto/MultipartyPSI
+  validated: false
 - title: 'DUPLO: Unifying Cut-and-Choose for Garbled Circuits.'
   authors:
   - Vladimir Kolesnikov
@@ -689,12 +768,14 @@
   - Roberto Trifiletti
   page_link: https://doi.org/10.1145/3133956.3133991
   discovered_artifact: https://github.com/osu-crypto/libOTe
+  validated: false
 - title: Capturing Malware Propagations with Code Injections and Code-Reuse Attacks.
   authors:
   - David Korczynski
   - Heng Yin 0001
   page_link: https://doi.org/10.1145/3133956.3134099
   discovered_artifact: null
+  validated: false
 - title: Synthesis of Probabilistic Privacy Enforcement.
   authors:
   - Martin Kucera
@@ -704,6 +785,7 @@
   - Martin T. Vechev
   page_link: https://doi.org/10.1145/3133956.3134079
   discovered_artifact: null
+  validated: false
 - title: 'Be Selfish and Avoid Dilemmas: Fork After Withholding (FAW) Attacks on Bitcoin.'
   authors:
   - Yujin Kwon
@@ -713,6 +795,7 @@
   - Yongdae Kim
   page_link: https://doi.org/10.1145/3133956.3134019
   discovered_artifact: null
+  validated: false
 - title: 'Vulnerable Implicit Service: A Revisit.'
   authors:
   - Lingguang Lei
@@ -724,6 +807,7 @@
   - Jian Weng 0001
   page_link: https://doi.org/10.1145/3133956.3133975
   discovered_artifact: null
+  validated: false
 - title: 'Code-Reuse Attacks for the Web: Breaking Cross-Site Scripting Mitigations
     via Script Gadgets.'
   authors:
@@ -734,6 +818,7 @@
   - Martin Johns
   page_link: https://doi.org/10.1145/3133956.3134091
   discovered_artifact: https://github.com/google/security-research-pocs
+  validated: false
 - title: 'Rewriting History: Changing the Archived Web from the Present.'
   authors:
   - Ada Lerner
@@ -741,12 +826,14 @@
   - Franziska Roesner
   page_link: https://doi.org/10.1145/3133956.3134042
   discovered_artifact: https://rewritinghistory.cs.washington.edu
+  validated: false
 - title: A Large-Scale Empirical Study of Security Patches.
   authors:
   - Frank Li 0001
   - Vern Paxson
   page_link: https://doi.org/10.1145/3133956.3134072
   discovered_artifact: null
+  validated: false
 - title: 'No-Match Attacks and Robust Partnering Definitions: Defining Trivial Attacks
     for Security Protocols is Not Trivial.'
   authors:
@@ -754,6 +841,7 @@
   - Sven Schäge
   page_link: https://doi.org/10.1145/3133956.3134006
   discovered_artifact: null
+  validated: false
 - title: 'Unleashing the Walking Dead: Understanding Cross-App Remote Infections on
     Mobile WebViews.'
   authors:
@@ -768,6 +856,7 @@
   - Xinhui Han
   page_link: https://doi.org/10.1145/3133956.3134021
   discovered_artifact: null
+  validated: false
 - title: A Framework for Constructing Fast MPC over Arithmetic Circuits with Malicious
     Adversaries and an Honest-Majority.
   authors:
@@ -775,6 +864,7 @@
   - Ariel Nof
   page_link: https://doi.org/10.1145/3133956.3133999
   discovered_artifact: null
+  validated: false
 - title: Oblivious Neural Network Predictions via MiniONN Transformations.
   authors:
   - Jian Liu 0012
@@ -783,6 +873,7 @@
   - N. Asokan
   page_link: https://doi.org/10.1145/3133956.3134056
   discovered_artifact: http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
+  validated: false
 - title: 'Don&apos;t Let One Rotten Apple Spoil the Whole Barrel: Towards Automated
     Detection of Shadowed Domains.'
   authors:
@@ -794,6 +885,7 @@
   - Hai-Xin Duan
   page_link: https://doi.org/10.1145/3133956.3134049
   discovered_artifact: null
+  validated: false
 - title: 'PtrSplit: Supporting General Pointers in Automatic Program Partitioning.'
   authors:
   - Shen Liu 0002
@@ -801,6 +893,7 @@
   - Trent Jaeger
   page_link: https://doi.org/10.1145/3133956.3134066
   discovered_artifact: null
+  validated: false
 - title: 'VibWrite: Towards Finger-input Authentication on Ubiquitous Surfaces via
     Physical Vibration.'
   authors:
@@ -810,6 +903,7 @@
   - Nitesh Saxena
   page_link: https://doi.org/10.1145/3133956.3133964
   discovered_artifact: null
+  validated: false
 - title: 'Hindsight: Understanding the Evolution of UI Vulnerabilities in Mobile Browsers.'
   authors:
   - Meng Luo 0002
@@ -818,6 +912,7 @@
   - Nick Nikiforakis
   page_link: https://doi.org/10.1145/3133956.3133987
   discovered_artifact: null
+  validated: false
 - title: Concurrency and Privacy with Payment-Channel Networks.
   authors:
   - Giulio Malavolta
@@ -827,6 +922,7 @@
   - Srivatsan Ravi
   page_link: https://doi.org/10.1145/3133956.3134096
   discovered_artifact: null
+  validated: false
 - title: 'A Touch of Evil: High-Assurance Cryptographic Hardware from Untrusted Components.'
   authors:
   - Vasilios Mavroudis
@@ -837,12 +933,14 @@
   - George Danezis
   page_link: https://doi.org/10.1145/3133956.3133961
   discovered_artifact: https://OpenCryptoJC.org
+  validated: false
 - title: 'MagNet: A Two-Pronged Defense against Adversarial Examples.'
   authors:
   - Dongyu Meng
   - Hao Chen 0003
   page_link: https://doi.org/10.1145/3133956.3134057
   discovered_artifact: null
+  validated: false
 - title: 'Why Do Developers Get Password Storage Wrong?: A Qualitative Usability Study.'
   authors:
   - Alena Naiakshina
@@ -853,6 +951,7 @@
   - Matthew Smith 0001
   page_link: https://doi.org/10.1145/3133956.3134082
   discovered_artifact: null
+  validated: false
 - title: 'Compressive Traffic Analysis: A New Paradigm for Scalable Traffic Analysis.'
   authors:
   - Milad Nasr
@@ -860,6 +959,7 @@
   - Arya Mazumdar
   page_link: https://doi.org/10.1145/3133956.3134074
   discovered_artifact: null
+  validated: false
 - title: 'The Waterfall of Liberty: Decoy Routing Circumvention that Resists Routing
     Attacks.'
   authors:
@@ -868,6 +968,7 @@
   - Amir Houmansadr
   page_link: https://doi.org/10.1145/3133956.3134075
   discovered_artifact: null
+  validated: false
 - title: 'The Return of Coppersmith&apos;s Attack: Practical Factorization of Widely
     Used RSA Moduli.'
   authors:
@@ -878,6 +979,7 @@
   - Vashek Matyas
   page_link: https://doi.org/10.1145/3133956.3133969
   discovered_artifact: null
+  validated: false
 - title: 'A Stitch in Time: Supporting Android Developers in WritingSecure Code.'
   authors:
   - Duc Cuong Nguyen 0001
@@ -888,6 +990,7 @@
   - Sascha Fahl
   page_link: https://doi.org/10.1145/3133956.3133977
   discovered_artifact: null
+  validated: false
 - title: 'POISED: Spotting Twitter Spam Off the Beaten Paths.'
   authors:
   - Shirin Nilizadeh
@@ -900,6 +1003,7 @@
   - Giovanni Vigna
   page_link: https://doi.org/10.1145/3133956.3134055
   discovered_artifact: null
+  validated: false
 - title: 'How Unique is Your .onion?: An Analysis of the Fingerprintability of Tor
     Onion Services.'
   authors:
@@ -910,6 +1014,7 @@
   - Claudia Díaz
   page_link: https://doi.org/10.1145/3133956.3134005
   discovered_artifact: https://cosic.esat.kuleuven.be/fingerprintability/
+  validated: false
 - title: 'Back to the Drawing Board: Revisiting the Design of Optimal Location Privacy-preserving
     Mechanisms.'
   authors:
@@ -918,6 +1023,7 @@
   - Fernando Pérez-González
   page_link: https://doi.org/10.1145/3133956.3134004
   discovered_artifact: null
+  validated: false
 - title: 'Let&apos;s Go in for a Closer Look: Observing Passwords in Their Natural
     Habitat.'
   authors:
@@ -932,6 +1038,7 @@
   - Alain Forget
   page_link: https://doi.org/10.1145/3133956.3133973
   discovered_artifact: null
+  validated: false
 - title: 'Deemon: Detecting CSRF with Dynamic Analysis and Property Graphs.'
   authors:
   - Giancarlo Pellegrino
@@ -941,6 +1048,7 @@
   - Christian Rossow
   page_link: https://doi.org/10.1145/3133956.3133959
   discovered_artifact: https://github.com/tgianko/deemon
+  validated: false
 - title: 'To BLISS-B or not to be: Attacking strongSwan&apos;s Implementation of Post-Quantum
     Signatures.'
   authors:
@@ -949,6 +1057,7 @@
   - Yuval Yarom
   page_link: https://doi.org/10.1145/3133956.3134023
   discovered_artifact: null
+  validated: false
 - title: 'SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity
     Vulnerabilities.'
   authors:
@@ -958,6 +1067,7 @@
   - Suman Jana
   page_link: https://doi.org/10.1145/3133956.3134073
   discovered_artifact: null
+  validated: false
 - title: Practical Quantum-Safe Voting from Lattices.
   authors:
   - Rafaël del Pino
@@ -966,6 +1076,7 @@
   - Gregor Seiler
   page_link: https://doi.org/10.1145/3133956.3134101
   discovered_artifact: null
+  validated: false
 - title: Generating Synthetic Decentralized Social Graphs with Local Differential
     Privacy.
   authors:
@@ -977,12 +1088,14 @@
   - Kui Ren 0001
   page_link: https://doi.org/10.1145/3133956.3134086
   discovered_artifact: null
+  validated: false
 - title: Malicious-Secure Private Set Intersection via Dual Execution.
   authors:
   - Peter Rindal
   - Mike Rosulek
   page_link: https://doi.org/10.1145/3133956.3134044
   discovered_artifact: github.com/osu-crypto/libPSI
+  validated: false
 - title: Deterministic, Stash-Free Write-Only ORAM.
   authors:
   - Daniel S. Roche
@@ -991,6 +1104,7 @@
   - Travis Mayberry
   page_link: https://doi.org/10.1145/3133956.3134051
   discovered_artifact: https://github.com/detworam/detworam
+  validated: false
 - title: Generic Semantic Security against a Kleptographic Adversary.
   authors:
   - Alexander Russell
@@ -999,6 +1113,7 @@
   - Hong-Sheng Zhou
   page_link: https://doi.org/10.1145/3133956.3133993
   discovered_artifact: null
+  validated: false
 - title: 'Faulds: A Non-Parametric Iterative Classifier for Internet-Wide OS Fingerprinting.'
   authors:
   - Zain Shamsi
@@ -1006,6 +1121,7 @@
   - Dmitri Loguinov
   page_link: https://doi.org/10.1145/3133956.3133963
   discovered_artifact: null
+  validated: false
 - title: Tail Attacks on Web Applications.
   authors:
   - Huasong Shan
@@ -1013,6 +1129,7 @@
   - Calton Pu
   page_link: https://doi.org/10.1145/3133956.3133968
   discovered_artifact: null
+  validated: false
 - title: 'SGX-BigMatrix: A Practical Encrypted Data Analytic Framework With Trusted
     Processors.'
   authors:
@@ -1022,6 +1139,7 @@
   - Latifur Khan
   page_link: https://doi.org/10.1145/3133956.3134095
   discovered_artifact: null
+  validated: false
 - title: 'CCCP: Closed Caption Crypto Phones to Resist MITM Attacks, Human Errors
     and Click-Through.'
   authors:
@@ -1029,6 +1147,7 @@
   - Nitesh Saxena
   page_link: https://doi.org/10.1145/3133956.3134013
   discovered_artifact: null
+  validated: false
 - title: 'Rise of the HaCRS: Augmenting Autonomous Cyber Reasoning Systems with Human
     Assistance.'
   authors:
@@ -1041,12 +1160,14 @@
   - Giovanni Vigna
   page_link: https://doi.org/10.1145/3133956.3134105
   discovered_artifact: null
+  validated: false
 - title: Detecting Structurally Anomalous Logins Within Enterprise Networks.
   authors:
   - Hossein Siadati
   - Nasir D. Memon
   page_link: https://doi.org/10.1145/3133956.3134003
   discovered_artifact: null
+  validated: false
 - title: 'FreeGuard: A Faster Secure Heap Allocator.'
   authors:
   - Sam Silvestro
@@ -1056,6 +1177,7 @@
   - Tongping Liu
   page_link: https://doi.org/10.1145/3133956.3133957
   discovered_artifact: https://github.com/UTSASRG/FreeGuard
+  validated: false
 - title: 'Most Websites Don&apos;t Need to Vibrate: A Cost-Benefit Approach to Improving
     Browser Security.'
   authors:
@@ -1064,6 +1186,7 @@
   - Chris Kanich
   page_link: https://doi.org/10.1145/3133956.3133966
   discovered_artifact: null
+  validated: false
 - title: Machine Learning Models that Remember Too Much.
   authors:
   - Congzheng Song
@@ -1071,6 +1194,7 @@
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1145/3133956.3134077
   discovered_artifact: https://github.com/Lasagne/Recipes/blob/master/modelzoo/resnet50.py
+  validated: false
 - title: A Formal Foundation for Secure Remote Execution of Enclaves.
   authors:
   - Pramod Subramanyan
@@ -1080,6 +1204,7 @@
   - Sanjit A. Seshia
   page_link: https://doi.org/10.1145/3133956.3134098
   discovered_artifact: null
+  validated: false
 - title: 'Herding Vulnerable Cats: A Statistical Approach to Disentangle Joint Responsibility
     for Web Security in Shared Hosting.'
   authors:
@@ -1093,6 +1218,7 @@
   - Michel van Eeten
   page_link: https://doi.org/10.1145/3133956.3133971
   discovered_artifact: null
+  validated: false
 - title: 'On the Power of Optical Contactless Probing: Attacking Bitstream Encryption
     of FPGAs.'
   authors:
@@ -1102,6 +1228,7 @@
   - Christian Boit
   page_link: https://doi.org/10.1145/3133956.3134039
   discovered_artifact: null
+  validated: false
 - title: 'Data Breaches, Phishing, or Malware?: Understanding the Risks of Stolen
     Credentials.'
   authors:
@@ -1120,6 +1247,7 @@
   - Elie Bursztein
   page_link: https://doi.org/10.1145/3133956.3134067
   discovered_artifact: null
+  validated: false
 - title: Certified Verification of Algebraic Properties on Low-Level Mathematical
     Constructs in Cryptographic Programs.
   authors:
@@ -1128,12 +1256,14 @@
   - Bo-Yin Yang
   page_link: https://doi.org/10.1145/3133956.3134076
   discovered_artifact: null
+  validated: false
 - title: 'Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2.'
   authors:
   - Mathy Vanhoef
   - Frank Piessens
   page_link: https://doi.org/10.1145/3133956.3134027
   discovered_artifact: http://www.kb.cert.org/vuls/id/228519
+  validated: false
 - title: 'The Dynamics of Innocent Flesh on the Bone: Code Reuse Ten Years Later.'
   authors:
   - Victor van der Veen
@@ -1144,6 +1274,7 @@
   - Cristiano Giuffrida
   page_link: https://doi.org/10.1145/3133956.3134026
   discovered_artifact: null
+  validated: false
 - title: 'The Wolf of Name Street: Hijacking Domains Through Their Nameservers.'
   authors:
   - Thomas Vissers
@@ -1153,6 +1284,7 @@
   - Nick Nikiforakis
   page_link: https://doi.org/10.1145/3133956.3133988
   discovered_artifact: null
+  validated: false
 - title: Full Accounting for Verifiable Outsourcing.
   authors:
   - Riad S. Wahby
@@ -1164,6 +1296,7 @@
   - Thomas Wies
   page_link: https://doi.org/10.1145/3133956.3133984
   discovered_artifact: http://www.pepper-project.org/
+  validated: false
 - title: 'Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards
     in SGX.'
   authors:
@@ -1177,6 +1310,7 @@
   - Carl A. Gunter
   page_link: https://doi.org/10.1145/3133956.3134038
   discovered_artifact: null
+  validated: false
 - title: Authenticated Garbling and Efficient Maliciously Secure Two-Party Computation.
   authors:
   - Xiao Wang 0012
@@ -1184,6 +1318,7 @@
   - Jonathan Katz
   page_link: https://doi.org/10.1145/3133956.3134053
   discovered_artifact: https://github.com/emp-toolkit
+  validated: false
 - title: Global-Scale Secure Multiparty Computation.
   authors:
   - Xiao Wang 0012
@@ -1191,6 +1326,7 @@
   - Jonathan Katz
   page_link: https://doi.org/10.1145/3133956.3133979
   discovered_artifact: https://github.com/emp-toolkit
+  validated: false
 - title: Object Flow Integrity.
   authors:
   - Wenhao Wang
@@ -1198,6 +1334,7 @@
   - Kevin W. Hamlen
   page_link: https://doi.org/10.1145/3133956.3133986
   discovered_artifact: null
+  validated: false
 - title: Cryptographically Secure Information Flow Control on Key-Value Stores.
   authors:
   - Lucas Waye
@@ -1207,6 +1344,7 @@
   - Stephen Chong
   page_link: https://doi.org/10.1145/3133956.3134036
   discovered_artifact: null
+  validated: false
 - title: 'STACCO: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS
     Vulnerabilities in Secure Enclaves.'
   authors:
@@ -1216,6 +1354,7 @@
   - Yinqian Zhang
   page_link: https://doi.org/10.1145/3133956.3134016
   discovered_artifact: null
+  validated: false
 - title: Designing New Operating Primitives to Improve Fuzzing Performance.
   authors:
   - Wen Xu 0002
@@ -1224,6 +1363,7 @@
   - Taesoo Kim
   page_link: https://doi.org/10.1145/3133956.3134046
   discovered_artifact: null
+  validated: false
 - title: Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity
     Detection.
   authors:
@@ -1235,6 +1375,7 @@
   - Dawn Song
   page_link: https://doi.org/10.1145/3133956.3134018
   discovered_artifact: null
+  validated: false
 - title: Automated Crowdturfing Attacks and Defenses in Online Review Systems.
   authors:
   - Yuanshun Yao
@@ -1244,6 +1385,7 @@
   - Ben Y. Zhao
   page_link: https://doi.org/10.1145/3133956.3133990
   discovered_artifact: null
+  validated: false
 - title: 'Provably-Secure Logic Locking: From Theory To Practice.'
   authors:
   - Muhammad Yasin
@@ -1254,6 +1396,7 @@
   - Ozgur Sinanoglu
   page_link: https://doi.org/10.1145/3133956.3133985
   discovered_artifact: null
+  validated: false
 - title: Verified Correctness and Security of mbedTLS HMAC-DRBG.
   authors:
   - Katherine Q. Ye
@@ -1264,6 +1407,7 @@
   - Andrew W. Appel
   page_link: https://doi.org/10.1145/3133956.3133974
   discovered_artifact: null
+  validated: false
 - title: 'SemFuzz: Semantics-based Automatic Generation of Proof-of-Concept Exploits.'
   authors:
   - Wei You 0001
@@ -1275,6 +1419,7 @@
   - Bin Liang 0002
   page_link: https://doi.org/10.1145/3133956.3134085
   discovered_artifact: null
+  validated: false
 - title: 'Presence Attestation: The Missing Link in Dynamic Trust Bootstrapping.'
   authors:
   - Zhangkai Zhang
@@ -1284,6 +1429,7 @@
   - Zhoujun Li 0001
   page_link: https://doi.org/10.1145/3133956.3134094
   discovered_artifact: null
+  validated: false
 - title: 'Hearing Your Voice is Not Enough: An Articulatory Gesture Based Liveness
     Detection for Voice Authentication.'
   authors:
@@ -1292,6 +1438,7 @@
   - Jie Yang 0003
   page_link: https://doi.org/10.1145/3133956.3133962
   discovered_artifact: null
+  validated: false
 - title: 'DolphinAttack: Inaudible Voice Commands.'
   authors:
   - Guoming Zhang
@@ -1302,6 +1449,7 @@
   - Wenyuan Xu 0001
   page_link: https://doi.org/10.1145/3133956.3134052
   discovered_artifact: null
+  validated: false
 - title: 'Pool: Scalable On-Demand Secure Computation Service Against Malicious Adversaries.'
   authors:
   - Ruiyu Zhu
@@ -1309,6 +1457,7 @@
   - Darion Cassel
   page_link: https://doi.org/10.1145/3133956.3134070
   discovered_artifact: https://github.com/pool
+  validated: false
 - title: 'HACL*: A Verified Modern Cryptographic Library.'
   authors:
   - Jean Karim Zinzindohoué
@@ -1317,6 +1466,7 @@
   - Benjamin Beurdouche
   page_link: https://doi.org/10.1145/3133956.3134043
   discovered_artifact: https://github.com/mitls/hacl-star/
+  validated: false
 - title: 'AUTHSCOPE: Towards Automatic Discovery of Vulnerable Authorizations in Online
     Services.'
   authors:
@@ -1325,3 +1475,4 @@
   - Zhiqiang Lin 0001
   page_link: https://doi.org/10.1145/3133956.3134089
   discovered_artifact: null
+  validated: false

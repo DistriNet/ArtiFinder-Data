@@ -5,23 +5,27 @@
   - Andrew D. Gordon 0001
   page_link: https://doi.org/10.1145/1030083.1030120
   discovered_artifact: null
+  validated: false
 - title: Group signatures with verifier-local revocation.
   authors:
   - Dan Boneh
   - Hovav Shacham
   page_link: https://doi.org/10.1145/1030083.1030106
   discovered_artifact: http://crypto.stanford.edu/~dabo/pubs.html
+  validated: false
 - title: 'Web tap: detecting covert web traffic.'
   authors:
   - Kevin Borders
   - Atul Prakash 0001
   page_link: https://doi.org/10.1145/1030083.1030100
   discovered_artifact: null
+  validated: false
 - title: Reusable cryptographic fuzzy extractors.
   authors:
   - Xavier Boyen
   page_link: https://doi.org/10.1145/1030083.1030096
   discovered_artifact: null
+  validated: false
 - title: Concealing complex policies with hidden credentials.
   authors:
   - Robert W. Bradshaw
@@ -29,6 +33,7 @@
   - Kent E. Seamons
   page_link: https://doi.org/10.1145/1030083.1030104
   discovered_artifact: null
+  validated: false
 - title: Direct anonymous attestation.
   authors:
   - Ernest F. Brickell
@@ -36,6 +41,7 @@
   - Liqun Chen 0002
   page_link: https://doi.org/10.1145/1030083.1030103
   discovered_artifact: null
+  validated: false
 - title: 'IP covert timing channels: design and detection.'
   authors:
   - Serdar Cabuk
@@ -43,24 +49,28 @@
   - Clay Shields
   page_link: https://doi.org/10.1145/1030083.1030108
   discovered_artifact: null
+  validated: false
 - title: Using build-integrated static checking to preserve correctness invariants.
   authors:
   - Hao Chen 0003
   - Jonathan S. Shapiro
   page_link: https://doi.org/10.1145/1030083.1030122
   discovered_artifact: null
+  validated: false
 - title: Security policies for downgrading.
   authors:
   - Stephen Chong
   - Andrew C. Myers
   page_link: https://doi.org/10.1145/1030083.1030110
   discovered_artifact: null
+  validated: false
 - title: Pong-cache poisoning in GUESS.
   authors:
   - Neil Daswani
   - Hector Garcia-Molina
   page_link: https://doi.org/10.1145/1030083.1030099
   discovered_artifact: http://dbpubs.stanford.edu/pub/2003-51
+  validated: false
 - title: A decision procedure for the verification of security protocols with explicit
     destructors.
   authors:
@@ -68,6 +78,7 @@
   - Florent Jacquemard
   page_link: https://doi.org/10.1145/1030083.1030121
   discovered_artifact: null
+  validated: false
 - title: The dual receiver cryptosystem and its applications.
   authors:
   - Theodore Diament
@@ -76,6 +87,7 @@
   - Moti Yung
   page_link: https://doi.org/10.1145/1030083.1030128
   discovered_artifact: null
+  validated: false
 - title: Versatile padding schemes for joint signature and encryption.
   authors:
   - Yevgeniy Dodis
@@ -84,6 +96,7 @@
   - Shabsi Walfish
   page_link: https://doi.org/10.1145/1030083.1030129
   discovered_artifact: null
+  validated: false
 - title: Operational experiences with high-volume network intrusion detection.
   authors:
   - Holger Dreger
@@ -92,6 +105,7 @@
   - Robin Sommer
   page_link: https://doi.org/10.1145/1030083.1030086
   discovered_artifact: null
+  validated: false
 - title: Gray-box extraction of execution graphs for anomaly detection.
   authors:
   - Debin Gao
@@ -99,12 +113,14 @@
   - Dawn Xiaodong Song
   page_link: https://doi.org/10.1145/1030083.1030126
   discovered_artifact: null
+  validated: false
 - title: Parallel mixing.
   authors:
   - Philippe Golle
   - Ari Juels
   page_link: https://doi.org/10.1145/1030083.1030113
   discovered_artifact: null
+  validated: false
 - title: 'KNOW Why your access was denied: regulating feedback for usable security.'
   authors:
   - Apu Kapadia
@@ -112,11 +128,13 @@
   - Roy H. Campbell
   page_link: https://doi.org/10.1145/1030083.1030092
   discovered_artifact: null
+  validated: false
 - title: Attacking and repairing the winZip encryption scheme.
   authors:
   - Tadayoshi Kohno
   page_link: https://doi.org/10.1145/1030083.1030095
   discovered_artifact: null
+  validated: false
 - title: On the difficulty of scalably detecting network attacks.
   authors:
   - Kirill Levchenko
@@ -124,6 +142,7 @@
   - George Varghese
   page_link: https://doi.org/10.1145/1030083.1030087
   discovered_artifact: null
+  validated: false
 - title: On mutually-exclusive roles and separation of duty.
   authors:
   - Ninghui Li
@@ -131,12 +150,14 @@
   - Mahesh V. Tripunitara
   page_link: https://doi.org/10.1145/1030083.1030091
   discovered_artifact: null
+  validated: false
 - title: 'Privacy and security in library RFID: issues, practices, and architectures.'
   authors:
   - David Molnar
   - David A. Wagner 0001
   page_link: https://doi.org/10.1145/1030083.1030112
   discovered_artifact: null
+  validated: false
 - title: On achieving software diversity for improved network security using distributed
     coloring algorithms.
   authors:
@@ -144,12 +165,14 @@
   - Harish Sethu
   page_link: https://doi.org/10.1145/1030083.1030101
   discovered_artifact: null
+  validated: false
 - title: Fragile mixing.
   authors:
   - Michael K. Reiter
   - XiaoFeng Wang 0001
   page_link: https://doi.org/10.1145/1030083.1030114
   discovered_artifact: null
+  validated: false
 - title: A PIN-entry method resilient against shoulder surfing.
   authors:
   - Volker Roth 0002
@@ -157,6 +180,7 @@
   - Rene Freidinger
   page_link: https://doi.org/10.1145/1030083.1030116
   discovered_artifact: null
+  validated: false
 - title: Attestation-based policy enforcement for remote access.
   authors:
   - Reiner Sailer
@@ -165,6 +189,7 @@
   - Leendert van Doorn
   page_link: https://doi.org/10.1145/1030083.1030125
   discovered_artifact: null
+  validated: false
 - title: On the effectiveness of address-space randomization.
   authors:
   - Hovav Shacham
@@ -175,6 +200,7 @@
   - Dan Boneh
   page_link: https://doi.org/10.1145/1030083.1030124
   discovered_artifact: null
+  validated: false
 - title: Payload attribution via hierarchical bloom filters.
   authors:
   - Kulesh Shanmugasundaram
@@ -182,12 +208,14 @@
   - Nasir D. Memon
   page_link: https://doi.org/10.1145/1030083.1030089
   discovered_artifact: null
+  validated: false
 - title: Comparing the expressive power of access control models.
   authors:
   - Mahesh V. Tripunitara
   - Ninghui Li
   page_link: https://doi.org/10.1145/1030083.1030093
   discovered_artifact: null
+  validated: false
 - title: Testing network-based intrusion detection signatures using mutant exploits.
   authors:
   - Giovanni Vigna
@@ -195,17 +223,20 @@
   - Davide Balzarotti
   page_link: https://doi.org/10.1145/1030083.1030088
   discovered_artifact: null
+  validated: false
 - title: Cryptanalysis of a provably secure CRT-RSA algorithm.
   authors:
   - David A. Wagner 0001
   page_link: https://doi.org/10.1145/1030083.1030097
   discovered_artifact: null
+  validated: false
 - title: Mitigating bandwidth-exhaustion attacks using congestion puzzles.
   authors:
   - XiaoFeng Wang 0001
   - Michael K. Reiter
   page_link: https://doi.org/10.1145/1030083.1030118
   discovered_artifact: null
+  validated: false
 - title: New client puzzle outsourcing techniques for DoS resistance.
   authors:
   - Brent Waters
@@ -214,18 +245,21 @@
   - Edward W. Felten
   page_link: https://doi.org/10.1145/1030083.1030117
   discovered_artifact: null
+  validated: false
 - title: Private inference control.
   authors:
   - David P. Woodruff
   - Jessica Staddon
   page_link: https://doi.org/10.1145/1030083.1030109
   discovered_artifact: null
+  validated: false
 - title: k-anonymous secret handshakes with reusable credentials.
   authors:
   - Shouhuai Xu
   - Moti Yung
   page_link: https://doi.org/10.1145/1030083.1030105
   discovered_artifact: null
+  validated: false
 - title: ID-based encryption for complex hierarchies with applications to forward
     security and broadcast encryption.
   authors:
@@ -235,3 +269,4 @@
   - Anna Lysyanskaya
   page_link: https://doi.org/10.1145/1030083.1030130
   discovered_artifact: null
+  validated: false

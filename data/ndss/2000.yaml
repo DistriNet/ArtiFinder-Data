@@ -5,6 +5,7 @@
   - Marc Dacier
   page_link: https://www.ndss-symposium.org/ndss2000/a-lightweight-tool-for-detecting-web-server-attacks/
   discovered_artifact: null
+  validated: false
 - title: Secure Password-Based Cipher Suite for TLS.
   authors:
   - Peter Buhler
@@ -13,6 +14,7 @@
   - Michael Steiner 0001
   page_link: https://www.ndss-symposium.org/ndss2000/secure-password-based-cipher-suite-tls-paper/
   discovered_artifact: null
+  validated: false
 - title: An IPSec-based Host Architecture for Secure Internet Multicast.
   authors:
   - Ran Canetti
@@ -24,11 +26,13 @@
   - Debanjan Saha
   page_link: https://www.ndss-symposium.org/ndss2000/ipsec-based-host-architecture-secure-internet-multicast-paper/
   discovered_artifact: null
+  validated: false
 - title: Security of Encrypted rlogin Connections Created With Kerberos IV.
   authors:
   - Kirsten Hildrum
   page_link: https://www.ndss-symposium.org/ndss2000/security-encrypted-rlogin-connections-created-kerberos-iv/
   discovered_artifact: null
+  validated: false
 - title: Accountability and Control of Process Creation in Metasystems.
   authors:
   - Marty Humphrey
@@ -37,6 +41,7 @@
   - Andrew S. Grimshaw
   page_link: https://www.ndss-symposium.org/ndss2001/accountability-and-control-process-creation-metasystems/
   discovered_artifact: null
+  validated: false
 - title: 'User-Level Infrastructure for System Call Interposition: A Platform for
     Intrusion Detection and Confinement.'
   authors:
@@ -44,6 +49,7 @@
   - R. Sekar 0001
   page_link: https://www.ndss-symposium.org/ndss2000/user-level-infrastructure-system-call-interposition-platform-intrusion-detection-and-confinement/
   discovered_artifact: null
+  validated: false
 - title: Secure Border Gateway Protocol (S-BGP) - Real World Performance and Deployment
     Issues.
   authors:
@@ -53,6 +59,7 @@
   - Karen Seo
   page_link: https://www.ndss-symposium.org/ndss2000/secure-border-gateway-protocol-s-bgp-real-world-performance-and-deployment-issues-paper/
   discovered_artifact: null
+  validated: false
 - title: A Revocation, Validation and Authentication Protocol for SPKI Based Delegation
     Systems.
   authors:
@@ -61,12 +68,14 @@
   - Jonna Särs
   page_link: https://www.ndss-symposium.org/ndss2000/revocation-validation-and-authentication-protocol-spki-based-delegation-systems-paper/
   discovered_artifact: null
+  validated: false
 - title: Chameleon Signatures.
   authors:
   - Hugo Krawczyk
   - Tal Rabin
   page_link: https://www.ndss-symposium.org/ndss2000/chameleon-signatures/
   discovered_artifact: null
+  validated: false
 - title: Building Adaptive and Agile Applications Using Intrusion Detection and Response.
   authors:
   - Joseph P. Loyall
@@ -75,12 +84,14 @@
   - Franklin Webber
   page_link: https://www.ndss-symposium.org/ndss2000/building-adaptive-and-agile-applications-using-intrusion-detection-and-response/
   discovered_artifact: null
+  validated: false
 - title: A First Step Towards the Automatic Generation of Security Protocols.
   authors:
   - Adrian Perrig
   - Dawn Xiaodong Song
   page_link: https://www.ndss-symposium.org/ndss2000/first-step-towards-automatic-generation-security-protocols-paper/
   discovered_artifact: null
+  validated: false
 - title: Optimized Rekey for Group Communication Systems.
   authors:
   - Ohad Rodeh
@@ -88,6 +99,7 @@
   - Danny Dolev
   page_link: https://www.ndss-symposium.org/ndss2000/optimized-rekey-group-communication-systems-paper/
   discovered_artifact: null
+  validated: false
 - title: 'Secure Virtual Enclaves: Supporting Coalition Use of Distributed Application
     Technologies.'
   authors:
@@ -97,12 +109,14 @@
   - E. John Sebes
   page_link: https://www.ndss-symposium.org/ndss2000/secure-virtual-enclaves-supporting-coalition-use-of-distributed-application-technologies/
   discovered_artifact: null
+  validated: false
 - title: Analysis of a Fair Exchange Protocol.
   authors:
   - Vitaly Shmatikov
   - John C. Mitchell
   page_link: https://www.ndss-symposium.org/ndss2000/analysis-fair-exchange-protocol-paper/
   discovered_artifact: null
+  validated: false
 - title: A First Step Towards Automated Detection of Buffer Overrun Vulnerabilities.
   authors:
   - David A. Wagner 0001
@@ -111,3 +125,4 @@
   - Alexander Aiken
   page_link: https://www.ndss-symposium.org/ndss2000/first-step-towards-automated-detection-buffer-overrun-vulnerabilities-paper/
   discovered_artifact: null
+  validated: false

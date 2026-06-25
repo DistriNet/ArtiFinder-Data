@@ -9,6 +9,7 @@
   - Irina Lehmann
   page_link: https://doi.org/10.1109/SP.2017.21
   discovered_artifact: https://github.com/paberr/ciphermed-forests
+  validated: false
 - title: Obstacles to the Adoption of Secure Communication Tools.
   authors:
   - Ruba Abu-Salma
@@ -19,6 +20,7 @@
   - Matthew Smith 0001
   page_link: https://doi.org/10.1109/SP.2017.65
   discovered_artifact: null
+  validated: false
 - title: Comparing the Usability of Cryptographic APIs.
   authors:
   - Yasemin Acar
@@ -30,6 +32,7 @@
   - Christian Stransky
   page_link: https://doi.org/10.1109/SP.2017.52
   discovered_artifact: null
+  validated: false
 - title: 'Under the Shadow of Sunshine: Understanding and Detecting Bulletproof Hosting
     on Legitimate Service Provider Networks.'
   authors:
@@ -43,6 +46,7 @@
   - Damon McCoy
   page_link: https://doi.org/10.1109/SP.2017.32
   discovered_artifact: null
+  validated: false
 - title: 'Hijacking Bitcoin: Routing Attacks on Cryptocurrencies.'
   authors:
   - Maria Apostolaki
@@ -50,6 +54,7 @@
   - Laurent Vanbever
   page_link: https://doi.org/10.1109/SP.2017.29
   discovered_artifact: https://btc-hijack.ethz.ch
+  validated: false
 - title: Optimized Honest-Majority MPC for Malicious Adversaries — Breaking the 1
     Billion-Gate Per Second Barrier.
   authors:
@@ -64,6 +69,7 @@
   - Or Weinstein
   page_link: https://doi.org/10.1109/SP.2017.15
   discovered_artifact: null
+  validated: false
 - title: 'Your Exploit is Mine: Automatic Shellcode Transplant for Remote Exploits.'
   authors:
   - Tiffany Bao
@@ -72,6 +78,7 @@
   - David Brumley
   page_link: https://doi.org/10.1109/SP.2017.67
   discovered_artifact: null
+  validated: false
 - title: 'Backward-Bounded DSE: Targeting Infeasibility Questions on Obfuscated Codes.'
   authors:
   - Sébastien Bardin
@@ -79,6 +86,7 @@
   - Jean-Yves Marion
   page_link: https://doi.org/10.1109/SP.2017.36
   discovered_artifact: http://github.com/Z3Prover/z3
+  validated: false
 - title: 'CoSMeDis: A Distributed Social Media Platform with Formally Verified Confidentiality
     Guarantees.'
   authors:
@@ -88,6 +96,7 @@
   - Franco Raimondi
   page_link: https://doi.org/10.1109/SP.2017.24
   discovered_artifact: null
+  validated: false
 - title: Verified Models and Reference Implementations for the TLS 1.3 Standard Candidate.
   authors:
   - Karthikeyan Bhargavan
@@ -95,6 +104,7 @@
   - Nadim Kobeissi
   page_link: https://doi.org/10.1109/SP.2017.26
   discovered_artifact: https://github.com/inria-prosecco/reftls
+  validated: false
 - title: Finding and Preventing Bugs in JavaScript Bindings.
   authors:
   - Fraser Brown
@@ -105,6 +115,7 @@
   - Deian Stefan
   page_link: https://doi.org/10.1109/SP.2017.68
   discovered_artifact: null
+  validated: false
 - title: 'One TPM to Bind Them All: Fixing TPM 2.0 for Provably Secure Anonymous Attestation.'
   authors:
   - Jan Camenisch
@@ -115,12 +126,14 @@
   - Rainer Urian
   page_link: https://doi.org/10.1109/SP.2017.22
   discovered_artifact: null
+  validated: false
 - title: Towards Evaluating the Robustness of Neural Networks.
   authors:
   - Nicholas Carlini
   - David A. Wagner 0001
   page_link: https://doi.org/10.1109/SP.2017.49
   discovered_artifact: null
+  validated: false
 - title: 'SymCerts: Practical Symbolic Execution for Exposing Noncompliance in X.509
     Certificate Validation Implementations.'
   authors:
@@ -133,6 +146,7 @@
   - Ninghui Li
   page_link: https://doi.org/10.1109/SP.2017.40
   discovered_artifact: https://github.com/wolfSSL/wolfssl/commit/d248a7660cc441b68dc48728b10256e852928ea3
+  validated: false
 - title: 'NORAX: Enabling Execute-Only Memory for COTS Binaries on AArch64.'
   authors:
   - Yaohui Chen 0001
@@ -145,6 +159,7 @@
   - Wenbo Shen
   page_link: https://doi.org/10.1109/SP.2017.30
   discovered_artifact: null
+  validated: false
 - title: 'SysPal: System-Guided Pattern Locks for Android.'
   authors:
   - Geumhwan Cho
@@ -155,6 +170,7 @@
   - Hyoungshick Kim
   page_link: https://doi.org/10.1109/SP.2017.61
   discovered_artifact: null
+  validated: false
 - title: Protecting Bare-Metal Embedded Systems with Privilege Overlays.
   authors:
   - Abraham A. Clements
@@ -166,6 +182,7 @@
   - Mathias Payer
   page_link: https://doi.org/10.1109/SP.2017.37
   discovered_artifact: https://github.com/HexHive/EPOXY
+  validated: false
 - title: 'How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles.'
   authors:
   - Moritz Contag
@@ -177,6 +194,7 @@
   - Stefan Savage
   page_link: https://doi.org/10.1109/SP.2017.66
   discovered_artifact: null
+  validated: false
 - title: Machine-Checked Proofs of Privacy for Electronic Voting Protocols.
   authors:
   - Véronique Cortier
@@ -187,6 +205,7 @@
   - Bogdan Warinschi
   page_link: https://doi.org/10.1109/SP.2017.28
   discovered_artifact: https://github.com/catalindragan/minivoting-privacy
+  validated: false
 - title: Implementing and Proving the TLS 1.3 Record Layer.
   authors:
   - Antoine Delignat-Lavaud
@@ -201,6 +220,7 @@
   - Jean Karim Zinzindohoue
   page_link: https://doi.org/10.1109/SP.2017.58
   discovered_artifact: https://project-everest.github.io/record/
+  validated: false
 - title: 'To Catch a Ratter: Monitoring the Behavior of Amateur DarkComet RAT Operators
     in the Wild.'
   authors:
@@ -214,6 +234,7 @@
   - Kirill Levchenko
   page_link: https://doi.org/10.1109/SP.2017.48
   discovered_artifact: https://github.com/David-Reguera-Garcia-Dreg/anticuckoo
+  validated: false
 - title: Stack Overflow Considered Harmful? The Impact of Copy&amp;Paste on Android
     Application Security.
   authors:
@@ -226,6 +247,7 @@
   - Sascha Fahl
   page_link: https://doi.org/10.1109/SP.2017.31
   discovered_artifact: https://rtyley.github.io/spongycastle/
+  validated: false
 - title: 'Cloak and Dagger: From Two Permissions to Complete Control of the UI Feedback
     Loop.'
   authors:
@@ -235,6 +257,7 @@
   - Wenke Lee
   page_link: https://doi.org/10.1109/SP.2017.39
   discovered_artifact: null
+  validated: false
 - title: 'SoK: Cryptographically Protected Database Search.'
   authors:
   - Benjamin Fuller 0001
@@ -248,6 +271,7 @@
   - Robert K. Cunningham
   page_link: https://doi.org/10.1109/SP.2017.10
   discovered_artifact: https://github.com/mitll-csa/
+  validated: false
 - title: The Password Reset MitM Attack.
   authors:
   - Nethanel Gelernter
@@ -256,6 +280,7 @@
   - Hen Porcilan
   page_link: https://doi.org/10.1109/SP.2017.9
   discovered_artifact: null
+  validated: false
 - title: Leakage-Abuse Attacks against Order-Revealing Encryption.
   authors:
   - Paul Grubbs
@@ -265,6 +290,7 @@
   - Thomas Ristenpart
   page_link: https://doi.org/10.1109/SP.2017.44
   discovered_artifact: null
+  validated: false
 - title: 'SoK: Science, Security and the Elusive Goal of Security as a Scientific
     Pursuit.'
   authors:
@@ -272,6 +298,7 @@
   - Paul C. van Oorschot
   page_link: https://doi.org/10.1109/SP.2017.38
   discovered_artifact: null
+  validated: false
 - title: Hardening Java&apos;s Access Control by Abolishing Implicit Privilege Elevation.
   authors:
   - Philipp Holzinger
@@ -281,6 +308,7 @@
   - Mira Mezini
   page_link: https://doi.org/10.1109/SP.2017.16
   discovered_artifact: https://github.com/stg-tud/jdeopt
+  validated: false
 - title: 'VUDDY: A Scalable Approach for Vulnerable Code Clone Discovery.'
   authors:
   - Seulbae Kim
@@ -289,12 +317,14 @@
   - Hakjoo Oh
   page_link: https://doi.org/10.1109/SP.2017.62
   discovered_artifact: https://iotcube.net/our
+  validated: false
 - title: A Framework for Universally Composable Diffie-Hellman Key Exchange.
   authors:
   - Ralf Küsters
   - Daniel Rausch 0001
   page_link: https://doi.org/10.1109/SP.2017.63
   discovered_artifact: null
+  validated: false
 - title: 'CRLite: A Scalable System for Pushing All TLS Revocations to All Browsers.'
   authors:
   - James Larisch
@@ -305,6 +335,7 @@
   - Christo Wilson
   page_link: https://doi.org/10.1109/SP.2017.17
   discovered_artifact: null
+  validated: false
 - title: Securing Augmented Reality Output.
   authors:
   - Kiron Lebeck
@@ -313,6 +344,7 @@
   - Franziska Roesner
   page_link: https://doi.org/10.1109/SP.2017.13
   discovered_artifact: https://github.com/AlDanial/cloc/releases/tag/v1.70
+  validated: false
 - title: 'Pyramid: Enhancing Selectivity in Big Data Protection with Count Featurization.'
   authors:
   - Mathias Lécuyer
@@ -322,6 +354,7 @@
   - Siddhartha Sen 0001
   page_link: https://doi.org/10.1109/SP.2017.60
   discovered_artifact: https://columbia.github.io/selective-data-systems/
+  validated: false
 - title: 'A Lustrum of Malware Network Communication: Evolution and Insights.'
   authors:
   - Chaz Lever
@@ -331,6 +364,7 @@
   - Manos Antonakakis
   page_link: https://doi.org/10.1109/SP.2017.59
   discovered_artifact: null
+  validated: false
 - title: 'IVD: Automatic Learning and Enforcement of Authorization Rules in Online
     Social Networks.'
   authors:
@@ -342,12 +376,14 @@
   - Ioannis Papagiannis
   page_link: https://doi.org/10.1109/SP.2017.33
   discovered_artifact: null
+  validated: false
 - title: 'IKP: Turning a PKI Around with Decentralized Automated Incentives.'
   authors:
   - Stephanos Matsumoto
   - Raphael M. Reischuk
   page_link: https://doi.org/10.1109/SP.2017.57
   discovered_artifact: null
+  validated: false
 - title: 'Spotless Sandboxes: Evading Malware Analysis Systems Using Wear-and-Tear
     Artifacts.'
   authors:
@@ -357,12 +393,14 @@
   - Michalis Polychronakis
   page_link: https://doi.org/10.1109/SP.2017.42
   discovered_artifact: null
+  validated: false
 - title: 'SecureML: A System for Scalable Privacy-Preserving Machine Learning.'
   authors:
   - Payman Mohassel
   - Yupeng Zhang 0001
   page_link: https://doi.org/10.1109/SP.2017.12
   discovered_artifact: null
+  validated: false
 - title: 'SoK: Exploiting Network Printers.'
   authors:
   - Jens Müller 0007
@@ -371,6 +409,7 @@
   - Jörg Schwenk
   page_link: https://doi.org/10.1109/SP.2017.47
   discovered_artifact: http://www.bbc.com/news/technology-38879671
+  validated: false
 - title: Verifying and Synthesizing Constant-Resource Implementations with Types.
   authors:
   - Van Chan Ngo
@@ -379,6 +418,7 @@
   - Jan Hoffmann 0002
   page_link: https://doi.org/10.1109/SP.2017.53
   discovered_artifact: null
+  validated: false
 - title: 'SmarPer: Context-Aware and Automatic Runtime-Permissions for Mobile Devices.'
   authors:
   - Katarzyna Olejnik
@@ -389,6 +429,7 @@
   - Jean-Pierre Hubaux
   page_link: https://doi.org/10.1109/SP.2017.25
   discovered_artifact: null
+  validated: false
 - title: 'Augur: Internet-Wide Detection of Connectivity Disruptions.'
   authors:
   - Paul Pearce
@@ -398,12 +439,14 @@
   - Vern Paxson
   page_link: https://doi.org/10.1109/SP.2017.55
   discovered_artifact: null
+  validated: false
 - title: 'From Trash to Treasure: Timing-Sensitive Garbage Collection.'
   authors:
   - Mathias V. Pedersen
   - Aslan Askarov
   page_link: https://doi.org/10.1109/SP.2017.64
   discovered_artifact: http://users-cs.au.dk/askarov/gc-timing/
+  validated: false
 - title: 'NEZHA: Efficient Domain-Independent Differential Testing.'
   authors:
   - Theofilos Petsios
@@ -413,6 +456,7 @@
   - Suman Jana
   page_link: https://doi.org/10.1109/SP.2017.27
   discovered_artifact: https://github.com/nezha-dt
+  validated: false
 - title: An Experimental Security Analysis of an Industrial Robot Controller.
   authors:
   - Davide Quarta
@@ -423,6 +467,7 @@
   - Stefano Zanero
   page_link: https://doi.org/10.1109/SP.2017.20
   discovered_artifact: null
+  validated: false
 - title: 'IoT Goes Nuclear: Creating a ZigBee Chain Reaction.'
   authors:
   - Eyal Ronen
@@ -431,6 +476,7 @@
   - Colin O&apos;Flynn
   page_link: https://doi.org/10.1109/SP.2017.14
   discovered_artifact: null
+  validated: false
 - title: Membership Inference Attacks Against Machine Learning Models.
   authors:
   - Reza Shokri
@@ -439,6 +485,7 @@
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2017.41
   discovered_artifact: https://github.com/frankmcsherry/blog/blob/master/posts/2016-06-14.md
+  validated: false
 - title: 'HVLearn: Automated Black-Box Analysis of Hostname Verification in SSL/TLS
     Implementations.'
   authors:
@@ -449,6 +496,7 @@
   - Suman Jana
   page_link: https://doi.org/10.1109/SP.2017.46
   discovered_artifact: https://github.com/HVLearn
+  validated: false
 - title: Is Interaction Necessary for Distributed Private Learning?
   authors:
   - Adam D. Smith 0001
@@ -456,6 +504,7 @@
   - Jalaj Upadhyay
   page_link: https://doi.org/10.1109/SP.2017.35
   discovered_artifact: null
+  validated: false
 - title: Multi-touch Authentication Using Hand Geometry and Behavioral Information.
   authors:
   - Yunpeng Song
@@ -463,12 +512,14 @@
   - Zhi-Li Zhang
   page_link: https://doi.org/10.1109/SP.2017.54
   discovered_artifact: null
+  validated: false
 - title: 'XHOUND: Quantifying the Fingerprintability of Browser Extensions.'
   authors:
   - Oleksii Starov
   - Nick Nikiforakis
   page_link: https://doi.org/10.1109/SP.2017.18
   discovered_artifact: null
+  validated: false
 - title: 'Counter-RAPTOR: Safeguarding Tor Against Active Routing Attacks.'
   authors:
   - Yixin Sun
@@ -478,6 +529,7 @@
   - Prateek Mittal
   page_link: https://doi.org/10.1109/SP.2017.34
   discovered_artifact: null
+  validated: false
 - title: Scalable Bias-Resistant Distributed Randomness.
   authors:
   - Ewa Syta
@@ -490,12 +542,14 @@
   - Bryan Ford
   page_link: https://doi.org/10.1109/SP.2017.45
   discovered_artifact: https://github.com/dedis/cothority
+  validated: false
 - title: 'Catena: Efficient Non-equivocation via Bitcoin.'
   authors:
   - Alin Tomescu
   - Srinivas Devadas
   page_link: https://doi.org/10.1109/SP.2017.19
   discovered_artifact: https://github.com/non-equivocation/catena-java
+  validated: false
 - title: 'Skyfire: Data-Driven Seed Generation for Fuzzing.'
   authors:
   - Junjie Wang 0007
@@ -504,6 +558,7 @@
   - Yang Liu 0003
   page_link: https://doi.org/10.1109/SP.2017.23
   discovered_artifact: null
+  validated: false
 - title: Side-Channel Attacks on Shared Search Indexes.
   authors:
   - Liang Wang 0023
@@ -514,6 +569,7 @@
   - Thomas Ristenpart
   page_link: https://doi.org/10.1109/SP.2017.50
   discovered_artifact: null
+  validated: false
 - title: 'The Feasibility of Dynamically Granted Permissions: Aligning Mobile Privacy
     with User Preferences.'
   authors:
@@ -526,6 +582,7 @@
   - Konstantin Beznosov
   page_link: https://doi.org/10.1109/SP.2017.51
   discovered_artifact: null
+  validated: false
 - title: Cryptographic Function Detection in Obfuscated Binaries via Bit-Precise Symbolic
     Loop Mapping.
   authors:
@@ -534,6 +591,7 @@
   - Dinghao Wu
   page_link: https://doi.org/10.1109/SP.2017.56
   discovered_artifact: https://github.com/s3team/CryptoHunt
+  validated: false
 - title: 'How to Learn Klingon without a Dictionary: Detection and Measurement of
     Black Keywords Used by the Underground Economy.'
   authors:
@@ -548,6 +606,7 @@
   - Jianping Wu
   page_link: https://doi.org/10.1109/SP.2017.11
   discovered_artifact: null
+  validated: false
 - title: 'vSQL: Verifying Arbitrary SQL Queries over Dynamic Outsourced Databases.'
   authors:
   - Yupeng Zhang 0001
@@ -557,3 +616,4 @@
   - Charalampos Papamanthou
   page_link: https://doi.org/10.1109/SP.2017.43
   discovered_artifact: https://github.com/integridb/Code
+  validated: false

@@ -6,6 +6,7 @@
   - Jay Ligatti
   page_link: https://doi.org/10.1145/1102120.1102165
   discovered_artifact: null
+  validated: false
 - title: Improving Brumley and Boneh timing attack on unprotected SSL implementations.
   authors:
   - Onur Aciiçmez
@@ -13,6 +14,7 @@
   - Çetin Kaya Koç
   page_link: https://doi.org/10.1145/1102120.1102140
   discovered_artifact: null
+  validated: false
 - title: Dynamic and efficient key management for access hierarchies.
   authors:
   - Mikhail J. Atallah
@@ -20,6 +22,7 @@
   - Marina Blanton
   page_link: https://doi.org/10.1145/1102120.1102147
   discovered_artifact: null
+  validated: false
 - title: Untraceable RFID tags via insubvertible encryption.
   authors:
   - Giuseppe Ateniese
@@ -27,12 +30,14 @@
   - Breno de Medeiros
   page_link: https://doi.org/10.1145/1102120.1102134
   discovered_artifact: null
+  validated: false
 - title: 'Proxy re-signatures: new definitions, algorithms, and applications.'
   authors:
   - Giuseppe Ateniese
   - Susan Hohenberger
   page_link: https://doi.org/10.1145/1102120.1102161
   discovered_artifact: null
+  validated: false
 - title: A model and architecture for pseudo-random generation with applications to  dev
     random.
   authors:
@@ -40,11 +45,13 @@
   - Shai Halevi
   page_link: https://doi.org/10.1145/1102120.1102148
   discovered_artifact: null
+  validated: false
 - title: Deciding security of protocols against off-line guessing attacks.
   authors:
   - Mathieu Baudet
   page_link: https://doi.org/10.1145/1102120.1102125
   discovered_artifact: null
+  validated: false
 - title: 'CPOL: high-performance policy evaluation.'
   authors:
   - Kevin Borders
@@ -52,6 +59,7 @@
   - Atul Prakash 0001
   page_link: https://doi.org/10.1145/1102120.1102142
   discovered_artifact: null
+  validated: false
 - title: Direct chosen ciphertext security from identity-based techniques.
   authors:
   - Xavier Boyen
@@ -59,11 +67,13 @@
   - Brent Waters
   page_link: https://doi.org/10.1145/1102120.1102162
   discovered_artifact: null
+  validated: false
 - title: Understanding and developing role-based administrative models.
   authors:
   - Jason Crampton
   page_link: https://doi.org/10.1145/1102120.1102143
   discovered_artifact: null
+  validated: false
 - title: On deriving unknown vulnerabilities from zero-day polymorphic and metamorphic
     worm exploits.
   authors:
@@ -73,6 +83,7 @@
   - Frederic T. Chong
   page_link: https://doi.org/10.1145/1102120.1102152
   discovered_artifact: null
+  validated: false
 - title: Exploiting open functionality in SMS-capable cellular networks.
   authors:
   - William Enck
@@ -81,6 +92,7 @@
   - Thomas F. La Porta
   page_link: https://doi.org/10.1145/1102120.1102171
   discovered_artifact: null
+  validated: false
 - title: Automatic placement of authorization hooks in the linux security modules
     framework.
   authors:
@@ -89,6 +101,7 @@
   - Somesh Jha
   page_link: https://doi.org/10.1145/1102120.1102164
   discovered_artifact: null
+  validated: false
 - title: Password authenticated key exchange using hidden smooth subgroups.
   authors:
   - Craig Gentry
@@ -96,6 +109,7 @@
   - Zulfikar Ramzan
   page_link: https://doi.org/10.1145/1102120.1102160
   discovered_artifact: null
+  validated: false
 - title: A modular correctness proof of IEEE 802.11i and TLS.
   authors:
   - Changhua He
@@ -105,6 +119,7 @@
   - John C. Mitchell
   page_link: https://doi.org/10.1145/1102120.1102124
   discovered_artifact: null
+  validated: false
 - title: Applications of secure electronic voting to automated privacy-preserving
     troubleshooting.
   authors:
@@ -113,18 +128,21 @@
   - Helen J. Wang
   page_link: https://doi.org/10.1145/1102120.1102132
   discovered_artifact: null
+  validated: false
 - title: Preventing attribute information leakage in automated trust negotiation.
   authors:
   - Keith Irwin
   - Ting Yu 0001
   page_link: https://doi.org/10.1145/1102120.1102128
   discovered_artifact: null
+  validated: false
 - title: Modeling insider attacks on group key-exchange protocols.
   authors:
   - Jonathan Katz
   - Ji Sun Shin
   page_link: https://doi.org/10.1145/1102120.1102146
   discovered_artifact: http://www.cs.umd.edu/~jkatz/papers.html
+  validated: false
 - title: A framework for concrete reputation-systems with applications to history-based
     access control.
   authors:
@@ -133,11 +151,13 @@
   - Vladimiro Sassone
   page_link: https://doi.org/10.1145/1102120.1102155
   discovered_artifact: http://www.brics.dk/RS/05/23
+  validated: false
 - title: Secrecy types for a simulatable cryptographic library.
   authors:
   - Peeter Laud
   page_link: https://doi.org/10.1145/1102120.1102126
   discovered_artifact: null
+  validated: false
 - title: Automated trust negotiation using cryptographic credentials.
   authors:
   - Jiangtao Li 0001
@@ -145,6 +165,7 @@
   - William H. Winsborough
   page_link: https://doi.org/10.1145/1102120.1102129
   discovered_artifact: null
+  validated: false
 - title: 'Fast and automated generation of attack signatures: a basis for building
     self-protecting servers.'
   authors:
@@ -152,30 +173,35 @@
   - R. Sekar 0001
   page_link: https://doi.org/10.1145/1102120.1102150
   discovered_artifact: null
+  validated: false
 - title: Obfuscated databases and group privacy.
   authors:
   - Arvind Narayanan
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1145/1102120.1102135
   discovered_artifact: null
+  validated: false
 - title: Fast dictionary attacks on passwords using time-space tradeoff.
   authors:
   - Arvind Narayanan
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1145/1102120.1102168
   discovered_artifact: null
+  validated: false
 - title: New approaches for deniable authentication.
   authors:
   - Mario Di Raimondo
   - Rosario Gennaro
   page_link: https://doi.org/10.1145/1102120.1102137
   discovered_artifact: null
+  validated: false
 - title: Preventing format-string attacks via automatic and efficient dynamic checking.
   authors:
   - Michael F. Ringenburg
   - Dan Grossman
   page_link: https://doi.org/10.1145/1102120.1102166
   discovered_artifact: null
+  validated: false
 - title: An auctioning reputation system based on anomaly.
   authors:
   - Shai Rubin
@@ -187,11 +213,13 @@
   - Nicholas Kidd
   page_link: https://doi.org/10.1145/1102120.1102156
   discovered_artifact: null
+  validated: false
 - title: On authenticated computing and RSA-based authentication.
   authors:
   - Jean-Pierre Seifert
   page_link: https://doi.org/10.1145/1102120.1102138
   discovered_artifact: null
+  validated: false
 - title: Secure collaboration in mediator-free environments.
   authors:
   - Mohamed Shehab
@@ -199,6 +227,7 @@
   - Arif Ghafoor
   page_link: https://doi.org/10.1145/1102120.1102130
   discovered_artifact: null
+  validated: false
 - title: Misbehaving TCP receivers can cause internet-wide congestion collapse.
   authors:
   - Rob Sherwood
@@ -206,18 +235,21 @@
   - Ryan Braud
   page_link: https://doi.org/10.1145/1102120.1102170
   discovered_artifact: null
+  validated: false
 - title: Securing publish-subscribe overlay services with EventGuard.
   authors:
   - Mudhakar Srivatsa
   - Ling Liu 0001
   page_link: https://doi.org/10.1145/1102120.1102158
   discovered_artifact: null
+  validated: false
 - title: Countering DoS attacks with stateless multipath overlays.
   authors:
   - Angelos Stavrou
   - Angelos D. Keromytis
   page_link: https://doi.org/10.1145/1102120.1102153
   discovered_artifact: null
+  validated: false
 - title: Tracking anonymous peer-to-peer VoIP calls on the internet.
   authors:
   - Xinyuan Wang 0005
@@ -225,6 +257,7 @@
   - Sushil Jajodia
   page_link: https://doi.org/10.1145/1102120.1102133
   discovered_artifact: null
+  validated: false
 - title: 'PeerAccess: a logic for distributed authorization.'
   authors:
   - Marianne Winslett
@@ -232,6 +265,7 @@
   - Piero A. Bonatti
   page_link: https://doi.org/10.1145/1102120.1102144
   discovered_artifact: null
+  validated: false
 - title: Automatic diagnosis and response to memory corruption vulnerabilities.
   authors:
   - Jun Xu 0003
@@ -241,6 +275,7 @@
   - Christopher Bookholt
   page_link: https://doi.org/10.1145/1102120.1102151
   discovered_artifact: null
+  validated: false
 - title: On the cost-ineffectiveness of redundancy in commercial P2P computing.
   authors:
   - Matthew Yurkewych
@@ -248,6 +283,7 @@
   - Arnold L. Rosenberg
   page_link: https://doi.org/10.1145/1102120.1102157
   discovered_artifact: null
+  validated: false
 - title: Aggregated path authentication for efficient BGP security.
   authors:
   - Meiyuan Zhao
@@ -255,6 +291,7 @@
   - David M. Nicol
   page_link: https://doi.org/10.1145/1102120.1102139
   discovered_artifact: null
+  validated: false
 - title: Keyboard acoustic emanations revisited.
   authors:
   - Li Zhuang
@@ -262,3 +299,4 @@
   - J. D. Tygar
   page_link: https://doi.org/10.1145/1102120.1102169
   discovered_artifact: null
+  validated: false

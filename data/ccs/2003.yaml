@@ -5,6 +5,7 @@
   - Nicholas J. Hopper
   page_link: https://doi.org/10.1145/948109.948128
   discovered_artifact: null
+  validated: false
 - title: Origin authentication in interdomain routing.
   authors:
   - William Aiello
@@ -12,6 +13,7 @@
   - Patrick D. McDaniel
   page_link: https://doi.org/10.1145/948109.948133
   discovered_artifact: null
+  validated: false
 - title: A composable cryptographic library with nested operations.
   authors:
   - Michael Backes 0001
@@ -19,6 +21,7 @@
   - Michael Waidner
   page_link: https://doi.org/10.1145/948109.948140
   discovered_artifact: null
+  validated: false
 - title: Randomized instruction set emulation to disrupt binary code injection attacks.
   authors:
   - Elena Gabriela Barrantes
@@ -28,6 +31,7 @@
   - Dino Dai Zovi
   page_link: https://doi.org/10.1145/948109.948147
   discovered_artifact: null
+  validated: false
 - title: 'CDiff: a new reduction technique for constraint-based analysis of security
     protocols.'
   authors:
@@ -36,6 +40,7 @@
   - Luca Viganò 0001
   page_link: https://doi.org/10.1145/948109.948154
   discovered_artifact: null
+  validated: false
 - title: A new CRT-RSA algorithm secure against bellcore attacks.
   authors:
   - Johannes Blömer
@@ -43,6 +48,7 @@
   - Jean-Pierre Seifert
   page_link: https://doi.org/10.1145/948109.948151
   discovered_artifact: null
+  validated: false
 - title: Security proofs for an efficient password-based key exchange.
   authors:
   - Emmanuel Bresson
@@ -50,11 +56,13 @@
   - David Pointcheval
   page_link: https://doi.org/10.1145/948109.948142
   discovered_artifact: null
+  validated: false
 - title: On permissions, inheritance and role hierarchies.
   authors:
   - Jason Crampton
   page_link: https://doi.org/10.1145/948109.948123
   discovered_artifact: null
+  validated: false
 - title: On the performance, feasibility, and use of forward-secure signatures.
   authors:
   - Eric Cronin
@@ -63,6 +71,7 @@
   - Patrick D. McDaniel
   page_link: https://doi.org/10.1145/948109.948130
   discovered_artifact: null
+  validated: false
 - title: Balancing confidentiality and efficiency in untrusted relational DBMSs.
   authors:
   - Ernesto Damiani
@@ -72,6 +81,7 @@
   - Pierangela Samarati
   page_link: https://doi.org/10.1145/948109.948124
   discovered_artifact: null
+  validated: false
 - title: A pairwise key pre-distribution scheme for wireless sensor networks.
   authors:
   - Wenliang Du
@@ -80,6 +90,7 @@
   - Pramod K. Varshney
   page_link: https://doi.org/10.1145/948109.948118
   discovered_artifact: null
+  validated: false
 - title: Buffer overrun detection using linear programming and static analysis.
   authors:
   - Vinod Ganapathy
@@ -89,11 +100,13 @@
   - David Vitek
   page_link: https://doi.org/10.1145/948109.948155
   discovered_artifact: null
+  validated: false
 - title: Cryptographic tamper evidence.
   authors:
   - Gene Itkis
   page_link: https://doi.org/10.1145/948109.948156
   discovered_artifact: null
+  validated: false
 - title: 'Hop-count filtering: an effective defense against spoofed DDoS traffic.'
   authors:
   - Cheng Jin
@@ -101,6 +114,7 @@
   - Kang G. Shin
   page_link: https://doi.org/10.1145/948109.948116
   discovered_artifact: null
+  validated: false
 - title: 'The blocker tag: selective blocking of RFID tags for consumer privacy.'
   authors:
   - Ari Juels
@@ -108,12 +122,14 @@
   - Michael Szydlo
   page_link: https://doi.org/10.1145/948109.948126
   discovered_artifact: null
+  validated: false
 - title: Efficiency improvements for signature schemes with tight security reductions.
   authors:
   - Jonathan Katz
   - Nan Wang 0001
   page_link: https://doi.org/10.1145/948109.948132
   discovered_artifact: null
+  validated: false
 - title: DoS protection for UDP-based protocols.
   authors:
   - Charlie Kaufman
@@ -121,6 +137,7 @@
   - Bill Sommerfeld
   page_link: https://doi.org/10.1145/948109.948113
   discovered_artifact: null
+  validated: false
 - title: Countering code-injection attacks with instruction-set randomization.
   authors:
   - Gaurav S. Kc
@@ -128,24 +145,28 @@
   - Vassilis Prevelakis
   page_link: https://doi.org/10.1145/948109.948146
   discovered_artifact: null
+  validated: false
 - title: Anomaly detection of web-based attacks.
   authors:
   - Christopher Krügel
   - Giovanni Vigna
   page_link: https://doi.org/10.1145/948109.948144
   discovered_artifact: null
+  validated: false
 - title: Obfuscation of executable code to improve resistance to static disassembly.
   authors:
   - Cullen Linn
   - Saumya K. Debray
   page_link: https://doi.org/10.1145/948109.948149
   discovered_artifact: null
+  validated: false
 - title: Establishing pairwise keys in distributed sensor networks.
   authors:
   - Donggang Liu
   - Peng Ning
   page_link: https://doi.org/10.1145/948109.948119
   discovered_artifact: null
+  validated: false
 - title: Efficient self-healing group key distribution with revocation capability.
   authors:
   - Donggang Liu
@@ -153,6 +174,7 @@
   - Kun Sun 0001
   page_link: https://doi.org/10.1145/948109.948141
   discovered_artifact: null
+  validated: false
 - title: Incentive-based modeling and inference of attacker intent, objectives, and
     strategies.
   authors:
@@ -160,6 +182,7 @@
   - Wanyu Zang
   page_link: https://doi.org/10.1145/948109.948135
   discovered_artifact: null
+  validated: false
 - title: Automatic generation of two-party computations.
   authors:
   - Philip D. MacKenzie
@@ -167,6 +190,7 @@
   - Michael K. Reiter
   page_link: https://doi.org/10.1145/948109.948139
   discovered_artifact: null
+  validated: false
 - title: Using graphic turing tests to counter automated DDoS attacks against web
     servers.
   authors:
@@ -178,6 +202,7 @@
   - Dan Rubenstein
   page_link: https://doi.org/10.1145/948109.948114
   discovered_artifact: null
+  validated: false
 - title: XML access control using static analysis.
   authors:
   - Makoto Murata
@@ -186,18 +211,21 @@
   - Satoshi Hada
   page_link: https://doi.org/10.1145/948109.948122
   discovered_artifact: null
+  validated: false
 - title: Learning attack strategies from intrusion alerts.
   authors:
   - Peng Ning
   - Dingbang Xu
   page_link: https://doi.org/10.1145/948109.948137
   discovered_artifact: null
+  validated: false
 - title: Enhancing byte-level network intrusion detection signatures with context.
   authors:
   - Robin Sommer
   - Vern Paxson
   page_link: https://doi.org/10.1145/948109.948145
   discovered_artifact: null
+  validated: false
 - title: Robust correlation of encrypted attack traffic through stepping stones by
     manipulation of interpacket delays.
   authors:
@@ -205,6 +233,7 @@
   - Douglas S. Reeves
   page_link: https://doi.org/10.1145/948109.948115
   discovered_artifact: null
+  validated: false
 - title: Receiver anonymity via incomparable public keys.
   authors:
   - Brent R. Waters
@@ -212,12 +241,14 @@
   - Amit Sahai
   page_link: https://doi.org/10.1145/948109.948127
   discovered_artifact: null
+  validated: false
 - title: 'PPay: micropayments for peer-to-peer systems.'
   authors:
   - Beverly Yang
   - Hector Garcia-Molina
   page_link: https://doi.org/10.1145/948109.948150
   discovered_artifact: http://dbpubs.stanford.edu/pub/2003-31
+  validated: false
 - title: 'MECA: an extensible, expressive system and language for statically checking
     security properties.'
   authors:
@@ -227,6 +258,7 @@
   - Dawson R. Engler
   page_link: https://doi.org/10.1145/948109.948153
   discovered_artifact: null
+  validated: false
 - title: 'LEAP: efficient security mechanisms for large-scale distributed sensor networks.'
   authors:
   - Sencun Zhu
@@ -234,6 +266,7 @@
   - Sushil Jajodia
   page_link: https://doi.org/10.1145/948109.948120
   discovered_artifact: null
+  validated: false
 - title: Print signatures for document authentication.
   authors:
   - Baoshi Zhu
@@ -241,6 +274,7 @@
   - Mohan S. Kankanhalli
   page_link: https://doi.org/10.1145/948109.948131
   discovered_artifact: null
+  validated: false
 - title: Monitoring and early warning for internet worms.
   authors:
   - Cliff Changchun Zou
@@ -249,3 +283,4 @@
   - Donald F. Towsley
   page_link: https://doi.org/10.1145/948109.948136
   discovered_artifact: null
+  validated: false

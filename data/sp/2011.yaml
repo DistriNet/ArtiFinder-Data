@@ -7,6 +7,7 @@
   - Christian Wachsmann
   page_link: https://doi.org/10.1109/SP.2011.10
   discovered_artifact: null
+  validated: false
 - title: Mobile Security Catching Up? Revealing the Nuts and Bolts of the Security
     of Mobile Devices.
   authors:
@@ -18,6 +19,7 @@
   - Christopher Wolf
   page_link: https://doi.org/10.1109/SP.2011.29
   discovered_artifact: null
+  validated: false
 - title: The Failure of Noise-Based Non-continuous Audio Captchas.
   authors:
   - Elie Bursztein
@@ -28,6 +30,7 @@
   - John C. Mitchell
   page_link: https://doi.org/10.1109/SP.2011.14
   discovered_artifact: null
+  validated: false
 - title: 'OpenConflict: Preventing Real Time Map Hacks in Online Games.'
   authors:
   - Elie Bursztein
@@ -36,6 +39,7 @@
   - Dan Boneh
   page_link: https://doi.org/10.1109/SP.2011.28
   discovered_artifact: null
+  validated: false
 - title: '&quot;You Might Also Like:&quot; Privacy Risks of Collaborative Filtering.'
   authors:
   - Joseph A. Calandrino
@@ -45,6 +49,7 @@
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2011.40
   discovered_artifact: null
+  validated: false
 - title: 'Virtuoso: Narrowing the Semantic Gap in Virtual Machine Introspection.'
   authors:
   - Brendan Dolan-Gavitt
@@ -54,12 +59,14 @@
   - Wenke Lee
   page_link: https://doi.org/10.1109/SP.2011.11
   discovered_artifact: null
+  validated: false
 - title: 'Cryptography in the Web: The Case of Cryptographic Design Flaws in ASP.NET.'
   authors:
   - Thai Duong 0004
   - Juliano Rizzo
   page_link: https://doi.org/10.1109/SP.2011.42
   discovered_artifact: null
+  validated: false
 - title: The Complexity of Intransitive Noninterference.
   authors:
   - Sebastian Eggert
@@ -68,18 +75,21 @@
   - Thomas Wilke
   page_link: https://doi.org/10.1109/SP.2011.30
   discovered_artifact: null
+  validated: false
 - title: 'Preventing Sybil Attacks by Privilege Attenuation: A Design Principle for
     Social Network Systems.'
   authors:
   - Philip W. L. Fong
   page_link: https://doi.org/10.1109/SP.2011.16
   discovered_artifact: null
+  validated: false
 - title: 'RePriv: Re-imagining Content Personalization and In-browser Privacy.'
   authors:
   - Matthew Fredrikson
   - Benjamin Livshits
   page_link: https://doi.org/10.1109/SP.2011.37
   discovered_artifact: null
+  validated: false
 - title: Verified Security for Browser Extensions.
   authors:
   - Arjun Guha
@@ -88,6 +98,7 @@
   - Nikhil Swamy
   page_link: https://doi.org/10.1109/SP.2011.36
   discovered_artifact: null
+  validated: false
 - title: Cache Games -- Bringing Access-Based Cache Attacks on AES to Practice.
   authors:
   - David Gullasch
@@ -95,18 +106,21 @@
   - Stephan Krenn
   page_link: https://doi.org/10.1109/SP.2011.22
   discovered_artifact: null
+  validated: false
 - title: Formalizing Anonymous Blacklisting Systems.
   authors:
   - Ryan Henry
   - Ian Goldberg
   page_link: https://doi.org/10.1109/SP.2011.13
   discovered_artifact: null
+  validated: false
 - title: Extending Nymble-like Systems.
   authors:
   - Ryan Henry
   - Ian Goldberg
   page_link: https://doi.org/10.1109/SP.2011.17
   discovered_artifact: null
+  validated: false
 - title: 'TxBox: Building Secure, Efficient Sandboxes with System Transactions.'
   authors:
   - Suman Jana
@@ -114,6 +128,7 @@
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2011.33
   discovered_artifact: null
+  validated: false
 - title: 'Differential Slicing: Identifying Causal Execution Differences for Security
     Applications.'
   authors:
@@ -126,6 +141,7 @@
   - Dawn Song
   page_link: https://doi.org/10.1109/SP.2011.41
   discovered_artifact: null
+  validated: false
 - title: 'Timing- and Termination-Sensitive Secure Information Flow: Exploring a New
     Approach.'
   authors:
@@ -134,6 +150,7 @@
   - Ben Hardekopf
   page_link: https://doi.org/10.1109/SP.2011.19
   discovered_artifact: null
+  validated: false
 - title: 'Verifiability, Privacy, and Coercion-Resistance: New Insights from a Case
     Study.'
   authors:
@@ -142,6 +159,7 @@
   - Andreas Vogt 0001
   page_link: https://doi.org/10.1109/SP.2011.21
   discovered_artifact: null
+  validated: false
 - title: 'Click Trajectories: End-to-End Analysis of the Spam Value Chain.'
   authors:
   - Kirill Levchenko
@@ -161,6 +179,7 @@
   - Stefan Savage
   page_link: https://doi.org/10.1109/SP.2011.24
   discovered_artifact: null
+  validated: false
 - title: Verification of Information Flow and Access Control Policies with Dependent
     Types.
   authors:
@@ -169,6 +188,7 @@
   - Deepak Garg 0001
   page_link: https://doi.org/10.1109/SP.2011.12
   discovered_artifact: null
+  validated: false
 - title: 'PRISM: Program Replication and Integration for Seamless MILS.'
   authors:
   - Chris A. Owen
@@ -179,6 +199,7 @@
   - Michael Pope
   page_link: https://doi.org/10.1109/SP.2011.15
   discovered_artifact: null
+  validated: false
 - title: 'Memoir: Practical State Continuity for Protected Modules.'
   authors:
   - Bryan Parno
@@ -188,6 +209,7 @@
   - Jonathan M. McCune
   page_link: https://doi.org/10.1109/SP.2011.38
   discovered_artifact: null
+  validated: false
 - title: Quantifying Location Privacy.
   authors:
   - Reza Shokri
@@ -196,6 +218,7 @@
   - Jean-Pierre Hubaux
   page_link: https://doi.org/10.1109/SP.2011.18
   discovered_artifact: null
+  validated: false
 - title: 'Defeating UCI: Building Stealthy and Malicious Hardware.'
   authors:
   - Cynthia Sturton
@@ -204,6 +227,7 @@
   - Samuel T. King
   page_link: https://doi.org/10.1109/SP.2011.32
   discovered_artifact: null
+  validated: false
 - title: Automated Analysis of Security-Critical JavaScript APIs.
   authors:
   - Ankur Taly
@@ -213,6 +237,7 @@
   - Jasvir Nagra
   page_link: https://doi.org/10.1109/SP.2011.39
   discovered_artifact: null
+  validated: false
 - title: Design and Evaluation of a Real-Time URL Spam Filtering Service.
   authors:
   - Kurt Thomas
@@ -222,18 +247,21 @@
   - Dawn Song
   page_link: https://doi.org/10.1109/SP.2011.25
   discovered_artifact: null
+  validated: false
 - title: Inference of Expressive Declassification Policies.
   authors:
   - Jeffrey A. Vaughan
   - Stephen Chong
   page_link: https://doi.org/10.1109/SP.2011.20
   discovered_artifact: null
+  validated: false
 - title: Silencing Hardware Backdoors.
   authors:
   - Adam Waksman
   - Simha Sethumadhavan
   page_link: https://doi.org/10.1109/SP.2011.27
   discovered_artifact: null
+  validated: false
 - title: How to Shop for Free Online -- Security Analysis of Cashier-as-a-Service
     Based Web Stores.
   authors:
@@ -243,6 +271,7 @@
   - Shaz Qadeer
   page_link: https://doi.org/10.1109/SP.2011.26
   discovered_artifact: null
+  validated: false
 - title: 'I Still Know What You Visited Last Summer: Leaking Browsing History via
     User Interaction and Side Channel Attacks.'
   authors:
@@ -252,6 +281,7 @@
   - Collin Jackson
   page_link: https://doi.org/10.1109/SP.2011.23
   discovered_artifact: null
+  validated: false
 - title: 'Phonotactic Reconstruction of Encrypted VoIP Conversations: Hookt on Fon-iks.'
   authors:
   - Andrew M. White 0002
@@ -260,6 +290,7 @@
   - Fabian Monrose
   page_link: https://doi.org/10.1109/SP.2011.34
   discovered_artifact: null
+  validated: false
 - title: 'Using Fingerprint Authentication to Reduce System Security: An Empirical
     Study.'
   authors:
@@ -267,6 +298,7 @@
   - Lorie M. Liebrock
   page_link: https://doi.org/10.1109/SP.2011.35
   discovered_artifact: null
+  validated: false
 - title: 'SCION: Scalability, Control, and Isolation on Next-Generation Networks.'
   authors:
   - Xin Zhang 0003
@@ -277,6 +309,7 @@
   - David G. Andersen
   page_link: https://doi.org/10.1109/SP.2011.45
   discovered_artifact: null
+  validated: false
 - title: 'HomeAlone: Co-residency Detection in the Cloud via Side-Channel Analysis.'
   authors:
   - Yinqian Zhang
@@ -285,3 +318,4 @@
   - Michael K. Reiter
   page_link: https://doi.org/10.1109/SP.2011.31
   discovered_artifact: null
+  validated: false

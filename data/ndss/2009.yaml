@@ -6,6 +6,7 @@
   - Dominique Unruh
   page_link: https://www.ndss-symposium.org/ndss2009/csar-practical-and-provable-technique-make-randomized-systems-accountable/
   discovered_artifact: http://peerreview.mpi-sws.org/
+  validated: false
 - title: Scalable, Behavior-Based Malware Clustering.
   authors:
   - Ulrich Bayer
@@ -15,6 +16,7 @@
   - Engin Kirda
   page_link: https://www.ndss-symposium.org/ndss2009/scalable-behavior-based-malware-clustering/
   discovered_artifact: null
+  validated: false
 - title: Analyzing and Comparing the Protection Quality of Security Enhanced Operating
     Systems.
   authors:
@@ -23,6 +25,7 @@
   - Ziqing Mao
   page_link: https://www.ndss-symposium.org/ndss2009/analyzing-and-comparing-the-protection-quality-of-security-enhanced-operating-systems/
   discovered_artifact: null
+  validated: false
 - title: Two-Party Computation Model for Privacy-Preserving Queries over Distributed
     Databases.
   authors:
@@ -31,6 +34,7 @@
   - Lakshminarayanan Subramanian
   page_link: https://www.ndss-symposium.org/ndss2009/two-party-computation-model-privacy-preserving-queries-over-distributed-databases/
   discovered_artifact: null
+  validated: false
 - title: Recursive DNS Architectures and Vulnerability Implications.
   authors:
   - David Dagon
@@ -41,17 +45,20 @@
   - Wenke Lee
   page_link: https://www.ndss-symposium.org/ndss2009/recursive-dns-architectures-and-vulnerability-implications/
   discovered_artifact: null
+  validated: false
 - title: 'SybilInfer: Detecting Sybil Nodes using Social Networks.'
   authors:
   - George Danezis
   - Prateek Mittal
   page_link: https://www.ndss-symposium.org/ndss2009/sybillnfer-detecting-sybil-nodes-using-social-networks/
   discovered_artifact: null
+  validated: false
 - title: Coordinated Scan Detection.
   authors:
   - Carrie Gates
   page_link: https://www.ndss-symposium.org/ndss2009/coordinated-scan-detection/
   discovered_artifact: null
+  validated: false
 - title: 'Noncespaces: Using Randomization to Enforce Information Flow Tracking and
     Thwart Cross-Site Scripting Attacks.'
   authors:
@@ -59,6 +66,7 @@
   - Hao Chen 0003
   page_link: https://www.ndss-symposium.org/ndss2009/noncespaces-using-randomization-to-enforce-information-flow-tracking-and-thwart-cross-site-scripting-attacks/
   discovered_artifact: null
+  validated: false
 - title: 'RAINBOW: A Robust And Invisible Non-Blind Watermark for Network Flows.'
   authors:
   - Amir Houmansadr
@@ -66,6 +74,7 @@
   - Nikita Borisov
   page_link: https://www.ndss-symposium.org/ndss2009/rainbow-a-robust-and-invisible-non-blind-watermark-for-network-flows/
   discovered_artifact: null
+  validated: false
 - title: 'RB-Seeker: Auto-detection of Redirection Botnets.'
   authors:
   - Xin Hu 0001
@@ -73,6 +82,7 @@
   - Kang G. Shin
   page_link: https://www.ndss-symposium.org/ndss2009/rb-seeker-auto-detection-of-redirection-botnets/
   discovered_artifact: null
+  validated: false
 - title: Conditioned-safe Ceremonies and a User Study of an Application to Web Authentication.
   authors:
   - Chris Karlof
@@ -80,6 +90,7 @@
   - David A. Wagner 0001
   page_link: https://www.ndss-symposium.org/ndss2009/conditioned-safe-ceremonies-and-user-study-application-web-authentication/
   discovered_artifact: null
+  validated: false
 - title: 'K-Tracer: A System for Extracting Kernel Malware Behavior.'
   authors:
   - Andrea Lanzi
@@ -87,6 +98,7 @@
   - Wenke Lee
   page_link: https://www.ndss-symposium.org/ndss2009/k-tracer-system-extracting-kernel-malware-behavior/
   discovered_artifact: null
+  validated: false
 - title: Safe Passage for Passwords and Other Sensitive Data.
   authors:
   - Jonathan M. McCune
@@ -94,6 +106,7 @@
   - Michael K. Reiter
   page_link: https://www.ndss-symposium.org/ndss2009/safe-passage-for-passwords-and-other-sensitive-data/
   discovered_artifact: null
+  validated: false
 - title: 'Document Structure Integrity: A Robust Basis for Cross-site Scripting Defense.'
   authors:
   - Yacin Nadji
@@ -101,11 +114,13 @@
   - Dawn Song
   page_link: https://www.ndss-symposium.org/ndss2009/document-structure-integrity-a-robust-basis-for-cross-site-scripting-defense/
   discovered_artifact: null
+  validated: false
 - title: An Efficient Black-box Technique for Defeating Web Application Attacks.
   authors:
   - R. Sekar 0001
   page_link: https://www.ndss-symposium.org/ndss2009/an-efficient-black-box-technique-for-defeating-web-application-attacks/
   discovered_artifact: null
+  validated: false
 - title: 'Spectrogram: A Mixture-of-Markov-Chains Model for Anomaly Detection in Web
     Traffic.'
   authors:
@@ -114,6 +129,7 @@
   - Salvatore J. Stolfo
   page_link: https://www.ndss-symposium.org/ndss2009/spectrogram-mixture-markov-chains-model-anomaly-detection-web-traffic/
   discovered_artifact: http://www.cs.columbia.edu/ids/
+  validated: false
 - title: 'IntScope: Automatically Detecting Integer Overflow Vulnerability in X86
     Binary Using Symbolic Execution.'
   authors:
@@ -123,6 +139,7 @@
   - Wei Zou
   page_link: https://www.ndss-symposium.org/ndss2009/intscope-automatically-detecting-integer-overflow-vulnerability-in-x86-binary-using-symbolic-execution/
   discovered_artifact: null
+  validated: false
 - title: Detecting Forged TCP Reset Packets.
   authors:
   - Nicholas Weaver
@@ -130,6 +147,7 @@
   - Vern Paxson
   page_link: https://www.ndss-symposium.org/ndss2009/detecting-forged-tcp-reset-packets/
   discovered_artifact: null
+  validated: false
 - title: 'The Blind Stone Tablet: Outsourcing Durability to Untrusted Parties.'
   authors:
   - Peter Williams
@@ -137,6 +155,7 @@
   - Dennis E. Shasha
   page_link: https://www.ndss-symposium.org/ndss2009/the-blind-stone-tablet-outsourcing-durability-to-untrusted-parties/
   discovered_artifact: null
+  validated: false
 - title: 'Traffic Morphing: An Efficient Defense Against Statistical Traffic Analysis.'
   authors:
   - Charles V. Wright
@@ -144,3 +163,4 @@
   - Fabian Monrose
   page_link: https://www.ndss-symposium.org/ndss2009/traffic-morphing-efficient-defense-against-statistical-traffic-analysis/
   discovered_artifact: null
+  validated: false

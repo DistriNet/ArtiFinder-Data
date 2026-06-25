@@ -3,6 +3,7 @@
   - Karthikeyan Bhargavan and Gaetan Leurent
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/transcript-collision-attacks-breaking-authentication-tls-ike-ssh.pdf
   discovered_artifact: null
+  validated: false
 - title: 'TLS in the Wild: An Internet-wide Analysis of TLS-based Protocols for Electronic
     Communication'
   authors:
@@ -12,11 +13,13 @@
   - Mohamed Ali Kaafar and Matthias Wachs
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/tls-wild-internet-wide-analysis-tls-based-protocols-electronic-communication.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Killed by Proxy: Analyzing Client-end TLS Interception Software'
   authors:
   - Xavier de Carné de Carnavalet and Mohammad Mannan
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/killed-proxy-analyzing-client-end-tls-interception-software.pdf
   discovered_artifact: null
+  validated: false
 - title: SIBRA: Scalable Internet Bandwidth Reservation Architecture
   authors:
   - Cristina Basescu
@@ -28,6 +31,7 @@
   - Ayumu Kubota and Jumpei Urakawa
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/sibra-scalable-internet-bandwidth-reservation-architecture.pdf
   discovered_artifact: null
+  validated: false
 - title: Don’t Forget to Lock the Back Door! A Characterization of IPv6 Network Security
     Policy
   authors:
@@ -36,6 +40,7 @@
   - Mark Allman and Michael Bailey
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/dont-forget-lock-back-door-characterization-ipv6-network-security-policy.pdf
   discovered_artifact: http://www.caida.org/tools/measurement/scamper/
+  validated: false
 - title: Attacking the Network Time Protocol
   authors:
   - Aanchal Malhotra
@@ -43,6 +48,7 @@
   - Erik Brakke and Sharon Goldberg
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/attacking-network-time-protocol.pdf
   discovered_artifact: http://www.cs.bu.edu/~goldbe/NTPattack.html
+  validated: false
 - title: 'SPIFFY: Inducing Cost-Detectability Tradeoffs for Persistent Link-Flooding
     Attacks'
   authors:
@@ -50,6 +56,7 @@
   - Virgil D. Gligor and Vyas Sekar
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/spiffy-inducing-cost-detectability-tradeoffs-persistent-link-flooding-attacks.pdf
   discovered_artifact: null
+  validated: false
 - title: 'CrossFire: An Analysis of Firefox Extension-Reuse Vulnerabilities'
   authors:
   - Ahmet Buyukkayhan
@@ -57,6 +64,7 @@
   - William Robertson and Engin Kirda
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/crossfire-analysis-firefox-extension-reuse-vulnerabilities.pdf
   discovered_artifact: null
+  validated: false
 - title: 'It’s Free for a Reason: Exploring the Ecosystem of Free Live Streaming Services'
   authors:
   - M. Zubair Rafique
@@ -65,6 +73,7 @@
   - Christophe Huygens and Nick Nikiforakis
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/free-reason-exploring-ecosystem-free-live-streaming-services.pdf
   discovered_artifact: null
+  validated: false
 - title: Attack Patterns for Black-Box Security Testing of Multi-Party Web Applications
   authors:
   - Avinash Sudhodanan
@@ -72,6 +81,7 @@
   - Roberto Carbone and Luca Compagna
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/attack-patterns-black-box-security-testing-multi-party-web-applications.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Are these Ads Safe: Detecting Hidden Attacks through the Mobile App-Web
     Interfaces'
   authors:
@@ -82,6 +92,7 @@
   - Shihong Zou and Ryan Riley
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/ads-safe-detecting-hidden-attacks-through-mobile-app-web-interfaces.pdf
   discovered_artifact: null
+  validated: false
 - title: Enabling Practical Software-defined Networking Security Applications with
     OFX
   authors:
@@ -90,6 +101,7 @@
   - Adam J. Aviv and Eric Keller
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/enabling-practical-software-defined-networking-security-applications-ofx.pdf
   discovered_artifact: null
+  validated: false
 - title: Forwarding-Loop Attacks in Content Delivery Networks
   authors:
   - Jianjun Chen
@@ -100,6 +112,7 @@
   - Tao Wan and Vern Paxson
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/forwarding-loop-attacks-content-delivery-networks.pdf
   discovered_artifact: null
+  validated: false
 - title: 'CDN-on-Demand:  An affordable DDoS Defense via Untrusted Clouds'
   authors:
   - Yossi Gilad
@@ -107,6 +120,7 @@
   - Michael Sudkovitch and Michael Goberman
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/cdn-on-demand-affordable-ddos-defense-via-untrusted-clouds.pdf
   discovered_artifact: null
+  validated: false
 - title: Towards SDN-Defined Programmable BYOD (Bring Your Own Device) Security
   authors:
   - Sungmin Hong
@@ -115,16 +129,19 @@
   - Srinath Nadimpalli and Guofei Gu
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/towards-sdn-defined-programmable-bring-your-own-device-security.pdf
   discovered_artifact: null
+  validated: false
 - title: Centrally Banked Cryptocurrencies
   authors:
   - George Danezis and Sarah Meiklejohn
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/centrally-banked-cryptocurrencies.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Equihash: Asymmetric Proof-of-Work Based on the Generalized Birthday Problem'
   authors:
   - Alex Biryukov and Dmitry Khovratovich
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/equihash-asymmetric-proof-of-work-based-generalized-birthday-problem.pdf
   discovered_artifact: null
+  validated: false
 - title: A Simple Generic Attack on Text Captchas
   authors:
   - Haichang Gao
@@ -138,6 +155,7 @@
   - Xuqin Wang and Jiawei Li
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/simple-generic-attack-text-captchas.pdf
   discovered_artifact: null
+  validated: false
 - title: 'You are a Game Bot!: Uncovering Game Bots in MMORPGs via Self-similarity
     in the Wild'
   authors:
@@ -147,12 +165,14 @@
   - Aziz Mohaisen and Huy Kang Kim
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/you-are-game-bot-uncovering-game-bots-mmorpgs-via-self-similarity-wild.pdf
   discovered_artifact: null
+  validated: false
 - title: Tracking Mobile Web Users Through Motion Sensors: Attacks and Defenses
   authors:
   - Anupam Das
   - Nikita Borisov and Matthew Caesar
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/tracking-mobile-web-users-through-motion-sensors-attacks-defenses.pdf
   discovered_artifact: null
+  validated: false
 - title: 'The Price of Free: Privacy Leakage in Personalized Mobile In-Apps Ads'
   authors:
   - Wei Meng
@@ -161,12 +181,14 @@
   - Steven Han and Wenke Lee
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/price-of-free-privacy-leakage-personalized-mobile-in-app-ads.pdf
   discovered_artifact: null
+  validated: false
 - title: What Mobile Ads Know About Mobile Users
   authors:
   - Sooel Son
   - Daehyeok Kim and Vitaly Shmatikov
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/what-mobile-ads-know-about-mobile-users.pdf
   discovered_artifact: null
+  validated: false
 - title: Free for All! Assessing User Data Exposure to Advertising Libraries on Android
   authors:
   - Soteris Demetriou
@@ -175,6 +197,7 @@
   - Aston Zhang and Carl A. Gunter
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/free-for-all-assessing-user-data-exposure-advertising-libraries-android.pdf
   discovered_artifact: null
+  validated: false
 - title: Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication
     Systems
   authors:
@@ -184,17 +207,20 @@
   - N. Asokan and Valtteri Niemi
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/practical-attacks-against-privacy-availability-4g-lte-mobile-communication-systems.pdf
   discovered_artifact: https://github.com/darshakframework/darshak
+  validated: false
 - title: Towards Automated Dynamic Analysis for Linux-based Embedded Firmware
   authors:
   - Daming D. Chen
   - Maverick Woo and David Brumley and Manuel Egele
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf
   discovered_artifact: https://github.com/firmadyne/
+  validated: false
 - title: discovRE: Efficient Cross-Architecture Identification of Bugs in Binary Code
   authors:
   - Sebastian Eschweiler and Khaled Yakdan and Elmar Gerhards-Padilla
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/discovre-efficient-cross-architecture-identification-bugs-binary-code.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Driller: Augmenting Fuzzing Through Selective Symbolic Execution'
   authors:
   - Nick Stephens
@@ -207,6 +233,7 @@
   - Christopher Kruegel and Giovanni Vigna
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf
   discovered_artifact: null
+  validated: false
 - title: VTrust: Regaining Trust on Virtual Calls
   authors:
   - Chao Zhang and Dawn Song
@@ -214,12 +241,14 @@
   - Tongxin Li and Yu Ding and Chengyu Song
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/vtrust-regaining-trust-virtual-calls.pdf
   discovered_artifact: null
+  validated: false
 - title: Protecting C++ Dynamic Dispatch Through VTable Interleaving
   authors:
   - Dimitar Bounov
   - Rami Gökhan Kıcı and Sorin Lerner
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/protecting-cpp-dynamic-dispatch-through-vtable-interleaving.pdf
   discovered_artifact: http://clang.llvm.org/docs/ControlFlowIntegrityDesign.html
+  validated: false
 - title: 'ProTracer: Towards Practical Provenance Tracing by Alternating Between Logging
     and Tainting'
   authors:
@@ -227,6 +256,7 @@
   - Xiangyu Zhang and Dongyan Xu
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/protracer-towards-practical-provenance-tracing-alternating-logging-tainting.pdf
   discovered_artifact: null
+  validated: false
 - title: Who’s in Control of Your Control System? Device Fingerprinting for Cyber-Physical
     Systems
   authors:
@@ -236,6 +266,7 @@
   - Jonathan Rogers and Raheem Beyah
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/who-control-your-control-system-device-fingerprinting-cyber-physical-systems.pdf
   discovered_artifact: null
+  validated: false
 - title: 'SKEE: A lightweight Secure Kernel-level Execution Environment for ARM'
   authors:
   - Ahmed Azab
@@ -246,6 +277,7 @@
   - Ruowen Wang and Peng Ning
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/skee-lightweight-secure-kernel-level-execution-environment-for-arm.pdf
   discovered_artifact: null
+  validated: false
 - title: 'OpenSGX: An Open Platform for SGX Research'
   authors:
   - Prerit Jain
@@ -258,17 +290,20 @@
   - Brent Byunghoon Kang and Dongsu Han
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/opensgx-open-platform-sgx-research.pdf
   discovered_artifact: null
+  validated: false
 - title: Efficient Private Statistics with Succinct Sketches
   authors:
   - Luca Melis
   - George Danezis and Emiliano De Cristofaro
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/efficient-private-statistics-with-succinct-sketches.pdf
   discovered_artifact: https://github.com/indutny/elliptic
+  validated: false
 - title: 'Dependence Makes You Vulnerable: Differential Privacy Under Dependent Tuples'
   authors:
   - Changchang Liu and Prateek Mittal and Supriyo Chakraborty
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/dependence-makes-you-vulnerable-differential-privacy-under-dependent-tuples.pdf
   discovered_artifact: null
+  validated: false
 - title: Privacy-Preserving Shortest Path Computation
   authors:
   - David J. Wu
@@ -276,11 +311,13 @@
   - Jérémy Planul and John C. Mitchell
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/privacy-preserving-shortest-path-computation.pdf
   discovered_artifact: null
+  validated: false
 - title: 'LinkMirage: Enabling Privacy-preserving Analytics on Social Relationships'
   authors:
   - Changchang Liu and Prateek Mittal
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/linkmirage-enabling-privacy-preserving-analytics-social-relationships.pdf
   discovered_artifact: null
+  validated: false
 - title: Do You See What I See? Differential Treatment of Anonymous Users
   authors:
   - Sheharbano Khattak
@@ -290,6 +327,7 @@
   - Vern Paxson and Steven J. Murdoch
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/do-you-see-what-i-see-differential-treatment-anonymous-users.pdf
   discovered_artifact: null
+  validated: false
 - title: Measuring and Mitigating AS-level Adversaries Against Tor
   authors:
   - Rishab Nithyanand
@@ -297,6 +335,7 @@
   - Adva Zair and Michael Schapira
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/measuring-mitigating-as-level-adversaries-against-tor.pdf
   discovered_artifact: http://nrg.cs.stonybrook.edu/astoria-as-aware-relay-selection-for-tor/
+  validated: false
 - title: Website Fingerprinting at Internet Scale
   authors:
   - Andriy Panchenko
@@ -306,6 +345,7 @@
   - Martin Henze and Klaus Wehrle
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/website-fingerprinting-internet-scale.pdf
   discovered_artifact: https://blog.torproject.org/blog/critique-website-traffic-fingerprinting-attacks
+  validated: false
 - title: 'Extract Me If You Can: Abusing PDF Parsers in Malware Detectors'
   authors:
   - Curtis Carmony
@@ -313,12 +353,14 @@
   - Heng Yin and Abhishek Vasisht and Mu Zhang
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/extract-me-if-you-can-abusing-pdf-parsers-malware-detectors.pdf
   discovered_artifact: https://goo.gl/qtbuOC
+  validated: false
 - title: 'Automatically Evading Classifiers: A Case Study on PDF Malware Classifiers'
   authors:
   - Weilin Xu
   - Yanjun Qi and David Evans
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/automatically-evading-classifiers.pdf
   discovered_artifact: http://www.evadeML.org
+  validated: false
 - title: 'Cache, Trigger, Impersonate:  Enabling Context-Sensitive Honeyclient Analysis
     On-the-Wire'
   authors:
@@ -327,18 +369,21 @@
   - Nathan Otterness and Fabian Monrose
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/cache-trigger-impersonate-enabling-context-sensitive-honeyclient-analysis-wire.pdf
   discovered_artifact: null
+  validated: false
 - title: 'LO-PHI: Low-Observable Physical Host Instrumentation for Malware Analysis'
   authors:
   - Chad Spensky
   - Hongyi Hu and Kevin Leach
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/lo-phi-low-observable-physical-host-instrumentation-malware-analysis.pdf
   discovered_artifact: http://github.com/mit-ll/LO-PHI
+  validated: false
 - title: 'When a Tree Falls:  Using Diversity in Ensemble Classifiers to Identify
     Evasion in Malware Detectors'
   authors:
   - Charles Smutz and Angelos Stavrou
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/when-tree-falls-using-diversity-ensemble-classifiers-identify-evasion-malware-detectors.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Kratos: Discovering Inconsistent Security Policy Enforcement in the Android
     Framework'
   authors:
@@ -347,12 +392,14 @@
   - Jason Ott and Zhiyun Qian
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/kratos-discovering-inconsistent-security-policy-enforcement-android-framework_0.pdf
   discovered_artifact: http://tinyurl.com/kratos15
+  validated: false
 - title: 'How to Make ASLR Win the Clone Wars: Runtime Re-Randomization'
   authors:
   - Kangjie Lu and Wenke Lee
   - Stefan Nürnberger and Michael Backes
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/how-make-aslr-win-clone-wars-runtime-re-randomization.pdf
   discovered_artifact: null
+  validated: false
 - title: Leakage-Resilient Layout Randomization for Mobile Devices
   authors:
   - Kjell Braden
@@ -363,6 +410,7 @@
   - Michael Franz and Per Larsen
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/leakage-resilient-layout-randomization-mobile-devices.pdf
   discovered_artifact: null
+  validated: false
 - title: Enabling Client-Side Crash-Resistance to Overcome Diversification and Information
     Hiding
   authors:
@@ -372,6 +420,7 @@
   - Behrad Garmany and Thorsten Holz
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/enabling-client-side-crash-resistance-overcome-diversification-information-hiding.pdf
   discovered_artifact: https://github.com/cea-sec/miasm
+  validated: false
 - title: Enforcing Kernel Security Invariants with Data Flow Integrity
   authors:
   - Chengyu Song
@@ -381,6 +430,7 @@
   - Taesoo Kim and Wenke Lee
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/enforcing-kernal-security-invariants-data-flow-integrity.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical
     Native-Code Sandboxing Policy'
   authors:
@@ -392,6 +442,7 @@
   - Adam Doupe and Mario Polino
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/going-native-large-scale-analysis-android-apps-practical-native-code-sandboxing-policy.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Life after App Uninstallation: Are the Data Still Alive? Data Residue Attacks
     on Android'
   authors:
@@ -401,6 +452,7 @@
   - Zhenshen Qiu and Wenliang Du
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/life-after-app-installation-data-still-alive-data-residue-attacks-android.pdf
   discovered_artifact: null
+  validated: false
 - title: 'FLEXDROID: Enforcing In-App Privilege Separation in Android'
   authors:
   - Jaebaek Seo
@@ -409,12 +461,14 @@
   - Insik Shin and Taesoo Kim
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/flexdroid-enforcing-in-app-privilege-separation-android.pdf
   discovered_artifact: null
+  validated: false
 - title: IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android
     Malware
   authors:
   - Michelle Y. Wong and David Lie
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/intellidroid-targeted-input-generator-dynamic-analysis-android-malware.pdf
   discovered_artifact: null
+  validated: false
 - title: Harvesting Runtime Values in Android Applications That Feature Anti-Analysis
     Techniques
   authors:
@@ -423,6 +477,7 @@
   - Marc Miltenberger and Eric Bodden
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/harvesting-runtime-values-android-applications-feature-anti-analysis-techniques.pdf
   discovered_artifact: null
+  validated: false
 - title: Automatic Forgery of Cryptographically Consistent Messages to Identify Security
     Vulnerabilities in Mobile Services
   authors:
@@ -431,12 +486,14 @@
   - Zhiqiang Lin and Rui Wang
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/automatic-forgery-cryptographically-consistent-messages-identify-security-vulnerabilities.pdf
   discovered_artifact: null
+  validated: false
 - title: Differentially Private Password Frequency Lists
   authors:
   - Jeremiah Blocki
   - Anupam Datta and Joseph Bonneau
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/differentially-private-password-frequency-lists.pdf
   discovered_artifact: null
+  validated: false
 - title: Who Are You? A Statistical Approach to Measuring User Authenticity
   authors:
   - David Freeman
@@ -445,6 +502,7 @@
   - Battista Biggio and Giorgio Giacinto
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/who-are-you-statistical-approach-measuring-user-authenticity.pdf
   discovered_artifact: null
+  validated: false
 - title: 'Pitfalls in Designing Zero-Effort Deauthentication: Opportunistic Human
     Observation Attacks'
   authors:
@@ -455,6 +513,7 @@
   - Nitesh Saxena and N. Asokan
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/pitfalls-designing-zero-effort-deauthentication-opportunistic-human-observation-attacks.pdf
   discovered_artifact: null
+  validated: false
 - title: 'VISIBLE: Video-Assisted Keystroke Inference from Tablet Backside Motion'
   authors:
   - Jingchao Sun
@@ -464,3 +523,4 @@
   - Yanchao Zhang and Rui Zhang
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/visible-video-assisted-keystroke-inference-tablet-backside-motion.pdf
   discovered_artifact: null
+  validated: false

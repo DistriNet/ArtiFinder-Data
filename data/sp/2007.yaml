@@ -7,12 +7,14 @@
   - Berk Sunar
   page_link: https://doi.org/10.1109/SP.2007.36
   discovered_artifact: null
+  validated: false
 - title: 'Gradual Release: Unifying Declassification, Encryption and Key Release Policies.'
   authors:
   - Aslan Askarov
   - Andrei Sabelfeld
   page_link: https://doi.org/10.1109/SP.2007.22
   discovered_artifact: null
+  validated: false
 - title: Ciphertext-Policy Attribute-Based Encryption.
   authors:
   - John Bethencourt
@@ -20,6 +22,7 @@
   - Brent Waters
   page_link: https://doi.org/10.1109/SP.2007.11
   discovered_artifact: null
+  validated: false
 - title: Endorsed E-Cash.
   authors:
   - Jan Camenisch
@@ -27,6 +30,7 @@
   - Mira Meyerovich
   page_link: https://doi.org/10.1109/SP.2007.15
   discovered_artifact: null
+  validated: false
 - title: 'ShieldGen: Automatic Data Patch Generation for Unknown Vulnerabilities with
     Informed Probing.'
   authors:
@@ -36,23 +40,27 @@
   - Michael E. Locasto
   page_link: https://doi.org/10.1109/SP.2007.34
   discovered_artifact: null
+  validated: false
 - title: Attacking the IPsec Standards in Encryption-only Configurations.
   authors:
   - Jean Paul Degabriele
   - Kenneth G. Paterson
   page_link: https://doi.org/10.1109/SP.2007.8
   discovered_artifact: null
+  validated: false
 - title: Improving the Robustness of Private Information Retrieval.
   authors:
   - Ian Goldberg
   page_link: https://doi.org/10.1109/SP.2007.23
   discovered_artifact: null
+  validated: false
 - title: Accurate Real-time Identification of IP Prefix Hijacking.
   authors:
   - Xin Hu
   - Zhuoqing Morley Mao
   page_link: https://doi.org/10.1109/SP.2007.7
   discovered_artifact: null
+  validated: false
 - title: 'Moats and Drawbridges: An Isolation Primitive for Reconfigurable Hardware
     Based Systems.'
   authors:
@@ -66,6 +74,7 @@
   - Cynthia E. Irvine
   page_link: https://doi.org/10.1109/SP.2007.28
   discovered_artifact: null
+  validated: false
 - title: Usable Mandatory Integrity Protection for Operating Systems.
   authors:
   - Ninghui Li
@@ -73,6 +82,7 @@
   - Hong Chen
   page_link: https://doi.org/10.1109/SP.2007.37
   discovered_artifact: null
+  validated: false
 - title: A Systematic Approach to Uncover Security Flaws in GUI Logic.
   authors:
   - José Meseguer 0001
@@ -81,6 +91,7 @@
   - Yi-Min Wang
   page_link: https://doi.org/10.1109/SP.2007.6
   discovered_artifact: null
+  validated: false
 - title: Exploring Multiple Execution Paths for Malware Analysis.
   authors:
   - Andreas Moser
@@ -88,6 +99,7 @@
   - Engin Kirda
   page_link: https://doi.org/10.1109/SP.2007.17
   discovered_artifact: null
+  validated: false
 - title: 'Beyond Stack Inspection: A Unified Access-Control and Information-Flow Security
     Model.'
   authors:
@@ -96,6 +108,7 @@
   - David A. Naumann
   page_link: https://doi.org/10.1109/SP.2007.10
   discovered_artifact: null
+  validated: false
 - title: The Emperor&apos;s New Security Indicators.
   authors:
   - Stuart E. Schechter
@@ -104,6 +117,7 @@
   - Ian Fischer
   page_link: https://doi.org/10.1109/SP.2007.35
   discovered_artifact: null
+  validated: false
 - title: Multi-Dimensional Range Query over Encrypted Data.
   authors:
   - Elaine Shi
@@ -113,6 +127,7 @@
   - Adrian Perrig
   page_link: https://doi.org/10.1109/SP.2007.29
   discovered_artifact: null
+  validated: false
 - title: On the Optimal Communication Complexity of Multiphase Protocols for Perfect
     Communication.
   authors:
@@ -121,12 +136,14 @@
   - C. Pandu Rangan
   page_link: https://doi.org/10.1109/SP.2007.31
   discovered_artifact: null
+  validated: false
 - title: A Cryptographic Decentralized Label Model.
   authors:
   - Jeffrey A. Vaughan
   - Steve Zdancewic
   page_link: https://doi.org/10.1109/SP.2007.5
   discovered_artifact: null
+  validated: false
 - title: Network Flow Watermarking Attack on Low-Latency Anonymous Communication Systems.
   authors:
   - Xinyuan Wang 0005
@@ -134,6 +151,7 @@
   - Sushil Jajodia
   page_link: https://doi.org/10.1109/SP.2007.30
   discovered_artifact: null
+  validated: false
 - title: DSSS-Based Flow Marking Technique for Invisible Traceback.
   authors:
   - Wei Yu 0002
@@ -143,6 +161,7 @@
   - Wei Zhao 0001
   page_link: https://doi.org/10.1109/SP.2007.14
   discovered_artifact: null
+  validated: false
 - title: On the Safety and Efficiency of Firewall Policy Deployment.
   authors:
   - Charles C. Zhang
@@ -150,6 +169,7 @@
   - Carl A. Gunter
   page_link: https://doi.org/10.1109/SP.2007.32
   discovered_artifact: null
+  validated: false
 - title: Minimal TCB Code Execution.
   authors:
   - Jonathan M. McCune
@@ -159,3 +179,4 @@
   - Arvind Seshadri
   page_link: https://doi.org/10.1109/SP.2007.27
   discovered_artifact: null
+  validated: false

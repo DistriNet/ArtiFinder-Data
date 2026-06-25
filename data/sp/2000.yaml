@@ -5,6 +5,7 @@
   - Mike Spreitzer
   page_link: https://doi.org/10.1109/SECPRI.2000.848443
   discovered_artifact: null
+  validated: false
 - title: 'Searching for a Solution: Engineering Tradeoffs and the Evolution of Provably
     Secure Protocols.'
   authors:
@@ -12,28 +13,33 @@
   - Jeremy L. Jacob
   page_link: https://doi.org/10.1109/SECPRI.2000.848447
   discovered_artifact: null
+  validated: false
 - title: A More Efficient Use of Delta-CRLs.
   authors:
   - David A. Cooper
   page_link: https://doi.org/10.1109/SECPRI.2000.848456
   discovered_artifact: null
+  validated: false
 - title: IRM Enforcement of Java Stack Inspection.
   authors:
   - Úlfar Erlingsson
   - Fred B. Schneider
   page_link: https://doi.org/10.1109/SECPRI.2000.848461
   discovered_artifact: null
+  validated: false
 - title: 'LOMAC: Low Water-Mark Integrity Protection for COTS Environments.'
   authors:
   - Timothy Fraser
   page_link: https://doi.org/10.1109/SECPRI.2000.848460
   discovered_artifact: null
+  validated: false
 - title: Authentication Tests.
   authors:
   - Joshua D. Guttman
   - F. Javier Thayer
   page_link: https://doi.org/10.1109/SECPRI.2000.848448
   discovered_artifact: null
+  validated: false
 - title: 'Access Control Meets Public Key Infrastructure, Or: Assigning Roles to Strangers.'
   authors:
   - Amir Herzberg
@@ -43,6 +49,7 @@
   - Yiftach Ravid
   page_link: https://doi.org/10.1109/SECPRI.2000.848442
   discovered_artifact: null
+  validated: false
 - title: Using Conservation of Flow as a Security Mechanism in Network Protocols.
   authors:
   - John R. Hughes
@@ -50,17 +57,20 @@
   - Matt Bishop
   page_link: https://doi.org/10.1109/SECPRI.2000.848451
   discovered_artifact: null
+  validated: false
 - title: Logic Induction of Valid Behavior Specifications for Intrusion Detection.
   authors:
   - Calvin Ko
   page_link: https://doi.org/10.1109/SECPRI.2000.848452
   discovered_artifact: null
+  validated: false
 - title: An Efficient, Dynamic and Trust Preserving Public Key Infrastructure.
   authors:
   - Albert Levi
   - M. Ufuk Çaglayan
   page_link: https://doi.org/10.1109/SECPRI.2000.848458
   discovered_artifact: null
+  validated: false
 - title: A Practically Implementable and Tractable Delegation Logic.
   authors:
   - Ninghui Li
@@ -68,6 +78,7 @@
   - Joan Feigenbaum
   page_link: https://doi.org/10.1109/SECPRI.2000.848444
   discovered_artifact: null
+  validated: false
 - title: 'Fang: A Firewall Analysis Engine.'
   authors:
   - Alain J. Mayer
@@ -75,12 +86,14 @@
   - Elisha Ziskind
   page_link: https://doi.org/10.1109/SECPRI.2000.848455
   discovered_artifact: null
+  validated: false
 - title: Protocol-Independent Secrecy.
   authors:
   - Jonathan K. Millen
   - Harald Rueß
   page_link: https://doi.org/10.1109/SECPRI.2000.848449
   discovered_artifact: null
+  validated: false
 - title: Efficient Authentication and Signing of Multicast Streams over Lossy Channels.
   authors:
   - Adrian Perrig
@@ -89,12 +102,14 @@
   - Dawn Xiaodong Song
   page_link: https://doi.org/10.1109/SECPRI.2000.848446
   discovered_artifact: null
+  validated: false
 - title: Using Model Checking to Analyze Network Vulnerabilities.
   authors:
   - Ronald W. Ritchey
   - Paul Ammann
   page_link: https://doi.org/10.1109/SECPRI.2000.848453
   discovered_artifact: null
+  validated: false
 - title: 'Kronos: A Scalable Group Re-Keying Approach for Secure Multicast.'
   authors:
   - Sanjeev Setia
@@ -103,12 +118,14 @@
   - Eric Harder
   page_link: https://doi.org/10.1109/SECPRI.2000.848459
   discovered_artifact: Kronos.group
+  validated: false
 - title: Verifying the EROS Confinement Mechanism.
   authors:
   - Jonathan S. Shapiro
   - Sam Weber
   page_link: https://doi.org/10.1109/SECPRI.2000.848454
   discovered_artifact: null
+  validated: false
 - title: Practical Techniques for Searches on Encrypted Data.
   authors:
   - Dawn Xiaodong Song
@@ -116,3 +133,4 @@
   - Adrian Perrig
   page_link: https://doi.org/10.1109/SECPRI.2000.848445
   discovered_artifact: null
+  validated: false

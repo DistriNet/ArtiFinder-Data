@@ -1,0 +1,603 @@
+- title: 'Nibbler: debloating binary shared libraries.'
+  authors:
+  - Ioannis Agadakos
+  - Di Jin
+  - David Williams-King
+  - Vasileios P. Kemerlis
+  - Georgios Portokalidis
+  page_link: https://doi.org/10.1145/3359789.3359823
+  discovered_artifact: null
+  validated: false
+- title: 'SIP shaker: software integrity protection composition.'
+  authors:
+  - Mohsen Ahmadvand
+  - Dennis Fischer 0002
+  - Sebastian Banescu
+  page_link: https://doi.org/10.1145/3359789.3359848
+  discovered_artifact: https://github.com/mr-ma/sip-shaker-artifact/
+  validated: false
+- title: Function boundary detection in stripped binaries.
+  authors:
+  - Jim Alves-Foss
+  - Jia Song 0006
+  page_link: https://doi.org/10.1145/3359789.3359825
+  discovered_artifact: https://github.com/CenterForSecureAndDependableSystems/FunctionBoundary
+  validated: false
+- title: Improving intrusion detectors by crook-sourcing.
+  authors:
+  - Frederico Araujo
+  - Gbadebo Ayoade
+  - Khaled Al-Naami
+  - Yang Gao 0027
+  - Kevin W. Hamlen
+  - Latifur Khan
+  page_link: https://doi.org/10.1145/3359789.3359822
+  discovered_artifact: https://github.com/cyberdeception/deepdig
+  validated: false
+- title: 'WooKey: designing a trusted and efficient USB device.'
+  authors:
+  - Ryad Benadjila
+  - Arnauld Michelizza
+  - Mathieu Renard
+  - Philippe Thierry
+  - Philippe Trebuchet
+  page_link: https://doi.org/10.1145/3359789.3359802
+  discovered_artifact: https://wookey-project.github.io/
+  validated: false
+- title: 'DR.SGX: automated and adjustable side-channel protection for SGX using data
+    location randomization.'
+  authors:
+  - Ferdinand Brasser
+  - Srdjan Capkun
+  - Alexandra Dmitrienko
+  - Tommaso Frassetto
+  - Kari Kostiainen
+  - Ahmad-Reza Sadeghi
+  page_link: https://doi.org/10.1145/3359789.3359809
+  discovered_artifact: null
+  validated: false
+- title: 'Survivor: a fine-grained intrusion response and recovery approach for commodity
+    operating systems.'
+  authors:
+  - Ronny Chevalier
+  - David Plaquin
+  - Chris I. Dalton
+  - Guillaume Hiet
+  page_link: https://doi.org/10.1145/3359789.3359792
+  discovered_artifact: null
+  validated: false
+- title: Detecting (absent) app-to-app authentication on cross-device short-distance
+    channels.
+  authors:
+  - Stefano Cristalli
+  - Long Lu
+  - Danilo Bruschi
+  - Andrea Lanzi
+  page_link: https://doi.org/10.1145/3359789.3359814
+  discovered_artifact: null
+  validated: false
+- title: 'Out of control: stealthy attacks against robotic vehicles protected by control-based
+    techniques.'
+  authors:
+  - Pritam Dash
+  - Mehdi Karimibiuki
+  - Karthik Pattabiraman
+  page_link: https://doi.org/10.1145/3359789.3359847
+  discovered_artifact: https://github.com/DependableSystemsLab/stealthy-attacks
+  validated: false
+- title: Leveraging locality of reference for certificate revocation.
+  authors:
+  - Luke Dickinson
+  - Trevor Smith 0002
+  - Kent E. Seamons
+  page_link: https://doi.org/10.1145/3359789.3359819
+  discovered_artifact: null
+  validated: false
+- title: 'JStap: a static pre-filter for malicious JavaScript detection.'
+  authors:
+  - Aurore Fass
+  - Michael Backes 0001
+  - Ben Stock
+  page_link: https://doi.org/10.1145/3359789.3359813
+  discovered_artifact: https://github.com/Aurore54F/JStap
+  validated: false
+- title: 'SIMPLE: single-frame based physical layer identification for intrusion detection
+    and prevention on in-vehicle networks.'
+  authors:
+  - Mahsa Foruhandeh
+  - Yanmao Man
+  - Ryan M. Gerdes
+  - Ming Li 0003
+  - Thidapat Chantem
+  page_link: https://doi.org/10.1145/3359789.3359834
+  discovered_artifact: https://github.com/harry1993/simple-dataset
+  validated: false
+- title: 'STRIP: a defence against trojan attacks on deep neural networks.'
+  authors:
+  - Yansong Gao 0001
+  - Chang Xu 0002
+  - Derui Wang
+  - Shiping Chen 0001
+  - Damith Chinthana Ranasinghe
+  - Surya Nepal
+  page_link: https://doi.org/10.1145/3359789.3359790
+  discovered_artifact: https://github.com/garrisongys/STRIP
+  validated: false
+- title: 'Koinonia: verifiable e-voting with long-term privacy.'
+  authors:
+  - Huangyi Ge
+  - Sze Yiu Chau
+  - Victor E. Gonsalves
+  - Huian Li
+  - Tianhao Wang 0001
+  - Xukai Zou
+  - Ninghui Li
+  page_link: https://doi.org/10.1145/3359789.3359804
+  discovered_artifact: https://github.com/gehuangyi20/Koinonia
+  validated: false
+- title: 'A game of &quot;Cut and Mouse&quot;: bypassing antivirus by simulating user
+    inputs.'
+  authors:
+  - Ziya Alper Genç
+  - Gabriele Lenzini
+  - Daniele Sgandurra
+  page_link: https://doi.org/10.1145/3359789.3359844
+  discovered_artifact: null
+  validated: false
+- title: Progressive processing of system-behavioral query.
+  authors:
+  - Jiaping Gui
+  - Xusheng Xiao
+  - Ding Li 0001
+  - Chung Hwan Kim
+  - Haifeng Chen
+  page_link: https://doi.org/10.1145/3359789.3359818
+  discovered_artifact: null
+  validated: false
+- title: 'I know what you did last login: inconsistent messages tell existence of
+    a target&apos;s account to insiders.'
+  authors:
+  - Ayako Akiyama Hasegawa
+  - Takuya Watanabe 0001
+  - Eitaro Shioji
+  - Mitsuaki Akiyama
+  page_link: https://doi.org/10.1145/3359789.3359832
+  discovered_artifact: null
+  validated: false
+- title: 'Sleak: automating address space layout derandomization.'
+  authors:
+  - Christophe Hauser
+  - Jayakrishna Menon
+  - Yan Shoshitaishvili
+  - Ruoyu Wang 0001
+  - Giovanni Vigna
+  - Christopher Kruegel
+  page_link: https://doi.org/10.1145/3359789.3359820
+  discovered_artifact: null
+  validated: false
+- title: Model inversion attacks against collaborative inference.
+  authors:
+  - Zecheng He
+  - Tianwei Zhang 0004
+  - Ruby B. Lee
+  page_link: https://doi.org/10.1145/3359789.3359824
+  discovered_artifact: https://github.com/zechenghe/Inverse_Collaborative_Inference
+  validated: false
+- title: 'The chatty-sensor: a provably-covert channel in cyber physical systems.'
+  authors:
+  - Amir Herzberg
+  - Yehonatan Kfir
+  page_link: https://doi.org/10.1145/3359789.3359794
+  discovered_artifact: null
+  validated: false
+- title: 'FuzzBuilder: automated building greybox fuzzing environment for C/C++ library.'
+  authors:
+  - Joonun Jang
+  - Huy Kang Kim
+  page_link: https://doi.org/10.1145/3359789.3359846
+  discovered_artifact: https://github.com/hksecurity/FuzzBuilder
+  validated: false
+- title: 'TF-BIV: transparent and fine-grained binary integrity verification in the
+    cloud.'
+  authors:
+  - Fangjie Jiang
+  - Quanwei Cai 0001
+  - Jingqiang Lin 0001
+  - Bo Luo
+  - Le Guan
+  - Ziqiang Ma
+  page_link: https://doi.org/10.1145/3359789.3359795
+  discovered_artifact: null
+  validated: false
+- title: Proof of aliveness.
+  authors:
+  - Chenglu Jin
+  - Zheng Yang 0001
+  - Marten van Dijk
+  - Jianying Zhou 0001
+  page_link: https://doi.org/10.1145/3359789.3359827
+  discovered_artifact: null
+  validated: false
+- title: 'Neurlux: dynamic malware analysis without feature engineering.'
+  authors:
+  - Chani Jindal
+  - Christopher Salls
+  - Hojjat Aghakhani
+  - Keith Long
+  - Christopher Kruegel
+  - Giovanni Vigna
+  page_link: https://doi.org/10.1145/3359789.3359835
+  discovered_artifact: null
+  validated: false
+- title: 'Opening Pandora&apos;s box through ATFuzzer: dynamic analysis of AT interface
+    for Android smartphones.'
+  authors:
+  - Imtiaz Karim
+  - Fabrizio Cicala
+  - Syed Rafiul Hussain
+  - Omar Chowdhury
+  - Elisa Bertino
+  page_link: https://doi.org/10.1145/3359789.3359833
+  discovered_artifact: https://github.com/Imtiazkarimik23/ATFuzzer
+  validated: false
+- title: 'EIGER: automated IOC generation for accurate and interpretable endpoint
+    malware detection.'
+  authors:
+  - Yuma Kurogome
+  - Yuto Otsuki
+  - Yuhei Kawakoya
+  - Makoto Iwamura
+  - Syogo Hayashi
+  - Tatsuya Mori
+  - Koushik Sen
+  page_link: https://doi.org/10.1145/3359789.3359808
+  discovered_artifact: https://github.com/malrev/eiger
+  validated: false
+- title: 'How to prove your model belongs to you: a blind-watermark based framework
+    to protect intellectual property of DNN.'
+  authors:
+  - Zheng Li 0023
+  - Chengyu Hu 0001
+  - Yang Zhang 0016
+  - Shanqing Guo
+  page_link: https://doi.org/10.1145/3359789.3359801
+  discovered_artifact: https://github.com/zhenglisec/Blind-Watermark-for-DNN
+  validated: false
+- title: 'D2NN: a fine-grained dual modular redundancy framework for deep neural networks.'
+  authors:
+  - Yu Li 0007
+  - Yannan Liu
+  - Min Li 0019
+  - Ye Tian 0010
+  - Bo Luo
+  - Qiang Xu 0001
+  page_link: https://doi.org/10.1145/3359789.3359831
+  discovered_artifact: null
+  validated: false
+- title: An empirical study of SMS one-time password authentication in Android apps.
+  authors:
+  - Siqi Ma
+  - Runhan Feng
+  - Juanru Li
+  - Yang Liu 0118
+  - Surya Nepal
+  - Diethelm Ostry
+  - Elisa Bertino
+  - Robert H. Deng
+  - Zhuo Ma 0001
+  - Sanjay Jha 0001
+  page_link: https://doi.org/10.1145/3359789.3359828
+  discovered_artifact: null
+  validated: false
+- title: Privacy preserving substring search protocol with polylogarithmic communication
+    cost.
+  authors:
+  - Nicholas Mainardi
+  - Alessandro Barenghi
+  - Gerardo Pelosi
+  page_link: https://doi.org/10.1145/3359789.3359842
+  discovered_artifact: https://dx.doi.org/10.5281/zenodo.3384814
+  validated: false
+- title: 'Speculator: a tool to analyze speculative execution attacks and mitigations.'
+  authors:
+  - Andrea Mambretti
+  - Matthias Neugschwandtner
+  - Alessandro Sorniotti
+  - Engin Kirda
+  - William K. Robertson
+  - Anil Kurmus
+  page_link: https://doi.org/10.1145/3359789.3359837
+  discovered_artifact: https://github.com/ibm-research/speculator
+  validated: false
+- title: Detecting organized eCommerce fraud using scalable categorical clustering.
+  authors:
+  - Samuel Marchal
+  - Sebastian Szyller
+  page_link: https://doi.org/10.1145/3359789.3359810
+  discovered_artifact: https://github.com/SSGAalto/recagglo
+  validated: false
+- title: 'SecDATAVIEW: a secure big data workflow management system for heterogeneous
+    computing environments.'
+  authors:
+  - Saeid Mofrad
+  - Ishtiaq Ahmed
+  - Shiyong Lu
+  - Ping Yang 0002
+  - Heming Cui
+  - Fengwei Zhang
+  page_link: https://doi.org/10.1145/3359789.3359845
+  discovered_artifact: https://github.com/shiyonglu/SecDATAVIEW
+  validated: false
+- title: 'Challenge-response behavioral mobile authentication: a comparative study
+    of graphical patterns and cognitive games.'
+  authors:
+  - Manar Mohamed
+  - Prakash Shrestha
+  - Nitesh Saxena
+  page_link: https://doi.org/10.1145/3359789.3359838
+  discovered_artifact: null
+  validated: false
+- title: Analyzing control flow integrity with LLVM-CFI.
+  authors:
+  - Paul Muntean 0001
+  - Matthias Neumayer
+  - Zhiqiang Lin 0001
+  - Gang Tan
+  - Jens Grossklags
+  - Claudia Eckert 0001
+  page_link: https://doi.org/10.1145/3359789.3359806
+  discovered_artifact: https://github.com/TeamVault/LLVM-CFI.git
+  validated: false
+- title: 'Cubismo: decloaking server-side malware via cubist program analysis.'
+  authors:
+  - Abbas Naderi-Afooshteh
+  - Yonghwi Kwon 0001
+  - Anh Nguyen-Tuong
+  - Mandana Bagheri-Marzijarani
+  - Jack W. Davidson
+  page_link: https://doi.org/10.1145/3359789.3359821
+  discovered_artifact: null
+  validated: false
+- title: Coordinated dataflow protection for ultra-high bandwidth science networks.
+  authors:
+  - Vasudevan Nagendra
+  - Vinod Yegneswaran
+  - Phillip A. Porras
+  - Samir R. Das
+  page_link: https://doi.org/10.1145/3359789.3359843
+  discovered_artifact: null
+  validated: false
+- title: 'MalRank: a measure of maliciousness in SIEM-based knowledge graphs.'
+  authors:
+  - Pejman Najafi
+  - Alexander Mühle
+  - Wenzel Pünter
+  - Feng Cheng 0002
+  - Christoph Meinel
+  page_link: https://doi.org/10.1145/3359789.3359791
+  discovered_artifact: null
+  validated: false
+- title: 'PDoT: private DNS-over-TLS with TEE support.'
+  authors:
+  - Yoshimichi Nakatsuka
+  - Andrew Paverd
+  - Gene Tsudik
+  page_link: https://doi.org/10.1145/3359789.3359793
+  discovered_artifact: https://github.com/sprout-uci/PDoT
+  validated: false
+- title: 'FRAMER: a tagged-pointer capability system with memory safety applications.'
+  authors:
+  - Myoung Jin Nam
+  - Periklis Akritidis
+  - David J. Greaves
+  page_link: https://doi.org/10.1145/3359789.3359799
+  discovered_artifact: null
+  validated: false
+- title: 'How to kill symbolic deobfuscation for free (or: unleashing the potential
+    of path-oriented protections).'
+  authors:
+  - Mathilde Ollivier
+  - Sébastien Bardin
+  - Richard Bonichon
+  - Jean-Yves Marion
+  page_link: https://doi.org/10.1145/3359789.3359812
+  discovered_artifact: https://github.com/trailofbits/manticore
+  validated: false
+- title: 'AppVeto: mobile application self-defense through resource access veto.'
+  authors:
+  - Tousif Osman
+  - Mohammad Mannan
+  - Urs Hengartner
+  - Amr M. Youssef
+  page_link: https://doi.org/10.1145/3359789.3359839
+  discovered_artifact: https://github.com/tousifosman/app-veto
+  validated: false
+- title: Mitigating data leakage by protecting memory-resident sensitive data.
+  authors:
+  - Tapti Palit
+  - Fabian Monrose
+  - Michalis Polychronakis
+  page_link: https://doi.org/10.1145/3359789.3359815
+  discovered_artifact: null
+  validated: false
+- title: 'VPS: excavating high-level C++ constructs from low-level binaries to protect
+    dynamic dispatching.'
+  authors:
+  - Andre Pawlowski
+  - Victor van der Veen
+  - Dennis Andriesse
+  - Erik van der Kouwe
+  - Thorsten Holz
+  - Cristiano Giuffrida
+  - Herbert Bos
+  page_link: https://doi.org/10.1145/3359789.3359797
+  discovered_artifact: https://github.com/RUB-SysSec/VPS
+  validated: false
+- title: 'Systematic comparison of symbolic execution systems: intermediate representation
+    and its generation.'
+  authors:
+  - Sebastian Poeplau
+  - Aurélien Francillon
+  page_link: https://doi.org/10.1145/3359789.3359796
+  discovered_artifact: http://www.s3.eurecom.fr/tools/symbolic_execution/
+  validated: false
+- title: 'HDMI-walk: attacking HDMI distribution networks via consumer electronic
+    control protocol.'
+  authors:
+  - Luis Puche Rondon
+  - Leonardo Babun
+  - Kemal Akkaya
+  - A. Selcuk Uluagac
+  page_link: https://doi.org/10.1145/3359789.3359841
+  discovered_artifact: null
+  validated: false
+- title: 'BakingTimer: privacy analysis of server-side request processing time.'
+  authors:
+  - Iskander Sánchez-Rola
+  - Davide Balzarotti
+  - Igor Santos
+  page_link: https://doi.org/10.1145/3359789.3359803
+  discovered_artifact: null
+  validated: false
+- title: Mining least privilege attribute based access control policies.
+  authors:
+  - Matthew W. Sanders
+  - Chuan Yue
+  page_link: https://doi.org/10.1145/3359789.3359805
+  discovered_artifact: null
+  validated: false
+- title: Revisiting utility metrics for location privacy-preserving mechanisms.
+  authors:
+  - Virat Shejwalkar
+  - Amir Houmansadr
+  - Hossein Pishro-Nik
+  - Dennis Goeckel
+  page_link: https://doi.org/10.1145/3359789.3359829
+  discovered_artifact: null
+  validated: false
+- title: 'Aegis: a context-aware security framework for smart home systems.'
+  authors:
+  - Amit Kumar Sikder
+  - Leonardo Babun
+  - Hidayet Aksu
+  - A. Selcuk Uluagac
+  page_link: https://doi.org/10.1145/3359789.3359840
+  discovered_artifact: null
+  validated: false
+- title: Robust keystroke transcription from the acoustic side-channel.
+  authors:
+  - David Slater
+  - Scott Novotney
+  - Jessica Moore
+  - Sean Morgan
+  - Scott Tenaglia
+  page_link: https://doi.org/10.1145/3359789.3359816
+  discovered_artifact: null
+  validated: false
+- title: 'Premadoma: an operational solution for DNS registries to prevent malicious
+    domain registrations.'
+  authors:
+  - Jan Spooren
+  - Thomas Vissers
+  - Peter Janssen
+  - Wouter Joosen
+  - Lieven Desmet
+  page_link: https://doi.org/10.1145/3359789.3359836
+  discovered_artifact: null
+  validated: false
+- title: Co-evaluation of pattern matching algorithms on IoT devices with embedded
+    GPUs.
+  authors:
+  - Charalampos Stylianopoulos
+  - Simon Kindström
+  - Magnus Almgren
+  - Olaf Landsiedel
+  - Marina Papatriantafilou
+  page_link: https://doi.org/10.1145/3359789.3359811
+  discovered_artifact: null
+  validated: false
+- title: 'Will you trust this TLS certificate?: perceptions of people working in IT.'
+  authors:
+  - Martin Ukrop
+  - Lydia Kraus
+  - Vashek Matyas
+  - Heider Ahmad Mutleq Wahsheh
+  page_link: https://doi.org/10.1145/3359789.3359800
+  discovered_artifact: https://crocs.fi.muni.cz/papers/acsac2019
+  validated: false
+- title: '&quot;Your hashed IP address: Ubuntu.&quot;: perspectives on transparency
+    tools for online advertising.'
+  authors:
+  - Tobias Urban
+  - Martin Degeling
+  - Thorsten Holz
+  - Norbert Pohlmann
+  page_link: https://doi.org/10.1145/3359789.3359798
+  discovered_artifact: null
+  validated: false
+- title: 'My script engines know what you did in the dark: converting engines into
+    script API tracers.'
+  authors:
+  - Toshinori Usui
+  - Yuto Otsuki
+  - Yuhei Kawakoya
+  - Makoto Iwamura
+  - Jun Miyoshi
+  - Kanta Matsuura
+  page_link: https://doi.org/10.1145/3359789.3359849
+  discovered_artifact: null
+  validated: false
+- title: 'Whisper: a unilateral defense against VoIP traffic re-identification attacks.'
+  authors:
+  - Tavish Vaidya
+  - Timothy Walsh 0002
+  - Micah Sherr
+  page_link: https://doi.org/10.1145/3359789.3359807
+  discovered_artifact: https://www.whisperIntoVoIP.com
+  validated: false
+- title: Defeating hidden audio channel attacks on voice assistants via audio-induced
+    surface vibrations.
+  authors:
+  - Chen Wang 0009
+  - S. Abhishek Anand
+  - Jian Liu 0001
+  - Payton Walker
+  - Yingying Chen 0001
+  - Nitesh Saxena
+  page_link: https://doi.org/10.1145/3359789.3359830
+  discovered_artifact: null
+  validated: false
+- title: 'Casino royale: a deep exploration of illegal online gambling.'
+  authors:
+  - Hao Yang
+  - Kun Du
+  - Yubao Zhang
+  - Shuang Hao 0001
+  - Zhou Li 0001
+  - Mingxuan Liu
+  - Haining Wang 0001
+  - Hai-Xin Duan
+  - Yazhou Shi
+  - XiaoDong Su
+  - Guang Liu
+  - Zhifeng Geng
+  - Jianping Wu
+  page_link: https://doi.org/10.1145/3359789.3359817
+  discovered_artifact: null
+  validated: false
+- title: 'SRFuzzer: an automatic fuzzing framework for physical SOHO router devices
+    to discover multi-type vulnerabilities.'
+  authors:
+  - Yu Zhang
+  - Wei Huo
+  - Kunpeng Jian
+  - Ji Shi 0002
+  - Haoliang Lu
+  - Longquan Liu
+  - Chen Wang
+  - Dandan Sun
+  - Chao Zhang 0008
+  - Baoxu Liu
+  page_link: https://doi.org/10.1145/3359789.3359826
+  discovered_artifact: null
+  validated: false

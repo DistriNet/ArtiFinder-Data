@@ -1,0 +1,35 @@
+name: Manual artifact validation
+description: The preferred way for submitting corrections and manual validations is through a pull request. Only use this issue form if creating a pull request is difficult for you.
+title: "[Validation]: "
+body:
+  - type: input
+    attributes:
+      label: Paper title
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Year
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Conference name
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: The link in the database was already correct
+      options:
+        - required: false
+  - type: input
+    attributes:
+      label: New artifact link
+      description: Fill this out only if the detected link was incorrect.
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: The paper contains the newly submitted link
+      options:
+        - required: false

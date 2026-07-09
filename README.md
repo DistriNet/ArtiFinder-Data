@@ -2,7 +2,7 @@
 
 This repository contains automatically extracted artifact links from cybersecurity papers.
 The dataset currently contains all papers published between 2000--2025 at IEEE S&P, ACM CCS, NDSS, and USENIX Security, and all papers published between 2017--2025 at ACSAC.
-To manually validate entries or submit corrections, please submit a pull request or an issue.
+To manually validate entries or submit corrections, please submit a pull request or an [issue](https://github.com/DistriNet/ArtiFinder-Data/issues/new?template=validation.yml).
 
 For more information, please refer to the [ArtiFinder](https://github.com/DistriNet/ArtiFinder) repository and our USENIX Security 2026 [paper](https://daanvs.be/files/usenix-share.pdf):
 

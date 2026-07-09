@@ -19,9 +19,10 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: The link in the database was already correct
+      label: Validation or fix?
       options:
         - required: false
+          label: The link in the database was already correct
   - type: input
     attributes:
       label: New artifact link
@@ -30,6 +31,7 @@ body:
       required: false
   - type: checkboxes
     attributes:
-      label: The paper contains the newly submitted link
+      label: Link in paper?
       options:
         - required: false
+          label: The published paper PDF contains the newly submitted link

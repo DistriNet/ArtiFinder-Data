@@ -11,7 +11,8 @@
   - Yunshu Mao
   - Xiangyu Zhang 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00078
-  discovered_artifact: https://github.com/Gwinhen/InherentBackdoor
+  artifacts_discovered:
+  - https://github.com/Gwinhen/InherentBackdoor
   validated: false
 - title: Adversarially Guided Stateful Defense Against Backdoor Attacks in Federated
     Deep Learning.
@@ -21,7 +22,8 @@
   - Salil S. Kanhere
   - Sanjay K. Jha
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00070
-  discovered_artifact: https://github.com/hassanalikhatim/AGSD
+  artifacts_discovered:
+  - https://github.com/hassanalikhatim/AGSD
   validated: false
 - title: 'FLUENT: A Tool for Efficient Mixed-Protocol Semi-Private Function Evaluation.'
   authors:
@@ -30,7 +32,11 @@
   - Thomas Schneider 0003
   - Hossein Yalame
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00066
-  discovered_artifact: https://encrypto.de/code/FLUENT
+  artifacts_discovered:
+  - https://encrypto.de/code/FLUENT
+  - https://encrypto.de/code/FLUENT.734
+  - https://encrypto.de/code/FLUENT.734Authorized
+  - https://encrypto.de/code/
   validated: false
 - title: 'Rust for Linux: Understanding the Security Impact of Rust in the Linux Kernel.'
   authors:
@@ -40,7 +46,8 @@
   - Jerry Zhang
   - Anton Burtsev
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00054
-  discovered_artifact: https://github.com/mars-research/rfl-artifacts
+  artifacts_discovered:
+  - https://github.com/mars-research/rfl-artifacts
   validated: false
 - title: A Fly on the Wall - Exploiting Acoustic Side-Channels in Differential Pressure
     Sensors.
@@ -51,7 +58,7 @@
   - Anomadarshi Barua
   - Mohammad Abdullah Al Faruque
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00034
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Eunomia: A Real-time Privacy Compliance Firewall for Alexa Skills.'
   authors:
@@ -60,7 +67,8 @@
   - Razvan Beuran
   - Bo Luo
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00061
-  discovered_artifact: https://github.com/Eunomia-skills
+  artifacts_discovered:
+  - https://github.com/Eunomia-skills
   validated: false
 - title: 'BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on
     Printability and Cell Viability.'
@@ -73,7 +81,7 @@
   - Nastassja Lewinski
   - Irfan Ahmed 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00036
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Robust Device Authentication in Multi-Node Networks: ML-Assisted Hybrid
     PLA Exploiting Hardware Impairments.'
@@ -83,7 +91,8 @@
   - Valeria Loscrì
   - Hossien B. Eldeeb
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00094
-  discovered_artifact: https://github.com/PLA-AP/PLA
+  artifacts_discovered:
+  - https://github.com/PLA-AP/PLA
   validated: false
 - title: 'BinHunter: A Fine-Grained Graph Representation for Localizing Vulnerabilities
     in Binary Executables*.'
@@ -93,7 +102,7 @@
   - Mukund Raghothaman
   - Christophe Hauser
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00087
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical Light Clients for Committee-Based Blockchains.
   authors:
@@ -102,7 +111,7 @@
   - Malcom Mohamed
   - Christiane Weis
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00049
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'BlueScream: Screaming Channels on Bluetooth Low Energy.'
   authors:
@@ -111,14 +120,20 @@
   - Aurélien Francillon
   - Clémentine Maurice
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00060
-  discovered_artifact: https://github.com/pierreay/screaming_channels_ble
+  artifacts_discovered:
+  - https://github.com/pierreay/screaming_channels_ble
   validated: false
 - title: 'R+R: Towards Reliable and Generalizable Differentially Private Machine Learning.'
   authors:
   - Wenxuan Bao
   - Vincent Bindschaedler
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00062
-  discovered_artifact: https://github.com/wenxuan-Bao/
+  artifacts_discovered:
+  - https://github.com/wenxuan-Bao/
+  - https://github.com/wenxuan-Bao/Reliable-and-Generalizable-DPML
+  - https://github.com/facebookresearch/tan
+  - https://github.com/wenxuan-Bao/DP-Mix
+  - https://github.com/inspire-group/DP-RandP
   validated: false
 - title: Efficient Secure Aggregation for Privacy-Preserving Federated Machine Learning.
   authors:
@@ -129,7 +144,8 @@
   - Balaji Padmanabhan
   - Thang Hoang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00069
-  discovered_artifact: https://github.com/vt-asaplab/e-SeaFL
+  artifacts_discovered:
+  - https://github.com/vt-asaplab/e-SeaFL
   validated: false
 - title: 'VaktBLE: A Benevolent Man-in-the-Middle Bridge to Guard against Malevolent
     BLE Connections.'
@@ -141,7 +157,8 @@
   - Sumei Sun
   - Ernest Kurniawan
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00059
-  discovered_artifact: https://github.com/asset-group/vakt-ble-defender
+  artifacts_discovered:
+  - https://github.com/asset-group/vakt-ble-defender
   validated: false
 - title: 'SECURE: Benchmarking Large Language Models for Cybersecurity.'
   authors:
@@ -156,7 +173,9 @@
   - Benjamin A. Blakely
   - Nidhi Rastogi
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00019
-  discovered_artifact: https://github.com/aiforsec/SECURE
+  artifacts_discovered:
+  - https://github.com/aiforsec/SECURE
+  - https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/36xxx/CVE-2024-36039.json
   validated: false
 - title: 'Dissecting Open Edge Computing Platforms: Ecosystem, Usage, and Security
     Risks.'
@@ -169,7 +188,7 @@
   - Shujun Tang
   - Haixin Duan
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00092
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'CloudCover: Enforcement of Multi-Hop Network Connections in Microservice
     Deployments.'
@@ -182,7 +201,7 @@
   - Drew Davidson
   - Yuede Ji
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00095
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'TRACES: TEE-based Runtime Auditing for Commodity Embedded Systems.'
   authors:
@@ -191,7 +210,8 @@
   - Norrathep Rattanavipanon
   - Ivan De Oliveira Nunes
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00035
-  discovered_artifact: https://github.com/RIT-CHAOS-SEC/TRACES/
+  artifacts_discovered:
+  - https://github.com/RIT-CHAOS-SEC/TRACES/
   validated: false
 - title: 'SpecCFA: Enhancing Control Flow Attestation/Auditing via Application-Aware
     Sub-Path Speculation.'
@@ -200,14 +220,17 @@
   - Liam Tyler
   - Ivan De Oliveira Nunes
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00055
-  discovered_artifact: https://github.com/RIT-CHAOS-SEC/SpecCFA/
+  artifacts_discovered:
+  - https://github.com/RIT-CHAOS-SEC/SpecCFA/
   validated: false
 - title: 'FA-SEAL: Forensically Analyzable Symmetric Encryption for Audit Logs.'
   authors:
   - Basanta Chaulagain
   - Kyu Hyung Lee
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00065
-  discovered_artifact: https://github.com/BasantaChaulagain/faseal
+  artifacts_discovered:
+  - https://github.com/BasantaChaulagain/faseal
+  - https://github.com/BasantaChaulagain/faseal.2
   validated: false
 - title: 'CubeVisor: A Multi-realm Architecture Design for Running VM with ARM CCA.'
   authors:
@@ -218,7 +241,7 @@
   - Xiaoqi Jia
   - Weijuan Zhang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00023
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'I Can Show You the World (of Censorship): Extracting Insights from Censorship
     Measurement Data Using Statistical Techniques.'
@@ -228,7 +251,8 @@
   - Patrick Traynor
   - Kevin R. B. Butler
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00091
-  discovered_artifact: https://github.com/censorship-event-detection/acsac-censorship-event-detection/
+  artifacts_discovered:
+  - https://github.com/censorship-event-detection/acsac-censorship-event-detection/
   validated: false
 - title: 'Web-Armour: Mitigating Reconnaissance and Vulnerability Scanning with Scan-Impeding
     Delays in Web Deployments.'
@@ -238,7 +262,7 @@
   - Drew Davidson
   - Alexandru G. Bardas
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00028
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ConProv: A Container-Aware Provenance System for Attack Investigation.'
   authors:
@@ -248,7 +272,7 @@
   - Qian Tan
   - Yan Zhang 0014
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00024
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Confidential Computing with Heterogeneous Devices at Cloud-Scale.
   authors:
@@ -258,7 +282,7 @@
   - Srdjan Capkun
   - Renzo Andri
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00025
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On the Credibility of Backdoor Attacks Against Object Detectors in the Physical
     World.
@@ -274,14 +298,16 @@
   - Ehsan Abbasnejad
   - Damith C. Ranasinghe
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00079
-  discovered_artifact: https://BackdoorDetectors.github.io
+  artifacts_discovered:
+  - https://BackdoorDetectors.github.io
   validated: false
 - title: 'Manifest Problems: Analyzing Code Transparency for Android Application Bundles.'
   authors:
   - Florian Draschbacher
   - Lukas Maar
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00090
-  discovered_artifact: https://github.com/topjohnwu/
+  artifacts_discovered:
+  - https://github.com/topjohnwu/
   validated: false
 - title: 'R+R: A Systematic Study of Cryptographic Function Identification Approaches
     in Binaries.'
@@ -290,7 +316,8 @@
   - Priyam Biswas
   - Christina Garman
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00089
-  discovered_artifact: https://github.com/BARC-Purdue/CryptoBinary
+  artifacts_discovered:
+  - https://github.com/BARC-Purdue/CryptoBinary
   validated: false
 - title: Lightweight Secure Aggregation for Personalized Federated Learning with Backdoor
     Resistance.
@@ -302,7 +329,8 @@
   - Yuexin Xuan
   - Weizhan Jing
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00071
-  discovered_artifact: https://github.com/SimonB6/OpenFLIGHT
+  artifacts_discovered:
+  - https://github.com/SimonB6/OpenFLIGHT
   validated: false
 - title: 'FreeAuth: Privacy-Preserving Email Ownership Authentication with Verification-Email-Free.'
   authors:
@@ -313,7 +341,10 @@
   - Zhijintong Zhang
   - Qianhong Wu
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00040
-  discovered_artifact: https://github.com/freeauth/freeauth
+  artifacts_discovered:
+  - https://github.com/freeauth/freeauth
+  - https://github.com/emp-toolkit
+  - https://github.com/brave-experiments/DiStefano
   validated: false
 - title: 'Hypervisor Dissociative Execution: Programming Guests for Monitoring, Management,
     and Security.'
@@ -323,7 +354,9 @@
   - Tim Leek
   - William K. Robertson
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00026
-  discovered_artifact: https://github.com/AndrewFasano/hyde
+  artifacts_discovered:
+  - https://github.com/AndrewFasano/hyde
+  - https://github.com/
   validated: false
 - title: 'TILE: Input Structure Optimization for Neural Networks to Accelerate Secure
     Inference.'
@@ -334,7 +367,11 @@
   - Hongyi Wu
   - Chunsheng Xin
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00096
-  discovered_artifact: https://github.com/yizhouf743/TILE
+  artifacts_discovered:
+  - https://github.com/yizhouf743/TILE
+  - https://github.com/yizhouf743/
+  - https://github.com/yizhouf743/TILE1204
+  - https://github.com/yizhouf743/TILE1204Authorized
   validated: false
 - title: Securing PUFs via a Predictive Adversarial Machine Learning System by Modeling
     of Attackers.
@@ -344,7 +381,8 @@
   - Shreyas Srinivasa
   - Sokol Kosta
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00041
-  discovered_artifact: https://github.com/ecn-aau/PAS-PUF/
+  artifacts_discovered:
+  - https://github.com/ecn-aau/PAS-PUF/
   validated: false
 - title: 'Leaky Autofill: An Empirical Study on the Privacy Threat of Password Managers&apos;
     Autofill Functionality.'
@@ -352,7 +390,11 @@
   - Yanduo Fu
   - Ding Wang 0002
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00037
-  discovered_artifact: https://github.com/Leaky-Autofill/LeakyAutofill-Artifact
+  artifacts_discovered:
+  - https://github.com/Leaky-Autofill/LeakyAutofill-Artifact
+  - https://bit.ly/3Wekxop
+  - https://bit.ly/4bebjwB
+  - https://github.com/Leaky
   validated: false
 - title: 'CryptoPyt: Unraveling Python Cryptographic APIs Misuse with Precise Static
     Taint Analysis.'
@@ -367,7 +409,9 @@
   - Yueqiang Cheng
   - Kailiang Ji
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00088
-  discovered_artifact: https://github.com/cryptopyt/cryptopyt2
+  artifacts_discovered:
+  - https://github.com/cryptopyt/cryptopyt
+  - https://github.com/cryptopyt/cryptopyt2
   validated: false
 - title: Model-Manipulation Attacks Against Black-Box Explanations.
   authors:
@@ -375,7 +419,8 @@
   - Maximilian Noppel
   - Christian Wressnegger
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00081
-  discovered_artifact: https://intellisec.de/research/makrut
+  artifacts_discovered:
+  - https://intellisec.de/research/makrut
   validated: false
 - title: 'AirBugCatcher: Automated Wireless Reproduction of IoT Bugs.'
   authors:
@@ -383,7 +428,8 @@
   - Matheus E. Garbelini
   - Sudipta Chattopadhyay 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00058
-  discovered_artifact: https://github.com/asset-group/air-bug-catcher
+  artifacts_discovered:
+  - https://github.com/asset-group/air-bug-catcher
   validated: false
 - title: 'Passwords To-Go: Investigating Multifaceted Challenges for Password Managers
     in the Android Ecosystem.'
@@ -394,7 +440,7 @@
   - Yannick Evers
   - Sascha Fahl
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00038
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Security Alert Investigation Tool Supporting Tier 1 Analysts in Contextualizing
     and Understanding Network Security Events.
@@ -407,7 +453,8 @@
   - Chris Snijders 0001
   - Luca Allodi
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00076
-  discovered_artifact: https://gitlab.tue.nl/aiss
+  artifacts_discovered:
+  - https://gitlab.tue.nl/aiss
   validated: false
 - title: 'Sidecar: Leveraging Debugging Extensions in Commodity Processors to Secure
     Software.'
@@ -418,7 +465,10 @@
   - Jun Xu 0024
   - Georgios Portokalidis
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00053
-  discovered_artifact: https://github.com/stevens-s3lab/sidecar
+  artifacts_discovered:
+  - https://github.com/stevens-s3lab/sidecar
+  - https://github.com/stevens-s3lab/sidecarAcknowledgments
+  - https://github.com/stevens-s3lab/sidecarAcknowledgmentsWe
   validated: false
 - title: 'Ready or Not, Here I Come: Characterizing the Security of Prematurely-public
     Web Applications.'
@@ -427,7 +477,8 @@
   - Michael Ferdman
   - Nick Nikiforakis
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00030
-  discovered_artifact: https://pragseclab.github.io/mako
+  artifacts_discovered:
+  - https://pragseclab.github.io/mako
   validated: false
 - title: 'RouTEE: Secure, Scalable, and Efficient Off-Chain Payments using Trusted
     Execution Environments.'
@@ -437,7 +488,7 @@
   - Sanghyeon Park
   - Soo-Mook Moon
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00048
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'FedCAP: Robust Federated Learning via Customized Aggregation and Personalization.'
   authors:
@@ -448,7 +499,7 @@
   - Wenbin Zhang 0002
   - Xuyu Wang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00067
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SecurityHub: Electromagnetic Fingerprinting USB Peripherals using Backscatter-assisted
     Commodity Hardware.'
@@ -457,13 +508,15 @@
   - Huangxun Chen
   - Zhice Yang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00046
-  discovered_artifact: https://github.com/zlab-pub/SecurityHub
+  artifacts_discovered:
+  - https://github.com/zlab-pub/SecurityHub
   validated: false
 - title: Faking deduplication to prevent timing side-channel attacks on memory deduplication.
   authors:
   - Jens Lindemann 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00043
-  discovered_artifact: https://github.com/jl3/FakeDD
+  artifacts_discovered:
+  - https://github.com/jl3/FakeDD
   validated: false
 - title: 'IoC Stalker: Early detection of Indicators of Compromise.'
   authors:
@@ -471,7 +524,7 @@
   - Sergio Pastrana
   - Guillermo Suarez-Tangil
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00074
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'R+R: Understanding Hyperparameter Effects in DP-SGD.'
   authors:
@@ -479,7 +532,7 @@
   - Jan Reubold
   - Thorsten Strufe
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00097
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'TATTOOED: A Robust Deep Neural Network Watermarking Scheme based on Spread-Spectrum
     Channel Coding.'
@@ -490,7 +543,8 @@
   - Fernando Pérez-Cruz
   - Luigi V. Mancini
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00099
-  discovered_artifact: https://github.com/pagiux/tattooed
+  artifacts_discovered:
+  - https://github.com/pagiux/tattooed
   validated: false
 - title: Leveraging Intensity as a New Feature to Detect Physical Adversarial Attacks
     Against LiDARs.
@@ -500,7 +554,7 @@
   - Dong Hoon Lee 0001
   - Wonsuk Choi 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00083
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Towards a Taxonomy of Challenges in Security Control Implementation.
   authors:
@@ -511,7 +565,9 @@
   - Andrew Anufryienak
   - Laurie A. Williams
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00022
-  discovered_artifact: https://center-for-threat-informed-defense.github.io/attack-flow/
+  artifacts_discovered:
+  - https://oasis-open.github.io/cti-documentation/stix/intro.html
+  - https://center-for-threat-informed-defense.github.io/attack-flow/
   validated: false
 - title: Privacy-Preserving Verifiable Neural Network Inference Service.
   authors:
@@ -519,7 +575,8 @@
   - Jorge Guajardo
   - Thang Hoang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00063
-  discovered_artifact: https://github.com/vt-asaplab/vPIN
+  artifacts_discovered:
+  - https://github.com/vt-asaplab/vPIN
   validated: false
 - title: I&apos;ll Be There for You! Perpetual Availability in the A8 MVX System.
   authors:
@@ -528,7 +585,8 @@
   - Michael Franz
   - Alexios Voulimeneas
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00052
-  discovered_artifact: github.com/andrej/
+  artifacts_discovered:
+  - github.com/andrej/
   validated: false
 - title: 'R+R: Revisiting Graph Matching Attacks on Privacy-Preserving Record Linkage.'
   authors:
@@ -536,7 +594,8 @@
   - Frederik Armknecht
   - Youzhe Heng
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00064
-  discovered_artifact: https://github.com/SchaeferJ/graphMatching
+  artifacts_discovered:
+  - https://github.com/SchaeferJ/graphMatching
   validated: false
 - title: 'T-Edge: Trusted Heterogeneous Edge Computing.'
   authors:
@@ -545,7 +604,8 @@
   - Weng-Fai Wong
   - Ee-Chien Chang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00027
-  discovered_artifact: https://github.com/T-Edge
+  artifacts_discovered:
+  - https://github.com/T-Edge
   validated: false
 - title: 'Reading It like an Open Book: Single-trace Blind Side-channel Attacks on
     Garbled Circuit Frameworks.'
@@ -553,7 +613,8 @@
   - Sirui Shen
   - Chenglu Jin
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00045
-  discovered_artifact: https://github.com/NomadShen/chipwhisperer
+  artifacts_discovered:
+  - https://github.com/NomadShen/chipwhisperer
   validated: false
 - title: 'You Only Perturb Once: Bypassing (Robust) Ad-Blockers Using Universal Adversarial
     Perturbations.'
@@ -563,7 +624,8 @@
   - Sanghyun Hong 0001
   - Sooel Son
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00031
-  discovered_artifact: https://github.com/WSP-LAB/YOPO
+  artifacts_discovered:
+  - https://github.com/WSP-LAB/YOPO
   validated: false
 - title: 'Harnessing Multiplicity: Granular Browser Extension Fingerprinting through
     User Configurations.'
@@ -572,7 +634,7 @@
   - Nick Nikiforakis
   - Jason Polakis
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00029
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Not All Tokens Are Equal: Membership Inference Attacks Against Fine-tuned
     Language Models.'
@@ -581,7 +643,7 @@
   - Dongdong Zhao 0001
   - Jianwen Xiang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00020
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Madeline: Continuous and Low-cost Monitoring with Graph-free Representations
     to Combat Cyber Threats.'
@@ -592,7 +654,8 @@
   - Peng Gao
   - Danfeng Yao
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00075
-  discovered_artifact: https://github.com/wenjia7/madeline
+  artifacts_discovered:
+  - https://github.com/wenjia7/madeline
   validated: false
 - title: 'Assessing UAV Sensor Spoofing: More Than A GNSS Problem.'
   authors:
@@ -600,7 +663,7 @@
   - J. Garrett Morris
   - Drew Davidson
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00085
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ViTGuard: Attention-aware Detection against Adversarial Examples for Vision
     Transformer.'
@@ -611,7 +674,7 @@
   - Angelos Stavrou
   - Haining Wang 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00100
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Longitudinal Analysis of Corporate Data Portability Practices Across Industries.
   authors:
@@ -619,7 +682,7 @@
   - Stefan A. Mager
   - Jens Grossklags
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00032
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Assault and Battery: Evaluating the Security of Power Conversion Systems
     Against Electromagnetic Injection Attacks.'
@@ -629,7 +692,7 @@
   - Martin Strohmeier
   - Ivan Martinovic
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00033
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'DEEPCAPA: Identifying Malicious Capabilities in Windows Malware.'
   authors:
@@ -641,7 +704,8 @@
   - Christopher Kruegel
   - Giovanni Vigna
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00072
-  discovered_artifact: https://github.com/ucsb-seclab/DeepCapa
+  artifacts_discovered:
+  - https://github.com/ucsb-seclab/DeepCapa
   validated: false
 - title: 'VIMU: Effective Physics-based Realtime Detection and Recovery against Stealthy
     Attacks on UAVs.'
@@ -655,7 +719,15 @@
   - Gang Tan
   - Jianfeng Ma 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00084
-  discovered_artifact: https://github.com/wangwwno1/Project-VIMU
+  artifacts_discovered:
+  - https://github.com/wangwwno1/Project-VIMU
+  - https://github.com/wangwwno1/Project-VIMU/tree/baseline/Virtual-IMU+CUSUM-Detector
+  - https://github.com/wangwwno1/Project-VIMU/tree/baseline/CI
+  - https://github.com/wangwwno1/Project-VIMU/tree/baseline/SRR
+  - https://github.com/wangwwno1/Project-VIMU/tree/baseline/SAVIOR
+  - https://github.com/wangwwno1/
+  - https://github.com/wangwwno1/Project-VIMU/tree/baseline/
+  - https://github.com/wangwwno1/Project-VIMU.2
   validated: false
 - title: Verifying Loot-box Probability Without Source-code Disclosure.
   authors:
@@ -664,7 +736,7 @@
   - Ting-Yu Fang
   - Hsu-Chun Hsiao
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00051
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Physical ID-Transfer Attacks against Multi-Object Tracking via Adversarial
     Trajectory.
@@ -677,7 +749,7 @@
   - Ryan M. Gerdes
   - Jonathan Petit
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00080
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Evil from Within: Machine Learning Backdoors Through Dormant Hardware Trojans.'
   authors:
@@ -687,7 +759,7 @@
   - Konrad Rieck
   - Christof Paar
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00077
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'No Leakage Without State Change: Repurposing Configurable CPU Exceptions
     to Prevent Microarchitectural Attacks.'
@@ -698,7 +770,8 @@
   - Jan Reineke 0001
   - Michael Schwarz 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00042
-  discovered_artifact: https://github.com/cispa/irqguard
+  artifacts_discovered:
+  - https://github.com/cispa/irqguard
   validated: false
 - title: 'Single Sign-On Privacy: We Still Know What You Did Last Summer.'
   authors:
@@ -706,7 +779,9 @@
   - Andreas Mayer
   - Louis Jannett
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00039
-  discovered_artifact: https://sso-privacy.me
+  artifacts_discovered:
+  - https://sso-privacy.me
+  - https://sso-monitor.me
   validated: false
 - title: 'Moiré Injection Attack (MIA) : Compromising Autonomous Vehicle Safety via
     Exploiting Camera&apos;s Color Filter Array (CFA) to Inject Hidden Traffic Sign.'
@@ -714,14 +789,18 @@
   - Qi Xia
   - Qian Chen
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00082
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'R+R: Security Vulnerability Dataset Quality Is Critical.'
   authors:
   - Anurag Swarnim Yadav
   - Joseph N. Wilson
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00086
-  discovered_artifact: https://github.com/Anurag-Swarnim-Yadav/DatasetQuality
+  artifacts_discovered:
+  - https://github.com/Anurag-Swarnim-Yadav/DatasetQuality
+  - https://github.com/awsm-research/VQM
+  - https://github.com/awsm-research/VulRepair
+  - https://github.com/Anurag
   validated: false
 - title: 'WiShield: Fine-grained Countermeasure Against Malicious Wi-Fi Sensing in
     Smart Home.'
@@ -729,7 +808,7 @@
   - Yihui Yan
   - Zhice Yang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00057
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SECvma: Virtualization-based Linux Kernel Protection for Arm.'
   authors:
@@ -737,7 +816,8 @@
   - Joey Li
   - Shih-Wei Li
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00056
-  discovered_artifact: https://github.com/ae-acsac24-44/
+  artifacts_discovered:
+  - https://github.com/ae-acsac24-44/
   validated: false
 - title: 'Assessing the Silent Frontlines: Exploring the Impact of DDoS Hacktivism
     in the Russo-Ukrainian War.'
@@ -749,7 +829,8 @@
   - Budi Arief
   - Julio C. Hernandez-Castro
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00093
-  discovered_artifact: https://github.com/Assessing-the-Silent-Frontlines/Exploring-the-Impact-of-DDoS-Hacktivism-in-the-Russo-Ukrainian-War
+  artifacts_discovered:
+  - https://github.com/Assessing-the-Silent-Frontlines/Exploring-the-Impact-of-DDoS-Hacktivism-in-the-Russo-Ukrainian-War
   validated: false
 - title: Link Inference Attacks in Vertical Federated Graph Learning.
   authors:
@@ -759,7 +840,7 @@
   - Ayse Ünsal
   - Melek Önen
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00068
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'R+R: Matrioska: A User-Centric Defense Against Virtualization-Based Repackaging
     Malware on Android.'
@@ -770,7 +851,7 @@
   - Serge Egelman
   - Eleonora Losiouk
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00073
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'CIGA: Detecting Adversarial Samples via Critical Inference Graph Analysis.'
   authors:
@@ -779,7 +860,7 @@
   - Yahang Hu
   - Yaohua Wang
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00098
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks
     on Ethereum Private Transactions.'
@@ -791,7 +872,7 @@
   - Yinqian Zhang
   - Zhiqiang Lin 0001
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00047
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'R+R: Demystifying ML-Assisted Side-Channel Analysis Framework: A Case of
     Image Reconstruction.'
@@ -800,7 +881,7 @@
   - Zhenzhi Lai
   - Udaya Parampalli
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00044
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Stealing Watermarks of Large Language Models via Mixed Integer Programming.
   authors:
@@ -813,7 +894,7 @@
   - Asif Gill
   - Shirui Pan
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00021
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Janus: Enhancing Asynchronous Common Subset with Trusted Hardware.'
   authors:
@@ -822,7 +903,7 @@
   - Qin Wang 0008
   - Jiangshan Yu
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00050
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Enhancing Database Encryption: Adaptive Measures for Digital Assets Against
     LLMs-Based Reverse Engineering.'
@@ -832,5 +913,5 @@
   - Yuehua Wang
   - Xiaojun Ye
   page_link: https://doi.org/10.1109/ACSAC63791.2024.00018
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

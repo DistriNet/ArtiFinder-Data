@@ -4,7 +4,8 @@
   - Michael Brennan
   - Rachel Greenstadt
   page_link: https://doi.org/10.1109/SP.2012.34
-  discovered_artifact: https://psal.cs.drexel.edu
+  artifacts_discovered:
+  - https://psal.cs.drexel.edu
   validated: false
 - title: 'LASTor: A Low-Latency AS-Aware Tor Client.'
   authors:
@@ -12,7 +13,7 @@
   - Curtis Yu
   - Harsha V. Madhyastha
   page_link: https://doi.org/10.1109/SP.2012.35
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Sharing Mobile Code Securely with Information Flow Control.
   authors:
@@ -23,7 +24,8 @@
   - Aslan Askarov
   - Andrew C. Myers
   page_link: https://doi.org/10.1109/SP.2012.22
-  discovered_artifact: http://www.cs.cornell.edu/projects/fabric
+  artifacts_discovered:
+  - http://www.cs.cornell.edu/projects/fabric
   validated: false
 - title: 'ObliviAd: Provably Secure and Practical Online Behavioral Advertising.'
   authors:
@@ -32,7 +34,7 @@
   - Matteo Maffei
   - Kim Pecina
   page_link: https://doi.org/10.1109/SP.2012.25
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'OB-PWS: Obfuscation-Based Private Web Search.'
   authors:
@@ -40,7 +42,7 @@
   - Carmela Troncoso
   - Claudia Díaz
   page_link: https://doi.org/10.1109/SP.2012.36
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Foundations of Logic-Based Trust Management.
   authors:
@@ -48,13 +50,13 @@
   - Alessandra Russo
   - Nik Sultana
   page_link: https://doi.org/10.1109/SP.2012.20
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords.'
   authors:
   - Joseph Bonneau
   page_link: https://doi.org/10.1109/SP.2012.49
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'The Quest to Replace Passwords: A Framework for Comparative Evaluation of
     Web Authentication Schemes.'
@@ -64,7 +66,8 @@
   - Paul C. van Oorschot
   - Frank Stajano
   page_link: https://doi.org/10.1109/SP.2012.44
-  discovered_artifact: www.cl.cam.ac.uk/techreports/UCAM-CL-TR-817.html
+  artifacts_discovered:
+  - www.cl.cam.ac.uk/techreports/UCAM-CL-TR-817.html
   validated: false
 - title: Unleashing Mayhem on Binary Code.
   authors:
@@ -73,7 +76,7 @@
   - Alexandre Rebert
   - David Brumley
   page_link: https://doi.org/10.1109/SP.2012.31
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Distance Hijacking Attacks on Distance Bounding Protocols.
   authors:
@@ -82,7 +85,7 @@
   - Benedikt Schmidt 0002
   - Srdjan Capkun
   page_link: https://doi.org/10.1109/SP.2012.17
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Hummingbird: Privacy at the Time of Twitter.'
   authors:
@@ -91,7 +94,9 @@
   - Gene Tsudik
   - Andrew Williams 0003
   page_link: https://doi.org/10.1109/SP.2012.26
-  discovered_artifact: http://sprout.ics.uci.edu/hummingbird
+  artifacts_discovered:
+  - http://sprout.ics.uci.edu/hummingbird
+  - http://sprout.ics.uci.edu/hummingbird.Client-side
   validated: false
 - title: A Framework to Eliminate Backdoors from Response-Computable Authentication.
   authors:
@@ -103,7 +108,7 @@
   - Zhenkai Liang
   - Wei Zou
   page_link: https://doi.org/10.1109/SP.2012.10
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Don&apos;t Trust Satellite Phones: A Security Analysis of Two Satphone Standards.'
   authors:
@@ -113,7 +118,7 @@
   - Christof Paar
   - Thorsten Holz
   page_link: https://doi.org/10.1109/SP.2012.18
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Peek-a-Boo, I Still See You: Why Efficient Traffic Analysis Countermeasures
     Fail.'
@@ -123,7 +128,8 @@
   - Thomas Ristenpart
   - Thomas Shrimpton
   page_link: https://doi.org/10.1109/SP.2012.28
-  discovered_artifact: http://www.kpdyer.com/
+  artifacts_discovered:
+  - http://www.kpdyer.com/
   validated: false
 - title: 'Space Traveling across VM: Automatically Bridging the Semantic Gap in Virtual
     Machine Introspection via Online Kernel Data Redirection.'
@@ -131,7 +137,7 @@
   - Yangchun Fu
   - Zhiqiang Lin 0001
   page_link: https://doi.org/10.1109/SP.2012.40
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ILR: Where&apos;d My Gadgets Go?'
   authors:
@@ -141,7 +147,7 @@
   - Matthew Hall
   - Jack W. Davidson
   page_link: https://doi.org/10.1109/SP.2012.39
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: The Psychology of Security for the Home Computer User.
   authors:
@@ -151,7 +157,7 @@
   - Malgorzata Urbanska
   - Zinta S. Byrne
   page_link: https://doi.org/10.1109/SP.2012.23
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'LAP: Lightweight Anonymity and Privacy.'
   authors:
@@ -163,7 +169,7 @@
   - Marco Gruteser
   - Wei Meng 0001
   page_link: https://doi.org/10.1109/SP.2012.37
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Quid-Pro-Quo-tocols: Strengthening Semi-honest Protocols with Dual Execution.'
   authors:
@@ -171,7 +177,7 @@
   - Jonathan Katz
   - David Evans 0001
   page_link: https://doi.org/10.1109/SP.2012.43
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'EvilSeed: A Guided Approach to Finding Malicious Web Pages.'
   authors:
@@ -182,21 +188,21 @@
   - Marco Cova
   - Giovanni Vigna
   page_link: https://doi.org/10.1109/SP.2012.33
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Abusing File Processing in Malware Detectors for Fun and Profit.
   authors:
   - Suman Jana
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2012.15
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Memento: Learning Secrets from Process Footprints.'
   authors:
   - Suman Jana
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2012.19
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ReDeBug: Finding Unpatched Code Clones in Entire OS Distributions.'
   authors:
@@ -204,7 +210,8 @@
   - Abeer Agrawal
   - David Brumley
   page_link: https://doi.org/10.1109/SP.2012.13
-  discovered_artifact: https://github.com/skyhover/Deckard
+  artifacts_discovered:
+  - https://github.com/skyhover/Deckard
   validated: false
 - title: 'Guess Again (and Again and Again): Measuring Password Strength by Simulating
     Password-Cracking Algorithms.'
@@ -219,7 +226,7 @@
   - Lorrie Faith Cranor
   - Julio C. López 0001
   page_link: https://doi.org/10.1109/SP.2012.38
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Rozzle: De-cloaking Internet Malware.'
   authors:
@@ -228,7 +235,7 @@
   - Benjamin G. Zorn
   - Christian Seifert
   page_link: https://doi.org/10.1109/SP.2012.48
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: New Results for Timing-Based Attestation.
   authors:
@@ -239,7 +246,7 @@
   - Matthew Albin
   - John Butterworth
   page_link: https://doi.org/10.1109/SP.2012.45
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Clash Attacks on the Verifiability of E-Voting Systems.
   authors:
@@ -247,14 +254,16 @@
   - Tomasz Truderung
   - Andreas Vogt 0001
   page_link: https://doi.org/10.1109/SP.2012.32
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Third-Party Web Tracking: Policy and Technology.'
   authors:
   - Jonathan R. Mayer
   - John C. Mitchell
   page_link: https://doi.org/10.1109/SP.2012.47
-  discovered_artifact: http://webpolicy.org/2012/
+  artifacts_discovered:
+  - http://webpolicy.org/2012/
+  - http://webpolicy.org/2012/02/29/the-ftcs-chairman-groks-do-not-track/
   validated: false
 - title: On the Feasibility of Internet-Scale Author Identification.
   authors:
@@ -266,7 +275,7 @@
   - Eui Chul Richard Shin
   - Dawn Song
   page_link: https://doi.org/10.1109/SP.2012.46
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Smashing the Gadgets: Hindering Return-Oriented Programming Using In-place
     Code Randomization.'
@@ -275,7 +284,7 @@
   - Michalis Polychronakis
   - Angelos D. Keromytis
   page_link: https://doi.org/10.1109/SP.2012.41
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Safe Loading - A Foundation for Secure Execution of Untrusted Programs.
   authors:
@@ -283,7 +292,7 @@
   - Tobias Hartmann 0001
   - Thomas R. Gross
   page_link: https://doi.org/10.1109/SP.2012.11
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Off-path TCP Sequence Number Inference Attack - How Firewall Middleboxes
     Reduce Security.
@@ -291,7 +300,7 @@
   - Zhiyun Qian
   - Zhuoqing Morley Mao
   page_link: https://doi.org/10.1109/SP.2012.29
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'User-Driven Access Control: Rethinking Permission Granting in Modern Operating
     Systems.'
@@ -303,7 +312,7 @@
   - Helen J. Wang
   - Crispin Cowan
   page_link: https://doi.org/10.1109/SP.2012.24
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Prudent Practices for Designing Malware Experiments: Status Quo and Outlook.'
   authors:
@@ -316,7 +325,7 @@
   - Herbert Bos
   - Maarten van Steen
   page_link: https://doi.org/10.1109/SP.2012.14
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Formalizing and Enforcing Purpose Restrictions in Privacy Policies.
   authors:
@@ -324,7 +333,7 @@
   - Anupam Datta
   - Jeannette M. Wing
   page_link: https://doi.org/10.1109/SP.2012.21
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Signing Me onto Your Accounts through Facebook and Google: A Traffic-Guided
     Security Study of Commercially Deployed Single-Sign-On Web Services.'
@@ -333,7 +342,7 @@
   - Shuo Chen 0001
   - XiaoFeng Wang 0001
   page_link: https://doi.org/10.1109/SP.2012.30
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Flash Memory for Ubiquitous Hardware Security Functions: True Random Number
     Generation and Device Fingerprints.'
@@ -345,7 +354,7 @@
   - G. Edward Suh
   - Edwin Kan
   page_link: https://doi.org/10.1109/SP.2012.12
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure and Scalable Fault Localization under Dynamic Traffic Patterns.
   authors:
@@ -353,7 +362,7 @@
   - Chang Lan
   - Adrian Perrig
   page_link: https://doi.org/10.1109/SP.2012.27
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Building Verifiable Trusted Path on Commodity x86 Computers.
   authors:
@@ -362,12 +371,15 @@
   - James Newsome
   - Jonathan M. McCune
   page_link: https://doi.org/10.1109/SP.2012.42
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Dissecting Android Malware: Characterization and Evolution.'
   authors:
   - Yajin Zhou
   - Xuxian Jiang
   page_link: https://doi.org/10.1109/SP.2012.16
-  discovered_artifact: http://paulsparrows.wordpress.com/2011/08/11/one-year-of-android-malware-full-list/
+  artifacts_discovered:
+  - http://paulsparrows.wordpress.com/2011/08/11/one-year-of
+  - http://paulsparrows.wordpress.com/2011/08/11/one-year-of-
+  - http://paulsparrows.wordpress.com/2011/08/11/one-year-of-android-malware-full-list/
   validated: false

@@ -2,14 +2,14 @@
   authors:
   - 'Author: Kenneth Paterson and Nadhem Alfardan'
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/plain-text-recovery-attacks-against-datagram-tls/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: You are what you like! Information leakage through users' Interests
   authors:
   - 'Author: Abdelberi Chaabane'
   - Gergely Acs and Mohamed Ali Kaafar
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/you-are-what-you-information-leakage-through-users-interests/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Persistent OSPF Attacks
   authors:
@@ -17,7 +17,7 @@
   - Alex Kirshon
   - Dima Gonikman and Dan Boneh
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/persistent-ospf-attacks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ANDaNA: Anonymous Named Data Networking Application'
   authors:
@@ -25,14 +25,14 @@
   - Paolo Gasti
   - Gene Tsudik and Ersin Uzun
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/andana-anonymous-named-data-networking-application/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'X-Vine: Secure and Pseudonymous Routing in DHTs Using Social Networks'
   authors:
   - 'Author: Prateek Mittal'
   - Matthew Caesar and Nikita Borisov
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/x-vine-secure-and-pseudonymous-routing-dhts-using-social-networks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Location leaks over the GSM air interface
   authors:
@@ -40,7 +40,7 @@
   - John Koelndorfer
   - Nicholas Hopper and Yongdae Kim
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/location-leaks-over-gsm-air-interface/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Towards Online Spam Filtering in Social Networks
   authors:
@@ -49,7 +49,7 @@
   - Kathy Lee
   - Diana Palsetia and Alok Choudhary
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/towards-online-spam-filtering-social-networks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Track Me If You Can: On the Effectiveness of Context-based Identifier Changes
     in Deployed Mobile Networks'
@@ -61,20 +61,20 @@
   - Philip Ginzboorg
   - Valtteri Niemi and Jean-Pierre Hubaux
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/track-me-if-you-can-effectiveness-context-based-identifier-changes-deployed-mobile-networks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Weaponizing Femtocells: The Effect of Rogue Devices on Mobile Telecommunications'
   authors:
   - 'Author: Nico Golde'
   - Kévin Redon and Ravishankar Borgaonkar
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/weaponizing-femtocells-effect-rogue-devices-mobile-telecommunications/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Privacy-preserving Logarithmic-time Search on Encrypted Data in Cloud
   authors:
   - 'Author: Yanbin Lu'
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/privacy-preserving-logarithmic-time-search-encrypted-data-cloud/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'You Can Run, but You Can''t Hide: Exposing Network Location for Targeted
     DoS Attacks in Cellular Networks'
@@ -85,7 +85,7 @@
   - Z. Morley Mao
   - Ming Zhang and Yi-Min Wang
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/you-can-run-you-cant-hide-exposing-network-location-targeted-dos-attacks-cellular-networks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Large-Scale Privacy-Preserving Mapping of Human Genomic Sequences on Hybrid
     Clouds
@@ -94,7 +94,7 @@
   - Bo Peng
   - Xiaofeng Wang and Haixu Tang
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/large-scale-privacy-preserving-mapping-human-genomic-sequences-hybrid-clouds/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Hubble: Transparent and Extensible Malware Analysis by Combining Hardware
     Virtualization and Software Emulation'
@@ -104,14 +104,14 @@
   - Mu Zhang
   - Heng Yin – Syracuse University
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/hubble-transparent-and-extensible-malware-analysis-combining-hardware-virtualization-and-software/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Towards Practical Oblivious RAM
   authors:
   - 'Author: Emil Stefanov'
   - Elaine Shi and Dawn Song
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/towards-practical-oblivious-ram/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Making argument systems for outsourced computation practical (sometimes)
   authors:
@@ -119,7 +119,8 @@
   - Richard Mcpherson
   - Andrew Blumberg and Michael Walfish
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/making-argument-systems-outsourced-computation-practical-sometimes/
-  discovered_artifact: http://www.cs.utexas.edu/pepper
+  artifacts_discovered:
+  - http://www.cs.utexas.edu/pepper
   validated: false
 - title: 'FreeMarket: Shopping for free in Android applications'
   authors:
@@ -129,7 +130,7 @@
   - Edward Wu
   - Richard Shin – UC Berkeley
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/freemarket-shopping-free-android-applications/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Taking Routers Off Their Meds: Why Assumptions Of Router Stability Are Dangerous'
   authors:
@@ -138,7 +139,7 @@
   - Nicholas Hopper
   - Yongdae Kim
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/taking-routers-their-meds-why-assumptions-router-stability-are-dangerous/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Distance Hijacking Attacks on Distance Bounding Protocols
   authors:
@@ -146,7 +147,7 @@
   - Kasper Bonne Rasmussen
   - Srdjan Capkun – ETH Zurich
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/distance-hijacking-attacks-distance-bounding-protocols/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Charm: A Framework for Rapidly Prototyping Cryptosystems'
   authors:
@@ -154,7 +155,8 @@
   - Matthew D. Green
   - Aviel D. Rubin – Johns Hopkins University
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/charm-framework-rapidly-prototyping-cryptosystems/
-  discovered_artifact: http://charm-crypto.com
+  artifacts_discovered:
+  - http://charm-crypto.com
   validated: false
 - title: 'Newton Meets Vivaldi: Using Physical Laws to Secure Virtual Coordinate Systems'
   authors:
@@ -164,7 +166,7 @@
   - Radu State – Purdue University
   - University of Luxembourg
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/newton-meets-vivaldi-using-physical-laws-secure-virtual-coordinate-systems/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Abuse Detection and Prevention Systems at a Large Scale Video Sharing Website
   authors:
@@ -174,7 +176,7 @@
   - Palash Nandy
   - Brian Palmer – YouTube LLC
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/abuse-detection-and-prevention-systems-large-scale-video-sharing-website/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Access Pattern disclosure on Searchable Encryption: Ramification, Attack
     and Mitigation'
@@ -182,7 +184,7 @@
   - 'Author: Mohammad Islam'
   - Mehmet Kuzu and Murat Kantarcioglu
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/access-pattern-disclosure-searchable-encryption-ramification-attack-and-mitigation/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'On Limitations of Designing Leakage-Resilient Password Systems: Attacks,
     Principals and Usability'
@@ -191,21 +193,22 @@
   - Jin Han
   - Yingjiu Li and Robert H. Deng
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/limitations-designing-leakage-resilient-password-systems-attacks-principals-and-usability/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Adaptive Password-Strength Meters from Markov Models
   authors:
   - 'Author: Claude Castelluccia'
   - Markus Duermuth and Daniele Perito
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/adaptive-password-strength-meters-markov-models/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Private Set Intersection: Are Garbled Circuits Better than Custom Protocols?'
   authors:
   - 'Author: Yan Huang'
   - David Evans and Jonathan Katz
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/private-set-intersection-are-garbled-circuits-better-custom-protocols/
-  discovered_artifact: http://MightBeEvil.org
+  artifacts_discovered:
+  - http://MightBeEvil.org
   validated: false
 - title: Guess Who's Texting You? Evaluating the Security of Smartphone Messaging
     Applications
@@ -217,7 +220,7 @@
   - Martin Mulazzani
   - Markus Huber and Edgar Weippl
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/guess-whos-texting-you-evaluating-security-smartphone-messaging-applications/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'MoCFI: A Framework to Mitigate Control-Flow Attacks on Smartphones'
   authors:
@@ -229,7 +232,7 @@
   - Ralf Hund
   - Stefan Nürnberger and Ahmad-Reza Sadeghi
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/mocfi-framework-mitigate-control-flow-attacks-smartphonesoverlay-contextmocfi-framework-mitigate-control-flow-attacks-smartphones/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Towards Taming Privilege-Escalation Attacks on Android
   authors:
@@ -239,7 +242,7 @@
   - Thomas Fischer
   - Ahmad-Reza Sadeghi and Bhargava Shastry
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/towards-taming-privilege-escalation-attacks-android/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Systematic Detection of Capability Leaks in Stock Android Smartphones
   authors:
@@ -247,7 +250,7 @@
   - Yajin Zhou
   - Zhi Wang and Xuxian Jiang
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/systematic-detection-capability-leaks-stock-android-smartphones/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Hey, You, Get Off of My Market: Detecting Malicious Apps in Official and
     Alternative Android Markets'
@@ -256,7 +259,7 @@
   - Zhi Wang
   - Wu Zhou and Xuxian Jiang
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/hey-you-get-my-market-detecting-malicious-apps-official-and-alternative-android-markets/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Insights into User Behavior in Dealing with Internet Attacks
   authors:
@@ -264,7 +267,7 @@
   - Utku Ozan Yilmaz
   - Engin Kirda and Davide Balzarotti
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/insights-user-behavior-dealing-internet-attacks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'PathCutter: Severing the Self-Propagation Path of XSS JavaScript Worms in
     Social Web Networks'
@@ -273,20 +276,20 @@
   - Vinod Yegneswaran
   - Phillip Porras and Yan Chen
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/pathcutter-severing-self-propagation-path-xss-javascript-worms-social-web-networks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: The Latent Community Model for Detecting Sybils in Social Networks
   authors:
   - 'Author: Zhuhua Cai and Christopher Jermaine'
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/latent-community-model-detecting-sybils-social-networks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'BLACR: TTP-Free Blacklistable Anonymous Credentials with Reputation'
   authors:
   - 'Author: Man Ho Au'
   - Apu Kapadia and Willy Susilo
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/blacr-ttp-free-blacklistable-anonymous-credentials-reputation/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Accountable Wiretapping -or- I know they can hear you now
   authors:
@@ -296,13 +299,15 @@
   - Clay Shields
   - Patrick Traynor and Dan Wallach
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/accountable-wiretapping-or-i-know-they-can-hear-you-now/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Shadow: Running Tor in a Box for Accurate and Efficient Experimentation'
   authors:
   - 'Author: Rob Jansen and Nicholas Hopper'
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/shadow-running-tor-box-accurate-and-efficient-experimentation/
-  discovered_artifact: http://shadow.cs.umn.edu/
+  artifacts_discovered:
+  - http://shadow.cs.umn.edu/
+  - http://github.com/shadow/
   validated: false
 - title: Discovering Semantic Data of Interest from Un-mappable Memory with Confidence
   authors:
@@ -311,7 +316,7 @@
   - Chao Wu
   - Xiangyu Zhang and Dongyan Xu
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/discovering-semantic-data-interest-un-mappable-memory-confidence/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SecureSwitch: BIOS-Assisted Isolation and Switch between Trusted and Untrusted
     Commodity OSes'
@@ -320,7 +325,7 @@
   - Jiang Wang
   - Fengwei Zhang and Angelos Stavrou
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/secureswitch-bios-assisted-isolation-and-switch-between-trusted-and-untrusted-commodity-oses/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Kruiser: Semi-synchronized Non-blocking Concurrent Kernel Heap Buffer Overflow
     Monitoring'
@@ -330,20 +335,20 @@
   - Dinghao Wu
   - Peng Liu and Changzhen Hu
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/kruiser-semi-synchronized-non-blocking-concurrent-kernel-heap-buffer-overflow-monitoring/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'WarningBird: Detecting Suspicious URLs in Twitter Stream'
   authors:
   - 'Author: Sangho Lee and Jong Kim'
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/warningbird-detecting-suspicious-urls-twitter-stream/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Using replicated execution for a more secure and reliable web browser
   authors:
   - 'Author: Hui Xue'
   - Nathan Dautenhahn and Samuel King
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/using-replicated-execution-more-secure-and-reliable-web-browser/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Host Fingerprinting and Tracking on the Web: Privacy and Security Implications'
   authors:
@@ -352,7 +357,7 @@
   - Fang Yu
   - Roger Peng Yu and Martin Abadi
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/host-fingerprinting-and-tracking-web-privacy-and-security-implications/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Chrome Extensions: Threat Analysis and Countermeasures'
   authors:
@@ -360,7 +365,8 @@
   - Xinwen Zhang
   - Guanhua Yan and Songqing Chen
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/chrome-extensions-threat-analysis-and-countermeasures/
-  discovered_artifact: http://code.google.com/chrome/extensions/manifest.html
+  artifacts_discovered:
+  - http://code.google.com/chrome/extensions/manifest.html
   validated: false
 - title: 'Ghost Domain Names: Revoked Yet Still Resolvable'
   authors:
@@ -370,7 +376,7 @@
   - Jun Li
   - Haixin Duan and Jianping Wu
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/ghost-domain-names-revoked-yet-still-resolvable/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ShortMAC: Efficient Data-Plane Fault Localization'
   authors:
@@ -380,7 +386,7 @@
   - Tiffany Hyun-Jin Kim
   - Adrian Perrig and Patrick Tague
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/shortmac-efficient-data-plane-fault-localization/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Bypassing Space Explosion in Regular Expression Matching for Network Intrusion
     Detection and Prevention Systems
@@ -388,7 +394,7 @@
   - 'Author: Jignesh Patel'
   - Alex Liu and Eric Torng
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/bypassing-space-explosion-regular-expression-matching-network-intrusion-detection-and-prevention/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Gatling: Automatic Attack Discovery in Large-Scale Distributed Systems'
   authors:
@@ -396,7 +402,7 @@
   - Jeff Seibert
   - Charles Killian and Cristina Nita-Rotaru
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/gatling-automatic-attack-discovery-large-scale-distributed-systems/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: The Case for Prefetching and Prevalidating TLS Server Certificates
   authors:
@@ -405,14 +411,14 @@
   - Dinesh Israni
   - Collin Jackson and Dan Boneh
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/case-prefetching-and-prevalidating-tls-server-certificates/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Automated Synthesis of Secure Distributed Applications
   authors:
   - 'Author: Michael Backes'
   - Matteo Maffei and Kim Pecina
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/automated-synthesis-secure-distributed-applications/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A General Approach for Efficiently Accelerating Software-based Dynamic Data
     Flow Tracking on Commodity Hardware
@@ -423,13 +429,13 @@
   - Soumyadeep Ghosh
   - David I. August and Angelos D. Keromytis
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/general-approach-efficiently-accelerating-software-based-dynamic-data-flow-tracking-commodity/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Static detection of C++ vtable escape vulnerabilities in binary code
   authors:
   - 'Author: David Dewey and Jon Giffin'
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/static-detection-c-vtable-escape-vulnerabilities-binary-code/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Identifying and Analyzing Pointer Misuses for Sophisticated Memory-corruption
     Exploit Diagnosis
@@ -439,5 +445,5 @@
   - Xiaolei Li
   - Zhenkai Liang and Heng Yin
   page_link: https://www.ndss-symposium.org/ndss2012/ndss-2012-programme/identifying-and-analyzing-pointer-misuses-sophisticated-memory-corruption-exploit-diagnosis/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

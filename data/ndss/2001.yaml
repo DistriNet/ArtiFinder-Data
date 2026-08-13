@@ -4,7 +4,7 @@
   - Breno de Medeiros
   - Michael T. Goodrich
   page_link: https://www.ndss-symposium.org/ndss2001/tricert-distributed-certified-e-mail-scheme/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Cryptology As a Network Service.
   authors:
@@ -14,7 +14,7 @@
   - Diana K. Smetters
   - Mike Spreitzer
   page_link: https://www.ndss-symposium.org/ndss2001/cryptology-network-service/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Trust Management for IPsec.
   authors:
@@ -22,7 +22,7 @@
   - John Ioannidis
   - Angelos D. Keromytis
   page_link: https://www.ndss-symposium.org/ndss2001/trust-management-ipsec/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical Experiences with ATM Encryption.
   authors:
@@ -30,7 +30,7 @@
   - Nathan Hillery
   - Jim Symon
   page_link: https://www.ndss-symposium.org/ndss2001/practical-experiences-atm-encryption/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An Algebraic Approach to IP Traceback.
   authors:
@@ -38,7 +38,7 @@
   - Matthew K. Franklin
   - Adam Stubblefield
   page_link: https://www.ndss-symposium.org/ndss2001/algebraic-approach-ip-traceback/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Building Certifications Paths: Forward vs. Reverse.'
   authors:
@@ -49,27 +49,27 @@
   - Radia J. Perlman
   - Seth Proctor
   page_link: https://www.ndss-symposium.org/ndss2001/building-certifications-paths-forward-vs-reverse/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Decentralized Jini Security.
   authors:
   - Pasi Eronen
   - Pekka Nikander
   page_link: https://www.ndss-symposium.org/ndss2001/decentralized-jini-security/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An Architecture for Flexible, High Assurance, Multi-Security Domain Networks.
   authors:
   - Tim Gibson
   page_link: https://www.ndss-symposium.org/ndss2001/architecture-flexible-high-assurance-multi-security-domain-networks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Authenticating Streamed Data in the Presence of Random Packet Loss.
   authors:
   - Philippe Golle
   - Nagendra Modadugu
   page_link: https://www.ndss-symposium.org/ndss2001/authenticating-streamed-data-presence-random-packet-loss/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Principles of Policy in Secure Groups.
   authors:
@@ -77,13 +77,13 @@
   - Andrea Colgrove
   - Patrick D. McDaniel
   page_link: https://www.ndss-symposium.org/ndss2001/principles-policy-secure-groups/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Authentication and Key Agreement Via Memorable Passwords.
   authors:
   - Taekyoung Kwon 0002
   page_link: https://www.ndss-symposium.org/ndss2001/authentication-and-key-agreement-memorable-passwords/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Efficient and Secure Source Authentication for Multicast.
   authors:
@@ -92,7 +92,7 @@
   - Dawn Xiaodong Song
   - J. D. Tygar
   page_link: https://www.ndss-symposium.org/ndss2001/efficient-and-secure-source-authentication-multicast/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SPL: An Access Control Language for Security Policies and Complex Constraints.'
   authors:
@@ -101,7 +101,7 @@
   - Paulo Ferreira 0001
   - Paulo Guedes
   page_link: https://www.ndss-symposium.org/ndss2001/spl-access-control-language-security-policies-and-complex-constraints/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Termination in Language-based Systems.
   authors:
@@ -109,7 +109,7 @@
   - John Clements
   - Dan S. Wallach
   page_link: https://www.ndss-symposium.org/ndss2001/termination-language-based-systems/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Limiting the Disclosure of Access Control Policies during Automated Trust
     Negotiation.
@@ -118,7 +118,7 @@
   - Marianne Winslett
   - Ting Yu 0001
   page_link: https://www.ndss-symposium.org/ndss2001/limiting-disclosure-access-control-policies-during-automated-trust-negotiation/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Implementation of Crossrealm Referral Handling in the MIT Kerberos Client.
   authors:
@@ -126,5 +126,5 @@
   - Irina Kosinovsky
   - Michael M. Swift
   page_link: https://www.ndss-symposium.org/ndss2001/implementation-crossrealm-referral-handling-mit-kerberos-client/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

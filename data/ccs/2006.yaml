@@ -5,14 +5,14 @@
   - Anna Lisa Ferrara
   - Barbara Masucci
   page_link: https://doi.org/10.1145/1180405.1180441
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Computationally sound secrecy proofs by mechanized flow analysis.
   authors:
   - Michael Backes 0001
   - Peeter Laud
   page_link: https://doi.org/10.1145/1180405.1180450
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Stateful public-key cryptosystems: how to encrypt with one 160-bit exponentiation.'
   authors:
@@ -20,14 +20,14 @@
   - Tadayoshi Kohno
   - Victor Shoup
   page_link: https://doi.org/10.1145/1180405.1180452
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Multi-signatures in the plain public-Key model and a general forking lemma.
   authors:
   - Mihir Bellare
   - Gregory Neven
   page_link: https://doi.org/10.1145/1180405.1180453
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Dictionary attacks using keyboard acoustic emanations.
   authors:
@@ -35,14 +35,14 @@
   - Avishai Wool
   - Arie Yeredor
   page_link: https://doi.org/10.1145/1180405.1180436
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A fully collusion resistant broadcast, trace, and revoke system.
   authors:
   - Dan Boneh
   - Brent Waters
   page_link: https://doi.org/10.1145/1180405.1180432
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Forward-secure signatures with untrusted update.
   authors:
@@ -51,7 +51,7 @@
   - Emily Shen
   - Brent Waters
   page_link: https://doi.org/10.1145/1180405.1180430
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Fourth-factor authentication: somebody you know.'
   authors:
@@ -61,7 +61,7 @@
   - Michael Szydlo
   - Moti Yung
   page_link: https://doi.org/10.1145/1180405.1180427
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Optimizing BGP security by exploiting path stability.
   authors:
@@ -69,7 +69,7 @@
   - Patrick D. McDaniel
   - William Aiello
   page_link: https://doi.org/10.1145/1180405.1180442
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'EXE: automatically generating inputs of death.'
   authors:
@@ -79,7 +79,7 @@
   - David L. Dill
   - Dawson R. Engler
   page_link: https://doi.org/10.1145/1180405.1180445
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'How to win the clonewars: efficient periodic n-times anonymous authentication.'
   authors:
@@ -89,7 +89,7 @@
   - Anna Lysyanskaya
   - Mira Meyerovich
   page_link: https://doi.org/10.1145/1180405.1180431
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure hierarchical in-network aggregation in sensor networks.
   authors:
@@ -97,7 +97,7 @@
   - Adrian Perrig
   - Dawn Xiaodong Song
   page_link: https://doi.org/10.1145/1180405.1180440
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Searchable symmetric encryption: improved definitions and efficient constructions.'
   authors:
@@ -106,7 +106,7 @@
   - Seny Kamara
   - Rafail Ostrovsky
   page_link: https://doi.org/10.1145/1180405.1180417
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Evading network anomaly detection systems: formal reasoning and practical
     techniques.'
@@ -114,7 +114,7 @@
   - Prahlad Fogla
   - Wenke Lee
   page_link: https://doi.org/10.1145/1180405.1180414
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Data collection with self-enforcing privacy.
   authors:
@@ -122,7 +122,7 @@
   - Frank McSherry
   - Ilya Mironov
   page_link: https://doi.org/10.1145/1180405.1180416
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Attribute-based encryption for fine-grained access control of encrypted data.
   authors:
@@ -131,7 +131,7 @@
   - Amit Sahai
   - Brent Waters
   page_link: https://doi.org/10.1145/1180405.1180418
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Formal specification and verification of data separation in a separation
     kernel for an embedded system.
@@ -141,7 +141,7 @@
   - Elizabeth I. Leonard
   - John D. McLean
   page_link: https://doi.org/10.1145/1180405.1180448
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On the modeling and analysis of obligations.
   authors:
@@ -149,7 +149,7 @@
   - Ting Yu 0001
   - William H. Winsborough
   page_link: https://doi.org/10.1145/1180405.1180423
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure function evaluation with ordered binary decision diagrams.
   authors:
@@ -158,7 +158,7 @@
   - Eu-Jin Goh
   - Dan Boneh
   page_link: https://doi.org/10.1145/1180405.1180455
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Puppetnets: misusing web browsers as a distributed attack infrastructure.'
   authors:
@@ -167,14 +167,15 @@
   - Periklis Akritidis
   - Kostas G. Anagnostakis
   page_link: https://doi.org/10.1145/1180405.1180434
-  discovered_artifact: http://s3g.i2r.a-star.edu.sg/proj/puppetnets
+  artifacts_discovered:
+  - http://s3g.i2r.a-star.edu.sg/proj/puppetnets
   validated: false
 - title: Safety and consistency in policy-based authorization systems.
   authors:
   - Adam J. Lee
   - Marianne Winslett
   page_link: https://doi.org/10.1145/1180405.1180422
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Resiliency policies in access control.
   authors:
@@ -182,7 +183,7 @@
   - Mahesh V. Tripunitara
   - Qihua Wang
   page_link: https://doi.org/10.1145/1180405.1180421
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Beyond separation of duty: an algebra for specifying high-level security
     policies.'
@@ -190,14 +191,15 @@
   - Ninghui Li
   - Qihua Wang
   page_link: https://doi.org/10.1145/1180405.1180449
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Inferring the source of encrypted HTTP connections.
   authors:
   - Marc Liberatore
   - Brian Neil Levine
   page_link: https://doi.org/10.1145/1180405.1180437
-  discovered_artifact: http://freehaven.net/anonbib/topic.html
+  artifacts_discovered:
+  - http://freehaven.net/anonbib/topic.html
   validated: false
 - title: A natural language approach to automated cryptanalysis of two-time pads.
   authors:
@@ -206,20 +208,21 @@
   - Jason Eisner
   - Adam Stubblefield
   page_link: https://doi.org/10.1145/1180405.1180435
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Hot or not: revealing hidden services by their clock skew.'
   authors:
   - Steven J. Murdoch
   page_link: https://doi.org/10.1145/1180405.1180410
-  discovered_artifact: http://www.cl.cam.ac.uk/users/sjm217/
+  artifacts_discovered:
+  - http://www.cl.cam.ac.uk/users/sjm217/
   validated: false
 - title: 'Salsa: a structured approach to large-scale anonymity.'
   authors:
   - Arjun Nambiar
   - Matthew K. Wright
   page_link: https://doi.org/10.1145/1180405.1180409
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Replayer: automatic protocol replay by binary analysis.'
   authors:
@@ -228,7 +231,7 @@
   - Jason Franklin
   - Dawn Xiaodong Song
   page_link: https://doi.org/10.1145/1180405.1180444
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A scalable approach to attack graph generation.
   authors:
@@ -236,7 +239,7 @@
   - Wayne F. Boyer
   - Miles A. McQueen
   page_link: https://doi.org/10.1145/1180405.1180446
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure attribute-based systems.
   authors:
@@ -245,7 +248,9 @@
   - Patrick D. McDaniel
   - Brent Waters
   page_link: https://doi.org/10.1145/1180405.1180419
-  discovered_artifact: http://siis.cse.psu.edu/attribute.htmlThese
+  artifacts_discovered:
+  - http://siis.cse.psu.edu/attribute.html
+  - http://siis.cse.psu.edu/attribute.htmlThese
   validated: false
 - title: Deniable authentication and key exchange.
   authors:
@@ -253,7 +258,7 @@
   - Rosario Gennaro
   - Hugo Krawczyk
   page_link: https://doi.org/10.1145/1180405.1180454
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Protomatching network traffic for high throughputnetwork intrusion detection.
   authors:
@@ -261,14 +266,14 @@
   - Somesh Jha
   - Barton P. Miller
   page_link: https://doi.org/10.1145/1180405.1180413
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Doppelganger: Better browser privacy without the bother.'
   authors:
   - Umesh Shankar
   - Chris Karlof
   page_link: https://doi.org/10.1145/1180405.1180426
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'TinySeRSync: secure and resilient time synchronization in wireless sensor
     networks.'
@@ -277,7 +282,7 @@
   - Peng Ning
   - Cliff Wang
   page_link: https://doi.org/10.1145/1180405.1180439
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'RoleMiner: mining roles using subset enumeration.'
   authors:
@@ -285,7 +290,7 @@
   - Vijayalakshmi Atluri
   - Janice Warner
   page_link: https://doi.org/10.1145/1180405.1180424
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Packet vaccine: black-box exploit detection and signature generation.'
   authors:
@@ -296,7 +301,7 @@
   - Chongkyung Kil
   - Jong Youl Choi
   page_link: https://doi.org/10.1145/1180405.1180412
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An effective defense against email spam laundering.
   authors:
@@ -304,7 +309,7 @@
   - Heng Yin 0001
   - Haining Wang 0001
   page_link: https://doi.org/10.1145/1180405.1180428
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Providing witness anonymity in peer-to-peer systems.
   authors:
@@ -312,5 +317,5 @@
   - Sanjeev Setia
   - Sushil Jajodia
   page_link: https://doi.org/10.1145/1180405.1180408
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

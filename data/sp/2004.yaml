@@ -3,7 +3,7 @@
   - Dmitri Asonov
   - Rakesh Agrawal 0001
   page_link: https://doi.org/10.1109/SECPRI.2004.1301311
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Effects of Mobility and Multihoming on Transport-Protocol Security.
   authors:
@@ -11,20 +11,20 @@
   - Pekka Nikander
   - Gonzalo Camarillo
   page_link: https://doi.org/10.1109/SECPRI.2004.1301312
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Automatic Proof of Strong Secrecy for Security Protocols.
   authors:
   - Bruno Blanchet
   page_link: https://doi.org/10.1109/SECPRI.2004.1301317
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An Empirical Analysis of Target-Resident DoS Filters.
   authors:
   - Michael P. Collins
   - Michael K. Reiter
   page_link: https://doi.org/10.1109/SECPRI.2004.1301318
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Formalizing Sensitivity in Static Analysis for Intrusion Detection.
   authors:
@@ -35,13 +35,13 @@
   - Wenke Lee
   - Barton P. Miller
   page_link: https://doi.org/10.1109/SECPRI.2004.1301324
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Access Control By Tracking Shallow Execution History.
   authors:
   - Philip W. L. Fong
   page_link: https://doi.org/10.1109/SECPRI.2004.1301314
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Fast Portscan Detection Using Sequential Hypothesis Testing.
   authors:
@@ -50,7 +50,7 @@
   - Arthur W. Berger
   - Hari Balakrishnan
   page_link: https://doi.org/10.1109/SECPRI.2004.1301325
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Analysis of an Electronic Voting System.
   authors:
@@ -59,7 +59,7 @@
   - Aviel D. Rubin
   - Dan S. Wallach
   page_link: https://doi.org/10.1109/SECPRI.2004.1301313
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On-the-Fly Verification of Rateless Erasure Codes for Efficient Content Distribution.
   authors:
@@ -67,14 +67,14 @@
   - Michael J. Freedman
   - David Mazières
   page_link: https://doi.org/10.1109/SECPRI.2004.1301326
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Symmetric Encryption in Automatic Analyses for Confidentiality against Active
     Adversaries.
   authors:
   - Peeter Laud
   page_link: https://doi.org/10.1109/SECPRI.2004.1301316
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Large-Scale IP Traceback in High-Speed Internet: Practical Techniques and
     Theoretical Foundation.'
@@ -84,7 +84,7 @@
   - Jun (Jim) Xu
   - Li (Erran) Li
   page_link: https://doi.org/10.1109/SECPRI.2004.1301319
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Multicast Authentication in Fully Adversarial Networks.
   authors:
@@ -92,7 +92,7 @@
   - Roberto Tamassia
   - Nikos Triandopoulos
   page_link: https://doi.org/10.1109/SECPRI.2004.1301327
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SWATT: SoftWare-based ATTestation for Embedded Devices.'
   authors:
@@ -101,21 +101,21 @@
   - Leendert van Doorn
   - Pradeep K. Khosla
   page_link: https://doi.org/10.1109/SECPRI.2004.1301329
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Layered Design of Discretionary Access Controls with Decidable Safety Properties.
   authors:
   - Jon A. Solworth
   - Robert H. Sloan
   page_link: https://doi.org/10.1109/SECPRI.2004.1301315
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Run-time Principals in Information-flow Type Systems.
   authors:
   - Stephen Tse
   - Steve Zdancewic
   page_link: https://doi.org/10.1109/SECPRI.2004.1301323
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Securing OLAP Data Cubes Against Privacy Breaches.
   authors:
@@ -123,14 +123,14 @@
   - Sushil Jajodia
   - Duminda Wijesekera
   page_link: https://doi.org/10.1109/SECPRI.2004.1301322
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Safety in Automated Trust Negotiation.
   authors:
   - William H. Winsborough
   - Ninghui Li
   page_link: https://doi.org/10.1109/SECPRI.2004.1301321
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SIFF: A Stateless Internet Flow Filter to Mitigate DDoS Flooding Attacks.'
   authors:
@@ -138,7 +138,7 @@
   - Adrian Perrig
   - Dawn Xiaodong Song
   page_link: https://doi.org/10.1109/SECPRI.2004.1301320
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An Interleaved Hop-by-Hop Authentication Scheme for Filtering of Injected
     False Data in Sensor Networks.
@@ -148,5 +148,5 @@
   - Sushil Jajodia
   - Peng Ning
   page_link: https://doi.org/10.1109/SECPRI.2004.1301328
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

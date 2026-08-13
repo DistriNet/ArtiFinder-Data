@@ -2,7 +2,8 @@
   authors:
   - Ben Adida
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/adida/adida.pdf
-  discovered_artifact: http://heliosvoting.org
+  artifacts_discovered:
+  - http://heliosvoting.org
   validated: false
 - title: The Practical Subtleties of Biometric Key Generation.
   authors:
@@ -10,7 +11,7 @@
   - Seny Kamara
   - Michael K. Reiter
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/ballard/ballard.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Securing Frame Communication in Browsers.
   authors:
@@ -18,7 +19,7 @@
   - Collin Jackson
   - John C. Mitchell
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/barth/barth.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Proactive Surge Protection: A Defense Mechanism for Bandwidth-Based Attacks.'
   authors:
@@ -27,7 +28,7 @@
   - Subhabrata Sen
   - Oliver Spatscheck
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/chou/chou.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Real-World Buffer Overflow Protection for Userspace and Kernelspace.
   authors:
@@ -35,7 +36,7 @@
   - Hari Kannan
   - Christos Kozyrakis
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/dalton/dalton.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Measurement and Classification of Humans and Bots in Internet Chat.
   authors:
@@ -44,7 +45,7 @@
   - Zhengyu Wu
   - Haining Wang 0001
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/gianvecchio/gianvecchio.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'BotMiner: Clustering Analysis of Network Traffic for Protocol- and Structure-Independent
     Botnet Detection.'
@@ -54,7 +55,7 @@
   - Junjie Zhang 0004
   - Wenke Lee
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/gu/gu.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Lest We Remember: Cold Boot Attacks on Encryption Keys.'
   authors:
@@ -68,14 +69,14 @@
   - Jacob Appelbaum
   - Edward W. Felten
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/halderman/halderman.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical Symmetric Key Cryptography on Modern Graphics Hardware.
   authors:
   - Owen Harrison
   - John Waldron
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/harrison/harrison.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Unidirectional Key Distribution Across Time and Space with Applications to
     RFID Security.
@@ -84,7 +85,7 @@
   - Ravikanth Pappu
   - Bryan Parno
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/juels/juels.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Multi-flow Attacks Against Network Flow Watermarking Schemes.
   authors:
@@ -92,7 +93,7 @@
   - Amir Houmansadr
   - Nikita Borisov
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/kiyavash/kiyavash.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Hypervisor Support for Identifying Covertly Executing Binaries.
   authors:
@@ -100,7 +101,7 @@
   - H. Andrés Lagar-Cavilla
   - David Lie
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/litty/litty.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Automatic Generation of XSS and SQL Injection Attacks with Goal-Directed
     Model Checking.
@@ -108,7 +109,7 @@
   - Michael C. Martin
   - Monica S. Lam
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/martin/martin.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Reverse-Engineering a Cryptographic RFID Tag.
   authors:
@@ -117,7 +118,7 @@
   - Starbug
   - Henryk Plötz
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/nohl/nohl.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'CloudAV: N-Version Antivirus in the Network Cloud.'
   authors:
@@ -125,7 +126,7 @@
   - Evan Cooke
   - Farnam Jahanian
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/oberheide/oberheide.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: All Your iFRAMEs Point to Us.
   authors:
@@ -134,14 +135,14 @@
   - Moheeb Abu Rajab
   - Fabian Monrose
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/provos/provos.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'NetAuth: Supporting User-Based Network Services.'
   authors:
   - Manigandan Radhakrishnan
   - Jon A. Solworth
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/radhakrishnan/radhakrishnan.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Privacy-Preserving Location Tracking of Lost or Stolen Devices: Cryptographic
     Techniques and Replacing Trusted Third Parties with DHTs.'
@@ -151,7 +152,8 @@
   - Arvind Krishnamurthy
   - Tadayoshi Kohno
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/ristenpart/ristenpart.pdf
-  discovered_artifact: http://adeona.cs.washington.edu/
+  artifacts_discovered:
+  - http://adeona.cs.washington.edu/
   validated: false
 - title: Verifying Compliance of Trusted Programs.
   authors:
@@ -159,7 +161,7 @@
   - Dave King 0002
   - Trent Jaeger
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/rueda/rueda.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'VoteBox: A Tamper-evident, Verifiable Electronic Voting System.'
   authors:
@@ -167,7 +169,7 @@
   - Kyle Derr
   - Dan S. Wallach
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/sandler/sandler.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Selective Versioning in a Secure Disk System.
   authors:
@@ -175,14 +177,14 @@
   - Gopalan Sivathanu
   - Erez Zadok
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/sundararaman/sundararaman.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An Empirical Security Study of the Native Code in the JDK.
   authors:
   - Gang Tan
   - Jason Croft
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/tan_g/tan_g.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'AutoISES: Automatically Inferring Security Specification and Detecting Violations.'
   authors:
@@ -192,7 +194,7 @@
   - Weiwei Xiong
   - Yuanyuan Zhou 0001
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/tan_l/tan_l.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Panalyst: Privacy-Aware Remote Error Analysis on Commodity Software .'
   authors:
@@ -200,14 +202,16 @@
   - XiaoFeng Wang 0001
   - Zhuowei Li 0001
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/wang/wang.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An Improved Clock-skew Measurement Technique for Revealing Hidden Services.
   authors:
   - Sebastian Zander
   - Steven J. Murdoch
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/zander/zander.pdf
-  discovered_artifact: http://www.cl.cam.ac.uk/~sjm217/
+  artifacts_discovered:
+  - http://caia.swin.edu.au/cv/szander/
+  - http://www.cl.cam.ac.uk/~sjm217/
   validated: false
 - title: Highly Predictive Blacklisting.
   authors:
@@ -215,7 +219,8 @@
   - Phillip A. Porras
   - Johannes Ullrich
   page_link: http://www.usenix.org/events/sec08/tech/full_papers/zhang/zhang.pdf
-  discovered_artifact: DShield.org
+  artifacts_discovered:
+  - DShield.org
   validated: false
 - title: 'To catch a Predator: A Natural Language Approach for Eliciting Malicious
     Payloads'
@@ -226,5 +231,5 @@
   - Niels Provos
   - Adam Stubblefield
   page_link: https://www.usenix.org/legacy/event/sec08/tech/full_papers/small/small_html/index.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

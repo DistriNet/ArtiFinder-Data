@@ -7,7 +7,8 @@
   - Cristiano Giuffrida
   - Herbert Bos
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/razavi
-  discovered_artifact: https://vusec.net/projects/flip-feng-shui
+  artifacts_discovered:
+  - https://vusec.net/projects/flip-feng-shui
   validated: false
 - title: 'One Bit Flips, One Cloud Flops: Cross-VM Row Hammer Attacks and Privilege
     Escalation'
@@ -17,7 +18,7 @@
   - Yinqian Zhang
   - Radu Teodorescu
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/xiao
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Verifying Constant-Time Implementations
   authors:
@@ -27,7 +28,11 @@
   - François Dupressoir
   - Michael Emmi
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/almeida
-  discovered_artifact: https://github.com/imdea-software/verifying-constant-time
+  artifacts_discovered:
+  - https://github.com/imdea-software/verifying-constant-time
+  - https://github.com/imdea-software/
+  - github.com/awslabs/s2n
+  - http://github.com/boogie-org/boogie
   validated: false
 - title: 'PIkit: A New Kernel-Independent Processor-Interconnect Rootkit'
   authors:
@@ -38,7 +43,7 @@
   - Yongdae Kim
   - John Kim 0001
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/song
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure, Precise, and Fast Floating-Point Operations on x86 Processors
   authors:
@@ -46,7 +51,8 @@
   - Calvin Lin
   - Mohit Tiwari
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/rane
-  discovered_artifact: https://github.com/grievejia/tpa
+  artifacts_discovered:
+  - https://github.com/grievejia/tpa
   validated: false
 - title: 'uberSpark: Enforcing Verifiable Object Abstractions for Automated Compositional
     Security Analysis of a Hypervisor'
@@ -57,7 +63,8 @@
   - Limin Jia 0001
   - Anupam Datta
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/vasudevan
-  discovered_artifact: http://uberspark.org
+  artifacts_discovered:
+  - http://uberspark.org
   validated: false
 - title: Undermining Information Hiding (and What to Do about It)
   authors:
@@ -69,7 +76,7 @@
   - Cristiano Giuffrida
   - Herbert Bos
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/g%C3%B6kta%C5%9F
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Poking Holes in Information Hiding
   authors:
@@ -78,7 +85,7 @@
   - Herbert Bos
   - Cristiano Giuffrida
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/oikonomopoulos
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: What Cannot Be Read, Cannot Be Leveraged? Revisiting Assumptions of JIT-ROP
     Defenses
@@ -87,13 +94,14 @@
   - Michael Backes 0001
   - Christian Rossow
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/maisuradze
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'zxcvbn: Low-Budget Password Strength Estimation'
   authors:
   - Daniel Lowe Wheeler
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler
-  discovered_artifact: http://github.com/dropbox/zxcvbn
+  artifacts_discovered:
+  - http://github.com/dropbox/zxcvbn
   validated: false
 - title: 'Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks'
   authors:
@@ -105,7 +113,8 @@
   - Nicolas Christin
   - Lorrie Faith Cranor
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher
-  discovered_artifact: https://github.com/cupslab/neural_network_cracking
+  artifacts_discovered:
+  - https://github.com/cupslab/neural_network_cracking
   validated: false
 - title: An Empirical Study of Textual Key-Fingerprint Representations
   authors:
@@ -116,7 +125,8 @@
   - Sascha Fahl
   - Matthew Smith 0001
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/dechand
-  discovered_artifact: https://github.com/akwizgran/basic-english
+  artifacts_discovered:
+  - https://github.com/akwizgran/basic-english
   validated: false
 - title: 'Off-Path TCP Exploits: Global Rate Limit Considered Dangerous'
   authors:
@@ -127,7 +137,7 @@
   - Srikanth V. Krishnamurthy
   - Lisa M. Marvel
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/cao
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Website-Targeted False Content Injection by Network Operators
   authors:
@@ -135,7 +145,8 @@
   - Jaime Schcolnik
   - Yossi Rubin
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/nakibly
-  discovered_artifact: https://www.netresec.com/?page=Blog&month=2016-03&post=Packet-Injection-Attacks-in-the-Wild
+  artifacts_discovered:
+  - https://www.netresec.com/?page=Blog&month=2016-03&post=Packet-Injection-Attacks-in-the-Wild
   validated: false
 - title: 'The Ever-Changing Labyrinth: A Large-Scale Analysis of Wildcard DNS Powered
     Blackhat SEO'
@@ -146,7 +157,7 @@
   - Hai-Xin Duan
   - Kehuan Zhang
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/du
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Comprehensive Measurement Study of Domain Generating Malware
   authors:
@@ -156,7 +167,7 @@
   - Johannes Bader
   - Elmar Gerhards-Padilla
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/plohmann
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Enhancing Bitcoin Security and Performance with Strong Consistency via Collective
     Signing
@@ -168,21 +179,23 @@
   - Linus Gasser
   - Bryan Ford
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kogias
-  discovered_artifact: https://github.com/DeDiS/Cothority
+  artifacts_discovered:
+  - https://github.com/DeDiS/Cothority
   validated: false
 - title: Faster Malicious 2-Party Secure Computation with Online/Offline Dual Execution
   authors:
   - Peter Rindal
   - Mike Rosulek
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/rindal
-  discovered_artifact: https://github.com/osu-crypto/batchDualEx
+  artifacts_discovered:
+  - https://github.com/osu-crypto/batchDualEx
   validated: false
 - title: Egalitarian Computing
   authors:
   - Alex Biryukov
   - Dmitry Khovratovich
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/biryukov
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Post-quantum Key Exchange--A New Hope
   authors:
@@ -191,7 +204,10 @@
   - Thomas Pöppelmann
   - Peter Schwabe
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/alkim
-  discovered_artifact: https://cryptojedi.org/
+  artifacts_discovered:
+  - https://cryptojedi.org/
+  - https://cryptojedi.org/crypto/#newhope
+  - https://github.com/dstehle/fplll
   validated: false
 - title: Automatically Detecting Error Handling Bugs Using Error Specifications
   authors:
@@ -200,7 +216,7 @@
   - Samuel Roth
   - Baishakhi Ray
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/jana
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'APISan: Sanitizing API Usages through Semantic Cross-Checking'
   authors:
@@ -211,7 +227,7 @@
   - Taesoo Kim
   - Mayur Naik
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/yun
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'On Omitting Commits and Committing Omissions: Preventing Git Metadata Tampering
     That (Re)introduces Software Vulnerabilities'
@@ -221,7 +237,7 @@
   - Reza Curtmola
   - Justin Cappos
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/torres-arias
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Defending against Malicious Peripherals with Cinch
   authors:
@@ -234,7 +250,7 @@
   - Andrew J. Blumberg
   - Michael Walfish
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/angel
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Making USB Great Again with USBFILTER
   authors:
@@ -244,7 +260,7 @@
   - Kevin R. B. Butler
   - Patrick Traynor
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tian
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Micro-Virtualization Memory Tracing to Detect and Prevent Spraying Attacks
   authors:
@@ -254,7 +270,9 @@
   - Andrea Lanzi
   - Davide Balzarotti
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/cristalli
-  discovered_artifact: https://github.com/graffiti
+  artifacts_discovered:
+  - https://github.com/graffiti
+  - https://github.com/graffiti-hypervisor/graffiti-hypervisor
   validated: false
 - title: 'Request and Conquer: Exposing Cross-Origin Resource Size'
   authors:
@@ -263,14 +281,14 @@
   - Frank Piessens
   - Wouter Joosen
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/vangoethem
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Trusted Browsers for Uncertain Times
   authors:
   - David Kohlbrenner
   - Hovav Shacham
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kohlbrenner
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Tracing Information Flows Between Ad Exchanges Using Retargeted Ads
   authors:
@@ -279,7 +297,9 @@
   - William K. Robertson
   - Christo Wilson
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/bashir
-  discovered_artifact: http://personalization.ccs.neu.edu/
+  artifacts_discovered:
+  - http://personalization.ccs.neu.edu/
+  - http://personalization.ccs.neu.edu/2
   validated: false
 - title: 'Virtual U: Defeating Face Liveness Detection by Building Virtual Models
     from Your Public Photos'
@@ -289,7 +309,7 @@
   - Jan-Michael Frahm
   - Fabian Monrose
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/xu
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Hidden Voice Commands
   authors:
@@ -302,7 +322,8 @@
   - David A. Wagner 0001
   - Wenchao Zhou
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/carlini
-  discovered_artifact: http://hiddenvoicecommands.com
+  artifacts_discovered:
+  - http://hiddenvoicecommands.com
   validated: false
 - title: 'FlowFence: Practical Data Protection for Emerging IoT Application Frameworks'
   authors:
@@ -313,7 +334,7 @@
   - Mauro Conti
   - Atul Prakash 0001
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/fernandes
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ARMageddon: Cache Attacks on Mobile Devices'
   authors:
@@ -323,7 +344,9 @@
   - Clémentine Maurice
   - Stefan Mangard
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/lipp
-  discovered_artifact: https://github.com/IAIK/armageddon
+  artifacts_discovered:
+  - https://github.com/IAIK/armageddon
+  - https://github.com/IAIK/armageddon.level
   validated: false
 - title: 'DRAMA: Exploiting DRAM Addressing for Cross-CPU Attacks'
   authors:
@@ -333,7 +356,10 @@
   - Michael Schwarz 0001
   - Stefan Mangard
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/pessl
-  discovered_artifact: https://github.com/IAIK/drama
+  artifacts_discovered:
+  - https://github.com/IAIK/drama
+  - https://github.com/IAIK/
+  - https://github.com/IAIK/drama.cores
   validated: false
 - title: An In-Depth Analysis of Disassembly on Full-Scale x86/x64 Binaries
   authors:
@@ -343,7 +369,8 @@
   - Asia Slowinska
   - Herbert Bos
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/andriesse
-  discovered_artifact: https://www.vusec.net/projects/disassembly/
+  artifacts_discovered:
+  - https://www.vusec.net/projects/disassembly/
   validated: false
 - title: Stealing Machine Learning Models via Prediction APIs
   authors:
@@ -353,7 +380,8 @@
   - Michael K. Reiter
   - Thomas Ristenpart
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer
-  discovered_artifact: https://github.com/ftramer/Steal-ML
+  artifacts_discovered:
+  - https://github.com/ftramer/Steal-ML
   validated: false
 - title: Oblivious Multi-Party Machine Learning on Trusted Processors
   authors:
@@ -365,7 +393,7 @@
   - Kapil Vaswani
   - Manuel Costa
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/ohrimenko
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Thoth: Comprehensive Policy Compliance in Data Retrieval Systems'
   authors:
@@ -375,7 +403,7 @@
   - Deepak Garg 0001
   - Peter Druschel
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/elnikety
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Dancing on the Lip of the Volcano: Chosen Ciphertext Attacks on Apple iMessage'
   authors:
@@ -385,14 +413,14 @@
   - Ian Miers
   - Michael Rushanan
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/garman
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Predicting, Decrypting, and Abusing WPA2/802.11 Group Keys
   authors:
   - Mathy Vanhoef
   - Frank Piessens
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/vanhoef
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'All Your Queries Are Belong to Us: The Power of File-Injection Attacks on
     Searchable Encryption'
@@ -401,7 +429,7 @@
   - Jonathan Katz
   - Charalampos Papamanthou
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/zhang
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'DROWN: Breaking TLS Using SSLv2'
   authors:
@@ -421,7 +449,8 @@
   - Christof Paar
   - Yuval Shavitt
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/aviram
-  discovered_artifact: https://drownattack.com
+  artifacts_discovered:
+  - https://drownattack.com
   validated: false
 - title: Measuring PUP Prevalence and PUP Distribution through Pay-Per-Install Services
   authors:
@@ -429,7 +458,7 @@
   - Leyla Bilge
   - Juan Caballero
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kotzias
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Investigating Commercial Pay-Per-Install and the Distribution of Unwanted
     Software
@@ -453,7 +482,7 @@
   - Elie Bursztein
   - Damon McCoy
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/thomas
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'UNVEIL: A Large-Scale, Automated Approach to Detecting Ransomware'
   authors:
@@ -463,7 +492,7 @@
   - William K. Robertson
   - Engin Kirda
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kharaz
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Towards Measuring and Mitigating Social Engineering Software Download Attacks
   authors:
@@ -472,7 +501,7 @@
   - Manos Antonakakis
   - Mustaque Ahamad
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/nelms
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Specification Mining for Intrusion Detection in Networked Control Systems
   authors:
@@ -482,7 +511,8 @@
   - Robin Sommer
   - Frank Kargl
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/caselli
-  discovered_artifact: https://github.com/specification-mining-paper-usenix-2016/specification-mining
+  artifacts_discovered:
+  - https://github.com/specification-mining-paper-usenix-2016/specification-mining
   validated: false
 - title: Optimized Invariant Representation of Network Traffic for Detecting Unseen
     Malware Variants
@@ -491,7 +521,7 @@
   - Michal Sofka
   - Vojtech Franc
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/bartos
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Authenticated Network Time Synchronization
   authors:
@@ -499,7 +529,8 @@
   - Douglas Stebila
   - Greg Zaverucha
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/dowling
-  discovered_artifact: https://github.com/DowlingBJ/AuthenticatedNTP
+  artifacts_discovered:
+  - https://github.com/DowlingBJ/AuthenticatedNTP
   validated: false
 - title: 'Sanctum: Minimal Hardware Extensions for Strong Software Isolation'
   authors:
@@ -507,7 +538,8 @@
   - Ilia A. Lebedev
   - Srinivas Devadas
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/costan
-  discovered_artifact: https://github.com/pwnall/sanctum
+  artifacts_discovered:
+  - https://github.com/pwnall/sanctum
   validated: false
 - title: 'fTPM: A Software-Only Implementation of a TPM Chip'
   authors:
@@ -527,21 +559,22 @@
   - Stefan Thom
   - David Wooten
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/raj
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Ariadne: A Minimal Approach to State Continuity'
   authors:
   - Raoul Strackx
   - Frank Piessens
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/strackx
-  discovered_artifact: https://distrinet.cs.kuleuven.be/software/sce/ariadne.html
+  artifacts_discovered:
+  - https://distrinet.cs.kuleuven.be/software/sce/ariadne.html
   validated: false
 - title: Fingerprinting Electronic Control Units for Vehicle Intrusion Detection
   authors:
   - Kyong-Tak Cho
   - Kang G. Shin
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/cho
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: The Million-Key Question--Investigating the Origins of RSA Public Keys
   authors:
@@ -553,7 +586,7 @@
   - David Komárek
   - Vashek Matyás
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/svenda
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Lock It and Still Lose It --on the (In)Security of Automotive Remote Keyless
     Entry Systems
@@ -563,7 +596,8 @@
   - Timo Kasper
   - Pierre Pavlidès
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/garcia
-  discovered_artifact: https://github.com/bastibl/gr-keyfob
+  artifacts_discovered:
+  - https://github.com/bastibl/gr-keyfob
   validated: false
 - title: 'OblivP2P: An Oblivious Peer-to-Peer Content Sharing System'
   authors:
@@ -572,7 +606,8 @@
   - Shruti Tople
   - Prateek Saxena
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/jia
-  discovered_artifact: https://github.com/jiayaoqijia/OblivP2P-Code
+  artifacts_discovered:
+  - https://github.com/jiayaoqijia/OblivP2P-Code
   validated: false
 - title: 'You Are Who You Know and How You Behave: Attribute Inference Attacks via
     Users'' Social Friends and Behaviors'
@@ -580,7 +615,7 @@
   - Neil Zhenqiang Gong
   - Bin Liu 0045
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/gong
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'AuthLoop: End-to-End Cryptographic Authentication for Telephony over Voice
     Channels'
@@ -589,7 +624,7 @@
   - Logan Blue
   - Patrick Traynor
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/reaves
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Internet Jones and the Raiders of the Lost Trackers: An Archaeological Study
     of Web Tracking from 1996 to 2016'
@@ -599,7 +634,8 @@
   - Tadayoshi Kohno
   - Franziska Roesner
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/lerner
-  discovered_artifact: http://trackingexcavator.cs.washington.edu/
+  artifacts_discovered:
+  - http://trackingexcavator.cs.washington.edu/
   validated: false
 - title: 'Hey, You Have a Problem: On the Feasibility of Large-Scale Web Vulnerability
     Notification'
@@ -610,7 +646,7 @@
   - Martin Johns
   - Michael Backes 0001
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/stock
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Mirror: Enabling Proofs of Data Replication and Retrievability in the Cloud'
   authors:
@@ -619,7 +655,7 @@
   - Jens-Matthias Bohli
   - Ghassan O. Karame
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/armknecht
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'You''ve Got Vulnerability: Exploring Effective Vulnerability Notifications'
   authors:
@@ -632,7 +668,7 @@
   - Stefan Savage
   - Vern Paxson
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/li
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ZKBoo: Faster Zero-Knowledge for Boolean Circuits'
   authors:
@@ -640,7 +676,9 @@
   - Jesper Madsen
   - Claudio Orlandi
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/giacomelli
-  discovered_artifact: https://github.com/Sobuno/ZKBoo
+  artifacts_discovered:
+  - https://github.com/Sobuno/ZKBoo
+  - https://github.com/Sobuno/ZKBoo.5.1
   validated: false
 - title: The Cut-and-Choose Game and Its Application to Cryptographic Protocols
   authors:
@@ -649,7 +687,8 @@
   - Jonathan Katz
   - Abhi Shelat
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/zhu
-  discovered_artifact: https://github.com/cut-n-choose
+  artifacts_discovered:
+  - https://github.com/cut-n-choose
   validated: false
 - title: 'On Demystifying the Android Application Framework: Re-Visiting Android Permission
     Specification Analysis'
@@ -661,7 +700,7 @@
   - Damien Octeau
   - Sebastian Weisgerber
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/backes_android
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical DIFC Enforcement on Android
   authors:
@@ -670,7 +709,8 @@
   - William Enck
   - Somesh Jha
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/nadkarni
-  discovered_artifact: http://wspr.csc.ncsu.edu/weir/
+  artifacts_discovered:
+  - http://wspr.csc.ncsu.edu/weir/
   validated: false
 - title: 'Screen after Previous Screens: Spatial-Temporal Recreation of Android App
     Displays from Memory Images'
@@ -681,7 +721,8 @@
   - Dongyan Xu
   - Golden G. Richard III
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/saltaformaggio
-  discovered_artifact: https://github.com/ProjectRetroScope/RetroScope
+  artifacts_discovered:
+  - https://github.com/ProjectRetroScope/RetroScope
   validated: false
 - title: Harvesting Inconsistent Security Configurations in Custom Android ROMs via
     Differential Analysis
@@ -690,14 +731,14 @@
   - Xiao Zhang
   - Wenliang Du
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/aafer
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'k-fingerprinting: A Robust Scalable Website Fingerprinting Technique'
   authors:
   - Jamie Hayes
   - George Danezis
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/hayes
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Identifying and Characterizing Sybils in the Tor Network
   authors:
@@ -706,7 +747,8 @@
   - Karsten Loesing
   - Nick Feamster
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/winter
-  discovered_artifact: https://nymity.ch/sybilhunting/
+  artifacts_discovered:
+  - https://nymity.ch/sybilhunting/
   validated: false
 - title: Protecting Privacy of BLE Device Users
   authors:
@@ -714,7 +756,7 @@
   - Kyu-Han Kim
   - Kang G. Shin
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/fawaz
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Privacy in Epigenetics: Temporal Linkability of MicroRNA Expression Profiles'
   authors:
@@ -725,5 +767,6 @@
   - Andreas Keller
   - Tim Meyer
   page_link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/backes_epigenetics
-  discovered_artifact: https://networkx.github.io
+  artifacts_discovered:
+  - https://networkx.github.io
   validated: false

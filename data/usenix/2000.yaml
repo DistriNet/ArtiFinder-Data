@@ -3,7 +3,7 @@
   - Anurag Acharya 0001
   - Mandar Raje
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/mapbox-using-parameterized-behavior-classes-confine
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: PGP in Constrained Wireless Devices.
   authors:
@@ -14,45 +14,45 @@
   - Michael Kirkup
   - Alfred Menezes
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/pgp-constrained-wireless-devices
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Shibboleth: Private Mailing List Manager.'
   authors:
   - Matt Curtin
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/shibboleth-private-mailing-list-manager
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Deja Vu-A User Study: Using Images for Authentication.'
   authors:
   - Rachna Dhamija
   - Adrian Perrig
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/deja-vu-user-study-using-images-authentication
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Secure Java Virtual Machine.
   authors:
   - Leendert van Doorn
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/secure-java-virtual-machine
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An Open-Source Cryptographic Coprocessor.
   authors:
   - Peter Gutmann
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/open-source-cryptographic-coprocessor
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure Coprocessor Integration with Kerberos V5.
   authors:
   - Naomaru Itoi
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/secure-coprocessor-integration-kerberos-v5
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Chosen Ciphertext Attack Against Several E-Mail Encryption Protocols.
   authors:
   - Jonathan Katz
   - Bruce Schneier
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/chosen-ciphertext-attack-against-several-e-mail-encryption
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Detecting and Countering System Intrusions Using Software Wrappers.
   authors:
@@ -61,26 +61,26 @@
   - Lee Badger
   - Douglas Kilpatrickv
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/detecting-and-countering-system-intrusions-using-software
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Probabilistic Counting of Large Digital Signature Collections.
   authors:
   - Markus G. Kuhn
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/probabilistic-counting-large-digital-signature-collections
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Encrypting Virtual Memory.
   authors:
   - Niels Provos
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/encrypting-virtual-memory
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Can Pseudonymity Really Guarantee Privacy?
   authors:
   - Josyula R. Rao
   - Pankaj Rohatgi
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/can-pseudonymity-really-guarantee-privacy
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Analysis of the Intel Pentium&apos;s Ability to Support a Secure Virtual
     Machine Monitor.
@@ -88,7 +88,7 @@
   - John Scott Robin
   - Cynthia E. Irvine
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/analysis-intel-pentiums-ability-support-secure-virtual
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Defeating TCP/IP Stack Fingerprinting.
   authors:
@@ -96,20 +96,20 @@
   - G. Robert Malan
   - Farnam Jahanian
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/defeating-tcpip-stack-fingerprinting
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Automated Response Using System-Call Delay.
   authors:
   - Anil Somayaji
   - Stephanie Forrest
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/automated-response-using-system-call-delay
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'CenterTrack: An IP Overlay Network for Tracking DoS Floods.'
   authors:
   - Robert Stone
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/centertrack-ip-overlay-network-tracking-dos-floods
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Publius: A Robust, Tamper-Evident, Censorship-Resistant, and Source-Anonymous
     Web Publishing System.'
@@ -118,26 +118,26 @@
   - Aviel D. Rubin
   - Lorrie Faith Cranor
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/publius-robust-tamper-evident-censorship-resistant-and
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Detecting Backdoors.
   authors:
   - Yin Zhang 0001
   - Vern Paxson
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/detecting-backdoors
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Detecting Stepping Stones.
   authors:
   - Yin Zhang 0001
   - Vern Paxson
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/detecting-stepping-stones
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Multi-Layer IPSEC Protocol.
   authors:
   - Yongguang Zhang
   - Bikramjit Singh
   page_link: https://www.usenix.org/conference/9th-usenix-security-symposium/multi-layer-ipsec-protocol
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

@@ -6,7 +6,7 @@
   - Nikolaos Vasiloglou
   - David Dagon
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Antonakakis.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Measuring Pay-per-Install: The Commoditization of Malware Distribution.'
   authors:
@@ -15,7 +15,7 @@
   - Christian Kreibich
   - Vern Paxson
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Caballero.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Bubble Trouble: Off-Line De-Anonymization of Bubble Forms.'
   authors:
@@ -23,7 +23,7 @@
   - William Clarkson
   - Edward W. Felten
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Calandrino.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Comprehensive Experimental Analyses of Automotive Attack Surfaces.
   authors:
@@ -38,7 +38,7 @@
   - Franziska Roesner
   - Tadayoshi Kohno
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'MACE: Model-inference-Assisted Concolic Exploration for Protocol and Vulnerability
     Discovery.'
@@ -50,7 +50,7 @@
   - Edward XueJun Wu
   - Dawn Song
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Cho.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Why (Special Agent) Johnny (Still) Can&apos;t Encrypt: A Security Analysis
     of the APCO Project 25 Two-Way Radio System.'
@@ -62,7 +62,7 @@
   - Kevin Xu
   - Matt Blaze
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Clark.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ZOZZLE: Fast and Precise In-Browser JavaScript Malware Detection.'
   authors:
@@ -71,7 +71,7 @@
   - Benjamin G. Zorn
   - Christian Seifert
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Curtsinger.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'mCarve: Carving Attributed Dump Sets.'
   authors:
@@ -79,7 +79,8 @@
   - Sjouke Mauw
   - Sasa Radomirovic
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Deursen.pdf
-  discovered_artifact: http://satoss.uni.lu/mcarve
+  artifacts_discovered:
+  - http://satoss.uni.lu/mcarve
   validated: false
 - title: 'QUIRE: Lightweight Provenance for Smart Phone Operating Systems.'
   authors:
@@ -89,7 +90,8 @@
   - Anhei Shu
   - Dan S. Wallach
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Dietz7-26-11.pdf
-  discovered_artifact: http://developer.android.com/guide/market/billing/billing_best_practices.html
+  artifacts_discovered:
+  - http://developer.android.com/guide/market/billing/billing_best_practices.html
   validated: false
 - title: Cloaking Malware with the Trusted Platform Module.
   authors:
@@ -98,7 +100,7 @@
   - Brent Waters
   - Emmett Witchel
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Dunn.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Study of Android Application Security.
   authors:
@@ -107,7 +109,8 @@
   - Patrick D. McDaniel
   - Swarat Chaudhuri
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Enck.pdf
-  discovered_artifact: http://siis.cse.psu.edu/ded/
+  artifacts_discovered:
+  - http://siis.cse.psu.edu/ded/
   validated: false
 - title: 'Permission Re-Delegation: Attacks and Defenses.'
   authors:
@@ -117,7 +120,7 @@
   - Steve Hanna
   - Erika Chin
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Felt.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure In-Band Wireless Pairing.
   authors:
@@ -126,7 +129,7 @@
   - Nickolai Zeldovich
   - Dina Katabi
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Gollakota.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Toward Secure Embedded Web Interfaces.
   authors:
@@ -135,7 +138,7 @@
   - Hristo Bojinov
   - Elie Bursztein
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Gourdin.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Outsourcing the Decryption of ABE Ciphertexts.
   authors:
@@ -143,7 +146,7 @@
   - Susan Hohenberger
   - Brent Waters
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Green.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Differential Privacy Under Fire.
   authors:
@@ -151,7 +154,7 @@
   - Benjamin C. Pierce
   - Arjun Narayan
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Haeberlen.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Fast and Precise Sanitizer Analysis with BEK.
   authors:
@@ -161,7 +164,7 @@
   - Prateek Saxena
   - Margus Veanes
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Hooimeijer.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Faster Secure Two-Party Computation Using Garbled Circuits.
   authors:
@@ -170,7 +173,8 @@
   - Jonathan Katz
   - Lior Malka
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Huang.pdf
-  discovered_artifact: http://MightBeEvil.org
+  artifacts_discovered:
+  - http://MightBeEvil.org
   validated: false
 - title: 'JACKSTRAWS: Picking Command and Control Connections from Bot Traffic.'
   authors:
@@ -179,7 +183,7 @@
   - Christopher Kruegel
   - Thorsten Holz
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Jacob.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'deSEO: Combating Search-Result Poisoning.'
   authors:
@@ -189,7 +193,7 @@
   - Arvind Krishnamurthy
   - Martín Abadi
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/John.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Show Me the Money: Characterizing Spam-advertised Revenue.'
   authors:
@@ -203,7 +207,7 @@
   - Geoffrey M. Voelker
   - Stefan Savage
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Kanich.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Measuring and Analyzing Search-Redirection Attacks in the Illicit Online
     Prescription Drug Trade.
@@ -212,7 +216,7 @@
   - Tyler Moore 0001
   - Nicolas Christin
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Leontiadis.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'The Phantom Tollbooth: Privacy-Preserving Electronic Toll Collection in
     the Presence of Driver Collusion.'
@@ -222,7 +226,7 @@
   - Stephen Checkoway
   - Hovav Shacham
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Meiklejohn.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'PIR-Tor: Scalable Anonymous Communication Using Private Information Retrieval.'
   authors:
@@ -232,7 +236,7 @@
   - Nikita Borisov
   - Ian Goldberg
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Mittal.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Dirty Jobs: The Role of Freelance Labor in Web Service Abuse.'
   authors:
@@ -242,7 +246,7 @@
   - Stefan Savage
   - Geoffrey M. Voelker
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Motoyama.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Dark Clouds on the Horizon: Using Cloud Storage as Attack Vector and Online
     Slack Space.'
@@ -253,7 +257,7 @@
   - Markus Huber 0001
   - Edgar R. Weippl
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Mulazzani6-24-11.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: TRESOR Runs Encryption Securely Outside RAM.
   authors:
@@ -261,7 +265,7 @@
   - Felix C. Freiling
   - Andreas Dewald
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Muller.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SMS of Death: From Analyzing to Attacking Mobile Phones on a Large Scale.'
   authors:
@@ -269,7 +273,7 @@
   - Nico Golde
   - Jean-Pierre Seifert
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Mulliner.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ADsafety: Type-Based Verification of JavaScript Sandboxing.'
   authors:
@@ -278,7 +282,8 @@
   - Arjun Guha
   - Shriram Krishnamurthi
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Politz.pdf
-  discovered_artifact: cs.brown.edu/research/plt/dl/adsafety/v1
+  artifacts_discovered:
+  - cs.brown.edu/research/plt/dl/adsafety/v1
   validated: false
 - title: 'Q: Exploit Hardening Made Easy.'
   authors:
@@ -286,7 +291,7 @@
   - Thanassis Avgerinos
   - David Brumley
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Schwartz.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SHELLOS: Enabling Fast Detection and Forensic Analysis of Code Injection
     Attacks.'
@@ -296,7 +301,7 @@
   - Fabian Monrose
   - Niels Provos
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Snow.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'BOTMAGNIFIER: Locating Spambots on the Internet.'
   authors:
@@ -306,7 +311,7 @@
   - Christopher Kruegel
   - Giovanni Vigna
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Stringhini.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Static Detection of Access Control Vulnerabilities in Web Applications.
   authors:
@@ -314,7 +319,7 @@
   - Liang Xu
   - Zhendong Su 0001
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Sun.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Forensic Triage for Mobile Phones with DEC0DE.
   authors:
@@ -322,7 +327,7 @@
   - Erik G. Learned-Miller
   - Brian Neil Levine
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Walls.pdf
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Telex: Anticensorship in the Network Infrastructure.'
   authors:
@@ -331,5 +336,6 @@
   - Ian Goldberg
   - J. Alex Halderman
   page_link: http://static.usenix.org/events/sec11/tech/full_papers/Wustrow.pdf
-  discovered_artifact: https://telex.cc
+  artifacts_discovered:
+  - https://telex.cc
   validated: false

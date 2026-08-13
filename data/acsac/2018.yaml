@@ -4,7 +4,8 @@
   - Daniel Hausknecht
   - Andrei Sabelfeld
   page_link: https://doi.org/10.1145/3274694.3274701
-  discovered_artifact: http://www.cse.chalmers.se/research/group/security/originmanifest
+  artifacts_discovered:
+  - http://www.cse.chalmers.se/research/group/security/originmanifest
   validated: false
 - title: Practical Integrity Protection with Oblivious Hashing.
   authors:
@@ -13,7 +14,8 @@
   - Sebastian Banescu
   - Alexander Pretschner
   page_link: https://doi.org/10.1145/3274694.3274732
-  discovered_artifact: https://github.com/tum-i22/sip-oblivious-hashing
+  artifacts_discovered:
+  - https://github.com/tum-i22/sip-oblivious-hashing
   validated: false
 - title: 'Noise Matters: Using Sensor and Process Noise Fingerprint to Detect Stealthy
     Cyber Attacks and Authenticate sensors in CPS.'
@@ -22,7 +24,7 @@
   - Jianying Zhou 0001
   - Aditya P. Mathur
   page_link: https://doi.org/10.1145/3274694.3274748
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Improving Accuracy of Android Malware Detection with Lightweight Contextual
     Awareness.
@@ -34,7 +36,7 @@
   - Simon Pak Ho Chung
   - Wenke Lee
   page_link: https://doi.org/10.1145/3274694.3274744
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SmarTor: Smarter Tor with Smart Contracts: Improving resilience of topology
     distribution in the Tor network.'
@@ -43,7 +45,7 @@
   - Alexandra Dmitrienko
   - Samuel Kounev
   page_link: https://doi.org/10.1145/3274694.3274722
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Comparing Video Based Shoulder Surfing with Live Simulation.
   authors:
@@ -51,7 +53,7 @@
   - Flynn Wolf
   - Ravi Kuber
   page_link: https://doi.org/10.1145/3274694.3274702
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling.'
   authors:
@@ -63,7 +65,7 @@
   - Adam Doupé
   - Gail-Joon Ahn
   page_link: https://doi.org/10.1145/3274694.3274753
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Improving security and usability of passphrases with guided word choice.
   authors:
@@ -71,7 +73,7 @@
   - Clément Malaingre
   - Ted Selker
   page_link: https://doi.org/10.1145/3274694.3274734
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Finding Dependencies between Cyber-Physical Domains for Security Testing
     of Industrial Control Systems.
@@ -80,7 +82,7 @@
   - Martín Ochoa
   - Jianying Zhou 0001
   page_link: https://doi.org/10.1145/3274694.3274745
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Why Johnny Can&apos;t Make Money With His Contents: Pitfalls of Designing
     and Implementing Content Delivery Apps.'
@@ -92,7 +94,7 @@
   - Aniket Kate
   - Ninghui Li
   page_link: https://doi.org/10.1145/3274694.3274752
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone.'
   authors:
@@ -105,7 +107,7 @@
   - Adam Doupé
   - Gail-Joon Ahn
   page_link: https://doi.org/10.1145/3274694.3274704
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'There&apos;s a Hole in that Bucket!: A Large-scale Analysis of Misconfigured
     S3 Buckets.'
@@ -115,7 +117,8 @@
   - Marcello Pogliani
   - Stefano Zanero
   page_link: https://doi.org/10.1145/3274694.3274736
-  discovered_artifact: https://github.com/necst/truster
+  artifacts_discovered:
+  - https://github.com/necst/truster
   validated: false
 - title: Accurate Malware Detection by Extreme Abstraction.
   authors:
@@ -126,7 +129,7 @@
   - Dov Murik
   - Benjamin Zeltser
   page_link: https://doi.org/10.1145/3274694.3274700
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'DeDoS: Defusing DoS with Dispersion Oriented Software.'
   authors:
@@ -145,7 +148,8 @@
   - Clay Shields
   - Wenchao Zhou
   page_link: https://doi.org/10.1145/3274694.3274727
-  discovered_artifact: https://github.com/dedos-project/DeDOS
+  artifacts_discovered:
+  - https://github.com/dedos-project/DeDOS
   validated: false
 - title: 'LOBO: Evaluation of Generalization Deficiencies in Twitter Bot Classifiers.'
   authors:
@@ -156,7 +160,7 @@
   - Gianluca Stringhini
   - Shi Zhou
   page_link: https://doi.org/10.1145/3274694.3274738
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Crystal (ball): I Look at Physics and Predict Control Flow! Just-Ahead-Of-Time
     Controller Recovery.'
@@ -167,7 +171,7 @@
   - Katherine R. Davis 0001
   - Saman A. Zonouz
   page_link: https://doi.org/10.1145/3274694.3274724
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Poisoning Attacks to Graph-Based Recommender Systems.
   authors:
@@ -176,7 +180,7 @@
   - Neil Zhenqiang Gong
   - Jia Liu 0002
   page_link: https://doi.org/10.1145/3274694.3274706
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Take It or Leave It: A Survey Study on Operating System Upgrade Practices.'
   authors:
@@ -186,7 +190,7 @@
   - Jens Grossklags
   - Peng Liu 0005
   page_link: https://doi.org/10.1145/3274694.3274733
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On the Effectiveness of Type-based Control Flow Integrity.
   authors:
@@ -197,7 +201,7 @@
   - Engin Kirda
   - Hamed Okhravi
   page_link: https://doi.org/10.1145/3274694.3274739
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure Out-of-band Remote Management of Virtual Machines with Transparent
     Passthrough.
@@ -206,7 +210,7 @@
   - Tomoya Unoki
   - Kenichi Kourai
   page_link: https://doi.org/10.1145/3274694.3274749
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Towards Automated Generation of Exploitation Primitives for Web Browsers.
   authors:
@@ -217,7 +221,7 @@
   - Tim Blazytko
   - Thorsten Holz
   page_link: https://doi.org/10.1145/3274694.3274723
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Now You See Me: Real-time Dynamic Function Call Detection.'
   authors:
@@ -227,7 +231,8 @@
   - Herbert Bos
   - Roland Groz
   page_link: https://doi.org/10.1145/3274694.3274712
-  discovered_artifact: https://github.com/Frky/iCi
+  artifacts_discovered:
+  - https://github.com/Frky/iCi
   validated: false
 - title: An Historical Analysis of the SEAndroid Policy Evolution.
   authors:
@@ -235,7 +240,7 @@
   - Ang Chen 0001
   - Dan S. Wallach
   page_link: https://doi.org/10.1145/3274694.3274709
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'TIFF: Using Input Type Inference To Improve Fuzzing.'
   authors:
@@ -244,7 +249,10 @@
   - Cristiano Giuffrida
   - Herbert Bos
   page_link: https://doi.org/10.1145/3274694.3274746
-  discovered_artifact: https://www.vusec.net/projects/#testing).
+  artifacts_discovered:
+  - https://www.vusec.net/projects/#testing
+  - https://www.vusec.net/projects/#testing)
+  - https://www.vusec.net/projects/#testing).
   validated: false
 - title: 'StateDroid: Stateful Detection of Stealthy Attacks in Android Apps via Horn-Clause
     Verification.'
@@ -253,7 +261,10 @@
   - Jiang Ming 0002
   - David Chenho Kung
   page_link: https://doi.org/10.1145/3274694.3274707
-  discovered_artifact: https://github.com/mohsinjuni/statedroid
+  artifacts_discovered:
+  - https://github.com/mohsinjuni/statedroid
+  - https://github.com/mohsinjuni/statedroid)
+  - https://github.com/mohsinjuni/statedroid).2
   validated: false
 - title: Model Extraction Warning in MLaaS Paradigm.
   authors:
@@ -262,7 +273,7 @@
   - Vijay Arya
   - Sameep Mehta
   page_link: https://doi.org/10.1145/3274694.3274740
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Type-After-Type: Practical and Complete Type-Safe Memory Reuse.'
   authors:
@@ -272,7 +283,8 @@
   - Herbert Bos
   - Cristiano Giuffrida
   page_link: https://doi.org/10.1145/3274694.3274705
-  discovered_artifact: https://github.com/vusec/type-after-type
+  artifacts_discovered:
+  - https://github.com/vusec/type-after-type
   validated: false
 - title: 'MemCloak: Practical Access Obfuscation for Untrusted Memory.'
   authors:
@@ -282,7 +294,7 @@
   - Jinhong Li
   - Arya Tavakoli
   page_link: https://doi.org/10.1145/3274694.3274695
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'A Measurement Study on Linux Container Security: Attacks and Countermeasures.'
   authors:
@@ -293,7 +305,7 @@
   - Kun Sun 0001
   - Quan Zhou
   page_link: https://doi.org/10.1145/3274694.3274720
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Typing-Proof: Usable, Secure and Low-Cost Two-Factor Authentication Based
     on Keystroke Timings.'
@@ -302,7 +314,7 @@
   - Yingjiu Li
   - Robert H. Deng
   page_link: https://doi.org/10.1145/3274694.3274699
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Heuristic Framework to Detect Concurrency Vulnerabilities.
   authors:
@@ -312,7 +324,7 @@
   - Bin B. Zhu
   - Hai Jin 0001
   page_link: https://doi.org/10.1145/3274694.3274718
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Measurement Study of Authentication Rate-Limiting Mechanisms of Modern
     Websites.
@@ -323,7 +335,7 @@
   - Yinqian Zhang
   - Zhiqiang Lin 0001
   page_link: https://doi.org/10.1145/3274694.3274714
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Using Loops For Malware Classification Resilient to Feature-unaware Perturbations.
   authors:
@@ -335,7 +347,8 @@
   - Christopher Kruegel
   - Giovanni Vigna
   page_link: https://doi.org/10.1145/3274694.3274731
-  discovered_artifact: http://www.github.com/ucsb-seclab/LoopMC
+  artifacts_discovered:
+  - http://www.github.com/ucsb-seclab/LoopMC
   validated: false
 - title: An Extensive Evaluation of the Internet&apos;s Open Proxies.
   authors:
@@ -344,7 +357,7 @@
   - David Dworken
   - Micah Sherr
   page_link: https://doi.org/10.1145/3274694.3274711
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On The Systematic Development and Evaluation Of Password Security Awareness-Raising
     Materials.
@@ -353,21 +366,23 @@
   - Christian Schwartz
   - Melanie Volkamer
   page_link: https://doi.org/10.1145/3274694.3274747
-  discovered_artifact: https://secuso.org/passwortsicherheit
+  artifacts_discovered:
+  - https://secuso.org/passwortsicherheit
   validated: false
 - title: Latent Typing Biometrics in Online Collaboration Services.
   authors:
   - Shane McCulley
   - Vassil Roussev
   page_link: https://doi.org/10.1145/3274694.3274754
-  discovered_artifact: https://github.com/UNOcyber/google-docs-biometrics
+  artifacts_discovered:
+  - https://github.com/UNOcyber/google-docs-biometrics
   validated: false
 - title: 'Shredder: Breaking Exploits through API Specialization.'
   authors:
   - Shachee Mishra
   - Michalis Polychronakis
   page_link: https://doi.org/10.1145/3274694.3274703
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Do Social Disorders Facilitate Social Engineering?: A Case Study of Autism
     and Phishing Attacks.'
@@ -378,7 +393,7 @@
   - Despina Stavrinos
   - Haley Johnson Bishop
   page_link: https://doi.org/10.1145/3274694.3274730
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Finding The Greedy, Prodigal, and Suicidal Contracts at Scale.
   authors:
@@ -388,7 +403,8 @@
   - Prateek Saxena
   - Aquinas Hobor
   page_link: https://doi.org/10.1145/3274694.3274743
-  discovered_artifact: https://github.com/MAIAN-tool/MAIAN
+  artifacts_discovered:
+  - https://github.com/MAIAN-tool/MAIAN
   validated: false
 - title: 'MADE: Security Analytics for Enterprise Threat Detection.'
   authors:
@@ -397,7 +413,7 @@
   - Robin Norris
   - Kevin D. Bowers
   page_link: https://doi.org/10.1145/3274694.3274710
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Mapping to Bits: Efficiently Detecting Type Confusion Errors.'
   authors:
@@ -406,7 +422,8 @@
   - Bing Mao 0001
   - Shanqing Guo
   page_link: https://doi.org/10.1145/3274694.3274719
-  discovered_artifact: https://github.com/bin2415/Bitype
+  artifacts_discovered:
+  - https://github.com/bin2415/Bitype
   validated: false
 - title: 'Hiding in the Shadows: Empowering ARM for Stealthy Virtual Machine Introspection.'
   authors:
@@ -416,7 +433,10 @@
   - Claudia Eckert 0001
   - Apostolis Zarras
   page_link: https://doi.org/10.1145/3274694.3274698
-  discovered_artifact: https://github.com/drakvuf-on-arm/drakvuf-on-arm
+  artifacts_discovered:
+  - https://github.com/drakvuf-on-arm/drakvuf-on-arm
+  - https://github.com/drakvuf-on-arm/xen/tree/arm-altp2m-drakvuf
+  - https://github.com/drakvuf-on-arm/rekall-profile-generator
   validated: false
 - title: 'IAC: On the Feasibility of Utilizing Neural Signals for Access Control.'
   authors:
@@ -424,7 +444,7 @@
   - Ajaya Neupane
   - Chengyu Song
   page_link: https://doi.org/10.1145/3274694.3274713
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: SENSS Against Volumetric DDoS Attacks.
   authors:
@@ -433,14 +453,14 @@
   - Minlan Yu
   - Ying Zhang 0022
   page_link: https://doi.org/10.1145/3274694.3274717
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'RAPID: Resource and API-Based Detection Against In-Browser Miners.'
   authors:
   - Juan D. Parra Rodriguez
   - Joachim Posegga
   page_link: https://doi.org/10.1145/3274694.3274735
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Pointing in the Right Direction - Securing Memory Accesses in a Faulty World.
   authors:
@@ -449,7 +469,7 @@
   - Pascal Nasahl
   - Stefan Mangard
   page_link: https://doi.org/10.1145/3274694.3274728
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Tracking Users across the Web via TLS Session Resumption.
   authors:
@@ -458,7 +478,7 @@
   - Hannes Federrath
   - Mathias Fischer 0001
   page_link: https://doi.org/10.1145/3274694.3274708
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts.'
   authors:
@@ -466,7 +486,8 @@
   - Julian Schütte
   - Radu State
   page_link: https://doi.org/10.1145/3274694.3274737
-  discovered_artifact: https://github.com/christoftorres/Osiris
+  artifacts_discovered:
+  - https://github.com/christoftorres/Osiris
   validated: false
 - title: 'Obscuro: A Bitcoin Mixer using Trusted Execution Environments.'
   authors:
@@ -476,7 +497,8 @@
   - Iddo Bentov
   - Prateek Saxena
   page_link: https://doi.org/10.1145/3274694.3274750
-  discovered_artifact: https://github.com/BitObscuro/Obscuro
+  artifacts_discovered:
+  - https://github.com/BitObscuro/Obscuro
   validated: false
 - title: 'Side-Channel Analysis of SM2: A Late-Stage Featurization Case Study.'
   authors:
@@ -485,7 +507,9 @@
   - Cesar Pereida García
   - Billy Bob Brumley
   page_link: https://doi.org/10.1145/3274694.3274725
-  discovered_artifact: https://github.com/openssl/web/pull/55
+  artifacts_discovered:
+  - https://github.com/openssl/web/pull/55
+  - http://www.kb.cert.org/vuls/id/536044
   validated: false
 - title: 'Lprov: Practical Library-aware Provenance Tracing.'
   authors:
@@ -495,7 +519,7 @@
   - Xiangyu Zhang 0001
   - Dongyan Xu
   page_link: https://doi.org/10.1145/3274694.3274751
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'I Know What You See: Power Side-Channel Attack on Convolutional Neural Network
     Accelerators.'
@@ -506,7 +530,7 @@
   - Yannan Liu
   - Qiang Xu 0001
   page_link: https://doi.org/10.1145/3274694.3274696
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Large Scale Investigation of Obfuscation Use in Google Play.
   authors:
@@ -517,7 +541,7 @@
   - Patrick Traynor
   - Sascha Fahl
   page_link: https://doi.org/10.1145/3274694.3274726
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'MicroWalk: A Framework for Finding Side Channels in Binaries.'
   authors:
@@ -526,7 +550,8 @@
   - Thomas Eisenbarth 0001
   - Berk Sunar
   page_link: https://doi.org/10.1145/3274694.3274741
-  discovered_artifact: https://github.com/UzL-ITS/Microwalk
+  artifacts_discovered:
+  - https://github.com/UzL-ITS/Microwalk
   validated: false
 - title: 'I Need this Back, Later!: An Exploration of Practical Secret Sharing.'
   authors:
@@ -535,7 +560,7 @@
   - Jan-Ole Malchow
   - Volker Roth 0002
   page_link: https://doi.org/10.1145/3274694.3274729
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Multi-tab Website Fingerprinting Attack.
   authors:
@@ -546,7 +571,8 @@
   - Yang Chen 0001
   - Yong Jiang 0001
   page_link: https://doi.org/10.1145/3274694.3274697
-  discovered_artifact: https://github.com/jhayes14/k-FP
+  artifacts_discovered:
+  - https://github.com/jhayes14/k-FP
   validated: false
 - title: 'ICSD: An Automatic System for Insecure Code Snippet Detection in Stack Overflow
     over Heterogeneous Information Network.'
@@ -560,7 +586,7 @@
   - Jiabin Wang
   - Qi Xiong
   page_link: https://doi.org/10.1145/3274694.3274742
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Analyzing Cache Side Channels Using Deep Neural Networks.
   authors:
@@ -568,7 +594,7 @@
   - Yinqian Zhang
   - Ruby B. Lee
   page_link: https://doi.org/10.1145/3274694.3274715
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line
     Payment Protection.'
@@ -580,7 +606,7 @@
   - Zhou Li 0001
   - Kehuan Zhang
   page_link: https://doi.org/10.1145/3274694.3274721
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SHIELD: A Framework for Efficient and Secure Machine Learning Classification
     in Constrained Environments.'
@@ -589,5 +615,5 @@
   - Jan Metzke
   - Klaus Wehrle
   page_link: https://doi.org/10.1145/3274694.3274716
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

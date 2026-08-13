@@ -5,7 +5,7 @@
   - Kai Bu
   - Kui Ren
   page_link: https://www.ndss-symposium.org/ndss-paper/phantomcache-obfuscating-cache-conflicts-with-localized-randomization/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SODA: A Generic Online Detection Framework for Smart Contracts'
   authors:
@@ -23,7 +23,10 @@
   - Xiaodong Lin
   - Xiaosong Zhang
   page_link: https://www.ndss-symposium.org/ndss-paper/soda-a-generic-online-detection-framework-for-smart-contracts/
-  discovered_artifact: https://github.com/pandabox-dev/SODA
+  artifacts_discovered:
+  - https://github.com/pandabox-dev/SODA
+  - https://github.com/pandabox-dev/
+  - https://github.com/pandabox-dev/SODA.
   validated: false
 - title: 'UIScope: Accurate, Instrumentation-free, and Visible Attack Investigation
     for GUI Applications'
@@ -34,7 +37,7 @@
   - Xiangyu Zhang
   - Yan Chen
   page_link: https://www.ndss-symposium.org/ndss-paper/uiscope-accurate-instrumentation-free-and-visible-attack-investigation-for-gui-applications/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'All the Numbers are US: Large-scale Abuse of Contact Discovery in Mobile
     Messengers'
@@ -45,7 +48,8 @@
   - Alexandra Dmitrienko
   - Thomas Schneider
   page_link: https://www.ndss-symposium.org/ndss-paper/all-the-numbers-are-us-large-scale-abuse-of-contact-discovery-in-mobile-messengers/
-  discovered_artifact: https://contact-discovery.github.io/
+  artifacts_discovered:
+  - https://contact-discovery.github.io/
   validated: false
 - title: 'Bringing Balance to the Force: Dynamic Analysis of the Android Application
     Framework'
@@ -53,7 +57,7 @@
   - Abdallah Dawoud
   - Sven Bugiel
   page_link: https://www.ndss-symposium.org/ndss-paper/bringing-balance-to-the-force-dynamic-analysis-of-the-android-application-framework/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service'
   authors:
@@ -64,7 +68,11 @@
   - XiaoFeng Wang
   - Xiapu Luo
   page_link: https://www.ndss-symposium.org/ndss-paper/as-strong-as-its-weakest-link-how-to-break-blockchain-dapps-at-rpc-service/
-  discovered_artifact: https://github.com/melonproject/
+  artifacts_discovered:
+  - https://github.com/melonproject/
+  - https://github.com/have
+  - https://github.com/best
+  - https://github.com/ethereum/
   validated: false
 - title: 'Awakening the Web''s Sleeper Agents: Misusing Service Workers for Privacy
     Leakage'
@@ -73,7 +81,7 @@
   - Panagiotis Ilia
   - Jason Polakis
   page_link: https://www.ndss-symposium.org/ndss-paper/awakening-the-webs-sleeper-agents-misusing-service-workers-for-privacy-leakage/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'C^2SR: Cybercrime Scene Reconstruction for Post-mortem Forensic Analysis'
   authors:
@@ -83,7 +91,7 @@
   - Kyu Hyung Lee
   - Roberto Perdisci
   page_link: https://www.ndss-symposium.org/ndss-paper/c2sr-cybercrime-scene-reconstruction-for-post-mortem-forensic-analysis/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'DOVE: A Data-Oblivious Virtual Environment'
   authors:
@@ -92,7 +100,8 @@
   - Christopher W. Fletcher
   - Carl A. Gunter
   page_link: https://www.ndss-symposium.org/ndss-paper/dove-a-data-oblivious-virtual-environment/
-  discovered_artifact: https://github.com/dove-project
+  artifacts_discovered:
+  - https://github.com/dove-project
   validated: false
 - title: Evading Voltage-Based Intrusion Detection on Automotive CAN
   authors:
@@ -103,7 +112,7 @@
   - Mathias Payer
   - Dongyan Xu
   page_link: https://www.ndss-symposium.org/ndss-paper/evading-voltage-based-intrusion-detection-on-automotive-can/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Deceptive Deletions for Protecting Withdrawn Posts on Social Media Platforms
   authors:
@@ -113,7 +122,7 @@
   - Bruno Ribeiro
   - Aniket Kate
   page_link: https://www.ndss-symposium.org/ndss-paper/deceptive-deletions-for-protecting-withdrawn-posts-on-social-media-platforms/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'From WHOIS to WHOWAS: A Large-Scale Measurement Study of Domain Registration
     Privacy under the GDPR'
@@ -131,14 +140,14 @@
   - Shuang Hao
   - Min Yang
   page_link: https://www.ndss-symposium.org/ndss-paper/from-whois-to-whowas-a-large-scale-measurement-study-of-domain-registration-privacy-under-the-gdpr/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Forward and Backward Private Conjunctive Searchable Symmetric Encryption
   authors:
   - Sikhar Patranabis
   - Debdeep Mukhopadhyay
   page_link: https://www.ndss-symposium.org/ndss-paper/forward-and-backward-private-conjunctive-searchable-symmetric-encryption/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Flexsealing BGP Against Route Leaks: Peerlock Active Measurement and Analysis'
   authors:
@@ -146,7 +155,7 @@
   - Jared M. Smith
   - Max Schuchard
   page_link: https://www.ndss-symposium.org/ndss-paper/flexsealing-bgp-against-route-leaks-peerlock-active-measurement-and-analysis/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Hey Alexa, is this Skill Safe?: Taking a Closer Look at the Alexa Skill
     Ecosystem'
@@ -158,7 +167,8 @@
   - Anupam Das
   - William Enck
   page_link: https://www.ndss-symposium.org/ndss-paper/hey-alexa-is-this-skill-safe-taking-a-closer-look-at-the-alexa-skill-ecosystem/
-  discovered_artifact: https://www.alexa-skill-analysis.org/
+  artifacts_discovered:
+  - https://www.alexa-skill-analysis.org/
   validated: false
 - title: 'Let''s Stride Blindfolded in a Forest: Sublinear Multi-Client Decision Trees
     Evaluation'
@@ -168,7 +178,7 @@
   - Yongjun Zhao
   - Sherman S.M. Chow
   page_link: https://www.ndss-symposium.org/ndss-paper/lets-stride-blindfolded-in-a-forest-sublinear-multi-client-decision-trees-evaluation/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'More than a Fair Share: Network Data Remanence Attacks against Secret Sharing-based
     Schemes'
@@ -183,7 +193,7 @@
   - Hamed Okhravi
   - Reihaneh Safavi-Naini
   page_link: https://www.ndss-symposium.org/ndss-paper/more-than-a-fair-share-network-data-remanence-attacks-against-secret-sharing-based-schemes/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Obfuscated Access and Search Patterns in Searchable Encryption
   authors:
@@ -192,7 +202,9 @@
   - Andreas Peter
   - Florian Kerschbaum
   page_link: https://www.ndss-symposium.org/ndss-paper/obfuscated-access-and-search-patterns-in-searchable-encryption/
-  discovered_artifact: https://github.com/z6shang/OSSE
+  artifacts_discovered:
+  - https://github.com/z6shang/OSSE
+  - https://github.com/simon-oya/NDSS21-osse-evaluation
   validated: false
 - title: 'POP and PUSH: Demystifying and Defending against (Mach) Port-oriented Programming'
   authors:
@@ -202,7 +214,8 @@
   - Chao Zhang
   - Fuping Qu
   page_link: https://www.ndss-symposium.org/ndss-paper/pop-and-push-demystifying-and-defending-against-mach-port-oriented-programming/
-  discovered_artifact: https://github.com/zhengmin1989/POP_AND_PUSH
+  artifacts_discovered:
+  - https://github.com/zhengmin1989/POP_AND_PUSH
   validated: false
 - title: Processing Dangerous Paths - On Security and Privacy of the Portable Document
     Format
@@ -213,7 +226,7 @@
   - Vladislav Mladenov
   - Jörg Schwenk
   page_link: https://www.ndss-symposium.org/ndss-paper/processing-dangerous-paths-on-security-and-privacy-of-the-portable-document-format/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Reining in the Web's Inconsistencies with Site Policy
   authors:
@@ -223,7 +236,9 @@
   - Marius Steffens
   - Ben Stock
   page_link: https://www.ndss-symposium.org/ndss-paper/reining-in-the-webs-inconsistencies-with-site-policy/
-  discovered_artifact: https://github.com/cispa/site-policy
+  artifacts_discovered:
+  - https://github.com/cispa/site-policy
+  - https://github.com/cispa/
   validated: false
 - title: 'Rosita: Towards Automatic Elimination of Power-Analysis Leakage in Ciphers'
   authors:
@@ -234,7 +249,8 @@
   - Markus Wagner
   - Yuval Yarom
   page_link: https://www.ndss-symposium.org/ndss-paper/rosita-towards-automatic-elimination-of-power-analysis-leakage-in-ciphers/
-  discovered_artifact: https://github.com/0xADE1A1DE/Rosita
+  artifacts_discovered:
+  - https://github.com/0xADE1A1DE/Rosita
   validated: false
 - title: 'Screen Gleaning: A Screen Reading TEMPEST Attack on Mobile Devices Exploiting
     an Electromagnetic Side Channel'
@@ -247,7 +263,7 @@
   - Lejla Batina
   - Martha Larson
   page_link: https://www.ndss-symposium.org/ndss-paper/screen-gleaning-a-screen-reading-tempest-attack-on-mobile-devices-exploiting-an-electromagnetic-side-channel/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'The Abuser Inside Apps: Finding the Culprit Committing Mobile Ad Fraud'
   authors:
@@ -255,7 +271,7 @@
   - Jung-hwan Park
   - Sooel Son
   page_link: https://www.ndss-symposium.org/ndss-paper/the-abuser-inside-apps-finding-the-culprit-committing-mobile-ad-fraud/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Towards Measuring Supply Chain Attacks on Package Managers for Interpreted
     Languages
@@ -267,7 +283,9 @@
   - Brendan Saltaformaggio
   - Wenke Lee
   page_link: https://www.ndss-symposium.org/ndss-paper/towards-measuring-supply-chain-attacks-on-package-managers-for-interpreted-languages/
-  discovered_artifact: https://github.com/osssanitizer/maloss
+  artifacts_discovered:
+  - https://github.com/osssanitizer/maloss
+  - https://github.com/osssanitizer/
   validated: false
 - title: 'XDA: Accurate, Robust Disassembly with Transfer Learning'
   authors:
@@ -277,7 +295,8 @@
   - Junfeng Yang
   - Suman Jana
   page_link: https://www.ndss-symposium.org/ndss-paper/xda-accurate-robust-disassembly-with-transfer-learning/
-  discovered_artifact: https://github.com/CUMLSec/XDA
+  artifacts_discovered:
+  - https://github.com/CUMLSec/XDA
   validated: false
 - title: 'Zoom on the Keystrokes: Exploiting Video Calls for Keystroke Inference Attacks'
   authors:
@@ -285,7 +304,7 @@
   - Anindya Maiti
   - Murtuza Jadliwala
   page_link: https://www.ndss-symposium.org/ndss-paper/zoom-on-the-keystrokes-exploiting-video-calls-for-keystroke-inference-attacks/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'A Devil of a Time: How Vulnerable is NTP to Malicious Timeservers?'
   authors:
@@ -293,7 +312,7 @@
   - Neta Rozen-Schiff
   - Michael Schapira
   page_link: https://www.ndss-symposium.org/ndss-paper/a-devil-of-a-time-how-vulnerable-is-ntp-to-malicious-timeservers/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Formal Analysis of the FIDO UAF Protocol
   authors:
@@ -302,7 +321,8 @@
   - Xuesong Pan
   - Ziming Zhao
   page_link: https://www.ndss-symposium.org/ndss-paper/a-formal-analysis-of-the-fido-uaf-protocol/
-  discovered_artifact: https://github.com/CactiLab/UAFVerif
+  artifacts_discovered:
+  - https://github.com/CactiLab/UAFVerif
   validated: false
 - title: 'ALchemist: Fusing Application and Audit Logs for Precise Attack Provenance
     without Instrumentation'
@@ -319,7 +339,8 @@
   - Vinod Yegneswaran
   - Ashish Gehani
   page_link: https://www.ndss-symposium.org/ndss-paper/alchemist-fusing-application-and-audit-logs-for-precise-attack-provenance-without-instrumentation/
-  discovered_artifact: https://github.com/ALchemist2020/Workload
+  artifacts_discovered:
+  - https://github.com/ALchemist2020/Workload
   validated: false
 - title: 'BaseSpec: Comparative Analysis of Baseband Software and Cellular Specifications
     for L3 Protocols'
@@ -330,7 +351,9 @@
   - Insu Yun
   - Yongdae Kim
   page_link: https://www.ndss-symposium.org/ndss-paper/basespec-comparative-analysis-of-baseband-software-and-cellular-specifications-for-l3-protocols/
-  discovered_artifact: https://github.com/SysSec-KAIST/BaseSpec
+  artifacts_discovered:
+  - https://github.com/SysSec-KAIST/BaseSpec
+  - https://github.com/SysSec-KAIST/BaseSpec10
   validated: false
 - title: 'Bitcontracts: Supporting Smart Contracts in Legacy Blockchains'
   authors:
@@ -341,7 +364,7 @@
   - Sinisa Matetic
   - Srdjan Capkun
   page_link: https://www.ndss-symposium.org/ndss-paper/bitcontracts-supporting-smart-contracts-in-legacy-blockchains/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'CHANCEL: Efficient Multi-client Isolation Under Adversarial Programs'
   authors:
@@ -352,7 +375,8 @@
   - Pedro Fonseca
   - Byoungyoung Lee
   page_link: https://www.ndss-symposium.org/ndss-paper/chancel-efficient-multi-client-isolation-under-adversarial-programs/
-  discovered_artifact: https://github.com/intel/
+  artifacts_discovered:
+  - https://github.com/intel/
   validated: false
 - title: 'CV-Inspector: Towards Automating Detection of Adblock Circumvention'
   authors:
@@ -360,7 +384,10 @@
   - Athina Markopoulou
   - Zubair Shafiq
   page_link: https://www.ndss-symposium.org/ndss-paper/cv-inspector-towards-automating-detection-of-adblock-circumvention/
-  discovered_artifact: https://athinagroup.eng.uci.edu/projects/cv-inspector/
+  artifacts_discovered:
+  - https://athinagroup.eng.uci.edu/projects/cv-inspector/
+  - https://athinagroup.eng.uci.edu/projects/cv
+  - https://athinagroup.eng.uci.edu/projects/cv-
   validated: false
 - title: Data Poisoning Attacks to Deep Learning Based Recommender Systems
   authors:
@@ -371,7 +398,7 @@
   - Bin Liu
   - Mingwei Xu
   page_link: https://www.ndss-symposium.org/ndss-paper/data-poisoning-attacks-to-deep-learning-based-recommender-systems/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning
   authors:
@@ -380,7 +407,9 @@
   - Kangjie Lu
   - Stephen McCamant
   page_link: https://www.ndss-symposium.org/ndss-paper/detecting-kernel-memory-leaks-in-specialized-modules-with-ownership-reasoning/
-  discovered_artifact: https://github.com/Navidem/k-meld/blob/main/results/FOIs.txt
+  artifacts_discovered:
+  - https://github.com/Navidem/k-meld/blob/main/results/FOIs.txt
+  - https://github.com/Navidem/k-meld/blob/main/
   validated: false
 - title: 'Differential Training: A Generic Framework to Reduce Label Noises for Android
     Malware Detection'
@@ -389,7 +418,7 @@
   - Yingjiu Li
   - Robert H. Deng
   page_link: https://www.ndss-symposium.org/ndss-paper/differential-training-a-generic-framework-to-reduce-label-noises-for-android-malware-detection/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Does Every Second Count? Time-based Evolution of Malware Behavior in Sandboxes
   authors:
@@ -399,7 +428,7 @@
   - Leyla Bilge
   - Davide Balzarotti
   page_link: https://www.ndss-symposium.org/ndss-paper/does-every-second-count-time-based-evolution-of-malware-behavior-in-sandboxes/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'EarArray: Defending against DolphinAttack via Acoustic Attenuation'
   authors:
@@ -409,7 +438,7 @@
   - Gang Qu
   - Wenyuan Xu
   page_link: https://www.ndss-symposium.org/ndss-paper/eararray-defending-against-dolphinattack-via-acoustic-attenuation/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Emilia: Catching Iago in Legacy Code'
   authors:
@@ -417,7 +446,8 @@
   - Lianying Zhao
   - David Lie
   page_link: https://www.ndss-symposium.org/ndss-paper/emilia-catching-iago-in-legacy-code/
-  discovered_artifact: https://github.com/mfriedl/sk-sgx
+  artifacts_discovered:
+  - https://github.com/mfriedl/sk-sgx
   validated: false
 - title: 'FARE: Enabling Fine-grained Attack Categorization under Low-quality Labeled
     Data'
@@ -429,7 +459,8 @@
   - Gang Wang
   - Xinyu Xing
   page_link: https://www.ndss-symposium.org/ndss-paper/fare-enabling-fine-grained-attack-categorization-under-low-quality-labeled-data/
-  discovered_artifact: https://github.com/junjieliang672/FARE
+  artifacts_discovered:
+  - https://github.com/junjieliang672/FARE
   validated: false
 - title: 'Favocado: Fuzzing the Binding Code of JavaScript Engines Using Semantically
     Correct Test Cases'
@@ -446,7 +477,8 @@
   - Adam Doupe
   - Yan Shoshitaishvili
   page_link: https://www.ndss-symposium.org/ndss-paper/favocado-fuzzing-the-binding-code-of-javascript-engines-using-semantically-correct-test-cases/
-  discovered_artifact: https://github.com/favocado/Favocado
+  artifacts_discovered:
+  - https://github.com/favocado/Favocado
   validated: false
 - title: 'FlowLens: Enabling Efficient Flow Classification for ML-based Network Security
     Applications'
@@ -458,7 +490,8 @@
   - Fernando M. V. Ramos
   - André Madeira
   page_link: https://www.ndss-symposium.org/ndss-paper/flowlens-enabling-efficient-flow-classification-for-ml-based-network-security-applications/
-  discovered_artifact: https://github.com/dmbb/FlowLens
+  artifacts_discovered:
+  - https://github.com/dmbb/FlowLens
   validated: false
 - title: 'FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping'
   authors:
@@ -467,7 +500,7 @@
   - Jia Liu
   - Neil Zhenqiang Gong
   page_link: https://www.ndss-symposium.org/ndss-paper/fltrust-byzantine-robust-federated-learning-via-trust-bootstrapping/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'From Library Portability to Para-rehosting: Natively Executing Microcontroller
     Software on Commodity Hardware'
@@ -478,7 +511,8 @@
   - Jiameng Shi
   - Fengjun Li
   page_link: https://www.ndss-symposium.org/ndss-paper/from-library-portability-to-para-rehosting-natively-executing-microcontroller-software-on-commodity-hardware/
-  discovered_artifact: https://github.com/MCUSec/para-rehosting
+  artifacts_discovered:
+  - https://github.com/MCUSec/para-rehosting
   validated: false
 - title: 'GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural
     Networks'
@@ -487,7 +521,9 @@
   - Chunsheng Xin
   - Hongyi Wu
   page_link: https://www.ndss-symposium.org/ndss-paper/gala-greedy-computation-for-linear-algebra-in-privacy-preserved-neural-networks/
-  discovered_artifact: https://github.com/mc2-project/delphi
+  artifacts_discovered:
+  - https://github.com/mc2-project/delphi
+  - https://github.com/mpc-msri/EzPC/tree/master/SCI
   validated: false
 - title: 'HERA: Hotpatching of Embedded Real-time Applications'
   authors:
@@ -495,7 +531,8 @@
   - Sebastian Surminski
   - Lucas Davi
   page_link: https://www.ndss-symposium.org/ndss-paper/hera-hotpatching-of-embedded-real-time-applications/
-  discovered_artifact: https://github.com/FreeRTOS/FreeRTOS/tree/master
+  artifacts_discovered:
+  - https://github.com/FreeRTOS/FreeRTOS/tree/master
   validated: false
 - title: Improving Signal's Sealed Sender
   authors:
@@ -505,7 +542,8 @@
   - Dan Roche
   - Eric Wustrow
   page_link: https://www.ndss-symposium.org/ndss-paper/improving-signals-sealed-sender/
-  discovered_artifact: https://github.com/signalapp
+  artifacts_discovered:
+  - https://github.com/signalapp
   validated: false
 - title: Hunting the Haunter -- Efficient Relational Symbolic Execution for Spectre
     with Haunted RelSE
@@ -514,7 +552,10 @@
   - Sébastien Bardin
   - Tamara Rezk
   page_link: https://www.ndss-symposium.org/ndss-paper/hunting-the-haunter-efficient-relational-symbolic-execution-for-spectre-with-haunted-relse/
-  discovered_artifact: https://github.com/binsec/haunted_bench
+  artifacts_discovered:
+  - https://github.com/binsec/haunted_bench
+  - https://github.com/cdisselkoen/pitchfork/blob/master/new-testcases/spectrev1.c
+  - https://github.com/binsec/haunted
   validated: false
 - title: 'IoTSafe: Enforcing Safety and Security Policy with Real IoT Physical Interaction
     Discovery'
@@ -523,7 +564,7 @@
   - Hongxin Hu
   - Long Cheng
   page_link: https://www.ndss-symposium.org/ndss-paper/iotsafe-enforcing-safety-and-security-policy-with-real-iot-physical-interaction-discovery/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'KUBO: Precise and Scalable Detection of User-triggerable Undefined Behavior
     Bugs in OS Kernel'
@@ -532,7 +573,9 @@
   - Yaohui Chen
   - Long Lu
   page_link: https://www.ndss-symposium.org/ndss-paper/kubo-precise-and-scalable-detection-of-user-triggerable-undefined-behavior-bugs-in-os-kernel/
-  discovered_artifact: https://github.com/RiS3-Lab/kubo
+  artifacts_discovered:
+  - https://github.com/RiS3-Lab/kubo
+  - https://github.com/RiS3-Lab/kubo.The
   validated: false
 - title: 'LaKSA: A Probabilistic Proof-of-Stake Protocol'
   authors:
@@ -542,7 +585,7 @@
   - Zengpeng Li
   - Jianying Zhou
   page_link: https://www.ndss-symposium.org/ndss-paper/laksa-a-probabilistic-proof-of-stake-protocol/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'MINOS: A Lightweight Real-Time Cryptojacking Detection System'
   authors:
@@ -552,7 +595,7 @@
   - Ege Tekiner
   - A. Selcuk Uluagac
   page_link: https://www.ndss-symposium.org/ndss-paper/minos-a-lightweight-real-time-cryptojacking-detection-system/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses
     for Federated Learning'
@@ -560,7 +603,7 @@
   - Virat Shejwalkar
   - Amir Houmansadr
   page_link: https://www.ndss-symposium.org/ndss-paper/manipulating-the-byzantine-optimizing-model-poisoning-attacks-and-defenses-for-federated-learning/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'NetPlier: Probabilistic Network Protocol Reverse Engineering from Message
     Traces'
@@ -571,7 +614,8 @@
   - Xiangyu Zhang
   - Dongyan Xu
   page_link: https://www.ndss-symposium.org/ndss-paper/netplier-probabilistic-network-protocol-reverse-engineering-from-message-traces/
-  discovered_artifact: https://github.com/netplier-tool/NetPlier
+  artifacts_discovered:
+  - https://github.com/netplier-tool/NetPlier
   validated: false
 - title: 'OblivSketch: Oblivious Network Measurement as a Cloud Service'
   authors:
@@ -583,7 +627,8 @@
   - Dongxi Liu
   - Surya Nepal
   page_link: https://www.ndss-symposium.org/ndss-paper/oblivsketch-oblivious-network-measurement-as-a-cloud-service/
-  discovered_artifact: https://github.com/MonashCybersecurityLab/measurement
+  artifacts_discovered:
+  - https://github.com/MonashCybersecurityLab/measurement
   validated: false
 - title: On the Insecurity of SMS One-Time Password Messages against Local Attackers
     in Modern Mobile Devices
@@ -593,7 +638,8 @@
   - Yanick Fratantonio
   - Antonio Bianchi
   page_link: https://www.ndss-symposium.org/ndss-paper/on-the-insecurity-of-sms-one-time-password-messages-against-local-attackers-in-modern-mobile-devices/
-  discovered_artifact: https://pursec.cs.purdue.edu/projects/sms_mobile.html
+  artifacts_discovered:
+  - https://pursec.cs.purdue.edu/projects/sms_mobile.html
   validated: false
 - title: 'Mondrian: Comprehensive Inter-domain Network Zoning Architecture'
   authors:
@@ -602,7 +648,7 @@
   - Patrick Bamert
   - Adrian Perrig
   page_link: https://www.ndss-symposium.org/ndss-paper/mondrian-comprehensive-inter-domain-network-zoning-architecture/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'PFirewall: Semantics-Aware Customizable Data Flow Control for Smart Home
     Privacy Protection'
@@ -612,7 +658,7 @@
   - Xiaojiang Du
   - Lannan Luo
   page_link: https://www.ndss-symposium.org/ndss-paper/pfirewall-semantics-aware-customizable-data-flow-control-for-smart-home-privacy-protection/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles'
   authors:
@@ -622,7 +668,10 @@
   - Z. Berkay Celik
   - Dongyan Xu
   page_link: https://www.ndss-symposium.org/ndss-paper/pgfuzz-policy-guided-fuzzing-for-robotic-vehicles/
-  discovered_artifact: https://github.com/purseclab/PGFUZZ
+  artifacts_discovered:
+  - https://github.com/purseclab/PGFUZZ
+  - https://github.com/purseclab/PGFUZZ)
+  - https://github.com/purseclab/PGFUZZ).II
   validated: false
 - title: 'PHOENIX: Device-Centric Cellular Network Protocol Monitoring using Runtime
     Verification'
@@ -634,7 +683,8 @@
   - Syed Rafiul Hussain
   - Omar Chowdhury
   page_link: https://www.ndss-symposium.org/ndss-paper/phoenix-device-centric-cellular-network-protocol-monitoring-using-runtime-verification/
-  discovered_artifact: https://phoenixlte.github.io/
+  artifacts_discovered:
+  - https://phoenixlte.github.io/
   validated: false
 - title: 'POSEIDON: Privacy-Preserving Federated Neural Network Learning'
   authors:
@@ -646,7 +696,7 @@
   - Joao Sa Sousa
   - Jean-Pierre Hubaux
   page_link: https://www.ndss-symposium.org/ndss-paper/poseidon-privacy-preserving-federated-neural-network-learning/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical Blind Membership Inference Attack via Differential Comparisons
   authors:
@@ -657,7 +707,12 @@
   - Neil Zhenqiang Gong
   - Yinzhi Cao
   page_link: https://www.ndss-symposium.org/ndss-paper/practical-blind-membership-inference-attack-via-differential-comparisons/
-  discovered_artifact: https://github.com/hyhmia/BlindMI
+  artifacts_discovered:
+  - https://github.com/hyhmia/BlindMI
+  - https://github.com/jjy1994/MemGuard
+  - https://github.com/hyhmia/
+  - https://github.com/rupampatir/TrainingDataSynthesizer/blob/master/classifiers/income/income_classifier.py
+  - https://github.com/NNToan-apcs/python-DP-DL
   validated: false
 - title: Practical Non-Interactive Searchable Encryption with Forward and Backward
     Privacy
@@ -671,7 +726,9 @@
   - ‪Surya Nepal‬
   - Dawu Gu
   page_link: https://www.ndss-symposium.org/ndss-paper/practical-non-interactive-searchable-encryption-with-forward-and-backward-privacy/
-  discovered_artifact: https://github.com/MonashCybersecurityLab/SDd
+  artifacts_discovered:
+  - https://github.com/MonashCybersecurityLab/Aura
+  - https://github.com/MonashCybersecurityLab/SDd
   validated: false
 - title: Preventing and Detecting State Inference Attacks on Android
   authors:
@@ -679,7 +736,7 @@
   - Dario Nisi
   - Yanick Fratantonio
   page_link: https://www.ndss-symposium.org/ndss-paper/preventing-and-detecting-state-inference-attacks-on-android/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'PrivacyFlash Pro: Automating Privacy Policy Generation for Mobile Apps'
   authors:
@@ -687,7 +744,19 @@
   - Rafael Goldstein
   - David Baraka
   page_link: https://www.ndss-symposium.org/ndss-paper/privacyflash-pro-automating-privacy-policy-generation-for-mobile-apps/
-  discovered_artifact: https://github.com/privacy-tech-lab/privacyflash-pro/
+  artifacts_discovered:
+  - https://github.com/privacy-tech-lab/privacyflash-pro/
+  - https://github.com/privacy-tech-lab/privacyflash-pro
+  - https://pdfs.semanticscholar.org/ced1/313acaacd3897b5b231cdccb1383d01d20c4.pdf
+  - https://github.com/
+  - https://github.com/privacy-tech-lab/
+  - https://htmlpreview.github.io/?https://github.com/privacy-tech-lab/privacyflash-pro/blob/master/iOS-sample-projects/Workout-with-Friends-Sample-Privacy-Policy.html
+  - https://htmlpreview.github.io/?https://github.com/
+  - https://htmlpreview.github.io/?https://github.com/privacy-tech-lab/privacyflash-pro/blob/master/iOS-sample-projects/Workout
+  - https://htmlpreview.github.io/?https://github.com/privacy-tech-lab/privacyflash-pro/blob/master/iOS-sample-projects/Workout-
+  - https://codewithchris.com/cwc-mobile-privacy-policy/
+  - https://www.elitebaseballacademy.net/app-privacy-policy/
+  - https://github.com/version
   validated: false
 - title: 'QPEP: An Actionable Approach to Secure and Performant Broadband From Geostationary
     Orbit'
@@ -697,7 +766,9 @@
   - Vincent Lenders
   - Ivan Martinovic
   page_link: https://www.ndss-symposium.org/ndss-paper/qpep-an-actionable-approach-to-secure-and-performant-broadband-from-geostationary-orbit/
-  discovered_artifact: https://github.com/ssloxford/qpep
+  artifacts_discovered:
+  - https://github.com/ssloxford/qpep
+  - https://github.com/ssloxford/qpep)
   validated: false
 - title: 'RandRunner: Distributed Randomness from Trapdoor VDFs with Strong Uniqueness'
   authors:
@@ -707,7 +778,8 @@
   - Nicholas Stifter
   - Edgar Weippl
   page_link: https://www.ndss-symposium.org/ndss-paper/randrunner-distributed-randomness-from-trapdoor-vdfs-with-strong-uniqueness/
-  discovered_artifact: https://github.com/PhilippSchindler/RandRunner
+  artifacts_discovered:
+  - https://github.com/PhilippSchindler/RandRunner
   validated: false
 - title: Refining Indirect Call Targets at the Binary Level
   authors:
@@ -716,7 +788,7 @@
   - Dongrui Zeng
   - Gang Tan
   page_link: https://www.ndss-symposium.org/ndss-paper/refining-indirect-call-targets-at-the-binary-level/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing
   authors:
@@ -724,7 +796,8 @@
   - Chengyu Song
   - Heng Yin
   page_link: https://www.ndss-symposium.org/ndss-paper/reinforcement-learning-based-hierarchical-seed-scheduling-for-greybox-fuzzing/
-  discovered_artifact: https://github.com/bitsecurerlab/aflplusplus-hier
+  artifacts_discovered:
+  - https://github.com/bitsecurerlab/aflplusplus-hier
   validated: false
 - title: 'ROV++: Improved Deployable Defense against BGP Hijacking'
   authors:
@@ -735,7 +808,7 @@
   - Amir Herzberg
   - Bing Wang
   page_link: https://www.ndss-symposium.org/ndss-paper/rov-improved-deployable-defense-against-bgp-hijacking/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Shadow Attacks: Hiding and Replacing Content in Signed PDFs'
   authors:
@@ -743,7 +816,10 @@
   - Vladislav Mladenov
   - Simon Rohlmann
   page_link: https://www.ndss-symposium.org/ndss-paper/shadow-attacks-hiding-and-replacing-content-in-signed-pdfs/
-  discovered_artifact: https://itextpdf.com/en/blog/technical-notes/investigating-pdf-shadow-attacks-what-are-shadow-attacks-part-1
+  artifacts_discovered:
+  - https://itextpdf.com/en/blog/technical-notes/investigating-pdf-shadow-attacks-what-are-shadow-attacks-part-1
+  - https://pdf-insecurity.org
+  - https://itextpdf.com/en/blog/technical-notes/
   validated: false
 - title: 'SerialDetector: Principled and Practical Exploration of Object Injection
     Vulnerabilities for the Web'
@@ -751,7 +827,8 @@
   - Mikhail Shcherbakov
   - Musard Balliu
   page_link: https://www.ndss-symposium.org/ndss-paper/serialdetector-principled-and-practical-exploration-of-object-injection-vulnerabilities-for-the-web/
-  discovered_artifact: https://github.com/yuske/SerialDetector
+  artifacts_discovered:
+  - https://github.com/yuske/SerialDetector
   validated: false
 - title: 'SpecTaint: Speculative Taint Analysis for Discovering Spectre Gadgets'
   authors:
@@ -763,7 +840,11 @@
   - Heng Yin
   - Tao Wei
   page_link: https://www.ndss-symposium.org/ndss-paper/spectaint-speculative-taint-analysis-for-discovering-spectre-gadgets/
-  discovered_artifact: https://github.com/bitsecurerlab/SpecTaint.git
+  artifacts_discovered:
+  - https://github.com/bitsecurerlab/SpecTaint.git
+  - https://github.com/bitsecurerlab/
+  - https://github.com/bitsecurerlab/SpecTaint.git.ACKNOWLEDGEMENT
+  - https://github.com/bitsecurerlab/SpecTaint.git.ACKNOWLEDGEMENTWe
   validated: false
 - title: 'SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with
     Deep Reinforcement Learning'
@@ -776,14 +857,20 @@
   - Giulia Fanti
   - Ari Juels
   page_link: https://www.ndss-symposium.org/ndss-paper/squirrl-automating-attack-analysis-on-blockchain-incentive-mechanisms-with-deep-reinforcement-learning/
-  discovered_artifact: https://github.com/wuwuz/SquirRL
+  artifacts_discovered:
+  - https://github.com/wuwuz/SquirRL
+  - https://github.com/wuwuz/SquirRL.7
   validated: false
 - title: 'SymQEMU: Compilation-based symbolic execution for binaries'
   authors:
   - Sebastian Poeplau
   - Aurélien Francillon
   page_link: https://www.ndss-symposium.org/ndss-paper/symqemu-compilation-based-symbolic-execution-for-binaries/
-  discovered_artifact: http://www.s3.eurecom.fr/tools/symbolic_execution/symqemu.html
+  artifacts_discovered:
+  - http://www.s3.eurecom.fr/tools/symbolic_execution/symqemu.html
+  - https://github.com/of
+  - https://google.github.io/oss-fuzz/
+  - https://github.com/S2E/s2e/pull/20
   validated: false
 - title: 'Tales of Favicons and Caches: Persistent Tracking in Modern Browsers'
   authors:
@@ -792,7 +879,7 @@
   - Chris Kanich
   - Jason Polakis
   page_link: https://www.ndss-symposium.org/ndss-paper/tales-of-favicons-and-caches-persistent-tracking-in-modern-browsers/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'The Bluetooth CYBORG: Analysis of the Full Human-Machine Passkey Entry AKE
     Protocol'
@@ -800,7 +887,7 @@
   - Michael Troncoso
   - Britta Hale
   page_link: https://www.ndss-symposium.org/ndss-paper/the-bluetooth-cyborg-analysis-of-the-full-human-machine-passkey-entry-ake-protocol/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'TASE: Reducing Latency of Symbolic Execution with Transactional Memory'
   authors:
@@ -808,7 +895,10 @@
   - Kartik Cating-Subramanian
   - Michael K. Reiter
   page_link: https://www.ndss-symposium.org/ndss-paper/tase-reducing-latency-of-symbolic-execution-with-transactional-memory/
-  discovered_artifact: https://klee.github.io/docker/
+  artifacts_discovered:
+  - https://github.com/eurecom-s3/symcc
+  - https://klee.github.io/docker/
+  - https://github.com/s2e/s2e-env.git
   validated: false
 - title: 'To Err.Is Human: Characterizing the Threat of Unintended URLs in Social
     Media'
@@ -819,7 +909,8 @@
   - Nick Nikiforakis
   - Gianluca Stringhini
   page_link: https://www.ndss-symposium.org/ndss-paper/to-err-is-human-characterizing-the-threat-of-unintended-urls-in-social-media/
-  discovered_artifact: https://github.com/belizkaleli/TypoNoMo
+  artifacts_discovered:
+  - https://github.com/belizkaleli/TypoNoMo
   validated: false
 - title: Towards Understanding and Detecting Cyberbullying in Real-world Images
   authors:
@@ -828,7 +919,7 @@
   - Feng Luo
   - Long Cheng
   page_link: https://www.ndss-symposium.org/ndss-paper/towards-understanding-and-detecting-cyberbullying-in-real-world-images/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Trust the Crowd: Wireless Witnessing to Detect Attacks on ADS-B-Based Air-Traffic
     Surveillance'
@@ -839,14 +930,15 @@
   - Ivan Martinovic
   - Christina Pöpper
   page_link: https://www.ndss-symposium.org/ndss-paper/trust-the-crowd-wireless-witnessing-to-detect-attacks-on-ads-b-based-air-traffic-surveillance/
-  discovered_artifact: https://github.com/kai-jansen/ADSB-Trust-Evaluation
+  artifacts_discovered:
+  - https://github.com/kai-jansen/ADSB-Trust-Evaluation
   validated: false
 - title: Understanding and Detecting International Revenue Share Fraud
   authors:
   - Merve Sahin
   - Aurélien Francillon
   page_link: https://www.ndss-symposium.org/ndss-paper/understanding-and-detecting-international-revenue-share-fraud/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Understanding the Growth and Security Considerations of ECS
   authors:
@@ -858,7 +950,7 @@
   - Michalis Polychronakis
   - Manos Antonakakis
   page_link: https://www.ndss-symposium.org/ndss-paper/understanding-the-growth-and-security-considerations-of-ecs/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'WATSON: Abstracting Behaviors from Audit Logs via Aggregation of Contextual
     Semantics'
@@ -870,7 +962,7 @@
   - Zhenkai Liang
   - Jian Mao
   page_link: https://www.ndss-symposium.org/ndss-paper/watson-abstracting-behaviors-from-audit-logs-via-aggregation-of-contextual-semantics/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Understanding Worldwide Private Information Collection on Android
   authors:
@@ -878,7 +970,7 @@
   - Pierre-Antoine Vervier
   - Gianluca Stringhini
   page_link: https://www.ndss-symposium.org/ndss-paper/understanding-worldwide-private-information-collection-on-android/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Who's Hosting the Block Party? Studying Third-Party Blockage of CSP and SRI
   authors:
@@ -887,7 +979,8 @@
   - Martin Johns
   - Ben Stock
   page_link: https://www.ndss-symposium.org/ndss-paper/whos-hosting-the-block-party-studying-third-party-blockage-of-csp-and-sri/
-  discovered_artifact: https://smurf-ndss.github.io/
+  artifacts_discovered:
+  - https://smurf-ndss.github.io/
   validated: false
 - title: 'WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning'
   authors:
@@ -898,7 +991,8 @@
   - Yonghwi Jin
   - Taesoo Kim
   page_link: https://www.ndss-symposium.org/ndss-paper/winnie-fuzzing-windows-applications-with-harness-synthesis-and-fast-cloning/
-  discovered_artifact: https://github.com/sslab-gatech/winnie
+  artifacts_discovered:
+  - https://github.com/sslab-gatech/winnie
   validated: false
 - title: 'Doveriai, no proveriai: SFI safety for native-compiled Wasm'
   authors:
@@ -912,7 +1006,7 @@
   - Stefan Savage
   - Deian Stefan
   page_link: https://www.ndss-symposium.org/ndss-paper/%d0%b4%d0%be%d0%b2%d0%b5%d1%80%d1%8f%d0%b9-%d0%bd%d0%be-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d1%80%d1%8f%d0%b9-sfi-safety-for-native-compiled-wasm/
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Your Phone is My Proxy: Detecting and Understanding Mobile Proxy Networks'
   authors:
@@ -923,5 +1017,7 @@
   - Feng Qian
   - XiaoFeng Wang
   page_link: https://www.ndss-symposium.org/ndss-paper/your-phone-is-my-proxy-detecting-and-understanding-mobile-proxy-networks/
-  discovered_artifact: https://github.com/mixianghang/mpaas
+  artifacts_discovered:
+  - https://github.com/mixianghang/mpaas
+  - https://github.com/mixianghang/
   validated: false

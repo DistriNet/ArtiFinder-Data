@@ -4,7 +4,7 @@
   - Matthew Green 0001
   - Susan Hohenberger
   page_link: https://doi.org/10.1145/1866307.1866360
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Predictive black-box mitigation of timing channels.
   authors:
@@ -12,7 +12,7 @@
   - Danfeng Zhang
   - Andrew C. Myers
   page_link: https://doi.org/10.1145/1866307.1866341
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'HyperSentry: enabling stealthy in-context measurement of hypervisor integrity.'
   authors:
@@ -23,7 +23,7 @@
   - Xiaolan Zhang 0001
   - Nathan C. Skalsky
   page_link: https://doi.org/10.1145/1866307.1866313
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Computationally sound verification of source code.
   authors:
@@ -31,7 +31,7 @@
   - Matteo Maffei
   - Dominique Unruh
   page_link: https://doi.org/10.1145/1866307.1866351
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'PinDr0p: using single-ended audio features to determine call provenance.'
   authors:
@@ -41,7 +41,7 @@
   - Michael T. Hunter
   - Patrick Traynor
   page_link: https://doi.org/10.1145/1866307.1866320
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A methodology for empirical analysis of permission-based security models
     and its application to android.
@@ -51,7 +51,7 @@
   - Paul C. van Oorschot
   - Anil Somayaji
   page_link: https://doi.org/10.1145/1866307.1866317
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Computational indistinguishability logic.
   authors:
@@ -60,7 +60,7 @@
   - Bruce M. Kapron
   - Yassine Lakhnech
   page_link: https://doi.org/10.1145/1866307.1866350
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'NoTamper: automatic blackbox detection of parameter tampering opportunities
     in web applications.'
@@ -71,7 +71,7 @@
   - Radoslaw Bobrowicz
   - V. N. Venkatakrishnan
   page_link: https://doi.org/10.1145/1866307.1866375
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Algebraic pseudorandom functions with improved efficiency from the augmented
     cascade.
@@ -80,7 +80,7 @@
   - Hart William Montgomery
   - Ananth Raghunathan
   page_link: https://doi.org/10.1145/1866307.1866323
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Attacking and fixing PKCS#11 security tokens.
   authors:
@@ -89,7 +89,7 @@
   - Riccardo Focardi
   - Graham Steel
   page_link: https://doi.org/10.1145/1866307.1866337
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Input generation via decomposition and re-stitching: finding bugs in Malware.'
   authors:
@@ -99,7 +99,7 @@
   - Domagoj Babic
   - Dawn Song
   page_link: https://doi.org/10.1145/1866307.1866354
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Retaining sandbox containment despite bugs in privileged memory-safe code.
   authors:
@@ -112,7 +112,7 @@
   - Arvind Krishnamurthy
   - Thomas E. Anderson
   page_link: https://doi.org/10.1145/1866307.1866332
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Platform-independent programs.
   authors:
@@ -121,14 +121,15 @@
   - David Brumley
   - Richard Jay Lipton
   page_link: https://doi.org/10.1145/1866307.1866369
-  discovered_artifact: http://security.ece.cmu.edu
+  artifacts_discovered:
+  - http://security.ece.cmu.edu
   validated: false
 - title: Symbolic security analysis of ruby-on-rails web applications.
   authors:
   - Avik Chaudhuri
   - Jeffrey S. Foster
   page_link: https://doi.org/10.1145/1866307.1866373
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Return-oriented programming without returns.
   authors:
@@ -139,7 +140,7 @@
   - Hovav Shacham
   - Marcel Winandy
   page_link: https://doi.org/10.1145/1866307.1866370
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Inference and analysis of formal models of botnet command and control protocols.
   authors:
@@ -148,7 +149,7 @@
   - Eui Chul Richard Shin
   - Dawn Song
   page_link: https://doi.org/10.1145/1866307.1866355
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical leakage-resilient identity-based encryption from simple assumptions.
   authors:
@@ -157,7 +158,7 @@
   - Yannis Rouselakis
   - Brent Waters
   page_link: https://doi.org/10.1145/1866307.1866325
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Dissecting one click frauds.
   authors:
@@ -165,21 +166,21 @@
   - Sally S. Yanagihara
   - Keisuke Kamataki
   page_link: https://doi.org/10.1145/1866307.1866310
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Dissent: accountable anonymous group messaging.'
   authors:
   - Henry Corrigan-Gibbs
   - Bryan Ford
   page_link: https://doi.org/10.1145/1866307.1866346
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On the (in)security of IPsec in MAC-then-encrypt configurations.
   authors:
   - Jean Paul Degabriele
   - Kenneth G. Paterson
   page_link: https://doi.org/10.1145/1866307.1866363
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Dismantling SecureMemory, CryptoMemory and CryptoRF.
   authors:
@@ -188,7 +189,7 @@
   - Roel Verdult
   - Ronny Wichers Schreur
   page_link: https://doi.org/10.1145/1866307.1866336
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Building efficient fully collusion-resilient traitor tracing and revocation
     schemes.
@@ -198,7 +199,7 @@
   - Amit Sahai
   - Brent Waters
   page_link: https://doi.org/10.1145/1866307.1866322
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: '@spam: the underground on 140 characters or less.'
   authors:
@@ -207,14 +208,15 @@
   - Vern Paxson
   - Chao Michael Zhang
   page_link: https://doi.org/10.1145/1866307.1866311
-  discovered_artifact: http://spam.com
+  artifacts_discovered:
+  - http://spam.com
   validated: false
 - title: A new framework for efficient password-based authenticated key exchange.
   authors:
   - Adam Groce
   - Jonathan Katz
   page_link: https://doi.org/10.1145/1866307.1866365
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'On pairing constrained wireless devices based on secrecy of auxiliary channels:
     the case of acoustic eavesdropping.'
@@ -222,7 +224,7 @@
   - Tzipora Halevi
   - Nitesh Saxena
   page_link: https://doi.org/10.1145/1866307.1866319
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: DIFC programs by automatic instrumentation.
   authors:
@@ -230,7 +232,7 @@
   - Somesh Jha
   - Thomas W. Reps
   page_link: https://doi.org/10.1145/1866307.1866340
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'TASTY: tool for automating secure two-party computations.'
   authors:
@@ -240,7 +242,7 @@
   - Thomas Schneider 0003
   - Immo Wehrenberg
   page_link: https://doi.org/10.1145/1866307.1866358
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Protecting browsers from cross-origin CSS attacks.
   authors:
@@ -249,14 +251,14 @@
   - Chris Evans
   - Collin Jackson
   page_link: https://doi.org/10.1145/1866307.1866376
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Mobile location tracking in metro areas: malnets and others.'
   authors:
   - Nathaniel Husted
   - Steven A. Myers
   page_link: https://doi.org/10.1145/1866307.1866318
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An empirical study of privacy-violating information flows in JavaScript web
     applications.
@@ -266,7 +268,7 @@
   - Sorin Lerner
   - Hovav Shacham
   page_link: https://doi.org/10.1145/1866307.1866339
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Recruiting new tor relays with BRAIDS.
   authors:
@@ -274,14 +276,14 @@
   - Nicholas Hopper
   - Yongdae Kim
   page_link: https://doi.org/10.1145/1866307.1866344
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure text processing with applications to private DNA matching.
   authors:
   - Jonathan Katz
   - Lior Malka
   page_link: https://doi.org/10.1145/1866307.1866361
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Trail of bytes: efficient support for forensic analysis.'
   authors:
@@ -289,7 +291,7 @@
   - Kevin Z. Snow
   - Fabian Monrose
   page_link: https://doi.org/10.1145/1866307.1866314
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Accountability: definition and relationship to verifiability.'
   authors:
@@ -297,7 +299,7 @@
   - Tomasz Truderung
   - Andreas Vogt 0001
   page_link: https://doi.org/10.1145/1866307.1866366
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'AccessMiner: using system-centric models for malware protection.'
   authors:
@@ -307,7 +309,7 @@
   - Mihai Christodorescu
   - Engin Kirda
   page_link: https://doi.org/10.1145/1866307.1866353
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'BLADE: an attack-agnostic approach for preventing drive-by malware infections.'
   authors:
@@ -316,7 +318,7 @@
   - Phillip A. Porras
   - Wenke Lee
   page_link: https://doi.org/10.1145/1866307.1866356
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'On the soundness of authenticate-then-encrypt: formalizing the malleability
     of symmetric encryption.'
@@ -324,21 +326,22 @@
   - Ueli Maurer
   - Björn Tackmann
   page_link: https://doi.org/10.1145/1866307.1866364
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Abstraction by set-membership: verifying security protocols and web services
     with databases.'
   authors:
   - Sebastian Mödersheim
   page_link: https://doi.org/10.1145/1866307.1866348
-  discovered_artifact: http://www.imm.dtu.dk/~samo
+  artifacts_discovered:
+  - http://www.imm.dtu.dk/~samo
   validated: false
 - title: 'DieHarder: securing the heap.'
   authors:
   - Gene Novark
   - Emery D. Berger
   page_link: https://doi.org/10.1145/1866307.1866371
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Modeling attacks on physical unclonable functions.
   authors:
@@ -349,14 +352,14 @@
   - Srinivas Devadas
   - Jürgen Schmidhuber
   page_link: https://doi.org/10.1145/1866307.1866335
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Worry-free encryption: functional encryption with public keys.'
   authors:
   - Amit Sahai
   - Hakan Seyalioglu
   page_link: https://doi.org/10.1145/1866307.1866359
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Survivable key compromise in software update systems.
   authors:
@@ -365,7 +368,7 @@
   - Justin Cappos
   - Roger Dingledine
   page_link: https://doi.org/10.1145/1866307.1866315
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Robusta: taming the native beast of the JVM.'
   authors:
@@ -373,21 +376,21 @@
   - Gang Tan
   - Greg Morrisett
   page_link: https://doi.org/10.1145/1866307.1866331
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Developing security protocols by refinement.
   authors:
   - Christoph Sprenger 0001
   - David A. Basin
   page_link: https://doi.org/10.1145/1866307.1866349
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An improved algorithm for tor circuit scheduling.
   authors:
   - Can Tang
   - Ian Goldberg
   page_link: https://doi.org/10.1145/1866307.1866345
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'In search of an anonymous and secure lookup: attacks on structured peer-to-peer
     anonymous communication systems.'
@@ -396,7 +399,7 @@
   - Prateek Mittal
   - Nikita Borisov
   page_link: https://doi.org/10.1145/1866307.1866343
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Testing metrics for password creation policies by attacking large sets of
     revealed passwords.
@@ -406,7 +409,7 @@
   - Michael P. Collins
   - Henry Stern
   page_link: https://doi.org/10.1145/1866307.1866327
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Security analysis of India&apos;s electronic voting machines.
   authors:
@@ -419,7 +422,8 @@
   - Vasavya Yagati
   - Rop Gonggrijp
   page_link: https://doi.org/10.1145/1866307.1866309
-  discovered_artifact: http://IndiaEVM.org
+  artifacts_discovered:
+  - http://IndiaEVM.org
   validated: false
 - title: 'Mimimorphism: a new approach to binary code obfuscation.'
   authors:
@@ -428,14 +432,14 @@
   - Mengjun Xie
   - Haining Wang 0001
   page_link: https://doi.org/10.1145/1866307.1866368
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A control point for reducing root abuse of file-system privileges.
   authors:
   - Glenn Wurster
   - Paul C. van Oorschot
   page_link: https://doi.org/10.1145/1866307.1866333
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical leakage-resilient pseudorandom generators.
   authors:
@@ -444,7 +448,7 @@
   - Olivier Pereira
   - Moti Yung
   page_link: https://doi.org/10.1145/1866307.1866324
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Sidebuster: automated detection and quantification of side-channel leaks
     in web application development.'
@@ -455,7 +459,7 @@
   - XiaoFeng Wang 0001
   - Shuo Chen 0001
   page_link: https://doi.org/10.1145/1866307.1866374
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'The security of modern password expiration: an algorithmic framework and
     empirical analysis.'
@@ -464,7 +468,7 @@
   - Fabian Monrose
   - Michael K. Reiter
   page_link: https://doi.org/10.1145/1866307.1866328
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Attacks and design of image recognition CAPTCHAs.
   authors:
@@ -477,5 +481,5 @@
   - Meng Yi
   - Kaiwei Cai
   page_link: https://doi.org/10.1145/1866307.1866329
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

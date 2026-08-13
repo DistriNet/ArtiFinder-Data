@@ -3,7 +3,7 @@
   - Steven J. Bauer
   - Nissanka Bodhi Priyantha
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/bauer.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Method for Fast Revocation of Public Key Certificates and Security Capabilities.
   authors:
@@ -12,7 +12,8 @@
   - Gene Tsudik
   - Chi-Ming Wong
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/boneh.html
-  discovered_artifact: http://crypto.stanford.edu/semmail/
+  artifacts_discovered:
+  - http://crypto.stanford.edu/semmail/
   validated: false
 - title: 'FormatGuard: Automatic Protection From printf Format String Vulnerabilities.'
   authors:
@@ -23,7 +24,9 @@
   - Michael Frantzen
   - Jamie Lokier
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/cowanbarringer.html
-  discovered_artifact: http://immunix.org
+  artifacts_discovered:
+  - http://immunix.org/
+  - http://immunix.org
   validated: false
 - title: 'RaceGuard: Kernel Protection From Temporary File Race Vulnerabilities.'
   authors:
@@ -32,7 +35,7 @@
   - Chris Wright 0003
   - Greg Kroah-Hartman
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/cowanbeattie.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Reading Between the Lines: Lessons from the SDMI Challenge.'
   authors:
@@ -45,21 +48,21 @@
   - Drew Dean
   - Edward W. Felten
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/craver.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Using Client Puzzles to Protect TLS.
   authors:
   - Drew Dean
   - Adam Stubblefield
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/dean.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'StackGhost: Hardware Facilitated Stack Protection.'
   authors:
   - Michael Frantzen
   - Michael Shuey
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/frantzen.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: The Dos and Don&apos;ts of Client Authentication on the Web.
   authors:
@@ -68,14 +71,15 @@
   - Kendra Smith
   - Nick Feamster
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/fu.html
-  discovered_artifact: http://pdos.lcs.mit.edu/asrg/
+  artifacts_discovered:
+  - http://pdos.lcs.mit.edu/asrg/
   validated: false
 - title: 'MULTOPS: A Data-Structure for Bandwidth Attack Detection.'
   authors:
   - Thomer M. Gil
   - Massimiliano Poletto
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/gil.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Transient Addressing for Related Processes: Improved Firewalling by Using
     IPV6 and Multiple Addresses per Host.'
@@ -83,13 +87,13 @@
   - Peter M. Gleitz
   - Steven M. Bellovin
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/gleitz.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Data Remanence in Semiconductor Devices.
   authors:
   - Peter Gutmann
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/gutmann.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Network Intrusion Detection: Evasion, Traffic Normalization, and End-to-End
     Protocol Semantics.'
@@ -98,20 +102,22 @@
   - Vern Paxson
   - Christian Kreibich
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/handley.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SC-CFS: Smartcard Secured Cryptographic File System.'
   authors:
   - Naomaru Itoi
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/itoi.html
-  discovered_artifact: http://www.citi.umich.edu/projects/smartcard/sc-cfs.html
+  artifacts_discovered:
+  - http://www.citi.umich.edu/projects/smartcard/sc-cfs.html
+  - http://www.citi.umich.edu/projects/
   validated: false
 - title: 'PDM: A New Strong Password-Based Protocol.'
   authors:
   - Charlie Kaufman
   - Radia J. Perlman
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/kaufman.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Kerberized Credential Translation: A Solution to Web Access Control.'
   authors:
@@ -120,21 +126,23 @@
   - Bill Doster
   - Kevin Coffman
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/kornievskaia.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Statically Detecting Likely Buffer Overflow Vulnerabilities.
   authors:
   - David Larochelle
   - David Evans 0001
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/larochelle.html
-  discovered_artifact: http://www.wu-ftpd.org
+  artifacts_discovered:
+  - http://www.wu-ftpd.org
+  - http://lclint.cs.virginia.edu
   validated: false
 - title: Improving DES Coprocessor Throughput for Short Operations.
   authors:
   - Mark Lindemann
   - Sean W. Smith
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/lindemann.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Inferring Internet Denial-of-Service Activity.
   authors:
@@ -142,20 +150,22 @@
   - Geoffrey M. Voelker
   - Stefan Savage
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/moore.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure Distribution of Events in Content-Based Publish Subscribe Systems.
   authors:
   - Lukasz Opyrchal
   - Atul Prakash 0001
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/opyrchal.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Defending Against Statistical Steganalysis.
   authors:
   - Niels Provos
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/provos.html
-  discovered_artifact: www.outguess.org
+  artifacts_discovered:
+  - www.outguess.org
+  - http://www.outguess.org/
   validated: false
 - title: 'Capability File Names: Separating Authorisation From User Management in
     an Internet File System.'
@@ -163,7 +173,7 @@
   - Jude T. Regan
   - Christian Damsgaard Jensen
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/regan.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Detecting Format String Vulnerabilities with Type Qualifiers.
   authors:
@@ -172,7 +182,7 @@
   - Jeffrey S. Foster
   - David A. Wagner 0001
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/shankar.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Timing Analysis of Keystrokes and Timing Attacks on SSH.
   authors:
@@ -180,11 +190,11 @@
   - David A. Wagner 0001
   - Xuqing Tian
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/song.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Architecting the Lumeta Firewall Analyzer.
   authors:
   - Avishai Wool
   page_link: http://www.usenix.org/publications/library/proceedings/sec01/wool.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

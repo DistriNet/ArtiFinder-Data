@@ -3,7 +3,7 @@
   - Nadhem J. AlFardan
   - Kenneth G. Paterson
   page_link: https://doi.org/10.1109/SP.2013.42
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SoK: The Evolution of Sybil Defense via Social Networks.'
   authors:
@@ -13,7 +13,7 @@
   - Silvio Lattanzi
   - Alessandro Panconesi
   page_link: https://doi.org/10.1109/SP.2013.33
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Efficient Garbling from a Fixed-Key Blockcipher.
   authors:
@@ -22,7 +22,8 @@
   - Sriram Keelveedhi
   - Phillip Rogaway
   page_link: https://doi.org/10.1109/SP.2013.39
-  discovered_artifact: http://cseweb.ucsd.edu/groups/justgarble
+  artifacts_discovered:
+  - http://cseweb.ucsd.edu/groups/justgarble
   validated: false
 - title: Implementing TLS with Verified Cryptographic Security.
   authors:
@@ -32,7 +33,7 @@
   - Alfredo Pironti 0001
   - Pierre-Yves Strub
   page_link: https://doi.org/10.1109/SP.2013.37
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Trawling for Tor Hidden Services: Detection, Measurement, Deanonymization.'
   authors:
@@ -40,7 +41,7 @@
   - Ivan Pustogarov
   - Ralf-Philipp Weinmann
   page_link: https://doi.org/10.1109/SP.2013.15
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SoK: SSL and HTTPS: Revisiting Past Challenges and Evaluating Certificate
     Trust Model Enhancements.'
@@ -48,7 +49,7 @@
   - Jeremy Clark
   - Paul C. van Oorschot
   page_link: https://doi.org/10.1109/SP.2013.41
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Caveat Coercitor: Coercion-Evidence in Electronic Voting.'
   authors:
@@ -57,7 +58,7 @@
   - Sergiu Bursuc
   - Peter Y. A. Ryan
   page_link: https://doi.org/10.1109/SP.2013.32
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Declarative, Temporal, and Practical Programming with Capabilities.
   authors:
@@ -67,7 +68,8 @@
   - Jonathan Anderson
   - Robert N. M. Watson
   page_link: https://doi.org/10.1109/SP.2013.11
-  discovered_artifact: http://minds.wisconsin.edu/handle/1793/64927
+  artifacts_discovered:
+  - http://minds.wisconsin.edu/handle/1793/64927
   validated: false
 - title: 'The Parrot Is Dead: Observing Unobservable Network Communications.'
   authors:
@@ -75,7 +77,7 @@
   - Chad Brubaker
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2013.14
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: All Your IFCException Are Belong to Us.
   authors:
@@ -85,7 +87,7 @@
   - Benjamin C. Pierce
   - Greg Morrisett
   page_link: https://doi.org/10.1109/SP.2013.10
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical Timing Side Channel Attacks against Kernel Space ASLR.
   authors:
@@ -93,7 +95,7 @@
   - Carsten Willems
   - Thorsten Holz
   page_link: https://doi.org/10.1109/SP.2013.23
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'A Scanner Darkly: Protecting User Privacy from Perceptual Applications.'
   authors:
@@ -101,7 +103,10 @@
   - Arvind Narayanan
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2013.31
-  discovered_artifact: https://github.com/liquidmetal/
+  artifacts_discovered:
+  - https://github.com/liquidmetal/
+  - https://github.com/liquidmetal/AI-Shack--Tracking-with-OpenCV/blob/master/
+  - https://github.com/liquidmetal/AI-Shack--Tracking-with-OpenCV/blob/master/TrackColour.cpp
   validated: false
 - title: The Crossfire Attack.
   authors:
@@ -109,7 +114,7 @@
   - Soo Bum Lee
   - Virgil D. Gligor
   page_link: https://doi.org/10.1109/SP.2013.19
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Ghost Talk: Mitigating EMI Signal Injection Attacks against Analog Sensors.'
   authors:
@@ -122,7 +127,7 @@
   - Yongdae Kim
   - Wenyuan Xu 0001
   page_link: https://doi.org/10.1109/SP.2013.20
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Anon-Pass: Practical Anonymous Subscriptions.'
   authors:
@@ -132,7 +137,8 @@
   - Emmett Witchel
   - Jonathan Katz
   page_link: https://doi.org/10.1109/SP.2013.29
-  discovered_artifact: http://z.cs.utexas.edu/users/osa/anon-pass/
+  artifacts_discovered:
+  - http://z.cs.utexas.edu/users/osa/anon-pass/
   validated: false
 - title: 'Finding the Linchpins of the Dark Web: a Study on Topologically Dedicated
     Hosts on Malicious Web Infrastructures.'
@@ -143,7 +149,7 @@
   - Fang Yu 0002
   - XiaoFeng Wang 0001
   page_link: https://doi.org/10.1109/SP.2013.18
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Zerocoin: Anonymous Distributed E-Cash from Bitcoin.'
   authors:
@@ -152,7 +158,7 @@
   - Matthew Green 0001
   - Aviel D. Rubin
   page_link: https://doi.org/10.1109/SP.2013.34
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Welcome to the Entropics: Boot-Time Entropy in Embedded Devices.'
   authors:
@@ -162,7 +168,10 @@
   - Hovav Shacham
   - Steven Swanson
   page_link: https://doi.org/10.1109/SP.2013.46
-  discovered_artifact: https://github.com/RobertCNelson/stable-kernel
+  artifacts_discovered:
+  - https://github.com/raspberrypi/linux
+  - https://github.com/RobertCNelson/stable-kernel
+  - https://github.com/rabeeh/linux.git
   validated: false
 - title: 'seL4: From General Purpose to a Proof of Information Flow Enforcement.'
   authors:
@@ -176,7 +185,7 @@
   - Xin Gao
   - Gerwin Klein
   page_link: https://doi.org/10.1109/SP.2013.35
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Cookieless Monster: Exploring the Ecosystem of Web-Based Device Fingerprinting.'
   authors:
@@ -187,7 +196,7 @@
   - Frank Piessens
   - Giovanni Vigna
   page_link: https://doi.org/10.1109/SP.2013.43
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Privacy-Preserving Ridge Regression on Hundreds of Millions of Records.
   authors:
@@ -198,7 +207,7 @@
   - Dan Boneh
   - Nina Taft
   page_link: https://doi.org/10.1109/SP.2013.30
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'PrivExec: Private Execution as an Operating System Service.'
   authors:
@@ -207,7 +216,7 @@
   - William K. Robertson
   - Engin Kirda
   page_link: https://doi.org/10.1109/SP.2013.24
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Pinocchio: Nearly Practical Verifiable Computation.'
   authors:
@@ -216,7 +225,7 @@
   - Craig Gentry
   - Mariana Raykova 0001
   page_link: https://doi.org/10.1109/SP.2013.47
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: An Ideal-Security Protocol for Order-Preserving Encoding.
   authors:
@@ -224,7 +233,7 @@
   - Frank H. Li
   - Nickolai Zeldovich
   page_link: https://doi.org/10.1109/SP.2013.38
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SoK: Secure Data Deletion.'
   authors:
@@ -232,7 +241,7 @@
   - David A. Basin
   - Srdjan Capkun
   page_link: https://doi.org/10.1109/SP.2013.28
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SoK: P2PWNED - Modeling and Evaluating the Resilience of Peer-to-Peer Botnets.'
   authors:
@@ -244,14 +253,14 @@
   - Christian J. Dietrich
   - Herbert Bos
   page_link: https://doi.org/10.1109/SP.2013.17
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'PUFs in Security Protocols: Attack Models and Security Evaluations.'
   authors:
   - Ulrich Rührmair
   - Marten van Dijk
   page_link: https://doi.org/10.1109/SP.2013.27
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Ally Friendly Jamming: How to Jam Your Enemy and Maintain Your Own Wireless
     Connectivity at the Same Time.'
@@ -261,7 +270,7 @@
   - Xiaofan He
   - Huaiyu Dai
   page_link: https://doi.org/10.1109/SP.2013.22
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Just-In-Time Code Reuse: On the Effectiveness of Fine-Grained Address Space
     Layout Randomization.'
@@ -273,14 +282,15 @@
   - Christopher Liebchen
   - Ahmad-Reza Sadeghi
   page_link: https://doi.org/10.1109/SP.2013.45
-  discovered_artifact: http://github.com/pakt/ropc
+  artifacts_discovered:
+  - http://github.com/pakt/ropc
   validated: false
 - title: 'ObliviStore: High Performance Oblivious Cloud Storage.'
   authors:
   - Emil Stefanov
   - Elaine Shi
   page_link: https://doi.org/10.1109/SP.2013.25
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SoK: Eternal War in Memory.'
   authors:
@@ -289,7 +299,7 @@
   - Tao Wei 0002
   - Dawn Song
   page_link: https://doi.org/10.1109/SP.2013.13
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On Limitations of Friendly Jamming for Confidentiality.
   authors:
@@ -298,14 +308,14 @@
   - Aanjhan Ranganathan
   - Srdjan Capkun
   page_link: https://doi.org/10.1109/SP.2013.21
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Towards Practical Reactive Security Audit Using Extended Static Checkers.
   authors:
   - Julien Vanegue
   - Shuvendu K. Lahiri
   page_link: https://doi.org/10.1109/SP.2013.12
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Design, Implementation and Verification of an eXtensible and Modular Hypervisor
     Framework.
@@ -317,7 +327,8 @@
   - James Newsome
   - Anupam Datta
   page_link: https://doi.org/10.1109/SP.2013.36
-  discovered_artifact: http://xmhf.org
+  artifacts_discovered:
+  - http://xmhf.org
   validated: false
 - title: A Hybrid Architecture for Interactive Verifiable Computation.
   authors:
@@ -326,7 +337,7 @@
   - Andrew J. Blumberg
   - Michael Walfish
   page_link: https://doi.org/10.1109/SP.2013.48
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Hiding Information in Flash Memory.
   authors:
@@ -336,14 +347,14 @@
   - Edwin Kan
   - G. Edward Suh
   page_link: https://doi.org/10.1109/SP.2013.26
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Circuit Structures for Improving Efficiency of Security and Privacy Tools.
   authors:
   - Samee Zahur
   - David Evans 0001
   page_link: https://doi.org/10.1109/SP.2013.40
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Practical Control Flow Integrity and Randomization for Binary Executables.
   authors:
@@ -356,5 +367,5 @@
   - Dawn Song
   - Wei Zou
   page_link: https://doi.org/10.1109/SP.2013.44
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

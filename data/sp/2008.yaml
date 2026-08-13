@@ -6,7 +6,7 @@
   - Manuel Costa
   - Miguel Castro 0001
   page_link: https://doi.org/10.1109/SP.2008.30
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Compromising Reflections-or-How to Read LCD Monitors around the Corner.
   authors:
@@ -14,7 +14,7 @@
   - Markus Dürmuth
   - Dominique Unruh
   page_link: https://doi.org/10.1109/SP.2008.25
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Zero-Knowledge in the Applied Pi-calculus and Automated Verification of the
     Direct Anonymous Attestation Protocol.
@@ -23,7 +23,7 @@
   - Matteo Maffei
   - Dominique Unruh
   page_link: https://doi.org/10.1109/SP.2008.23
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Saner: Composing Static and Dynamic Analysis to Validate Sanitization in
     Web Applications.'
@@ -36,7 +36,7 @@
   - Christopher Kruegel
   - Giovanni Vigna
   page_link: https://doi.org/10.1109/SP.2008.22
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'ClearShot: Eavesdropping on Keyboard Input from Video.'
   authors:
@@ -44,7 +44,8 @@
   - Marco Cova
   - Giovanni Vigna
   page_link: https://doi.org/10.1109/SP.2008.28
-  discovered_artifact: ClearShot.in
+  artifacts_discovered:
+  - ClearShot.in
   validated: false
 - title: Expressive Declassification Policies and Modular Static Enforcement.
   authors:
@@ -52,7 +53,7 @@
   - David A. Naumann
   - Stan Rosenberg
   page_link: https://doi.org/10.1109/SP.2008.20
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Automated Formal Analysis of a Protocol for Secure File Sharing on Untrusted
     Storage.
@@ -60,7 +61,7 @@
   - Bruno Blanchet
   - Avik Chaudhuri
   page_link: https://doi.org/10.1109/SP.2008.12
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications.'
   authors:
@@ -69,14 +70,14 @@
   - Dawn Xiaodong Song
   - Jiang Zheng 0002
   page_link: https://doi.org/10.1109/SP.2008.17
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Verifying the Safety of User Pointer Dereferences.
   authors:
   - Suhabe Bugrara
   - Alex Aiken
   page_link: https://doi.org/10.1109/SP.2008.15
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Civitas: Toward a Secure Voting System.'
   authors:
@@ -84,7 +85,9 @@
   - Stephen Chong
   - Andrew C. Myers
   page_link: https://doi.org/10.1109/SP.2008.32
-  discovered_artifact: http://www.cs.cornell.edu/projects/civitas
+  artifacts_discovered:
+  - http://www.cs.cornell.edu/projects/civitas
+  - http://www.cs.cornell.edu/jif
   validated: false
 - title: 'Casting out Demons: Sanitizing Training Data for Anomaly Sensors.'
   authors:
@@ -94,7 +97,7 @@
   - Salvatore J. Stolfo
   - Angelos D. Keromytis
   page_link: https://doi.org/10.1109/SP.2008.11
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Cloaker: Hardware Supported Rootkit Concealment.'
   authors:
@@ -103,7 +106,7 @@
   - Jeffrey C. Carlyle
   - Roy H. Campbell
   page_link: https://doi.org/10.1109/SP.2008.8
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Thinking Inside the Box: System-Level Failures of Tamper Proofing.'
   authors:
@@ -111,7 +114,7 @@
   - Steven J. Murdoch
   - Ross J. Anderson
   page_link: https://doi.org/10.1109/SP.2008.16
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secure Web Browsing with the OP Web Browser.
   authors:
@@ -119,7 +122,7 @@
   - Shuo Tang
   - Samuel T. King
   page_link: https://doi.org/10.1109/SP.2008.19
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks
     and Zero-Power Defenses.'
@@ -134,7 +137,8 @@
   - Tadayoshi Kohno
   - William H. Maisel
   page_link: https://doi.org/10.1109/SP.2008.31
-  discovered_artifact: http://www.secure-medicine.org
+  artifacts_discovered:
+  - http://www.secure-medicine.org
   validated: false
 - title: Towards Practical Privacy for Genomic Computation.
   authors:
@@ -142,14 +146,14 @@
   - Louis Kruger
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2008.34
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Robust De-anonymization of Large Sparse Datasets.
   authors:
   - Arvind Narayanan
   - Vitaly Shmatikov
   page_link: https://doi.org/10.1109/SP.2008.33
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Lares: An Architecture for Secure Active Monitoring Using Virtualization.'
   authors:
@@ -158,7 +162,7 @@
   - Monirul Islam Sharif
   - Wenke Lee
   page_link: https://doi.org/10.1109/SP.2008.24
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'XFA: Faster Signature Matching with Extended Automata.'
   authors:
@@ -166,14 +170,14 @@
   - Cristian Estan
   - Somesh Jha
   page_link: https://doi.org/10.1109/SP.2008.14
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Predictable Design of Network-Based Covert Communication Systems.
   authors:
   - Ronald William Smith
   - George Scott Knight
   page_link: https://doi.org/10.1109/SP.2008.26
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Preserving Caller Anonymity in Voice-over-IP Networks.
   authors:
@@ -181,7 +185,7 @@
   - Ling Liu 0001
   - Arun Iyengar
   page_link: https://doi.org/10.1109/SP.2008.10
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Jamming-resistant Key Establishment using Uncoordinated Frequency Hopping.
   authors:
@@ -190,7 +194,7 @@
   - Srdjan Capkun
   - Mario Cagalj
   page_link: https://doi.org/10.1109/SP.2008.9
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Practical Proactive Integrity Preservation: A Basis for Malware Defense.'
   authors:
@@ -199,7 +203,7 @@
   - Gaurav Poothia
   - Tejas Karandikar
   page_link: https://doi.org/10.1109/SP.2008.35
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Fable: A Language for Enforcing User-defined Security Policies.'
   authors:
@@ -207,14 +211,14 @@
   - Brian J. Corcoran
   - Michael Hicks 0001
   page_link: https://doi.org/10.1109/SP.2008.29
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Anonymous Networking with Minimum Latency in Multihop Networks.
   authors:
   - Parvathinathan Venkitasubramaniam
   - Lang Tong 0001
   page_link: https://doi.org/10.1109/SP.2008.18
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Efficient and Robust TCP Stream Normalization.
   authors:
@@ -222,7 +226,7 @@
   - Hari Balakrishnan
   - Vern Paxson
   page_link: https://doi.org/10.1109/SP.2008.27
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Spot Me if You Can: Uncovering Spoken Phrases in Encrypted VoIP Conversations.'
   authors:
@@ -232,7 +236,7 @@
   - Fabian Monrose
   - Gerald M. Masson
   page_link: https://doi.org/10.1109/SP.2008.21
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'SybilLimit: A Near-Optimal Social Network Defense against Sybil Attacks.'
   authors:
@@ -241,5 +245,5 @@
   - Michael Kaminsky
   - Feng Xiao
   page_link: https://doi.org/10.1109/SP.2008.13
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

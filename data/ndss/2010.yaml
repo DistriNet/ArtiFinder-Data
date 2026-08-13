@@ -7,7 +7,7 @@
   - Christopher Kruegel
   - Giovanni Vigna
   page_link: https://www.ndss-symposium.org/ndss2010/efficient-detection-split-personalities-malware
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Protecting Browsers from Extension Vulnerabilities.
   authors:
@@ -16,14 +16,14 @@
   - Prateek Saxena
   - Aaron Boodman
   page_link: https://www.ndss-symposium.org/ndss2010/protecting-browsers-extension-vulnerabilities
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Security Evaluation of DNSSEC with NSEC3.
   authors:
   - Jason Bau
   - John C. Mitchell
   page_link: https://www.ndss-symposium.org/ndss2010/security-evaluation-dnssec-nsec3
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Server-side Verification of Client Behavior in Online Games.
   authors:
@@ -31,7 +31,7 @@
   - Robert A. Cochran
   - Michael K. Reiter
   page_link: https://www.ndss-symposium.org/ndss2010/server-side-verification-client-behavior-online-games
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Binary Code Extraction and Interface Identification for Security Applications.
   authors:
@@ -40,7 +40,7 @@
   - Stephen McCamant
   - Dawn Song
   page_link: https://www.ndss-symposium.org/ndss2010/binary-code-extraction-and-interface-identification-security-applications
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Where Do You Want to Go Today? Escalating Privileges by Pathname Manipulation.
   authors:
@@ -48,7 +48,7 @@
   - Shai Halevi
   - Wietse Z. Venema
   page_link: https://www.ndss-symposium.org/ndss2010/where-do-you-want-go-today-escalating-privileges-pathname-manipulation
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Preventing Capability Leaks in Secure JavaScript Subsets.
   authors:
@@ -56,7 +56,8 @@
   - Joel Weinberger
   - Adam Barth
   page_link: https://www.ndss-symposium.org/ndss2010/preventing-capability-leaks-secure-javascript-subsets
-  discovered_artifact: http://webblaze.cs.berkeley.edu/2010/blancura/
+  artifacts_discovered:
+  - http://webblaze.cs.berkeley.edu/2010/blancura/
   validated: false
 - title: On the Safety of Enterprise Policy Deployment.
   authors:
@@ -65,14 +66,14 @@
   - Xu Chen 0028
   - Zhuoqing Morley Mao
   page_link: https://www.ndss-symposium.org/ndss2010/safety-enterprise-policy-deployment
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Stealth DoS Attacks on Secure Channels.
   authors:
   - Amir Herzberg
   - Haya Schulmann
   page_link: https://www.ndss-symposium.org/ndss2010/stealth-dos-attacks-secure-channels
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Automatic Reverse Engineering of Data Structures from Binary Execution.
   authors:
@@ -80,7 +81,7 @@
   - Xiangyu Zhang 0001
   - Dongyan Xu
   page_link: https://www.ndss-symposium.org/ndss2010/automatic-reverse-engineering-data-structures-binary-execution
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Joe-E: A Security-Oriented Subset of Java.'
   authors:
@@ -88,7 +89,7 @@
   - David A. Wagner 0001
   - Tyler Close
   page_link: https://www.ndss-symposium.org/ndss2010/joe-e-security-oriented-subset-java
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Botnet Judo: Fighting Spam with Itself.'
   authors:
@@ -101,7 +102,7 @@
   - Nicholas Weaver
   - Stefan Savage
   page_link: https://www.ndss-symposium.org/ndss2010/botnet-judo-fighting-spam-itself
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Systematic Characterization of IM Threats using Honeypots.
   authors:
@@ -110,7 +111,7 @@
   - Evangelos P. Markatos
   - Spyros Antonatos
   page_link: https://www.ndss-symposium.org/ndss2010/systematic-characterization-im-threats-using-honeypots
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On Network-level Clusters for Spam Detection.
   authors:
@@ -119,7 +120,7 @@
   - Yinglian Xie
   - Fang Yu 0002
   page_link: https://www.ndss-symposium.org/ndss2010/network-level-clusters-spam-detection
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'When Good Randomness Goes Bad: Virtual Machine Reset Vulnerabilities and
     Hedging Deployed Cryptography.'
@@ -127,7 +128,7 @@
   - Thomas Ristenpart
   - Scott Yilek
   page_link: https://www.ndss-symposium.org/ndss2010/when-good-randomness-goes-bad-virtual-machine-reset-vulnerabilities-and-hedging-deployed
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Effective Anomaly Detection with Scarce Training Data.
   authors:
@@ -136,7 +137,7 @@
   - Christopher Kruegel
   - Giovanni Vigna
   page_link: https://www.ndss-symposium.org/ndss2010/effective-anomaly-detection-scarce-training-data
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'FLAX: Systematic Discovery of Client-side Validation Vulnerabilities in
     Rich Web Applications.'
@@ -146,7 +147,7 @@
   - Pongsin Poosankam
   - Dawn Song
   page_link: https://www.ndss-symposium.org/ndss2010/flax-systematic-discovery-client-side-validation-vulnerabilities-rich-web-applications
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Contractual Anonymity.
   authors:
@@ -154,14 +155,14 @@
   - David Brumley
   - Jonathan M. McCune
   page_link: https://www.ndss-symposium.org/ndss2010/contractual-anonymity
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'InvisiType: Object-Oriented Security Policies.'
   authors:
   - Jiwon Seo 0002
   - Monica S. Lam
   page_link: https://www.ndss-symposium.org/ndss2010/invisitype-object-oriented-security-policies
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'A3: An Extensible Platform for Application-Aware Anonymity.'
   authors:
@@ -172,7 +173,7 @@
   - Boon Thau Loo
   - Matt Blaze
   page_link: https://www.ndss-symposium.org/ndss2010/a3-extensible-platform-application-aware-anonymity
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Improving Spam Blacklisting Through Dynamic Thresholding and Speculative
     Aggregation.
@@ -181,7 +182,7 @@
   - Michael D. Bailey
   - Farnam Jahanian
   page_link: https://www.ndss-symposium.org/ndss2010/improving-spam-blacklisting-through-dynamic-thresholding-and-speculative-aggregation
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Adnostic: Privacy Preserving Targeted Advertising.'
   authors:
@@ -191,7 +192,8 @@
   - Helen Nissenbaum
   - Solon Barocas
   page_link: https://www.ndss-symposium.org/ndss2010/adnostic-privacy-preserving-targeted-advertising
-  discovered_artifact: http://crypto.stanford.edu/adnostic/
+  artifacts_discovered:
+  - http://crypto.stanford.edu/adnostic/
   validated: false
 - title: Large-Scale Automatic Classification of Phishing Pages.
   authors:
@@ -199,7 +201,7 @@
   - Brian Ryner
   - Marria Nazif
   page_link: https://www.ndss-symposium.org/ndss2010/large-scale-automatic-classification-phishing-pages
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Defeating Vanish with Low-Cost Sybil Attacks Against Large DHTs.
   authors:
@@ -212,5 +214,5 @@
   - Brent Waters
   - Emmett Witchel
   page_link: https://www.ndss-symposium.org/ndss2010/defeating-vanish-low-cost-sybil-attacks-against-large-dhts
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

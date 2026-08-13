@@ -14,3 +14,25 @@ For more information, please refer to the [ArtiFinder](https://github.com/Distri
   booktitle = {USENIX Security},
 }
 ```
+
+The repository contains records on all papers in the following format:
+
+```yaml
+  # title of the paper
+- title: 'Libra: Architectural Support For Principled, Secure And Efficient Balanced Execution On High-End Processors.'
+  # list of authors
+  authors:
+  - Hans Winderix
+  - Marton Bognar
+  - Lesly-Ann Daniel
+  - Frank Piessens
+  # link to the published paper
+  page_link: https://doi.org/10.1145/3658644.3690319
+  # a list of all links discovered by ArtiFinder above our score threshold, ordered from highest to lowest score
+  # an empty list indicates no artifact link found
+  artifacts_discovered:
+  - https://github.com/proteus-core/libra
+  - https://doi.org/10.5281/zenodo.12786159
+  # flag indicating that the entry has been manually validated (and possibly corrected)
+  validated: true
+```

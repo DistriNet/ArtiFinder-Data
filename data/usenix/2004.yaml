@@ -4,7 +4,7 @@
   - Prateek Gupta
   - Deepak Gupta
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/avijit.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Network-in-a-Box: How to Set Up a Secure Wireless Network in Under a Minute.'
   authors:
@@ -14,14 +14,14 @@
   - Diana K. Smetters
   - Paul Stewart
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/balfanz.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Privtrans: Automatically Partitioning Programs for Privilege Separation.'
   authors:
   - David Brumley
   - Dawn Xiaodong Song
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/brumley.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Understanding Data Lifetime via Whole System Simulation (Awarded Best Paper!).
   authors:
@@ -31,7 +31,7 @@
   - Kevin Christopher
   - Mendel Rosenblum
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/chow.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On User Choice in Graphical Password Schemes.
   authors:
@@ -39,14 +39,14 @@
   - Fabian Monrose
   - Michael K. Reiter
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/davis.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Fixing Races for Fun and Profit: How to Use access(2).'
   authors:
   - Drew Dean
   - Alan J. Hu
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/dean.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Tor: The Second-Generation Onion Router.'
   authors:
@@ -54,7 +54,7 @@
   - Nick Mathewson
   - Paul F. Syverson
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/dingledine.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: On Gray-Box Program Tracking for Anomaly Detection.
   authors:
@@ -62,28 +62,28 @@
   - Michael K. Reiter
   - Dawn Xiaodong Song
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/gao.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Collapsar: A VM-Based Architecture for Network Attack Detention Center.'
   authors:
   - Xuxian Jiang
   - Dongyan Xu
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/jiang.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Finding User/Kernel Pointer Bugs with Type Inference.
   authors:
   - Robert Johnson
   - David A. Wagner 0001
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/johnson.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Autograph: Toward Automated, Distributed Worm Signature Detection.'
   authors:
   - Hyang-Ah Kim
   - Brad Karp
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/kim.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Static Disassembly of Obfuscated Binaries.
   authors:
@@ -92,7 +92,7 @@
   - Fredrik Valeur
   - Giovanni Vigna
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/kruegel.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Privacy-Preserving Sharing and Correlation of Security Alerts.
   authors:
@@ -100,7 +100,7 @@
   - Phillip A. Porras
   - Vitaly Shmatikov
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/lincoln.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Fairplay - Secure Two-Party Computation System.
   authors:
@@ -109,7 +109,7 @@
   - Benny Pinkas
   - Yaron Sella
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/malkhi.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Avfs: An On-Access Anti-Virus File System.'
   authors:
@@ -118,7 +118,7 @@
   - Charles P. Wright
   - Erez Zadok
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/miretskiy.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Copilot - a Coprocessor-based Kernel Runtime Integrity Monitor.
   authors:
@@ -127,13 +127,15 @@
   - Jesus Molina
   - William A. Arbaugh
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/petroni.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Virtual Honeypot Framework.
   authors:
   - Niels Provos
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/provos.html
-  discovered_artifact: http://www.citi.umich.edu/u/provos/honeyd/
+  artifacts_discovered:
+  - http://www.citi.umich.edu/u/provos/honeyd/
+  - http://www.citi.umich.edu/
   validated: false
 - title: Design and Implementation of a TCG-based Integrity Measurement Architecture.
   authors:
@@ -142,7 +144,7 @@
   - Trent Jaeger
   - Leendert van Doorn
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/sailer.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Side Effects Are Not Sufficient to Authenticate Software.
   authors:
@@ -150,7 +152,7 @@
   - Monica Chew
   - J. D. Tygar
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/shankar.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Design of the EROS Trusted Window System.
   authors:
@@ -159,14 +161,14 @@
   - Eric Northup
   - David Chizmadia
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/shapiro.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Graphical Dictionaries and the Memorable Space of Graphical Passwords.
   authors:
   - Julie Thorpe
   - Paul C. van Oorschot
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/thorpe.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Very Fast Containment of Scanning Worms.
   authors:
@@ -174,5 +176,5 @@
   - Stuart Staniford
   - Vern Paxson
   page_link: http://www.usenix.org/publications/library/proceedings/sec04/tech/weaver.html
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false

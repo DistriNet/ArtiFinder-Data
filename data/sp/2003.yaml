@@ -4,14 +4,14 @@
   - Dogan Kesdogan
   - Stefan Penz
   page_link: https://doi.org/10.1109/SECPRI.2003.1199324
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Intransitive Non-Interference for Cryptographic Purposes.
   authors:
   - Michael Backes 0001
   - Birgit Pfitzmann
   page_link: https://doi.org/10.1109/SECPRI.2003.1199333
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Secret Handshakes from Pairing-Based Key Agreements.
   authors:
@@ -22,7 +22,7 @@
   - Jessica Staddon
   - Hao-Chi Wong
   page_link: https://doi.org/10.1109/SECPRI.2003.1199336
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Random Key Predistribution Schemes for Sensor Networks.
   authors:
@@ -30,7 +30,7 @@
   - Adrian Perrig
   - Dawn Xiaodong Song
   page_link: https://doi.org/10.1109/SECPRI.2003.1199337
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Mixminion: Design of a Type III Anonymous Remailer Protocol.'
   authors:
@@ -38,7 +38,7 @@
   - Roger Dingledine
   - Nick Mathewson
   page_link: https://doi.org/10.1109/SECPRI.2003.1199323
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Anomaly Detection Using Call Stack Information.
   authors:
@@ -48,14 +48,14 @@
   - Wenke Lee
   - Weibo Gong
   page_link: https://doi.org/10.1109/SECPRI.2003.1199328
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Using Memory Errors to Attack a Virtual Machine.
   authors:
   - Sudhakar Govindavajhala
   - Andrew W. Appel
   page_link: https://doi.org/10.1109/SECPRI.2003.1199334
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Practical Revocation Scheme for Broadcast Encryption Using Smart Cards.
   authors:
@@ -63,7 +63,7 @@
   - Yuval Shavitt
   - Avishai Wool
   page_link: https://doi.org/10.1109/SECPRI.2003.1199339
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Beyond Proof-of-Compliance: Safety and Availability Analysis in Trust Management.'
   authors:
@@ -71,7 +71,7 @@
   - William H. Winsborough
   - John C. Mitchell
   page_link: https://doi.org/10.1109/SECPRI.2003.1199332
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Specifying and Verifying Hardware for Tamper-Resistant Software.
   authors:
@@ -80,7 +80,7 @@
   - Chandramohan A. Thekkath
   - Mark Horowitz
   page_link: https://doi.org/10.1109/SECPRI.2003.1199335
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Garbage Collector Memory Accounting in Language-Based Systems.
   authors:
@@ -88,20 +88,21 @@
   - Algis Rudys
   - Dan S. Wallach
   page_link: https://doi.org/10.1109/SECPRI.2003.1199342
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Active Mapping: Resisting NIDS Evasion without Altering Traffic.'
   authors:
   - Umesh Shankar
   - Vern Paxson
   page_link: https://doi.org/10.1109/SECPRI.2003.1199327
-  discovered_artifact: ee.lbl.gov
+  artifacts_discovered:
+  - ee.lbl.gov
   validated: false
 - title: Vulnerabilities in Synchronous IPC Designs.
   authors:
   - Jonathan S. Shapiro
   page_link: https://doi.org/10.1109/SECPRI.2003.1199341
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Hardening Functions for Large Scale Distributed Computations.
   authors:
@@ -109,14 +110,14 @@
   - Barry G. Lawson
   - Jason Owen
   page_link: https://doi.org/10.1109/SECPRI.2003.1199338
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Defending Against Denial-of-Service Attacks with Puzzle Auctions.
   authors:
   - XiaoFeng Wang 0001
   - Michael K. Reiter
   page_link: https://doi.org/10.1109/SECPRI.2003.1199329
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Defending Anonymous Communications Against Passive Logging Attack.
   authors:
@@ -125,7 +126,7 @@
   - Brian Neil Levine
   - Clay Shields
   page_link: https://doi.org/10.1109/SECPRI.2003.1199325
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: 'Pi: A Path Identification Mechanism to Defend against DDoS Attacks.'
   authors:
@@ -133,14 +134,14 @@
   - Adrian Perrig
   - Dawn Xiaodong Song
   page_link: https://doi.org/10.1109/SECPRI.2003.1199330
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: A Unified Scheme for Resource Protection in Automated Trust Negotiation.
   authors:
   - Ting Yu 0001
   - Marianne Winslett
   page_link: https://doi.org/10.1109/SECPRI.2003.1199331
-  discovered_artifact: null
+  artifacts_discovered: []
   validated: false
 - title: Using Replication and Partitioning to Build Secure Distributed Systems.
   authors:
@@ -149,5 +150,6 @@
   - Andrew C. Myers
   - Steve Zdancewic
   page_link: https://doi.org/10.1109/SECPRI.2003.1199340
-  discovered_artifact: http://www.cs.cornell.edu/jif
+  artifacts_discovered:
+  - http://www.cs.cornell.edu/jif
   validated: false

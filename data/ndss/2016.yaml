@@ -356,8 +356,9 @@
   - Martin Henze and Klaus Wehrle
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2017/09/website-fingerprinting-internet-scale.pdf
   artifacts_discovered:
-  - https://blog.torproject.org/blog/critique-website-traffic-fingerprinting-attacks
-  validated: false
+  - https://www.informatik.tu-cottbus.de/~andriy/zwiebelfreunde/
+  validated: true
+  not_present: true
 - title: 'Extract Me If You Can: Abusing PDF Parsers in Malware Detectors'
   authors:
   - Curtis Carmony

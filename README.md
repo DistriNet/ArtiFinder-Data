@@ -35,4 +35,6 @@ The repository contains records on all papers in the following format:
   - https://doi.org/10.5281/zenodo.12786159
   # flag indicating that the entry has been manually validated (and possibly corrected)
   validated: true
+  # flag indicating that the artifact URL is not present in the published paper (was manually added to the database)
+  not_present: true
 ```

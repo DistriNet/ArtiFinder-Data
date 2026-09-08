@@ -8,7 +8,8 @@
   - XiaoFeng Wang
   - Wing Cheong Lau
   - Menghan Sun
-  - Ronghai Yang and Kehuan Zhang
+  - Ronghai Yang
+  - Kehuan Zhang
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-1_Chen_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -16,7 +17,8 @@
   authors:
   - Qi Wang
   - Wajih Ul Hassan
-  - Adam Bates and Carl Gunter
+  - Adam Bates
+  - Carl Gunter
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-2_Wang_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -24,7 +26,8 @@
   authors:
   - Earlence Fernandes
   - Amir Rahmati
-  - Jaeyeon Jung and Atul Prakash
+  - Jaeyeon Jung
+  - Atul Prakash
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-3_Fernandes_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -33,7 +36,8 @@
   - Marius Muench
   - Jan Stijohann
   - Frank Kargl
-  - Aurelien Francillon and Davide Balzarotti
+  - Aurelien Francillon
+  - Davide Balzarotti
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01A-4_Muench_paper.pdf
   artifacts_discovered:
   - https://github.com/avatartwo/ndss18_wycinwyc
@@ -43,7 +47,8 @@
   - Ben Stock
   - Giancarlo Pellegrino
   - Frank Li
-  - Michael Backes and Christian Rossow
+  - Michael Backes
+  - Christian Rossow
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01B-1_Stock_paper.pdf
   artifacts_discovered:
   - https://github.com/ben-stock/notification-ndss2018
@@ -54,7 +59,8 @@
   - Qi Alfred Chen
   - Yucheng Yin
   - Yiheng Feng
-  - Z. Morley Mao and Henry X. Liu
+  - Z. Morley Mao
+  - Henry X. Liu
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01B-2_Chen_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -68,7 +74,8 @@
   authors:
   - Erkam Uzun
   - Simon Pak Ho Chung
-  - Irfan Essa and Wenke Lee
+  - Irfan Essa
+  - Wenke Lee
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_01B-4_Uzun_paper.pdf
   artifacts_discovered:
   - https://github.com/josecl/cool-php-captcha
@@ -79,7 +86,8 @@
   - Samuel Jero
   - Endadul Hoque
   - David Choffnes
-  - Alan Mislove and Cristina Nita-Rotaru
+  - Alan Mislove
+  - Cristina Nita-Rotaru
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-1_Jero_paper.pdf
   artifacts_discovered:
   - https://github.com/samueljero/TCPwn
@@ -88,7 +96,8 @@
   authors:
   - Omer Deutsch
   - Neta Rozen Schiff
-  - Danny Dolev and Michael Schapira
+  - Danny Dolev
+  - Michael Schapira
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-2_Deutsch_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -105,7 +114,8 @@
     Temporary Identifier.'
   authors:
   - Byeongdo Hong
-  - Sangwook Bae and Yongdae Kim
+  - Sangwook Bae
+  - Yongdae Kim
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02A-4_Hong_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -114,7 +124,8 @@
   - Riccardo Focardi
   - Francesco Palmarini
   - Marco Squarcina
-  - Graham Steel and Mauro Tempesta
+  - Graham Steel
+  - Mauro Tempesta
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02B-1_Focardi_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -123,7 +134,8 @@
   - Ding Wang
   - Haibo Cheng
   - Ping Wang
-  - Jeff Yan and Xinyi Huang
+  - Jeff Yan
+  - Xinyi Huang
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02B-2_Wang_paper.pdf
   artifacts_discovered:
   - https://github.com/pkusec/rethinking-honeywords
@@ -131,7 +143,8 @@
 - title: 'Revisiting Private Stream Aggregation: Lattice-Based PSA'
   authors:
   - Daniela Becker
-  - Jorge Guajardo and Karl-Heinz Zimmermann
+  - Jorge Guajardo
+  - Karl-Heinz Zimmermann
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02B-3_Becker_paper.pdf
   artifacts_discovered:
   - https://github.com/shaih/HElib
@@ -150,7 +163,8 @@
   - Vera Rimmer
   - Davy Preuveneers
   - Marc Juarez
-  - Tom Van Goethem and Wouter Joosen
+  - Tom Van Goethem
+  - Wouter Joosen
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-1_Rimmer_paper.pdf
   artifacts_discovered:
   - https://distrinet.cs.kuleuven.be/software/tor-wf-dl/
@@ -163,7 +177,8 @@
   - Xinyu Ou
   - Hai Jin
   - Sujuan Wang
-  - Zhijun Deng and Yuyi Zhong
+  - Zhijun Deng
+  - Yuyi Zhong
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-2_Li_paper.pdf
   artifacts_discovered:
   - https://github.com/CGCL-codes/VulDeePecker
@@ -180,7 +195,8 @@
 - title: 'Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks'
   authors:
   - Weilin Xu
-  - David Evans and Yanjun Qi
+  - David Evans
+  - Yanjun Qi
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-4_Xu_paper.pdf
   artifacts_discovered:
   - https://evadeML.org
@@ -213,7 +229,8 @@
   authors:
   - Parimarjan Negi
   - Prafull Sharma
-  - Vivek sanjay Jain and Bahman Bahmani
+  - Vivek sanjay Jain
+  - Bahman Bahmani
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03B-2_Negi_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -223,14 +240,16 @@
   - Sixu Piao
   - Xinwen Fu
   - Dimitrios Koutsonikolas
-  - Aziz Mohaisen and Kui Ren
+  - Aziz Mohaisen
+  - Kui Ren
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03B-3_Ba_paper.pdf
   artifacts_discovered: []
   validated: false
 - title: Device Pairing at the Touch of an Electrode
   authors:
   - Marc Roeschlin
-  - Ivan Martinovic and Kasper B. Rasmussen
+  - Ivan Martinovic
+  - Kasper B. Rasmussen
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03B-4_Roeschlin_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -247,7 +266,8 @@
   - Giorgos Tsirantonakis
   - Panagiotis Ilia
   - Sotiris Ioannidis
-  - Elias Athanasopoulos and Michalis Polychronakis
+  - Elias Athanasopoulos
+  - Michalis Polychronakis
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-1_Tsirantonakis_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -256,7 +276,8 @@
   - Shitong Zhu
   - Xunchao Hu
   - Zhiyun Qian
-  - Zubair Shafiq and Heng Yin
+  - Zubair Shafiq
+  - Heng Yin
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-2_Zhu_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -264,7 +285,8 @@
   authors:
   - Sharbani Pandit
   - Roberto Perdisci
-  - Mustaque Ahamad and Payas Gupta
+  - Mustaque Ahamad
+  - Payas Gupta
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-3_Pandit_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -288,7 +310,8 @@
   - Daniel Gruss
   - Samuel Weiser
   - Clementine Maurice
-  - Raphael Spreitzer  and Stefan Mangard
+  - Raphael Spreitzer
+  - Stefan Mangard
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04B-1_Schwarz_paper.pdf
   artifacts_discovered:
   - https://github.com/IAIK/keydrown
@@ -304,7 +327,8 @@
   - Hongjun Choi
   - Zhongshu Gu
   - Byoungyoung Lee
-  - Xiangyu Zhang and Dongyan Xu
+  - Xiangyu Zhang
+  - Dongyan Xu
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04B-2_Kim_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -323,7 +347,8 @@
   - Seung Jei Yang
   - Aisha Ali-Gombe
   - Xiangyu Zhang
-  - Dongyan Xu and Golden G. Richard III
+  - Dongyan Xu
+  - Golden G. Richard III
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04B-4_Bhatia_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -331,7 +356,8 @@
   authors:
   - David Gens
   - Simon Schmitt
-  - Lucas Davi and Ahmad-Reza Sadeghi
+  - Lucas Davi
+  - Ahmad-Reza Sadeghi
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05A-1_Gens_paper.pdf
   artifacts_discovered:
   - https://github.com/ssl-tud/k-miner
@@ -340,7 +366,8 @@
   authors:
   - Nathan Burow
   - Derrick McKee
-  - Scott A. Carr and Mathias Payer
+  - Scott A. Carr
+  - Mathias Payer
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05A-2_Burow_paper.pdf
   artifacts_discovered:
   - https://github.com/HexHive/CFIXX
@@ -348,14 +375,16 @@
 - title: 'Back To The Epilogue: Evading Control Flow Guard via Unaligned Targets'
   authors:
   - Andrea Biondo
-  - Mauro Conti and Daniele Lain
+  - Mauro Conti
+  - Daniele Lain
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05A-3_Biondo_paper.pdf
   artifacts_discovered: []
   validated: false
 - title: 'Superset Disassembly: Statically Rewriting x86 Binaries Without Heuristics'
   authors:
   - Erick Bauman
-  - Zhiqiang Lin and Kevin Hamlen
+  - Zhiqiang Lin
+  - Kevin Hamlen
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05A-4_Bauman_paper.pdf
   artifacts_discovered:
   - github.com/utds3lab/multiverse
@@ -376,7 +405,8 @@
   - Zhemin Yang
   - Xiaofeng Wang
   - Yuan Zhang
-  - Donglai Zhu and Min Yang
+  - Donglai Zhu
+  - Min Yang
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05B-1_Nan_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -400,7 +430,8 @@
   - Narseo Vallina-Rodriguez
   - Srikanth Sundaresan
   - Mark Allman
-  - Christian Kreibich and Phillipa Gill
+  - Christian Kreibich
+  - Phillipa Gill
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05B-3_Razaghpanah_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -410,14 +441,16 @@
   - Xiaokuan Zhang
   - Xueqiang Wang
   - Xiaolong Bai
-  - Yinqian Zhang and XiaoFeng Wang
+  - Yinqian Zhang
+  - XiaoFeng Wang
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05B-4_Zhang_paper.pdf
   artifacts_discovered: []
   validated: false
 - title: Knock Knock, Who’s There? Membership Inference on Aggregate Location Data
   authors:
   - Apostolos Pyrgelis
-  - Carmela Troncoso and Emiliano De Cristofaro
+  - Carmela Troncoso
+  - Emiliano De Cristofaro
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05B-5_Pyrgelis_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -446,7 +479,8 @@
   authors:
   - Dean Sullivan
   - Orlando Arias
-  - Travis Meade and Yier Jin
+  - Travis Meade
+  - Yier Jin
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_06A-3_Sullivan_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -464,7 +498,8 @@
   authors:
   - Alexandra-Mihaela Olteanu
   - Kevin Huguenin
-  - Italo Dacosta and Jean-Pierre Hubaux
+  - Italo Dacosta
+  - Jean-Pierre Hubaux
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/07/ndss2018_06B-1_Olteanu_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -488,7 +523,8 @@
   - Chen Gao
   - Yong Li
   - Gang Wang
-  - Depeng Jin and Jingbo Sun
+  - Depeng Jin
+  - Jingbo Sun
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_06B-3_Wang_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -512,7 +548,8 @@
     NODE.JS.'
   authors:
   - Cristian-Alexandru Staicu
-  - Michael Pradel and Benjamin Livshits
+  - Michael Pradel
+  - Benjamin Livshits
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_07A-2_Staicu_paper.pdf
   artifacts_discovered:
   - https://github.com/sola-da/Synode
@@ -533,7 +570,8 @@
   - William Melicher
   - Anupam Das
   - Mahmood Sharif
-  - Lujo Bauer and Limin Jia
+  - Lujo Bauer
+  - Limin Jia
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_07A-4_Melicher_paper.pdf
   artifacts_discovered:
   - https://github.com/wrmelicher/ChromiumTaintTracking
@@ -544,7 +582,8 @@
   - Wajih Ul Hassan
   - Mark Lemay
   - Nuraini Aguse
-  - Adam Bates and Thomas Moyer
+  - Adam Bates
+  - Thomas Moyer
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_07B-1_Hassan_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -560,7 +599,8 @@
   - Dongyan Xu
   - Somesh Jha
   - Gabriela Ciocarlie
-  - Ashish Gehani and Vinod Yegneswaran
+  - Ashish Gehani
+  - Vinod Yegneswaran
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_07B-2_Kwon_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -572,7 +612,8 @@
   - Kangkook Jee
   - Zhichun Li
   - Zhenyu Wu
-  - Junghwan Rhee and Prateek Mittal
+  - Junghwan Rhee
+  - Prateek Mittal
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_07B-3_Liu_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -593,7 +634,8 @@
   - Jianjun Huang
   - Yi Sun
   - Xiangyu Zhang
-  - Ninghui Li and Chen Tian
+  - Ninghui Li
+  - Chen Tian
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-1_Aafer_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -605,7 +647,8 @@
   - Long Lu
   - Yueh-Hsun Lin
   - Hayawardh Vijayakumar
-  - Zhi Wang and Xinming Ou
+  - Zhi Wang
+  - Xinming Ou
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_08-2_Chen_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -615,7 +658,8 @@
   - Ben Karel
   - Nick Roessler
   - Nathan Dautenhahn
-  - Andre DeHon and Jonathan M. Smith
+  - Andre DeHon
+  - Jonathan M. Smith
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-3_Vasilakis_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -623,7 +667,8 @@
   authors:
   - Guliz Seray Tuncay
   - Soteris Demetriou
-  - Karan Ganju and Carl A. Gunter
+  - Karan Ganju
+  - Carl A. Gunter
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf
   artifacts_discovered:
   - https://sites.google.com/view/cusper-custom-permissions/home
@@ -632,7 +677,8 @@
   authors:
   - Sukrit Kalra
   - Seep Goel
-  - Mohan Dhawan and Subodh Sharma
+  - Mohan Dhawan
+  - Subodh Sharma
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-1_Kalra_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -641,7 +687,8 @@
   - Mustafa Al-Bassam
   - Alberto Sonnino
   - Shehar Bano
-  - Dave Hrycyszyn and George Danezis
+  - Dave Hrycyszyn
+  - George Danezis
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf
   artifacts_discovered:
   - https://github.com/chainspace/chainspace
@@ -673,7 +720,8 @@
   - Giridhari Venkatadri
   - Oana Goga
   - Krishna P. Gummadi
-  - Patrick Loiseau and Alan Mislove
+  - Patrick Loiseau
+  - Alan Mislove
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_10-1_Andreou_paper.pdf
   artifacts_discovered: []
   validated: false
@@ -682,7 +730,8 @@
   - Rob Jansen
   - Marc Juarez
   - Rafa Galvez
-  - Tariq Elahi and Claudia Diaz
+  - Tariq Elahi
+  - Claudia Diaz
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_10-2_Jansen_paper.pdf
   artifacts_discovered:
   - https://onionpop.github.io
@@ -699,7 +748,8 @@
   - Hao Lu
   - Shuang Hao
   - Haojin Zhu
-  - Xiaohui Liang and Keith Ross
+  - Xiaohui Liang
+  - Keith Ross
   page_link: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_10-3_Zheng_paper.pdf
   artifacts_discovered: []
   validated: false

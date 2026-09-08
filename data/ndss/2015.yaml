@@ -1,7 +1,7 @@
 - title: 'No More Gotos: Decompilation Using Pattern-Independent Control-Flow Structuring
     and Semantics-Preserving Transformations'
   authors:
-  - 'Author: Khaled Yakdan'
+  - Khaled Yakdan
   - Sebastian Eschweiler
   - Elmar Gerhards-Padilla
   - Matthew Smith
@@ -10,7 +10,7 @@
   validated: false
 - title: 'vfGuard: Strict Protection for Virtual Function Calls in COTS C++ Binaries'
   authors:
-  - 'Author: Aravind Prakashm Xunchao Hu'
+  - Aravind Prakashm Xunchao Hu
   - Heng Yin
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/vfguard-strict-protection-virtual-function-calls-cots-c-binaries/
   artifacts_discovered: []
@@ -18,7 +18,7 @@
 - title: 'P2C: Understanding Output Data Files via On-the-Fly Transformation from
     Producer to Consumer Executions'
   authors:
-  - 'Author: Yonghwi Kwon'
+  - Yonghwi Kwon
   - Fei Peng
   - Dohyeong Kim
   - Kyungtae Kim
@@ -32,7 +32,7 @@
 - title: Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities
     in Binary Firmware
   authors:
-  - 'Author: Yan Shoshitaishvili'
+  - Yan Shoshitaishvili
   - Ruoyu Wang
   - Christophe Hauser
   - Christopher Kruegel
@@ -44,7 +44,7 @@
 - title: 'Poisoning Network Visibility in Software-Defined Networks: New Attacks and
     Countermeasures'
   authors:
-  - 'Author: Sungmin Hong'
+  - Sungmin Hong
   - Lei Xu
   - Haopei Wang
   - Guofei Gu
@@ -53,7 +53,7 @@
   validated: false
 - title: Securing the Software-Defined Network Control Layer
   authors:
-  - 'Author: Phillip Porras'
+  - Phillip Porras
   - Steven Cheung
   - Martin Fong
   - Keith Skinner
@@ -63,7 +63,7 @@
   validated: false
 - title: 'SPHINX: Detecting Security Attacks in Software-Defined Networks'
   authors:
-  - 'Author: Mohan Dhawan'
+  - Mohan Dhawan
   - Rishabh Poddar
   - Kshiteej Mahajan
   - Vijay Mann
@@ -72,7 +72,7 @@
   validated: false
 - title: Run-time Monitoring and Formal Analysis of Information Flows in Chromium
   authors:
-  - 'Author: Lujo Bauer'
+  - Lujo Bauer
   - Shaoying Cai
   - Limin Jia
   - Timothy Passaro
@@ -83,7 +83,7 @@
   validated: false
 - title: 'Too LeJIT to Quit: Extending JIT Spraying to ARM'
   authors:
-  - 'Author: Wilson Lian'
+  - Wilson Lian
   - Hovav Shacham
   - Stefan Savage
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/too-lejit-quit-extending-jit-spraying-arm/
@@ -91,7 +91,7 @@
   validated: false
 - title: 'The Devil is in the Constants: Bypassing Defenses in Browser JIT Engines'
   authors:
-  - 'Author: Michalis Athanasakis'
+  - Michalis Athanasakis
   - Elias Athanasopoulos
   - Michalis Polychronakis
   - Georgios Portokalidis
@@ -101,7 +101,7 @@
   validated: false
 - title: Exploiting and Protecting Dynamic Code Generation
   authors:
-  - 'Author: Chengyu Song'
+  - Chengyu Song
   - Chao Zhang
   - Tielei Wang
   - Wenke Lee
@@ -111,7 +111,7 @@
   validated: false
 - title: Verified Contributive Channel Bindings for Compound Authentication
   authors:
-  - 'Author: Karthikeyan Bhargavan'
+  - Karthikeyan Bhargavan
   - Antoine Delignat-Lavaud
   - Alfredo Pironti
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/verified-contributive-channel-bindings-compound-authentication/
@@ -119,7 +119,7 @@
   validated: false
 - title: 'Knock Yourself Out: Secure Authentication with Short Re-Usable Passwords'
   authors:
-  - 'Author: Benjamin Guldenring'
+  - Benjamin Guldenring
   - Volker Roth
   - Lars Ries
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/knock-yourself-out-secure-authentication-short-re-usable-passwords/
@@ -127,7 +127,7 @@
   validated: false
 - title: ABY - A Framework for Efficient Mixed-Protocol Secure Two-Party Computation
   authors:
-  - 'Author: Daniel Demmler'
+  - Daniel Demmler
   - Thomas Schneider
   - Michael Zohner
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/aby-framework-efficient-mixed-protocol-secure-two-party-computation/
@@ -137,7 +137,7 @@
 - title: 'Preventing Lunchtime Attacks: Fighting Insider Threats With Eye Movement
     Biometrics'
   authors:
-  - 'Author: Simon Eberz'
+  - Simon Eberz
   - Kasper B. Rasmussen
   - Vincent Lenders
   - Ivan Martinovic
@@ -146,7 +146,7 @@
   validated: false
 - title: Spaced Repetition and Mnemonics Enable Recall of Multiple Strong Passwords
   authors:
-  - 'Author: Jeremiah Blocki'
+  - Jeremiah Blocki
   - Saranga Komanduri
   - Lorrie Cranor
   - Anupam Datta
@@ -155,7 +155,7 @@
   validated: false
 - title: Efficient RAM and Control Flow in Verifiable Outsourced Computation
   authors:
-  - 'Author: Riad S. Wahby'
+  - Riad S. Wahby
   - Srinath Setty
   - Zuocheng Ren
   - Andrew J. Blumberg
@@ -167,7 +167,7 @@
 - title: 'Integro: Leveraging Victim Prediction for Robust Fake Account Detection
     in OSNs'
   authors:
-  - 'Author: Yazan Boshmaf'
+  - Yazan Boshmaf
   - Dionysios Logothetis
   - Georgos Siganos
   - Jorge Lería
@@ -180,7 +180,7 @@
 - title: 'On Your Social Network De-anonymizablity: Quantification and Large Scale
     Evaluation with Seed Knowledge'
   authors:
-  - 'Author: Shouling Ji'
+  - Shouling Ji
   - Weiqing Li
   - Neil Zhenqiang Gong
   - Prateek Mittal
@@ -191,7 +191,7 @@
 - title: Predicting Users' Motivations behind Location Check-Ins and Utility Implications
     of Privacy Protection Mechanisms
   authors:
-  - 'Author: Igor Bilogrevic'
+  - Igor Bilogrevic
   - Kevin Huguenin
   - Stefan Mihaila
   - Reza Shokri
@@ -201,7 +201,7 @@
   validated: false
 - title: 'NSEC5: Provably Preventing DNSSEC Zone Enumeration'
   authors:
-  - 'Author: Sharon Goldberg'
+  - Sharon Goldberg
   - Moni Naor
   - Dimitrios Papadopoulos
   - Leonid Reyzin
@@ -211,7 +211,7 @@
   validated: false
 - title: 'Bloom Cookies: Web Search Personalization without User Tracking'
   authors:
-  - 'Author: Nitesh Mor'
+  - Nitesh Mor
   - Oriana Riva
   - Suman Nath
   - John Kubiatowicz
@@ -220,7 +220,7 @@
   validated: false
 - title: Opaque Control-Flow Integrity
   authors:
-  - 'Author: Vishwath Mohan'
+  - Vishwath Mohan
   - Per Larsen
   - Stefan Brunthaler
   - Kevin W. Hamlen
@@ -233,7 +233,7 @@
 - title: 'Integrated Circuit (IC) Decamouflaging: Reverse Engineering Camouflaged
     ICs within Minutes'
   authors:
-  - 'Author: Mohamed El Massad'
+  - Mohamed El Massad
   - Siddarth Garg
   - Mahesh V. Tripunitara
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/integrated-circuit-ic-decamouflaging-reverse-engineering-camouflaged-ics-within-minutes/
@@ -241,7 +241,7 @@
   validated: false
 - title: Thwarting Cache Side-Channel Attacks Through Dynamic Software Diversity
   authors:
-  - 'Author: Stephen Crane'
+  - Stephen Crane
   - Andrei Homescu
   - Stefan Brunthaler
   - Per Larsen
@@ -251,7 +251,7 @@
   validated: false
 - title: Principled Sampling for Anomaly Detection
   authors:
-  - 'Author: Brendan Juba'
+  - Brendan Juba
   - Christopher Musco
   - Fan Long
   - Stelios Sidiroglou-Douskos
@@ -262,7 +262,7 @@
 - title: 'Isomeron: Code Randomization Resilient to (Just-In-Time) Return-Oriented
     Programming'
   authors:
-  - 'Author: Lucas Davi'
+  - Lucas Davi
   - Christopher Liebchen
   - Ahmad-Reza Sadeghi
   - Kevin Z. Snow
@@ -273,7 +273,7 @@
 - title: 'StackArmor: Comprehensive Protection from Stack-based Memory Error Vulnerabilities
     for Binaries'
   authors:
-  - 'Author: Xi Chen'
+  - Xi Chen
   - Asia Slowinska
   - Dennis Andriesse
   - Herbert Bos
@@ -283,7 +283,7 @@
   validated: false
 - title: Preventing Use-after-free with Dangling Pointers Nullification
   authors:
-  - 'Author: Byoungyoung Lee'
+  - Byoungyoung Lee
   - Chengyu Song
   - Yeongjin Jang
   - Tielei Wang
@@ -295,7 +295,7 @@
   validated: false
 - title: 'DEFY: A Deniable, Encrypted File System for Log-Structured Storage'
   authors:
-  - 'Author: Timothy M. Peters'
+  - Timothy M. Peters
   - Mark A. Gondree
   - Zachary N. J. Peterson
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/defy-deniable-encrypted-file-system-log-structured-storage/
@@ -304,7 +304,7 @@
 - title: 'Privacy Preserving Payments in Credit Networks: Enabling trust with privacy
     in online marketplaces'
   authors:
-  - 'Author: Pedro Moreno-Sanchez'
+  - Pedro Moreno-Sanchez
   - Aniket Kate
   - Matteo Maffei
   - Kim Pecina
@@ -314,7 +314,7 @@
 - title: 'Checking More and Alerting Less: Detecting Privacy Leakages via Enhanced
     Data-flow Analysis and Peer Voting'
   authors:
-  - 'Author: Kangjie Lu'
+  - Kangjie Lu
   - Zhichun Li
   - Vasileios P. Kemerlis
   - Zhenyu Wu
@@ -328,7 +328,7 @@
   validated: false
 - title: 'Gracewipe: Secure and Verifiable Deletion under Coercion'
   authors:
-  - 'Author: Lianying Zhao'
+  - Lianying Zhao
   - Mohammad Mannan
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/gracewipe-secure-and-verifiable-deletion-under-coercion/
   artifacts_discovered:
@@ -336,7 +336,7 @@
   validated: false
 - title: Machine Learning Classification over Encrypted Data
   authors:
-  - 'Author: Raphael Bost'
+  - Raphael Bost
   - Raluca Ada Popa
   - Stephen Tu
   - Shafi Goldwasser
@@ -345,7 +345,7 @@
   validated: false
 - title: 'EKHUNTER: A Counter-Offensive Toolkit for Exploit Kit Infiltration'
   authors:
-  - 'Author: Birhanu Eshete'
+  - Birhanu Eshete
   - Abeer Alhuzali
   - Maliheh Monshizadeh
   - Phillip Porras
@@ -357,13 +357,13 @@
 - title: 'FreeSentry: Protecting Against Use-After-Free Vulnerabilities Due to Dangling
     Pointers'
   authors:
-  - 'Author: Yves Younan'
+  - Yves Younan
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/freesentry-protecting-against-use-after-free-vulnerabilities-due-dangling-pointers/
   artifacts_discovered: []
   validated: false
 - title: 'DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices'
   authors:
-  - 'Author: Xueqiang Wangy'
+  - Xueqiang Wangy
   - Kun Sun
   - Yuewu Wangand Jiwu Jing
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/deepdroid-dynamically-enforcing-enterprise-policy-android-devices/
@@ -371,7 +371,7 @@
   validated: false
 - title: 'Phoneypot: Data-driven Understanding of Telephony Threats'
   authors:
-  - 'Author: Payas Gupta'
+  - Payas Gupta
   - Bharat Srinivasan
   - Vijay Balasubramaniyan
   - and Mustaque Ahamad
@@ -381,7 +381,7 @@
 - title: 'SeCReT: Secure Channel between Rich Execution Environment and Trusted Execution
     Environment'
   authors:
-  - 'Author: Jinsoo Jang'
+  - Jinsoo Jang
   - Sunjune Kong
   - Minsu Kim
   - Daegyeong Kim
@@ -391,7 +391,7 @@
   validated: false
 - title: 'VTint: Protecting Virtual Function Tables'' Integrity'
   authors:
-  - 'Author: Chao Zhang'
+  - Chao Zhang
   - Chengyu Songz
   - Kevin Zhijie Chen
   - Zhaofeng Cheny
@@ -401,7 +401,7 @@
   validated: false
 - title: 'CopperDroid: Automatic Reconstruction of Android Malware Behaviors'
   authors:
-  - 'Author: Kimberly Tam'
+  - Kimberly Tam
   - Salahuddin J. Khan
   - Aristide Fattoriy
   - Lorenzo Cavallaro
@@ -411,7 +411,7 @@
   validated: false
 - title: Information-Flow Analysis of Android Applications in DroidSafe
   authors:
-  - 'Author: Michael I. Gordon'
+  - Michael I. Gordon
   - Deokhwan Kim
   - Jeff Perkins
   - Limei Gilhamy
@@ -423,7 +423,7 @@
 - title: What's in Your Dongle and Bank Account? Mandatory and Discretionary Protection
     of Android External Resources
   authors:
-  - 'Author: Soteris Demetriou'
+  - Soteris Demetriou
   - Xiaoyong Zhou
   - Muhammad Naveed
   - Yeonjoon Lee
@@ -436,7 +436,7 @@
 - title: 'EdgeMiner: Automatically Detecting Implicit Control Flow Transitions through
     the Android Framework'
   authors:
-  - 'Author: Yinzhi Caox'
+  - Yinzhi Caox
   - Yanick Fratantonioy
   - Antonio Bianchiy
   - Manuel Egelez
@@ -448,7 +448,7 @@
   validated: false
 - title: 'Parking Sensors: Analyzing and Detecting Parked Domains'
   authors:
-  - 'Author: Thomas Vissers'
+  - Thomas Vissers
   - Wouter Joosenand
   - Nick Nikiforakisy
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/parking-sensors-analyzing-and-detecting-parked-domains/
@@ -457,7 +457,7 @@
 - title: 'I Do Not Know What You Visited Last Summer: Protecting Users from Third-party
     Web Tracking with TrackingFree Browser'
   authors:
-  - 'Author: Xiang Pan'
+  - Xiang Pan
   - Yinzhi Cao
   - Yan Chen
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/i-do-not-know-what-you-visited-last-summer-protecting-users-third-party-web-tracking/
@@ -466,7 +466,7 @@
 - title: 'Seven Months'' Worth of Mistakes: A Longitudinal Study of Typosquatting
     Abuse'
   authors:
-  - 'Author: Pieter Agten'
+  - Pieter Agten
   - Wouter Joosen
   - Frank Piessensand
   - Nick Nikiforakis
@@ -476,7 +476,7 @@
   validated: false
 - title: Identifying Cross-origin Resource Status Using Application Cache
   authors:
-  - 'Author: Sangho Lee'
+  - Sangho Lee
   - Hyungsub Kim
   - Jong Kim
   page_link: https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/identifying-cross-origin-resource-status-using-application-cache/

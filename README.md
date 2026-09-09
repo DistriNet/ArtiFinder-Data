@@ -38,3 +38,8 @@ The repository contains records on all papers in the following format:
   # flag indicating that the artifact URL is not present in the published paper (was manually added to the database)
   not_present: true
 ```
+
+## Note on the order of authors in records
+
+We have noticed that the author order on certain NDSS papers is incorrect on both the conference website and DBLP, and as a result, also in our database.
+Fixes to these records (just as all other corrections) are very welcome in a pull request.
